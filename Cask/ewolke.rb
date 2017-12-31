@@ -1,4 +1,4 @@
-cask 'nextcloud' do
+cask 'ewolke' do
   version '2.3.3.3'
   sha256 '9d0e6b439e607dc830817e2656a8535c2d6b87fe0002c56f2921fc596a23d5b1'
 
