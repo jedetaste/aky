@@ -25,3 +25,4 @@ su -l aky -c '/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/H
 su -l aky -c "/usr/local/bin/brew tap caskroom/cask"
 su -l aky -c "/usr/local/bin/brew tap caskroom/drivers"
 su -l aky -c "/usr/local/bin/brew tap caskroom/fonts"
+su -l aky -c "/usr/local/bin/brew tap caskroom/versions"
