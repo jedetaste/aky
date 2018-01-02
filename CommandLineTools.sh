@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Installing Command Line Tools
+# Install Command Line Tools
 
 macOSVers=$(sw_vers -productVersion | awk -F "." '{print $2}')
 
