@@ -16,6 +16,8 @@ jamfBinary="/usr/local/jamf/bin/jamf"
 
 echo "aky ALL=(ALL) NOPASSWD: ALL" >> "/etc/sudoers"
 
+su -l aky -c 'export PATH="/usr/local/bin:/usr/local/sbin:~/bin:$PATH"'
+
 # Install Homebrew
 
 su -l aky -c '/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" </dev/null' && su -l aky -c "/usr/local/bin/brew update"
