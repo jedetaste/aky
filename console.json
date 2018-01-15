@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "console",
+    "bundle": "Console.app",
+    "identifier": "com.xs-labs.Console",
+    "download": "https://github.com/macmade/Console/releases/download/0.2.0/Console.app.zip",
+    "sha256": "b49df2c4df4e99a9f4b50d8b426b1084f0d64a3d037a7e9960c5e87968f03b87",
+    "version": "0.2.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/macmade/Console"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "thunderbird",
+    "bundle": "Thunderbird.app",
+    "identifier": "org.mozilla.thunderbird",
+    "download": "https://ftp.mozilla.org/pub/thunderbird/releases/52.5.2/mac/de/Thunderbird%2052.5.2.dmg",
+    "sha256": "7bcb00ca2d0ae0d2471070d7c4275c91002a7b1c4a81e8a529dd357559415126",
+    "version": "52.5.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.mozilla.org/thunderbird/"
+  }
+}

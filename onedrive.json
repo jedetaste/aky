@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "onedrive",
+    "bundle": "OneDrive.app",
+    "identifier": "com.microsoft.OneDrive",
+    "download": "https://oneclient.sfx.ms/Mac/Direct/17.3.7131.1115/OneDrive.pkg",
+    "sha256": "69618865390d717d0a92721a1e6a4e4ca35f5ee30c67a46bed13aeee4bfb13d3",
+    "version": "17.3.7131",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://onedrive.live.com/"
+  }
+}

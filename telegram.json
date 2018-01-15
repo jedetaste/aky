@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "telegram",
+    "bundle": "Telegram.app",
+    "identifier": "ru.keepcoder.Telegram",
+    "download": "https://osx.telegram.org/updates/Telegram-3.7.3-113494.app.zip",
+    "sha256": "4667ec75d4c2c90341ba51ec00c18bd1404167b7025ebd928d74dbba3a2e18d5",
+    "version": "3.7.3",
+    "build": "113494",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://macos.telegram.org/"
+  }
+}

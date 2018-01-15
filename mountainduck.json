@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "mountainduck",
+    "bundle": "Mountain Duck.app",
+    "identifier": "io.mountainduck",
+    "download": "https://dist.mountainduck.io/Mountain%20Duck-2.2.2.8962.zip",
+    "sha256": "0bbb2a2760313990c634b9f544b6c972dc5c15a2e112d99781d339d69de4f880",
+    "version": "2.2.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://mountainduck.io/"
+  }
+}

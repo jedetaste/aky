@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "installdiskcreator",
+    "bundle": "Install Disk Creator.app",
+    "identifier": "io.macdaddy.Install-Disk-Creator",
+    "download": "https://macdaddy.io/InstallDiskCreator.zip",
+    "sha256": null,
+    "version": "1.21",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

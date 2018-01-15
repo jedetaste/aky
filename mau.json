@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "mau",
+    "bundle": "Microsoft AutoUpdate.app",
+    "identifier": "com.microsoft.autoupdate2",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.14.17121501_Updater.pkg",
+    "sha256": "bbc1dd5954be691a58f2b8a4c03c769da64a48bc5e0ebfdc5ff4999ae97a96a8",
+    "version": "3.14.1",
+    "build": null,
+    "dir": "/Library/Application Support/Microsoft/MAU2.0",
+    "symlink": null,
+    "web": "https://products.office.com/mac/microsoft-office-for-mac/"
+  }
+}

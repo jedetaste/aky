@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "processing",
+    "bundle": "Processing.app",
+    "identifier": "org.processing.app",
+    "download": "http://download.processing.org/processing-3.3.6-macosx.zip",
+    "sha256": "3d97f9835e0e3b42ef95f8fc2e89e123478ee0864d015c577f6d1d87dc6e735f",
+    "version": "3.3.6",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://processing.org/"
+  }
+}

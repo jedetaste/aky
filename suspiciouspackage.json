@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "suspiciouspackage",
+    "bundle": "Suspicious Package.app",
+    "identifier": "com.mothersruin.SuspiciousPackageApp",
+    "download": "http://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg",
+    "sha256": "8b7f5149b042ef46e689689f19c306ef3b10436d46ca6c150852aa2de2636b8a",
+    "version": "3.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.mothersruin.com/software/SuspiciousPackage/"
+  }
+}

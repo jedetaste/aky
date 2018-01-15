@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "mendeleydesktop",
+    "bundle": "Mendeley Desktop.app",
+    "identifier": "com.mendeley.desktop",
+    "download": "https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.17.12-OSX-Universal.dmg",
+    "sha256": "e411a9188f588cc9f7a9c4f0da6aad53f9ce012555b22b179deaa54e840476d3",
+    "version": "1.17.12",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.mendeley.com/"
+  }
+}

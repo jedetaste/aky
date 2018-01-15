@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "iina",
+    "bundle": "IINA.app",
+    "identifier": "com.colliderli.iina",
+    "download": "https://dl-portal.iina.io/IINA.v0.0.15-build64.dmg",
+    "sha256": "adc15b266abc3e3cefbaec691aa35a79c4c4dbb4251d617a97c0ba892147f4d3",
+    "version": "0.0.15",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://lhc70000.github.io/iina/"
+  }
+}

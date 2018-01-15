@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "mactracker",
+    "bundle": "Mactracker.app",
+    "identifier": "com.mactrackerapp.Mactracker",
+    "download": "https://mactracker.ca/downloads/Mactracker_7.7.zip",
+    "sha256": "10e21078fea80f3d127beb322de2d84e4b32830bb7e584f78593617b0bb88438",
+    "version": "7.7",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://mactracker.ca/"
+  }
+}

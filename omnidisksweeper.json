@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "omnidisksweeper",
+    "bundle": "OmniDiskSweeper.app",
+    "identifier": "com.omnigroup.OmniDiskSweeper",
+    "download": "https://downloads.omnigroup.com/software/MacOSX/10.8/OmniDiskSweeper-1.9.dmg",
+    "sha256": "4dfcdb29bbae8b7eba22d010cb2fd2aab0547c1a1df632bc9c1ee77be206f09b",
+    "version": "1.9",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.omnigroup.com/more/"
+  }
+}

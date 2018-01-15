@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "zotero",
+    "bundle": "Zotero.app",
+    "identifier": "org.zotero.zotero",
+    "download": "https://download.zotero.org/client/release/5.0.33/Zotero-5.0.33.dmg",
+    "sha256": "0dad0bb44855d8dcfedb78d254f15c8dcf69dbb38a80aa186e35d53e931af674",
+    "version": "5.0.33",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.zotero.org/"
+  }
+}

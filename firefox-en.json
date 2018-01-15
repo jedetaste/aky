@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "firefox-en",
+    "bundle": "Firefox.app",
+    "identifier": "org.mozilla.firefox",
+    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/57.0.4/mac/en-US/Firefox%2057.0.4.dmg",
+    "sha256": "eff6739bbb5f1ba425e52f1a4dc2c5aaf618f544ddca6a130ee6b46899b76b3f",
+    "version": "57.0.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.mozilla.org/firefox/"
+  }
+}

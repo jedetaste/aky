@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "razorsql",
+    "bundle": "RazorSQL.app",
+    "identifier": "com.razorsql.RazorSQL",
+    "download": "http://downloads.razorsql.com/downloads/7_4_3/razorsql7_4_3_x64.dmg",
+    "sha256": "51a128ab78efb66a4eca445dba1fe1dc2a3457e8601b5a7a1ea60ee1e2a7fffe",
+    "version": "7.4.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://razorsql.com/download_mac.html"
+  }
+}

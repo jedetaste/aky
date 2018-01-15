@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "garminexpress",
+    "bundle": "Garmin Express.app",
+    "identifier": "com.garmin.renu.client",
+    "download": "http://download.garmin.com/omt/express/B/GarminExpressInstaller.dmg",
+    "sha256": "94ee05e59ca445b281fe1f20c3e9dcf4b427ac0b2d9bb79db0aaa144706b6182",
+    "version": "5.8.0.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://software.garmin.com/en-US/express.html"
+  }
+}

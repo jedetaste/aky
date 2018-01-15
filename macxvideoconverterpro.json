@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "macxvideoconverterpro",
+    "bundle": "MacX Video Converter Pro.app",
+    "identifier": "com.macxdvd.macxiphonevdoconverter",
+    "download": "https://www.macxdvd.com/download/macx-iphone-video-converter.dmg",
+    "sha256": "fecd5a4edde2a4ad0ce1c75cc2c557691ff7b278d019430593c53a24efcdfd41",
+    "version": "6.2.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.macxdvd.com/mac-video-converter-pro/"
+  }
+}

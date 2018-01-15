@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "vlc",
+    "bundle": "VLC.app",
+    "identifier": "org.videolan.vlc",
+    "download": "https://get.videolan.org/vlc/2.2.8/macosx/vlc-2.2.8.dmg",
+    "sha256": "4406e025c566c5703ab11e53070d3e399680ddfb8994b60cb753079dffd2a027",
+    "version": "2.2.8",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.videolan.org/vlc/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "adobereaderdc",
+    "bundle": "Adobe Acrobat Reader DC.app",
+    "identifier": "com.adobe.Reader",
+    "download": "https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/1800920044/AcroRdrDC_1800920044_MUI.dmg",
+    "sha256": "7cedf7def4554b167b55322b1351a3a470463066a6e338070de57e2b00cb3409",
+    "version": "18.009.20044",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html"
+  }
+}

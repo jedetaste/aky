@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "flow",
+    "bundle": "Flow.app",
+    "identifier": "com.metalab.flow-mac",
+    "download": "https://cdn.getflow.com/darwin_x64/Flow.zip",
+    "sha256": "cdc6d796c8c23bf69fc64a6480b0fcc9120be3a2969ee373cc8c9ed623910c14",
+    "version": "6.0.13",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.getflow.com/"
+  }
+}

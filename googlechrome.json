@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "googlechrome",
+    "bundle": "Google Chrome.app",
+    "identifier": "com.google.Chrome",
+    "download": "https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg",
+    "sha256": "b91ce501fe9a290af9b9cde71ae42f072260365a6b5a8bf18c1e4d2d28d6c511",
+    "version": "63.0.3239.132",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.google.com/chrome/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "microsoftbingadseditor",
+    "bundle": "Microsoft Bing Ads Editor.app",
+    "identifier": "Microsoft.AdvertisingDesktop.BingAdsEditor",
+    "download": "https://download.microsoft.com/download/6/6/2/6629C18B-8F68-43E8-A501-198B5AE0D69D/MicrosoftBingAdsEditor.dmg",
+    "sha256": "5624a10142326dd76113464d30f40f5cdffd627ab0aaf4d3da3f7e2f41db592e",
+    "version": "11.17.3092.2227",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://advertise.bingads.microsoft.com/en-us/solutions/tools/bing-ads-editor"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "istopmotion2",
+    "bundle": "iStopMotion.app",
+    "identifier": "com.boinx.iStopMotion2",
+    "download": "https://cdn.boinx.com/software/istopmotion/Boinx_iStopMotion_2.8.4-13876.dmg",
+    "sha256": null,
+    "version": "2.8.4",
+    "build": "13876",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

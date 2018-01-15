@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "appwrapper3",
+    "bundle": "App Wrapper 3.app",
+    "identifier": "com.ohanaware.appWrapper3",
+    "download": "http://www.ohanaware.com/appwrapper/appWrapper3.dmg",
+    "sha256": "d1880810ddae4c899307d21349159487e35cb11976caf36fd6a0542b466132ff",
+    "version": "3.8",
+    "build": "219",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.ohanaware.com/"
+  }
+}

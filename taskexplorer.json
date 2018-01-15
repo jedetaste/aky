@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "taskexplorer",
+    "bundle": "TaskExplorer.app",
+    "identifier": "com.objective-see.TaskExplorer",
+    "download": "https://bitbucket.org/objective-see/deploy/downloads/TaskExplorer_1.6.0.zip",
+    "sha256": "61a645e9a886a4631d9ed82182bdba9177845d1ce4cfbd1f0c0e7c2e96a9df9e",
+    "version": "1.6.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://objective-see.com/products/taskexplorer.html"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "appzapper",
+    "bundle": "AppZapper.app",
+    "identifier": "com.appzapper.appzapper2",
+    "download": "https://appzapper.com/downloads/appzapper202.zip",
+    "sha256": "b7d0bdd05cf246a2f2ab18145b052824860cb74a6ae665fba9d403f6bb79fac4",
+    "version": "2.0.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.appzapper.com/"
+  }
+}

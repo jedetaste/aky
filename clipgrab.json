@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "clipgrab",
+    "bundle": "ClipGrab.app",
+    "identifier": "de.clipgrab.ClipGrab",
+    "download": "https://download.clipgrab.org/ClipGrab-3.6.6.dmg",
+    "sha256": "e9d1afed9ee2cf047e7a8df3eeaa13ec7900c48dd98723a28a9bb4dfa10ad2d7",
+    "version": null,
+    "build": "3.6.6",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://clipgrab.org/"
+  }
+}

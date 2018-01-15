@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "draw",
+    "bundle": "draw.io.app",
+    "identifier": "com.jgraph.drawio.desktop",
+    "download": "https://github.com/jgraph/drawio-desktop/releases/download/v7.9.5/draw.io-7.9.5.dmg",
+    "sha256": "35693bd58e3e9fb624dfc3840f2fe1fd4111013bf1a34725e68569e2594d6c4d",
+    "version": "7.9.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.draw.io/"
+  }
+}

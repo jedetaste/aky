@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "namemangler",
+    "bundle": "Name Mangler.app",
+    "identifier": "com.manytricks.NameMangler",
+    "download": "https://manytricks.com/download/_do_not_hotlink_/namemangler340.dmg",
+    "sha256": "460f802b90e0e0123d397199600b68adf609e656e51a7b23f38bdf9eec05c91e",
+    "version": "3.4",
+    "build": "3240",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://manytricks.com/namemangler/"
+  }
+}

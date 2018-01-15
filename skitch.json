@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "skitch",
+    "bundle": "Skitch.app",
+    "identifier": "com.skitch.skitch",
+    "download": "https://evernote.s3.amazonaws.com/skitch/mac/release/Skitch-2.8.zip",
+    "sha256": "55a248250ee81011849b1f6c89c39391fddecf55375876d2d89966584cba4cbe",
+    "version": "2.8",
+    "build": "264391",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://evernote.com/products/skitch"
+  }
+}

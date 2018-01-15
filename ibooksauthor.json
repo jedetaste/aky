@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "ibooksauthor",
+    "bundle": "iBooks Author.app",
+    "identifier": "com.apple.iBooksAuthor",
+    "download": "http://cdn-cloud.anykeyit.ch/CasperShare/Packages/iBooksAuthor.pkg.zip",
+    "sha256": null,
+    "version": "2.5",
+    "build": "888",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

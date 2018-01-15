@@ -1,0 +1,15 @@
+{
+  "recipe": {
+    "id": "caffeine",
+    "bundle": "Caffeine.app",
+    "identifier": "com.lightheadsw.Caffeine",
+    "download": "http://lightheadsw.com/files/releases/com.lightheadsw.Caffeine/Caffeine1.1.1.zip",
+    "sha256": "9203c30951f9aab41ac294bbeb1dcef7bed401ff0b353dcb34d68af32ea51853",
+    "version": null,
+    "build": "1.1.1",
+    "dir": "/Applications",
+    "safequit": "false",
+    "symlink": null,
+    "web": "http://lightheadsw.com/caffeine/"
+  }
+}

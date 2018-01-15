@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "pythonlauncher",
+    "bundle": "Python Launcher.app",
+    "identifier": "org.python.PythonLauncher",
+    "download": "https://www.python.org/ftp/python/3.6.3/python-3.6.3-macosx10.6.pkg",
+    "sha256": "859aa3bc7de8be2452e6f9b789e2ac98a8ef5e51272a5ccbbec38c5e7a6a48d1",
+    "version": "3.6.3",
+    "build": null,
+    "dir": "/Applications/Python 3.6",
+    "symlink": null,
+    "web": "https://www.python.org/"
+  }
+}

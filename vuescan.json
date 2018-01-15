@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "vuescan",
+    "bundle": "VueScan.app",
+    "identifier": "com.hamrick.vuescan",
+    "download": "https://www.hamrick.com/files/vuex6495.dmg",
+    "sha256": "0c77e72b7ee929820b06973bb5e953c4b4b66d7aae6f6c201b57ae5f433b8072",
+    "version": "9.5.90",
+    "build": "9.5.90",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.hamrick.com/"
+  }
+}

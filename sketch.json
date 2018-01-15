@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "sketch",
+    "bundle": "Sketch.app",
+    "identifier": "com.bohemiancoding.sketch3",
+    "download": "https://download.sketchapp.com/sketch-48.2-47327.zip",
+    "sha256": "3159356958d188f4f611dc2ad29666c2ce5e2135ab47508ae7b7f19fd56e7248",
+    "version": "48.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.sketchapp.com/"
+  }
+}

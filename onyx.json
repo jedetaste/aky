@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "onyx",
+    "bundle": "OnyX.app",
+    "identifier": "com.titanium.OnyX",
+    "download": "https://www.titanium-software.fr/download/1013/OnyX.dmg",
+    "sha256": "6804d6bf5aa20fb414c9229012955e8dd160352dd90f082a8d044a8a573fd996",
+    "version": "3.4.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.titanium-software.fr/en/onyx.html"
+  }
+}

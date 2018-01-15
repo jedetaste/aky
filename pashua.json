@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "pashua",
+    "bundle": "Pashua.app",
+    "identifier": "net.bluem.pashua",
+    "download": "https://www.bluem.net/files/Pashua.dmg",
+    "sha256": "857b906e477a87e98eb16dee4aa6afe9c2558394a3f89bc8e9dfbd23092713bf",
+    "version": null,
+    "build": "0.10.3",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.bluem.net/en/mac/pashua/"
+  }
+}

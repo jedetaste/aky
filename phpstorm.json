@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "phpstorm",
+    "bundle": "PhpStorm.app",
+    "identifier": "com.jetbrains.PhpStorm",
+    "download": "https://download.jetbrains.com/webide/PhpStorm-2017.3.2.dmg",
+    "sha256": "7546b196e6595c7eb7fc39d5dbb1f78291a017b785bc9f434583c5fd12f7867a",
+    "version": "2017.3.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.jetbrains.com/phpstorm/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "capto",
+    "bundle": "Capto.app",
+    "identifier": "com.globaldelight.Capto",
+    "download": "https://dl.devmate.com/com.globaldelight.Capto/Capto.dmg",
+    "sha256": "dd74895de1534075b00b78bc1a85be169279445106d96471d11b5f7c43c0dbb1",
+    "version": "1.2.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.globaldelight.com/capto/"
+  }
+}

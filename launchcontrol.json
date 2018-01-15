@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "launchcontrol",
+    "bundle": "LaunchControl.app",
+    "identifier": "com.soma-zone.LaunchControl",
+    "download": "http://www.soma-zone.com/download/files/LaunchControl_1.38.tar.bz2",
+    "sha256": "32421933ba9bf71ca967f26608380100794c33cb01e44684c1b064d6b3aff2d5",
+    "version": "1.38",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.soma-zone.com/download/"
+  }
+}

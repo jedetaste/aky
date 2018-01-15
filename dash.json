@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "dash",
+    "bundle": "Dash.app",
+    "identifier": "com.kapeli.dashdoc",
+    "download": "https://kapeli.com/downloads/v4/Dash.zip",
+    "sha256": "5111e40a528becff29b1071f846ba2c85a2791e0b7bc86b911ae9cf3e117fdaf",
+    "version": "4.1.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://kapeli.com/dash"
+  }
+}

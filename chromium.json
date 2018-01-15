@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "chromium",
+    "bundle": "Chromium.app",
+    "identifier": "org.chromium.Chromium",
+    "download": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Mac/528402/chrome-mac.zip",
+    "sha256": "70f09d53a3b4c1de64b6568d2085262c227a47c4bc7276268fba1c77ce8ad27f",
+    "version": "65.0.3318.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.chromium.org/"
+  }
+}

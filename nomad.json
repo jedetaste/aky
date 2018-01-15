@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "nomad",
+    "bundle": "NoMAD.app",
+    "identifier": "com.trusourcelabs.NoMAD",
+    "download": "https://nomad.menu/download/NoMAD.zip",
+    "sha256": "e33f005f060eaec9a39cb3706f83e76b507a1234161f7379f62c659050300a98",
+    "version": "1.1.2.797",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://nomad.menu/"
+  }
+}

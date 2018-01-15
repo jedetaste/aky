@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "paintbrush",
+    "bundle": "Paintbrush.app",
+    "identifier": "com.soggywaffles.Paintbrush",
+    "download": "https://downloads.sourceforge.net/paintbrush/Paintbrush%202.x/Paintbrush%202.2.1/Paintbrush-2.2.1.zip",
+    "sha256": "96ee40ce8052ffdb687a187e74f22bcce2ab40430d8b4c2f4b1d2637b3ad21a3",
+    "version": "2.2.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://paintbrush.sourceforge.net/"
+  }
+}

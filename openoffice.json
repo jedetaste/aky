@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "openoffice",
+    "bundle": "OpenOffice.app",
+    "identifier": "org.openoffice.script",
+    "download": "https://downloads.sourceforge.net/openofficeorg.mirror/Apache_OpenOffice_4.1.4_MacOS_x86-64_install_de.dmg",
+    "sha256": "1e2f989f12e52137256d8cc933c2d67ea2d225b0046126e1e5851dd3a62e5312",
+    "version": "4.1.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.openoffice.org/"
+  }
+}

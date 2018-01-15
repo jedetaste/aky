@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "crashplan5",
+    "bundle": "CrashPlan.app",
+    "identifier": "com.backup42.desktop",
+    "download": "https://download.code42.com/installs/mac/install/Code42CrashPlan/Code42CrashPlan_5.4.3_Mac.dmg",
+    "sha256": "51b601ecd1c773ef98575f687979d7e9ce2a19f3b03d59208347eb6b4ecfc6ba",
+    "version": "5.4.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.crashplan.com/"
+  }
+}

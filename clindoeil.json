@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "clindoeil",
+    "bundle": "Clin dœil.app",
+    "identifier": "Clindoeil",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/Clin%20doeil.app.zip",
+    "sha256": null,
+    "version": "1.0.7",
+    "build": null,
+    "dir": "/Applications/Lernprogramme",
+    "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Français",
+    "web": null
+  }
+}

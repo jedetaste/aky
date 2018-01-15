@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "citrixreceiver",
+    "bundle": "Citrix Receiver.app",
+    "identifier": "com.citrix.receiver.nomas",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/CitrixReceiver.dmg",
+    "sha256": null,
+    "version": "12.8.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.citrix.com/products/receiver/"
+  }
+}

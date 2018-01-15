@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "knockknock",
+    "bundle": "KnockKnock.app",
+    "identifier": "com.objective-see.KnockKnock",
+    "download": "https://bitbucket.org/objective-see/deploy/downloads/KnockKnock_1.9.0.zip",
+    "sha256": "3af57a0689d9a6c28b1cb3a0c9624b832b1d77a17d9af5c2d3df9b05c709072e",
+    "version": "1.9.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://objective-see.com/products/knockknock.html"
+  }
+}

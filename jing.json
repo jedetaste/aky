@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "jing",
+    "bundle": "Jing.app",
+    "identifier": "com.techSmith.jing",
+    "download": "http://download.techsmith.com/jing/mac/jing.dmg",
+    "sha256": "99fefbe732cb7afcc6956be58929f401a36ce9f406951e7ff0d127b7b958264a",
+    "version": "2.7.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.techsmith.com/jing.html"
+  }
+}

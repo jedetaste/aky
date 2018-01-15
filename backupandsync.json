@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "backupandsync",
+    "bundle": "Backup and Sync.app",
+    "identifier": "com.google.GoogleDrive",
+    "download": "https://dl.google.com/drive/InstallBackupAndSync.dmg",
+    "sha256": "628020a01653e135122e4c34a2641b28f96f6e1442ee0d6a61959663bdc60f2e",
+    "version": "3.38",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.google.com/drive/download/"
+  }
+}

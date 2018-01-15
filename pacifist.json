@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "pacifist",
+    "bundle": "Pacifist.app",
+    "identifier": "com.charlessoft.pacifist",
+    "download": "https://www.charlessoft.com/pacifist_download/Pacifist_3.6.dmg",
+    "sha256": "e0571facfaebb843327426c2a356beb4b8c537aebce3b83848a0887453562f8c",
+    "version": "3.6",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.charlessoft.com/"
+  }
+}

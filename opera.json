@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "opera",
+    "bundle": "Opera.app",
+    "identifier": "com.operasoftware.Opera",
+    "download": "http://download1.operacdn.com/pub/opera/desktop/50.0.2762.58/mac/Opera_50.0.2762.58_Setup.dmg",
+    "sha256": "6628f814d79bf70158f9e8892a138cc60006d56fbab4bc04e06ac30f96666fde",
+    "version": null,
+    "build": "50.0.2762.58",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.opera.com/"
+  }
+}

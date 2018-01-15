@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "pencil2d",
+    "bundle": "Pencil2D.app",
+    "identifier": "org.pencil2d.Pencil2D",
+    "download": "https://github.com/pencil2d/pencil/releases/download/0.6-rc/pencil2d-mac-2017-11-15.zip",
+    "sha256": "2cb1247d72d8b07534012946966beb30556bf3b0bad6d23ddf51e9b5abcabd8c",
+    "version": "0.5.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.pencil2d.org/"
+  }
+}

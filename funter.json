@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "funter",
+    "bundle": "Funter.app",
+    "identifier": "com.nektony.funter",
+    "download": "https://nektony.com/download/funter/Funter.dmg",
+    "sha256": "892c9a9ec285df8bb962a6f5f355b1229d6f513a1f7751fbf87203198d67ae20",
+    "version": "2.9",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://nektony.com/products/funter"
+  }
+}

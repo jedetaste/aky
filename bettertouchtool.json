@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "bettertouchtool",
+    "bundle": "BetterTouchTool.app",
+    "identifier": "com.hegenberg.BetterTouchTool",
+    "download": "https://bettertouchtool.net/releases/BetterTouchTool.zip",
+    "sha256": "4510d896d01626a6283d360ad1aaa606e3caaf48f8a3cb40673b5e76db56ec09",
+    "version": "2.320",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.boastr.net/"
+  }
+}

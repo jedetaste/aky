@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "github",
+    "bundle": "GitHub Desktop.app",
+    "identifier": "com.github.GitHubClient",
+    "download": "https://desktop.githubusercontent.com/releases/1.0.12-6fd0d962/GitHubDesktop.zip",
+    "sha256": "d0da2722bac010b4429c136eb45da9fa5cfd320e0824c93113a18ee9b961865c",
+    "version": "1.0.12",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://desktop.github.com/"
+  }
+}

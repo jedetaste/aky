@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "pages1010",
+    "bundle": "Pages.app",
+    "identifier": "com.apple.iWork.Pages",
+    "download": "http://cdn.anykeyit.ch/CasperShare/Packages/Pages%20for%20Yosemite.pkg.zip",
+    "sha256": null,
+    "version": "5.6.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

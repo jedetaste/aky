@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "bartender",
+    "bundle": "Bartender 3.app",
+    "identifier": "com.surteesstudios.Bartender",
+    "download": "https://macbartender.com/B2/updates/3-0-32/Bartender%203.zip",
+    "sha256": "bc37d1719d5067d3ca357406424d083e9f80c26009e064b86cbab426234496d1",
+    "version": "3.0.32",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.macbartender.com/"
+  }
+}

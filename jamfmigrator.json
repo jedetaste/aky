@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "jamfmigrator",
+    "bundle": "jamf-migrator.app",
+    "identifier": "com.jamf.jamf-migrator",
+    "download": "https://github.com/jamfprofessionalservices/JamfMigrator/releases/download/current/jamf-migrator.zip",
+    "sha256": "5825c6e7d6146a876bc911af0eaaa835c038cb74578ef394c782a9986c2399fe",
+    "version": "2.2.8",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/jamfprofessionalservices/JamfMigrator"
+  }
+}

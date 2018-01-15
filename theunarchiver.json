@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "theunarchiver",
+    "bundle": "The Unarchiver.app",
+    "identifier": "cx.c3.theunarchiver",
+    "download": "https://dl.devmate.com/cx.c3.theunarchiver/115/1507740941/TheUnarchiver-115.zip",
+    "sha256": "04dc20b845171e25c7137e504cd5a5387a81bdfdc51d2ad810d5fdcf84cff8c6",
+    "version": "3.11.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://theunarchiver.com/"
+  }
+}

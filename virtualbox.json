@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "virtualbox",
+    "bundle": "VirtualBox.app",
+    "identifier": "org.virtualbox.app.VirtualBox",
+    "download": "http://download.virtualbox.org/virtualbox/5.2.4/VirtualBox-5.2.4-119785-OSX.dmg",
+    "sha256": "30ffeea2f92fa6e649f9004859f1ef318368e6876d9a74e8c644a3110af23ddf",
+    "version": "5.2.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.virtualbox.org/"
+  }
+}

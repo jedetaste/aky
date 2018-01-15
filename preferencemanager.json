@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "preferencemanager",
+    "bundle": "Preference Manager.app",
+    "identifier": "com.digitalrebellion.PreferenceManager",
+    "download": "http://download.digitalrebellion.com/prefman/Preference_Manager_4410.dmg",
+    "sha256": "f41eeb3823da73ae69ce9f1cb7e0a3252bf39b6c0d59a9801a5b9b0967f012df",
+    "version": "4.4.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.digitalrebellion.com/prefman/"
+  }
+}

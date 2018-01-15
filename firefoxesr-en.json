@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "firefoxesr-en",
+    "bundle": "Firefox.app",
+    "identifier": "org.mozilla.firefox",
+    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/52.5.3esr/mac/en-US/Firefox%2052.5.3esr.dmg",
+    "sha256": "4125a0c0eef0de35a6c90db7162ae64235457de9833ddda0e997081ebe40c234",
+    "version": "52.5.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.mozilla.org/firefox/organizations/"
+  }
+}

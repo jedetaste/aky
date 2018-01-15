@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "webstorm",
+    "bundle": "WebStorm.app",
+    "identifier": "com.jetbrains.WebStorm",
+    "download": "https://download-cf.jetbrains.com/webstorm/WebStorm-2017.3.2.dmg",
+    "sha256": "2c9d8be90c97a3b9a6eb84441050879ade8dc1e0e51ba10e20d3caf745fbc391",
+    "version": "2017.3.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.jetbrains.com/webstorm/"
+  }
+}

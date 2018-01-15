@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "quitter",
+    "bundle": "Quitter.app",
+    "identifier": "com.marcoarment.quitter",
+    "download": "https://marco.org/appcasts/Quitter.zip",
+    "sha256": "ad4071a48aeed019fbb9ebf80ce717c1c15ade24298a33e823dc0d1c218baed4",
+    "version": "1.0",
+    "build": "107",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://marco.org/apps#quitter"
+  }
+}

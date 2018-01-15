@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "scratch3",
+    "bundle": "Scratch 3.app",
+    "identifier": "ch.anykeyit.Scratch3",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/Scratch%203.pkg",
+    "sha256": null,
+    "version": "1.0",
+    "build": "1.0",
+    "dir": "/Applications",
+    "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Informatik",
+    "web": "https://github.com/LLK/scratch-gui"
+  }
+}

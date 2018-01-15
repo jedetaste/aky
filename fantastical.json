@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "fantastical",
+    "bundle": "Fantastical 2.app",
+    "identifier": "com.flexibits.fantastical2.mac",
+    "download": "https://d60ism0l33mmr.cloudfront.net/Fantastical_2.4.4.zip",
+    "sha256": "bb200bb15e12eab3d347fe409cd801a4cc8a1df98fe6a30b4998110166b7257b",
+    "version": "2.4.4",
+    "build": "506",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://flexibits.com/fantastical"
+  }
+}

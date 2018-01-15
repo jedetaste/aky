@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "4kvideodownloader",
+    "bundle": "4K Video Downloader.app",
+    "identifier": "com.openmedia.4kvideodownloader",
+    "download": "https://dl.4kdownload.com/app/4kvideodownloader_4.4.0.dmg",
+    "sha256": "0141d884858c1b0c57b2589150d10c50cacef7753988c9eb8bc2d12888738250",
+    "version": null,
+    "build": "4.4.0",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.4kdownload.com/products/product-videodownloader"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "cyberduck",
+    "bundle": "Cyberduck.app",
+    "identifier": "ch.sudo.cyberduck",
+    "download": "https://update.cyberduck.io/Cyberduck-6.3.4.27404.zip",
+    "sha256": "76f77ef616e95b54f96cb234c738955500d2c5fffbee98f592a6dccd8c58059e",
+    "version": "6.3.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://cyberduck.io/"
+  }
+}

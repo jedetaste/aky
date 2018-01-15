@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "daisydisk",
+    "bundle": "DaisyDisk.app",
+    "identifier": "com.daisydiskapp.DaisyDiskStandAlone",
+    "download": "https://daisydiskapp.com/downloads/DaisyDisk.zip",
+    "sha256": "c989793897d294c8732cb826c2e22cc478a2e7e3f445ca144ed20a7e1e281166",
+    "version": "4.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://daisydiskapp.com/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "jin",
+    "bundle": "Jin.app",
+    "identifier": null,
+    "download": "https://netcologne.dl.sourceforge.net/project/jin/jin/jin-2.14.1/jin-2.14.1-macosx-lion.dmg",
+    "sha256": null,
+    "version": "2.14.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "cocoadialog",
+    "bundle": "CocoaDialog.app",
+    "identifier": "org.sporkstorms.CocoaDialog",
+    "download": "https://cloud.github.com/downloads/mstratman/cocoadialog/CocoaDialog-2.1.1.dmg",
+    "sha256": "7f721d221697381a51df6091153b0470ce09f4083d86bbb93446db88eac58827",
+    "version": null,
+    "build": "2.1.1",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://mstratman.github.io/cocoadialog/"
+  }
+}

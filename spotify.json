@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "spotify",
+    "bundle": "Spotify.app",
+    "identifier": "com.spotify.client",
+    "download": "http://download.spotify.com/Spotify.dmg",
+    "sha256": "37e92af6e1bfb9407817d5d216b956cb44da518166d28686d94483920ca55feb",
+    "version": "1.0.69.336.g7edcc575",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.spotify.com/"
+  }
+}

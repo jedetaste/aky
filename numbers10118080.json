@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "numbers10118080",
+    "bundle": "Numbers.app",
+    "identifier": "com.apple.iWork.Numbers",
+    "download": "http://cdn.anykeyit.ch:8080/CasperShare/Packages/Numbers%20for%20El%20Capitan.pkg.zip",
+    "sha256": null,
+    "version": "3.6.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

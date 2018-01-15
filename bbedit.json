@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "bbedit",
+    "bundle": "BBEdit.app",
+    "identifier": "com.barebones.bbedit",
+    "download": "https://s3.amazonaws.com/BBSW-download/BBEdit_12.0.2.dmg",
+    "sha256": "9a1d18e5b722380591d175edf7bfdbea0ec65aba4384e61e3b135442ed498d91",
+    "version": "12.0.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.barebones.com/products/bbedit/"
+  }
+}

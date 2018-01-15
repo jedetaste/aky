@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "tunnelblick",
+    "bundle": "Tunnelblick.app",
+    "identifier": "net.tunnelblick.tunnelblick",
+    "download": "https://github.com/Tunnelblick/Tunnelblick/releases/download/v3.7.4b/Tunnelblick_3.7.4b_build_4921.dmg",
+    "sha256": "3963a2588d1fcbfbc627a5c7b8ce0242c2b36dc4cd3fc1ae83f12dd32c0dfca8",
+    "version": null,
+    "build": "4921",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.tunnelblick.net/"
+  }
+}

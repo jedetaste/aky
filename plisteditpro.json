@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "plisteditpro",
+    "bundle": "PlistEdit Pro.app",
+    "identifier": "com.fatcatsoftware.pledpro",
+    "download": "https://www.fatcatsoftware.com/plisteditpro/PlistEditPro.zip",
+    "sha256": "760959a34c9732dc675df7215837ed0cc9a1923d42ee151406ead96ef5c23b09",
+    "version": "1.8.7",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.fatcatsoftware.com/plisteditpro/"
+  }
+}

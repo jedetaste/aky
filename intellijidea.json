@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "intellijidea",
+    "bundle": "IntelliJ IDEA.app",
+    "identifier": "com.jetbrains.intellij",
+    "download": "https://download-cf.jetbrains.com/idea/ideaIU-2017.3.2.dmg",
+    "sha256": "c9e95b4b54faff40ddc11a50276d2af716e8141a595ec7e80896ea090025869b",
+    "version": "2017.3.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.jetbrains.com/idea/"
+  }
+}

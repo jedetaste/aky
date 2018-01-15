@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "transmit",
+    "bundle": "Transmit.app",
+    "identifier": "com.panic.Transmit",
+    "download": "https://download.panic.com/transmit/Transmit%205.0.5.zip",
+    "sha256": "9c33c66c3d8f06b1b21780f0be4d10e37f64d738bcb494dab4887d48e60306b1",
+    "version": "5.0.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://panic.com/transmit/"
+  }
+}

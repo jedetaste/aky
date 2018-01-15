@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "evernote",
+    "bundle": "Evernote.app",
+    "identifier": "com.evernote.Evernote",
+    "download": "https://cdn1.evernote.com/mac-smd/public/Evernote_RELEASE_6.13.3_455969.dmg",
+    "sha256": "3118ae79b4b85483c45ea37ecc3458c7d2a329b0a63a7e7ae7cfafc2389b2bfc",
+    "version": "6.13.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://evernote.com/"
+  }
+}

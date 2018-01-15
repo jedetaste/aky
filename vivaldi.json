@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "vivaldi",
+    "bundle": "Vivaldi.app",
+    "identifier": "com.vivaldi.Vivaldi",
+    "download": "https://downloads.vivaldi.com/stable/Vivaldi.1.13.1008.40.dmg",
+    "sha256": "fd713a5a46c4c040e89151b1f8d19e4d79ad2dd28654c9859e699bc866a61283",
+    "version": "1.13.1008.40",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://vivaldi.com/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "smaller",
+    "bundle": "Smaller.app",
+    "identifier": "com.smallerapp.Smaller",
+    "download": "http://25.io/smaller/download/Smaller.zip",
+    "sha256": "3d15fe4e216e24c02138da0a598d1c81ed80904cfa662b876acaa9cdefa57901",
+    "version": "1.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://25.io/smaller/"
+  }
+}

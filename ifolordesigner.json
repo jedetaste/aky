@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "ifolordesigner",
+    "bundle": "ifolor Mac Designer.app",
+    "identifier": "com.ifolor.ifolor-Mac-Designer",
+    "download": "https://chkr-download.ifolor.net/download/MacDesigner/Chkr-Mac-Designer.dmg",
+    "sha256": "3335caf9b71f015bc48ef7b30a8fe55ba185594f8ce5082df454cd9c940e5215",
+    "version": "3.3.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.ifolor.ch/"
+  }
+}

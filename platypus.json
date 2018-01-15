@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "platypus",
+    "bundle": "Platypus.app",
+    "identifier": "org.sveinbjorn.Platypus",
+    "download": "http://sveinbjorn.org/files/software/platypus/platypus5.2.zip",
+    "sha256": "09d6511a62a6965b0d69c7e92455ead70853c299bf1649ea52ba00e528cb34f4",
+    "version": "5.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://sveinbjorn.org/platypus"
+  }
+}

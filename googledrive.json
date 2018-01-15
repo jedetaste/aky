@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "googledrive",
+    "bundle": "Google Drive.app",
+    "identifier": "com.google.GoogleDrive",
+    "download": "https://dl.google.com/drive/installgoogledrive.dmg",
+    "sha256": null,
+    "version": "2.34",
+    "build": "2.34.6425.2548",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

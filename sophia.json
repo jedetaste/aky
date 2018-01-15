@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "sophia",
+    "bundle": "Sophia.app",
+    "identifier": "cytotrade.Sophia",
+    "download": "http://www.sophiatesting.com/download/Sophia.zip",
+    "sha256": "a12d5560c9cdd59a55a4d0be804b14a7b26437ef099fc468149836c6f111b6f6",
+    "version": "1.25",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.sophiatesting.com/"
+  }
+}

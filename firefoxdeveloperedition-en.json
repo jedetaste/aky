@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "firefoxdeveloperedition-en",
+    "bundle": "FirefoxDeveloperEdition.app",
+    "identifier": "org.mozilla.firefoxdeveloperedition",
+    "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/58.0b16/mac/en-US/Firefox%2058.0b16.dmg",
+    "sha256": "48d3a010dd8f9fd66a7a765f73979c8692cacc583cfb8639f3700aad2c89f649",
+    "version": "58.0",
+    "build": "5818.1.11",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.mozilla.org/firefox/developer/"
+  }
+}

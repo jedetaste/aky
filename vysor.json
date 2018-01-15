@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "vysor",
+    "bundle": "Vysor.app",
+    "identifier": "com.electron.vysor",
+    "download": "https://github.com/koush/vysor.io/releases/download/v1.8.2/Vysor-mac.zip",
+    "sha256": "6cfe7409a5f31bf3dd29b35a3d6dcdd37595aee5417ffb64c6dfd13fbb99a3af",
+    "version": "1.8.2",
+    "build": "1.8.2",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.vysor.io/"
+  }
+}

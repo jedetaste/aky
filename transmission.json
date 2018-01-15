@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "transmission",
+    "bundle": "Transmission.app",
+    "identifier": "org.m0k.transmission",
+    "download": "https://github.com/transmission/transmission/releases/download/2.92/transmission-2.92.dmg",
+    "sha256": "926a878cac007e591cfcea987048abc0689d77e7729a28255b9ea7b73f22d693",
+    "version": "2.92",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://transmissionbt.com/"
+  }
+}

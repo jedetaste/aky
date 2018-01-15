@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "ipsecuritas",
+    "bundle": "IPSecuritas.app",
+    "identifier": null,
+    "download": "http://www.lobotomo.com/products/downloads/IPSecuritas%204.7.dmg",
+    "sha256": "42e85f68aa6a321fdaea7a352f5d85d7a987bb7e2a8067360d23633a9df3baba",
+    "version": "4.7",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.lobotomo.com/products/IPSecuritas/"
+  }
+}

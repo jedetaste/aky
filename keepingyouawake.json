@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "keepingyouawake",
+    "bundle": "KeepingYouAwake.app",
+    "identifier": "info.marcel-dierkes.KeepingYouAwake",
+    "download": "https://github.com/newmarcel/KeepingYouAwake/releases/download/pre%2F1040201/KeepingYouAwake-1040201.zip",
+    "sha256": null,
+    "version": "1.4.2pre",
+    "build": "1040201",
+    "dir": "/Applications",
+    "symlink": "no",
+    "web": null
+  }
+}

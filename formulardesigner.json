@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "formulardesigner",
+    "bundle": "Formular-Designer.app",
+    "identifier": "ch.rothsoft.lehreroffice.formulardesigner",
+    "download": "https://www.lehreroffice.ch/lo/dateien/designer/lo_designer_mac.dmg",
+    "sha256": "e0aa68784586cda45c2f253432dee5ffff784b63e2fbaa7ba4e6c6780aa781c2",
+    "version": "2016.1",
+    "build": "16.1.0.3.0",
+    "dir": "/Applications/LehrerOffice",
+    "symlink": null,
+    "web": "https://www.lehreroffice.ch/"
+  }
+}

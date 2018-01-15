@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "garageband10098080",
+    "bundle": "GarageBand.app",
+    "identifier": "com.apple.garageband10",
+    "download": "http://cdn.anykeyit.ch:8080/CasperShare/Packages/GarageBand%20for%20Mavericks.pkg.zip",
+    "sha256": null,
+    "version": "10.0.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

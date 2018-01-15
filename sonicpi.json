@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "sonicpi",
+    "bundle": "Sonic Pi.app",
+    "identifier": "net.sonic-pi.Sonic Pi",
+    "download": "http://sonic-pi.net/files/releases/v3.0.1/Sonic-Pi-for-Mac-v3.0.1.dmg",
+    "sha256": "d9eea57df86da3d39a2a068358fcc256e0dd0181a110fa2d83ad16ad153b10fd",
+    "version": "3.0.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://sonic-pi.net/"
+  }
+}

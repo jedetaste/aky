@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "icq",
+    "bundle": "ICQ.app",
+    "identifier": "com.icq.macicq",
+    "download": "https://exe.icq.com/icq.dmg",
+    "sha256": "0d23e4b650e32532796eb1f78aa97eeeba049006f2f8e9121126496a77bc53fa",
+    "version": "3.0.12493",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://icq.com/mac/"
+  }
+}

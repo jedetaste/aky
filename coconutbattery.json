@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "coconutbattery",
+    "bundle": "coconutBattery.app",
+    "identifier": "com.coconut-flavour.coconutBattery",
+    "download": "https://coconut-flavour.com/downloads/coconutBattery_3.6.5.zip",
+    "sha256": "1325a7d339de7ef2f97ec61c5e7a3a24f2998c563725581db86086b2c2e40973",
+    "version": "3.6.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.coconut-flavour.com/"
+  }
+}

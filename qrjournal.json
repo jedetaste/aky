@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "qrjournal",
+    "bundle": "QR Journal.app",
+    "identifier": "com.joshjacob.qrjournal",
+    "download": "http://www.joshjacob.com/mac-development/QRJournal1.5.dmg",
+    "sha256": "19aaa82efc8ef52e529b83aa33ed69c6a6f0d966833fdd1f3915cc70abf02e8c",
+    "version": "1.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.joshjacob.com/mac-development/qrjournal.php"
+  }
+}

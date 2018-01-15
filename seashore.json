@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "seashore",
+    "bundle": "Seashore.app",
+    "identifier": "net.sourceforge.seashore",
+    "download": "https://downloads.sourceforge.net/seashore/seashore%20binaries/Seashore%200.5.1/Seashore.zip",
+    "sha256": "96463a3642f162a20b160d8df273e9b27a5fdbf9708bee6ebf6a6c8528047765",
+    "version": "0.5.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": "no",
+    "web": "http://seashore.sourceforge.net/"
+  }
+}

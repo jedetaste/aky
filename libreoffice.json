@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "libreoffice",
+    "bundle": "LibreOffice.app",
+    "identifier": "org.libreoffice.script",
+    "download": "https://download.documentfoundation.org/libreoffice/stable/5.4.4/mac/x86_64/LibreOffice_5.4.4_MacOS_x86-64.dmg",
+    "sha256": "4f081ae90e96c0f3c5573705fcdd763027ceae16f83ec47e6afb40a735a44ce3",
+    "version": "5.4.4002",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.libreoffice.org/"
+  }
+}

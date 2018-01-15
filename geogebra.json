@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "geogebra",
+    "bundle": "GeoGebra 5.app",
+    "identifier": "org.geogebra5.mac",
+    "download": "http://cdn-cloud.anykeyit.ch/CasperShare/Packages/GeoGebra.pkg.zip",
+    "sha256": null,
+    "version": "5.0.389",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Mathematik",
+    "web": "https://www.geogebra.org/"
+  }
+}

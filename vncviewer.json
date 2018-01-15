@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "vncviewer",
+    "bundle": "VNC Viewer.app",
+    "identifier": "com.realvnc.vncviewer",
+    "download": "https://www.realvnc.com/download/file/viewer.files/VNC-Viewer-6.17.731-MacOSX-x86_64.dmg",
+    "sha256": "53b70a8eb86c32906957d0c49693396d9e31f73ad99b631e3ece7590987da015",
+    "version": null,
+    "build": "6.17.731.29523",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.realvnc.com/"
+  }
+}

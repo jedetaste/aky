@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "kerioconnect",
+    "bundle": "Kerio Connect.app",
+    "identifier": "com.Kerio-Connect",
+    "download": "http://kerio-dc-releases.kerio.com/kerio-connect-client-darwin64-9.2.5.9921.dmg",
+    "sha256": null,
+    "version": "9.2.5",
+    "build": "9.2.5.9921",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

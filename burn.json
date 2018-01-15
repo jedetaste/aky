@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "burn",
+    "bundle": "Burn.app",
+    "identifier": "com.kiwifruitware.Burn",
+    "download": "https://downloads.sourceforge.net/burn-osx/Burn/2.5.1/burn251.zip",
+    "sha256": "e82d2b7ef6a99e5a139706ff4e360659830d618ab8743e4b55ec80cdcdc97596",
+    "version": "2.5.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://burn-osx.sourceforge.net/"
+  }
+}

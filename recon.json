@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "recon",
+    "bundle": "Recon.app",
+    "identifier": "com.jamfsoftware.Recon",
+    "download": "http://cdn-cloud.anykeyit.ch/CasperShare/Packages/JamfPro.dmg",
+    "sha256": null,
+    "version": "10.0.0",
+    "build": null,
+    "dir": "/Applications/Jamf Pro",
+    "symlink": null,
+    "web": "https://www.jamf.com/"
+  }
+}

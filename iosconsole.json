@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "iosconsole",
+    "bundle": "iOS Console.app",
+    "identifier": "com.lemonjar.iosconsole",
+    "download": "http://downloads.lemonjar.com/iosconsole_latest.zip",
+    "sha256": null,
+    "version": "1.0.1",
+    "build": "54",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "franz",
+    "bundle": "Franz.app",
+    "identifier": "io.adlk.franz",
+    "download": "https://github.com/meetfranz/franz/releases/download/v5.0.0-beta.13/franz-5.0.0-beta.13-mac.zip",
+    "sha256": "6d6a58fa6e314ad0368a3968ae21a983ca7df511326b4e889d129ab67b2602f7",
+    "version": "5.0.0-beta.13",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://meetfranz.com/"
+  }
+}

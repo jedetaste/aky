@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "fluid",
+    "bundle": "Fluid.app",
+    "identifier": "com.fluidapp.Fluid",
+    "download": "http://fluidapp.com/dist/Fluid_1.8.6.zip",
+    "sha256": null,
+    "version": "1.8.6",
+    "build": "206",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

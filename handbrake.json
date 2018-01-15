@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "handbrake",
+    "bundle": "HandBrake.app",
+    "identifier": "fr.handbrake.HandBrake",
+    "download": "https://download.handbrake.fr/handbrake/releases/1.0.7/HandBrake-1.0.7.dmg",
+    "sha256": "3cd2e6228da211349574dcd44a0f67a3c76e5bd54ba8ad61070c21b852ef89e2",
+    "version": "1.0.7",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://handbrake.fr/"
+  }
+}

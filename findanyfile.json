@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "findanyfile",
+    "bundle": "Find Any File.app",
+    "identifier": "org.tempel.findanyfile",
+    "download": "http://files.tempel.org.s3.amazonaws.com/FindAnyFile_1.9.zip",
+    "sha256": "d01964c2a61df8c80ae925559025b21d95cd2436f528f14266c09ecd3382ed74",
+    "version": "1.9",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://apps.tempel.org/FindAnyFile/"
+  }
+}

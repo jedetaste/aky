@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "inkscape",
+    "bundle": "Inkscape.app",
+    "identifier": "org.inkscape.Inkscape",
+    "download": "https://media.inkscape.org/dl/resources/file/Inkscape-0.92.2-1-x11-10.7-x86_64.dmg",
+    "sha256": null,
+    "version": "0.92.2",
+    "build": "0.92.2",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

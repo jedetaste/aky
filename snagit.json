@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "snagit",
+    "bundle": "Snagit 2018.app",
+    "identifier": "com.TechSmith.Snagit2018",
+    "download": "http://download.techsmith.com/snagitmac/deu/Snagit.dmg",
+    "sha256": "fabe193d8830c77742c697a84826202f02f781906db6d80e8aa3e028a07b1559",
+    "version": "2018.0.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.techsmith.com/screen-capture.html"
+  }
+}

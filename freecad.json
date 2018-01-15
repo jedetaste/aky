@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "freecad",
+    "bundle": "FreeCAD.app",
+    "identifier": null,
+    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.16.6712/FreeCAD_0.16-6712.da2d364-OSX-x86_64.dmg",
+    "sha256": "8b1d6410a2b276de393b99ff21bbd4888c31bcae6bdf0d400e198b291333f345",
+    "version": null,
+    "build": "0.16.6700",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.freecadweb.org/"
+  }
+}

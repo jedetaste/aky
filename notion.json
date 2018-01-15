@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "notion",
+    "bundle": "Notion.app",
+    "identifier": "notion.id",
+    "download": "https://desktop-release.notion-static.com/Notion-0.1.12.dmg",
+    "sha256": "276afc8025b3ea3c470288db88b2a12c9671d902e5fa77e772e099a12a7a5451",
+    "version": "0.1.12",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.notion.so/"
+  }
+}

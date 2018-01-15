@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "packages",
+    "bundle": "Packages.app",
+    "identifier": "fr.whitebox.Packages",
+    "download": "http://s.sudre.free.fr/Software/files/Packages.dmg",
+    "sha256": "cf98848b287e6bda61d4692c5876370db951a83944e2cf8c1cf96adc0ad1ffde",
+    "version": "1.2.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://s.sudre.free.fr/Software/Packages/about.html"
+  }
+}

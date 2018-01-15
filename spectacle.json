@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "spectacle",
+    "bundle": "Spectacle.app",
+    "identifier": "com.divisiblebyzero.Spectacle",
+    "download": "https://s3.amazonaws.com/spectacle/downloads/Spectacle+1.2.zip",
+    "sha256": "766d5bf3b404ec567110a25de1d221290bc829302283b28ed0fbe73b9557f30c",
+    "version": "1.2",
+    "build": "672",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.spectacleapp.com/"
+  }
+}

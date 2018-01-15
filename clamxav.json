@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "clamxav",
+    "bundle": "ClamXAV.app",
+    "identifier": "uk.co.canimaansoftware.clamxav",
+    "download": "https://www.clamxav.com/downloads/ClamXAV_2.15.3_3501.zip",
+    "sha256": "e781c968e79d4ce432612b11e023618be51e42678dcae72095279bb73f494c36",
+    "version": "2.15.3",
+    "build": "3501",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.clamxav.com/"
+  }
+}

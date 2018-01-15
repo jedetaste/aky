@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "launchbar",
+    "bundle": "LaunchBar.app",
+    "identifier": "at.obdev.LaunchBar",
+    "download": "https://www.obdev.at/ftp/pub/Products/launchbar/LaunchBar-6.9.4.dmg",
+    "sha256": "1bbdc779588ef8c443c9a2395db04645164607270999a93200246210b87868a6",
+    "version": "6.9.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.obdev.at/products/launchbar/index.html"
+  }
+}

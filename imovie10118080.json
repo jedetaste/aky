@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "imovie10118080",
+    "bundle": "iMovie.app",
+    "identifier": "com.apple.iMovieApp",
+    "download": "http://cdn.anykeyit.ch:8080/CasperShare/Packages/iMovie%20for%20El%20Capitan.pkg.zip",
+    "sha256": null,
+    "version": "10.1.6",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

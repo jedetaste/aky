@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "teamviewerqs",
+    "bundle": "TeamViewerQS.app",
+    "identifier": "com.teamviewer.TeamViewerQS",
+    "download": "http://www.anykeyit.ch/anykey-it-fernwartung-mac.zip",
+    "sha256": null,
+    "version": "12.0.71483",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

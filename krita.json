@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "krita",
+    "bundle": "krita.app",
+    "identifier": "org.krita",
+    "download": "http://ftp.icm.edu.pl/pub/unix/kde/stable/krita/3.3.2/krita-3.3.2.dmg",
+    "sha256": "ea84d5b9f13f4fef6393bc7e9b5e6a066890c78631f5f813c9b4268f76ac2cdc",
+    "version": "3.3.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://krita.org"
+  }
+}

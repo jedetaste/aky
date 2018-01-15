@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "macaw",
+    "bundle": "Macaw.app",
+    "identifier": "co.macaw",
+    "download": "http://download.macaw.co/1.6.1/Macaw1.6.1.dmg",
+    "sha256": "11aac6e57bbb71fb9ea5e3e3dfc5d991e36e266635df0c0c95e52efeb8a5e942",
+    "version": "1.6.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://macaw.co/"
+  }
+}

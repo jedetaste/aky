@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "gut1",
+    "bundle": "GUT1.app",
+    "identifier": "ch.anykeyit.GUT1",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/GUT1.zip",
+    "sha256": null,
+    "version": "1.0",
+    "build": "1.0",
+    "dir": "/Applications",
+    "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Deutsch",
+    "web": null
+  }
+}

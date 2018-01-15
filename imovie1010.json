@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "imovie1010",
+    "bundle": "iMovie.app",
+    "identifier": "com.apple.iMovieApp",
+    "download": "http://cdn.anykeyit.ch/CasperShare/Packages/iMovie%20for%20Yosemite.pkg.zip",
+    "sha256": null,
+    "version": "10.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

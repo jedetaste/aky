@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "touche",
+    "bundle": "Touché.app",
+    "identifier": "com.red-sweater.touche",
+    "download": "https://redsweater.s3.amazonaws.com/Touche1.1.2.zip",
+    "sha256": "3836f2016efb846f8cdb8e15afa579ed3352c39e4107cb5045c46bf045a546ed",
+    "version": "1.1.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://red-sweater.com/touche/"
+  }
+}

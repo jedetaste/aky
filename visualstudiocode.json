@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "visualstudiocode",
+    "bundle": "Visual Studio Code.app",
+    "identifier": "com.microsoft.VSCode",
+    "download": "https://az764295.vo.msecnd.net/stable/490ef761b76b3f3b3832eff7a588aac891e5fe80/VSCode-darwin-stable.zip",
+    "sha256": "101c2eca589aec8f72f5cd54dd4bf0cb80ac4821c6143ee07b86519c728955d6",
+    "version": "1.19.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://code.visualstudio.com/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "numbers10098080",
+    "bundle": "Numbers.app",
+    "identifier": "com.apple.iWork.Numbers",
+    "download": "http://cdn.anykeyit.ch:8080/CasperShare/Packages/Numbers%20for%20Mavericks.pkg.zip",
+    "sha256": null,
+    "version": "3.2.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

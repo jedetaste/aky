@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "stellarium",
+    "bundle": "Stellarium.app",
+    "identifier": "org.stellarium.Stellarium",
+    "download": "https://github.com/Stellarium/stellarium/releases/download/v0.17.0/Stellarium-0.17.0.1.dmg",
+    "sha256": "729efdfcaa769cd168345957b5d0649208f6520fc9dc9ed1ecb26c2713b67e51",
+    "version": "0.17.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.stellarium.org/"
+  }
+}

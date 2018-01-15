@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "revoca",
+    "bundle": "Revoca 5.app",
+    "identifier": "revoca5.ch",
+    "download": "http://old.revoca.ch/Downloads/Revoca_541_OSX.zip",
+    "sha256": "b5cdd6df6cfe5afdc6d84a0bdee344c2c2670cd8c380447d14d9a81b0f13e58f",
+    "version": "5.4.1",
+    "build": "5.4.1",
+    "dir": "/Applications",
+    "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Deutsch",
+    "web": "http://www.revoca.ch/"
+  }
+}

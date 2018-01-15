@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "pdfsam",
+    "bundle": "PDFsam.app",
+    "identifier": "org.pdfsam.community.App",
+    "download": "https://github.com/torakiki/pdfsam/releases/download/v3.3.5/PDFsam-3.3.5.dmg",
+    "sha256": "a053c1c1815d66110b7da8e598099896841dd36cb3672a5e79f3843fdc872688",
+    "version": "0.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/torakiki/pdfsam"
+  }
+}

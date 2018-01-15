@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "minecrafteducation",
+    "bundle": "minecraftpe.app",
+    "identifier": "com.microsoft.minecraftpe",
+    "download": "https://meedownloads.blob.core.windows.net/1-0-21-release-20171011/macOS/minecraft_education_edition.dmg",
+    "sha256": null,
+    "version": "1.0.21",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://education.minecraft.net/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "owncloud",
+    "bundle": "owncloud.app",
+    "identifier": "com.owncloud.desktopclient",
+    "download": "https://download.owncloud.com/desktop/stable/ownCloud-2.4.0.8836.pkg",
+    "sha256": "fd302cacdd6a66de01c706ad351a92957c79769d5a4a16babf5feda4f97699d0",
+    "version": null,
+    "build": "2.4.0.8836",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://owncloud.com/"
+  }
+}

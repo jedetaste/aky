@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "bookwidgets",
+    "bundle": "BookWidgets.app",
+    "identifier": "com.kidimedia.ibookwidgets",
+    "download": "https://bookwidgets.s3.amazonaws.com/BookWidgetsInstall-v571.dmg",
+    "sha256": "9c0e54d740f61778d60b44e6905fdfb359f1b45a986845f74656bf0cada4cb65",
+    "version": "5.7.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.bookwidgets.com/"
+  }
+}

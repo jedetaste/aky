@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "legodigitaldesigner",
+    "bundle": "LEGO Digital Designer.app",
+    "identifier": "com.LEGO.LDD",
+    "download": "https://lc-www-live-s.legocdn.com/downloads/ldd2.0/installer/setupLDD-MAC-4_3_10.zip",
+    "sha256": "d48ccbf6b3eb6cf0115d07cf499c45c10c479f7f6e8ac32a3d44821325b56908",
+    "version": "4.3.10",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://ldd.lego.com/"
+  }
+}

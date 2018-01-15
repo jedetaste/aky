@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "sourcetree",
+    "bundle": "Sourcetree.app",
+    "identifier": "com.torusknot.SourceTreeNotMAS",
+    "download": "https://downloads.atlassian.com/software/sourcetree/Sourcetree_2.7g.zip",
+    "sha256": "34529c5b0ff996a6c4ef45841bd0b0b33b29085d44b51ba90c666681c389f975",
+    "version": "2.7",
+    "build": "152",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.sourcetreeapp.com/"
+  }
+}

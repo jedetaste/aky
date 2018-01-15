@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "fritzing",
+    "bundle": "Fritzing.app",
+    "identifier": "org.fritzing.Fritzing",
+    "download": "http://fritzing.org/media/downloads/Fritzing0.9.3b.dmg",
+    "sha256": null,
+    "version": "0.9.3",
+    "build": "bda4e",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

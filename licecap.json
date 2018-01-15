@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "licecap",
+    "bundle": "LICEcap.app",
+    "identifier": "com.cockos.LICEcap",
+    "download": "https://www.cockos.com/licecap/licecap125.dmg",
+    "sha256": "0ed33667b3e19ee47fc09b3619499816e229bc678884fd5c27e24e785472f6ba",
+    "version": null,
+    "build": "1.25",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.cockos.com/licecap/"
+  }
+}

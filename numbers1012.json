@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "numbers1012",
+    "bundle": "Numbers.app",
+    "identifier": "com.apple.iWork.Numbers",
+    "download": "http://cdn.anykeyit.ch/CasperShare/Packages/Numbers%20for%20Sierra.pkg.zip",
+    "sha256": null,
+    "version": "4.3.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}

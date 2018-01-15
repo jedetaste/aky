@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "reflector3",
+    "bundle": "Reflector 3.app",
+    "identifier": "com.squirrels.Reflector-3",
+    "download": "https://download.airsquirrels.com/Reflector3/Mac/Reflector-3.0.2.dmg",
+    "sha256": "52b11529455e014aba83a5a683aa64a5c65fba873f27a7766a0a2182f93547df",
+    "version": "3.0.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.airsquirrels.com/reflector/"
+  }
+}

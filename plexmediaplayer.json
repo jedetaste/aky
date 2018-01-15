@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "plexmediaplayer",
+    "bundle": "Plex Media Player.app",
+    "identifier": "tv.plex.player",
+    "download": "https://downloads.plex.tv/plexmediaplayer/1.3.12.755-fed6185a/PlexMediaPlayer-1.3.12.755-fed6185a-macosx-x86_64.zip",
+    "sha256": "bdf620de2ea5cb5aa7fbf9e779955401f6bc0039ab637adb9c31f7b358dd39cd",
+    "version": "1.3.12.755-fed6185a",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.plex.tv/"
+  }
+}

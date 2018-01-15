@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "blenderplayer",
+    "bundle": "blenderplayer.app",
+    "identifier": "org.blenderfoundation.blenderplayer",
+    "download": "https://download.blender.org/release/Blender2.79/blender-2.79-macOS-10.6.tar.gz",
+    "sha256": "25d9c6d083726e19229ece4a7e4a5ebfb74ed53f575303e90d4db1e43f7817f1",
+    "version": "2.79",
+    "build": null,
+    "dir": "/Applications/blender",
+    "symlink": null,
+    "web": "https://www.blender.org/"
+  }
+}

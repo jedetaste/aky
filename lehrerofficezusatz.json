@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "lehrerofficezusatz",
+    "bundle": "LehrerOffice Zusatz.app",
+    "identifier": "ch.rothsoft.lehreroffice.sv",
+    "download": "https://www.lehreroffice.ch/lo/dateien/zusatz/lo_zusatz_osx.dmg",
+    "sha256": "2d56a81aedeb9c0374d6bf76a7b766bdfd8b0c9dc641e310e0c1e060c0b07fae",
+    "version": "2017.19.3",
+    "build": null,
+    "dir": "/Applications/LehrerOffice",
+    "symlink": null,
+    "web": "https://www.lehreroffice.ch/"
+  }
+}

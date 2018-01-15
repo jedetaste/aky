@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "sonos",
+    "bundle": "Sonos.app",
+    "identifier": "com.sonos.macController",
+    "download": "http://update.sonos.com/software/mac/mdcr/SonosDesktopController821.dmg",
+    "sha256": "81e579f4494ab986f33091990f79a8463e77378f45a299d08dc9b4311532f42d",
+    "version": "8.2.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.sonos.com/"
+  }
+}

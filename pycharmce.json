@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "pycharmce",
+    "bundle": "PyCharm CE.app",
+    "identifier": "com.jetbrains.pycharm",
+    "download": "https://download-cf.jetbrains.com/python/pycharm-community-2017.3.2.dmg",
+    "sha256": "3e76156bbf440d825c8e34fdaa0f057f5452d517416519b35c7c78daf87005bd",
+    "version": "2017.3.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.jetbrains.com/pycharm/"
+  }
+}
