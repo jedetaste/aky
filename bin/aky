@@ -1,9 +1,0 @@
-#!/bin/bash
-	
-arg01="${1}"
-arg02="${2}"
-arg03="${3}"
-arg04="${4}"
-arg05="${5}"
-
-su -l aky -c "/usr/local/bin/brew ${arg01} ${arg02} ${arg03} ${arg04} </dev/null"
