@@ -1,6 +1,6 @@
 {
   "recipe": {
-    "id": "torbrowser",
+    "id": "torbrowser-en",
     "bundle": "TorBrowser.app",
     "identifier": "org.torproject.torbrowser",
     "download": "https://dist.torproject.org/torbrowser/7.5/TorBrowser-7.5-osx64_en-US.dmg",
