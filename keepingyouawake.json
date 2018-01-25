@@ -3,12 +3,12 @@
     "id": "keepingyouawake",
     "bundle": "KeepingYouAwake.app",
     "identifier": "info.marcel-dierkes.KeepingYouAwake",
-    "download": "https://github.com/newmarcel/KeepingYouAwake/releases/download/pre%2F1040201/KeepingYouAwake-1040201.zip",
-    "sha256": null,
-    "version": "1.4.2pre",
-    "build": "1040201",
+    "download": "https://github.com/newmarcel/KeepingYouAwake/releases/download/1.4.2/KeepingYouAwake-1.4.2.zip",
+    "sha256": "7e18482692401147d3d4ac1f38e0ace3993d69e7c864b4ef54373cbf10763202",
+    "version": "1.4.2",
+    "build": null,
     "dir": "/Applications",
     "symlink": "no",
-    "web": null
+    "web": "https://github.com/newmarcel/KeepingYouAwake"
   }
 }
