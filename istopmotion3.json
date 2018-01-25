@@ -4,11 +4,11 @@
     "bundle": "iStopMotion.app",
     "identifier": "com.boinx.iStopMotion3",
     "download": "https://cdn.boinx.com/software/istopmotion/Boinx_iStopMotion_3.8.2-16057.app.zip",
-    "sha256": null,
+    "sha256": "eb31319488346e12d6f95b7be9d61d911eaaf0228f22b6053ee0be8f6902f520",
     "version": "3.8.2",
-    "build": "16057",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": null
+    "web": "https://boinx.com/istopmotion/mac/"
   }
 }
