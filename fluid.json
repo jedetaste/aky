@@ -4,11 +4,11 @@
     "bundle": "Fluid.app",
     "identifier": "com.fluidapp.Fluid",
     "download": "http://fluidapp.com/dist/Fluid_1.8.6.zip",
-    "sha256": null,
+    "sha256": "bbfa09a48563d89d5a1113527cd0a353f590b0f6811f270f12909ecfad8a2655",
     "version": "1.8.6",
     "build": "206",
     "dir": "/Applications",
     "symlink": null,
-    "web": null
+    "web": "http://fluidapp.com/"
   }
 }
