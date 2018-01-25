@@ -2,13 +2,13 @@
   "recipe": {
     "id": "jin",
     "bundle": "Jin.app",
-    "identifier": null,
-    "download": "https://netcologne.dl.sourceforge.net/project/jin/jin/jin-2.14.1/jin-2.14.1-macosx-lion.dmg",
-    "sha256": null,
+    "identifier": "jin-2.14.1",
+    "download": "https://downloads.sourceforge.net/jin/jin/jin-2.14.1/jin-2.14.1-macosx-lion.dmg",
+    "sha256": "d5592e35bc1e1bb6cf8337d0adaf883c7f5964e9e6f378f66f3fa29979d653aa",
     "version": "2.14.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": null
+    "web": "http://www.jinchess.com/"
   }
 }
