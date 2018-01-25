@@ -4,11 +4,11 @@
     "bundle": "iOS Console.app",
     "identifier": "com.lemonjar.iosconsole",
     "download": "http://downloads.lemonjar.com/iosconsole_latest.zip",
-    "sha256": null,
+    "sha256": "f7476654c3531208aeae64e43a07dc108498a42d7fe84e83460033d8045392af",
     "version": "1.0.1",
-    "build": "54",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": null
+    "web": "https://lemonjar.com/iosconsole/"
   }
 }
