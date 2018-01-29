@@ -3,7 +3,7 @@
     "id": "eclipse",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/oxygen/1a/eclipse-committers-oxygen-1a-macosx-cocoa-x86_64.dmg&r=1",
+    "download": "http://ftp.fau.de/eclipse/technology/epp/downloads/release/oxygen/1a/eclipse-committers-oxygen-1a-macosx-cocoa-x86_64.dmg",
     "sha256": "7beeec0531181da673086568cfe14151ac8b96e76b0bfeaf3880d7ca495b9068",
     "version": "4.7.1",
     "build": null,
