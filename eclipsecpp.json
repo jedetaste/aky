@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "eclipsecpp",
+    "bundle": "Eclipse.app",
+    "identifier": "org.eclipse.platform.ide",
+    "download": "http://ftp.halifax.rwth-aachen.de/eclipse/technology/epp/downloads/release/oxygen/1a/eclipse-cpp-oxygen-1a-macosx-cocoa-x86_64.dmg",
+    "sha256": "ca93c932cadba573db04e08454c49bc9e5e93e3f6902ec8f91570cab8522b9a8",
+    "version": "4.7.1",
+    "build": null,
+    "dir": "/Applications/Eclipse CPP",
+    "symlink": null,
+    "web": "https://eclipse.org/"
+  }
+}
