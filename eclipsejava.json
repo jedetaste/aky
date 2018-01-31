@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "eclipsejava",
+    "bundle": "Eclipse.app",
+    "identifier": "org.eclipse.platform.ide",
+    "download": "http://www.mirrorservice.org/sites/download.eclipse.org/eclipseMirror/technology/epp/downloads/release/oxygen/2/eclipse-java-oxygen-2-macosx-cocoa-x86_64.dmg",
+    "sha256": "45ab1f3ab53cf457c723818e2198e1b5d82479f4e8c7539a018dfb2934268d7d",
+    "version": "4.7.2",
+    "build": null,
+    "dir": "/Applications/Eclipse Java",
+    "symlink": null,
+    "web": "https://eclipse.org/"
+  }
+}
