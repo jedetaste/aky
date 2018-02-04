@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "pictoselector",
+    "bundle": "Picto Selector.app",
+    "identifier": "Picto Selector277627098Wine.wineskin.prefs",
+    "download": "http://www.pecsforall.com/downloads/PictoSelectorMac.zip",
+    "sha256": "ca1c5526f0cb5430757237a527385261cb055e1e45e6af83f355130ab15facc9",
+    "version": "1.8",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.pictoselector.eu/"
+  }
+}
