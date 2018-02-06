@@ -3,10 +3,10 @@
     "id": "skype",
     "bundle": "Skype.app",
     "identifier": "com.skype.skype",
-    "download": "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.14.0.10.dmg",
-    "sha256": "452777f815e19d0daa6aa6205c41b692d8c155aadefd0c684fe78004ed5fc604",
+    "download": "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.15.0.4.dmg",
+    "sha256": "780cf7ac23793e52d0c3dfbdf565ad00308859757cedb57febe7e4f090c43715",
     "version": null,
-    "build": "8.14.0.10",
+    "build": "8.15.0.4",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.skype.com/"
