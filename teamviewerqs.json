@@ -3,12 +3,12 @@
     "id": "teamviewerqs",
     "bundle": "TeamViewerQS.app",
     "identifier": "com.teamviewer.TeamViewerQS",
-    "download": "http://www.anykeyit.ch/anykey-it-fernwartung-mac.zip",
+    "download": "https://download.teamviewer.com/download/TeamViewerQS.dmg",
     "sha256": null,
-    "version": "12.0.71483",
+    "version": "13.0.6447",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": null
+    "web": "https://www.teamviewer.com"
   }
 }
