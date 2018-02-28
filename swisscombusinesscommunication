@@ -1,0 +1,15 @@
+{
+  "recipe": {
+    "id": "swisscombusinesscommunication",
+    "bundle": "Business Communication.app",
+    "identifier": "com.broadsoft.communicator",
+    "download": "http://lightheadsw.com/files/releases/com.lightheadsw.Caffeine/Caffeine1.1.1.zip",
+    "sha256": "null",
+    "version": 22.2.0.1286,
+    "build": "null",
+    "dir": "/Applications",
+    "safequit": "false",
+    "symlink": null,
+    "web": "https://www.swisscom.ch/de/business/kmu/hilfe/kombi-angebote/app-nutzen-sbcon.html/"
+  }
+}
