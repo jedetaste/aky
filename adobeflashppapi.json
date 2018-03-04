@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "adobeflash",
+    "bundle": "Adobe Flash Player Install Manager.app",
+    "identifier": "com.adobe.flashplayer.installmanager",
+    "download": "https://fpdownload.adobe.com/pub/flashplayer/pdc/28.0.0.161/install_flash_player_osx_ppapi.dmg",
+    "sha256": "5738b58c3a6a1ff612d054529dab6137af30ed329abaf769b92359ae4f07204d",
+    "version": null,
+    "build": null,
+    "dir": "/Applications/Utilities",
+    "symlink": null,
+    "web": "https://get.adobe.com/flashplayer/"
+  }
+}
