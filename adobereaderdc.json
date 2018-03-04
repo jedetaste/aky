@@ -3,7 +3,7 @@
     "id": "adobereaderdc",
     "bundle": "Adobe Acrobat Reader DC.app",
     "identifier": "com.adobe.Reader",
-    "download": "https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/1801120035/AcroRdrDC_1801120035_MUI.dmg",
+    "download": "http://ardownload.adobe.com/pub/adobe/reader/mac/AcrobatDC/1801120035/AcroRdrDC_1801120035_MUI.dmg",
     "sha256": "57d4a5a255f8a714aaa34e0ccb2862303d60f1a8b77afb961959212fcdec3d47",
     "version": "18.011.20035",
     "build": null,
