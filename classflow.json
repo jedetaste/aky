@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "classflow",
+    "bundle": "ClassFlow Desktop.app",
+    "identifier": "ClassFlowDesktop",
+    "download": "https://classflow-dist.s3-accelerate.amazonaws.com/Native/Release/Mac/ClassFlowDesktop-Mac-4.3.1.dmg",
+    "sha256": "fbc0dc32d53f543e3b862e70286fa52abdb8b2aed825c4fd4a89f549874e1e41",
+    "version": "4.3.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://classflow.com/"
+  }
+}
