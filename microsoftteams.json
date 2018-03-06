@@ -4,7 +4,7 @@
     "bundle": "Microsoft Teams.app",
     "identifier": "com.microsoft.teams",
     "download": "https://statics.teams.microsoft.com/production-osx/1.0.00.34151/Teams_osx.dmg",
-    "sha256": "83469878abd8e4fbc8c88d4c5da13be284c80f40d0b5d2ef3f37488ed3ce7aa8",
+    "sha256": null,
     "version": "1.00.034151",
     "build": null,
     "dir": "/Applications",
