@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "microsoftteams",
+    "bundle": "Microsoft Teams.app",
+    "identifier": "com.microsoft.teams",
+    "download": "https://statics.teams.microsoft.com/production-osx/1.0.00.34151/Teams_osx.dmg",
+    "sha256": "9fcef200e161a6f658310f98f22426eb405155404df4599540e8c14bc4931246",
+    "version": "1.00.034151",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://teams.microsoft.com/downloads"
+  }
+}
