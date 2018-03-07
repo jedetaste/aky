@@ -3,7 +3,7 @@
     "id": "microsoftteams",
     "bundle": "Microsoft Teams.app",
     "identifier": "com.microsoft.teams",
-    "download": "https://statics.teams.microsoft.com/production-osx/1.1.00.5851/Teams_osx.dmg",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/Teams_osx.dmg",
     "sha256": null,
     "version": "1.1.00.5851",
     "build": null,
