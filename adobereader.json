@@ -4,11 +4,11 @@
     "bundle": "Adobe Reader.app",
     "identifier": "com.adobe.Reader",
     "download": "http://ardownload.adobe.com/pub/adobe/reader/mac/11.x/11.0.00/de_DE/AdbeRdr11000_de_DE.dmg",
-    "sha256": null,
+    "sha256": "fba620a52ab0073c53dca18dc29edeebfe3e534325b97bbcd2a318f3747b6a98",
     "version": "11.0.0",
-    "build": "11.0.0",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": null
+    "web": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html"
   }
 }
