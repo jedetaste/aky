@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "financemissionheroes",
+    "bundle": "FinanceMissionHeroes_Mac.app",
+    "identifier": "unity.FinanceMission.Heroes",
+    "download": "http://financemissionheroes.ch/download/download_mac.zip",
+    "sha256": "c39afca0fafc9fdbe4d84acc40a5807afdb93f00ba1b376827c874ea91070092",
+    "version": null,
+    "build": "5.3.4f1",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://financemissionheroes.ch/"
+  }
+}
