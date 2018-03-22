@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "devonthinkprooffice",
+    "bundle": "DEVONthink Pro.app.app",
+    "identifier": "com.devon-technologies.thinkpro2",
+    "download": "https://s3.amazonaws.com/DTWebsiteSupport/download/devonthink/2.9.17/DEVONthink_Pro_Office.app.zip",
+    "sha256": "7895bef411152c77b6d058e6b29113bea1015397ad5705d905ad89708999615b",
+    "version": "2.9.17",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html"
+  }
+}
