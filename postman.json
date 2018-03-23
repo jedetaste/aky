@@ -3,7 +3,7 @@
     "id": "postman",
     "bundle": "Postman.app",
     "identifier": "com.postmanlabs.mac",
-    "download": "https://dl.pstmn.io/download/version/6.0.10/osx64",
+    "download": "http://cdn-cloud.anykeyit.ch/Static/Postman-osx-6.0.10.zip",
     "sha256": "023705ccd601471a3e3560bf9ef5d850cebccb787ad2f4c342aed71bb27b0152",
     "version": "6.0.10",
     "build": null,
