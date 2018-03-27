@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "stykz",
+    "bundle": "Stykz.app",
+    "identifier": "com.sonsofthundersoftware.stykz",
+    "download": "http://www.stykz.net/downloads/mac/Stykz.dmg.zip",
+    "sha256": null,
+    "version": "1.0.1",
+    "build": null,
+    "dir": "/Applications/Stykz",
+    "symlink": null,
+    "web": "https://www.stykz.net/"
+  }
+}
