@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "makerbot",
+    "bundle": "MakerBot Print.app",
+    "identifier": "com.makerbot.MakerBot Print",
+    "download": "https://s3.amazonaws.com/downloads-makerbot-com/installer/release/MakerBotDesktopInstaller.pkg",
+    "sha256": "eb0779601a40211e803760958a962d48ff56143801b1d9d76245efefdc90c23a",
+    "version": "7.1.0+5861",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.makerbot.com/print/"
+  }
+}
