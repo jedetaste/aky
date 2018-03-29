@@ -3,10 +3,10 @@
     "id": "tunnelblick",
     "bundle": "Tunnelblick.app",
     "identifier": "net.tunnelblick.tunnelblick",
-    "download": "https://github.com/Tunnelblick/Tunnelblick/releases/download/v3.7.5/Tunnelblick_3.7.5_build_5010.dmg",
-    "sha256": "d085fefadb49a2ff751804560ee26ed3bfac361f4595da1b547b811aa3ef8ed5",
+    "download": "https://www.tunnelblick.net/release/Tunnelblick_3.7.5a_build_5011.dmg",
+    "sha256": "1da1c1c7c7380f74b8674bb1a094296dd384d49871856b7477a0948852657167",
     "version": null,
-    "build": "5010",
+    "build": "5011",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.tunnelblick.net/"
