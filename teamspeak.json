@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "teamspeak",
+    "bundle": "TeamSpeak 3.app",
+    "identifier": "com.teamspeak.TeamSpeak3",
+    "download": "http://dl.4players.de/ts/releases/3.1.8/TeamSpeak3-Client-macosx-3.1.8.dmg",
+    "sha256": "ea57e3d5174b35a69eafc6e5ae3bbb65049a0952d00eb766b66db7ac50345f51",
+    "version": null,
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.teamspeak.com/"
+  }
+}
