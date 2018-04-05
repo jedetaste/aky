@@ -2,10 +2,10 @@
   "recipe": {
     "id": "etrecheck",
     "bundle": "EtreCheck.app",
-    "identifier": "com.etresoft.EtreCheck",
+    "identifier": "com.etresoft.EtreCheck4",
     "download": "https://www.etrecheck.com/download/EtreCheck.zip",
     "sha256": null,
-    "version": "4.1",
+    "version": "4.1.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
