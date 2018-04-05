@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "scapple",
+    "bundle": "Scapple.app",
+    "identifier": "com.literatureandlatte.scapple",
+    "download": "http://scrivener.s3.amazonaws.com/Scapple.dmg",
+    "sha256": null,
+    "version": "1.3.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.literatureandlatte.com/scapple.php"
+  }
+}
