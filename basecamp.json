@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "basecamp",
+    "bundle": "Basecamp 3.app",
+    "identifier": "com.basecamp.basecamp3",
+    "download": "https://bc3-desktop.s3.amazonaws.com/mac/basecamp3.dmg",
+    "sha256": "b5b35bb52ec329df92f28fda4d75de4bef3b7fa8036a72e3b4345dcd69ddd3aa",
+    "version": "1.7.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://basecamp.com"
+  }
+}
