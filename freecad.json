@@ -3,10 +3,10 @@
     "id": "freecad",
     "bundle": "FreeCAD.app",
     "identifier": null,
-    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.16.6712/FreeCAD_0.16-6712.da2d364-OSX-x86_64.dmg",
-    "sha256": "8b1d6410a2b276de393b99ff21bbd4888c31bcae6bdf0d400e198b291333f345",
+    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.17/FreeCAD_0.17-13509.0258808-OSX-x86_64-Qt5.dmg",
+    "sha256": "96bd5548c548fd7948bf65605ac1ed6a3ac99ddce06ae363ef8f7eb6c6a3d883",
     "version": null,
-    "build": "0.16.6700",
+    "build": "0.17.10000",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.freecadweb.org/"
