@@ -3,10 +3,10 @@
     "id": "owncloud",
     "bundle": "owncloud.app",
     "identifier": "com.owncloud.desktopclient",
-    "download": "https://download.owncloud.com/desktop/stable/ownCloud-2.4.0.8836.pkg",
-    "sha256": "fd302cacdd6a66de01c706ad351a92957c79769d5a4a16babf5feda4f97699d0",
+    "download": "https://download.owncloud.com/desktop/stable/ownCloud-2.4.1.9367.pkg",
+    "sha256": "7f3a88d47cabdecf30681793e16a2f892224fa769d37af0bcd5472b3241b7386",
     "version": null,
-    "build": "2.4.0.8836",
+    "build": "2.4.1.9367",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://owncloud.com/"
