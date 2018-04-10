@@ -3,10 +3,10 @@
     "id": "alfred3",
     "bundle": "Alfred 3.app",
     "identifier": "com.runningwithcrayons.Alfred-3",
-    "download": "https://cachefly.alfredapp.com/Alfred_3.6_903.dmg",
+    "download": "https://cachefly.alfredapp.com/Alfred_3.6.1_910.dmg",
     "sha256": "d128389caeba552cb297e72dfc889379db50f003e43872dc91d09eb2080511e7",
-    "version": "3.6",
-    "build": "903",
+    "version": "3.6.1",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.alfredapp.com/"
