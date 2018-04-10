@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "citrixreceiver",
+    "bundle": "Citrix Receiver.app",
+    "identifier": "com.citrix.receiver.nomas",
+    "download": "http://downloadplugins.citrix.com.edgesuite.net/Mac/CitrixReceiverWeb.dmg",
+    "sha256": "3bd264f3a274b248abded74c055c3997067106ff865edf3e02ad940c02121baa",
+    "version": "12.9.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.citrix.com/products/receiver/"
+  }
+}
