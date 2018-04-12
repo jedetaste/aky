@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "clickcharts",
+    "bundle": "ClickCharts.app",
+    "identifier": "com.nchsoftware.clickcharts",
+    "download": "http://www.nchsoftware.com/chart/clickchartspmaci.zip",
+    "sha256": null,
+    "version": "3.03",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.nchsoftware.com/"
+  }
+}
