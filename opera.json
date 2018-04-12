@@ -3,10 +3,10 @@
     "id": "opera",
     "bundle": "Opera.app",
     "identifier": "com.operasoftware.Opera",
-    "download": "https://download1.operacdn.com/pub/opera/desktop/52.0.2871.40/mac/Opera_52.0.2871.40_Setup.dmg",
-    "sha256": "cb290459368f4f2005beeb3313f38ed7d541cdcac75adf55a0db33ce90f5da84",
+    "download": "https://download1.operacdn.com/pub/opera/desktop/52.0.2871.64/mac/Opera_52.0.2871.64_Setup.dmg",
+    "sha256": "39bce953c4221f01789834491184518c4660c98c17456ee7d9e629d3fd8dfd2a",
     "version": null,
-    "build": "52.0.2871.40",
+    "build": "52.0.2871.64",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.opera.com/"
