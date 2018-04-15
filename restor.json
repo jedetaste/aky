@@ -1,0 +1,14 @@
+{
+  "recipe": {
+    "id": "restor",
+    "bundle": "Restor.app",
+    "identifier": "com.google.corp.Restor",
+    "download": "https://github.com/google/restor/releases/download/1.4/restor-1.4.dmg",
+    "sha256": "b35e63a4473fd305b6dfc170bc4b323781b258ee0b392a0edcaf0991717f6229",
+    "version": "1.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/google/restor"
+  }
+}
