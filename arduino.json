@@ -5,6 +5,10 @@
     "identifier": "cc.arduino.Arduino",
     "download": "https://downloads.arduino.cc/arduino-1.8.5-macosx.zip",
     "sha256": "49d0a255802167fc7644f4cc5b3d8b41c94859343c0c4d1f90816f18b11f3fd9",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.8.5",
     "build": null,
     "dir": "/Applications",

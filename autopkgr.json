@@ -5,6 +5,10 @@
     "identifier": "com.lindegroup.AutoPkgr",
     "download": "https://github.com/lindegroup/autopkgr/releases/download/v1.4.2/AutoPkgr-1.4.2.dmg",
     "sha256": "3f73bae06c0e61fe6af41ead9455ade181e6b62fec4a85c7235c0834c50546a5",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.4.2",
     "build": null,
     "dir": "/Applications",

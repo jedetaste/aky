@@ -5,6 +5,10 @@
     "identifier": "com.ohanaware.appWrapper3",
     "download": "http://www.ohanaware.com/appwrapper/appWrapper3.dmg",
     "sha256": "61f34b615cc4c22a87bd5b19f12176781447d33c65380d0a98cfc11452821e62",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.8.4",
     "build": "236",
     "dir": "/Applications",

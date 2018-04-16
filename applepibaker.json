@@ -5,6 +5,10 @@
     "identifier": "com.tweaking4all.PiBaker",
     "download": "http://www.tweaking4all.com/downloads/raspberrypi/ApplePi-Baker.zip",
     "sha256": "9d9a43973d610c54d12f8869b4182b6bde9195c832676deb13b68992555a3c13",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.9.5",
     "build": null,
     "dir": "/Applications",

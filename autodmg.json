@@ -5,6 +5,10 @@
     "identifier": "se.gu.it.AutoDMG",
     "download": "https://github.com/MagerValp/AutoDMG/releases/download/v1.8/AutoDMG-1.8.dmg",
     "sha256": "595c32f269b613739ef7db49b04c3fa7aa830594545e5393811fb42bbc49a8da",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.8",
     "build": "548",
     "dir": "/Applications",
