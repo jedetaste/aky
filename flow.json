@@ -5,6 +5,10 @@
     "identifier": "com.metalab.flow-mac",
     "download": "https://cdn.getflow.com/darwin_x64/Flow.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "6.0.17",
     "build": null,
     "dir": "/Applications",

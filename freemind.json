@@ -5,6 +5,10 @@
     "identifier": "freemind.main.FreeMind",
     "download": "https://downloads.sourceforge.net/freemind/freemind/1.0.1/FreeMind_1.0.1.dmg",
     "sha256": "0bd93317567f947e7fa3b3e8d2e0d908300642edc5e07f1929157469ffd14ea3",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.0.1 (build: 0)",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "org.tempel.findanyfile",
     "download": "http://files.tempel.org.s3.amazonaws.com/FindAnyFile_1.9.2.zip",
     "sha256": "2d56ee022617f1bf6f901f9437fae50d0e80aaaddd4493fc7eeda19461a3e242",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.9.2",
     "build": null,
     "dir": "/Applications",

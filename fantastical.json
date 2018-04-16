@@ -5,6 +5,10 @@
     "identifier": "com.flexibits.fantastical2.mac",
     "download": "https://d60ism0l33mmr.cloudfront.net/Fantastical_2.4.7.zip",
     "sha256": "c32945e883702ff20ef38fa2939ba86bb6b43351e087e043ea473359eb320852",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.4.7",
     "build": "538",
     "dir": "/Applications",

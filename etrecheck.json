@@ -5,6 +5,10 @@
     "identifier": "com.etresoft.EtreCheck4",
     "download": "https://www.etrecheck.com/download/EtreCheck.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "4.1.4",
     "build": null,
     "dir": "/Applications",

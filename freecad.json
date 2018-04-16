@@ -5,6 +5,10 @@
     "identifier": null,
     "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.17/FreeCAD_0.17-13509.0258808-OSX-x86_64-Qt5.dmg",
     "sha256": "96bd5548c548fd7948bf65605ac1ed6a3ac99ddce06ae363ef8f7eb6c6a3d883",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "0.17.10000",
     "dir": "/Applications",

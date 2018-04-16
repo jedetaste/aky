@@ -5,6 +5,10 @@
     "identifier": "org.mozilla.firefoxdeveloperedition",
     "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/60.0b10/mac/de/Firefox%2060.0b10.dmg",
     "sha256": "44f61a950ea175862244ffdce07947e1a0c4a491c1c604a302f558a1e8297155",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "6018.4.4",
     "dir": "/Applications",

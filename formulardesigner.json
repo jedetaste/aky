@@ -5,6 +5,10 @@
     "identifier": "ch.rothsoft.lehreroffice.formulardesigner",
     "download": "https://www.lehreroffice.ch/lo/dateien/designer/lo_designer_osx.dmg",
     "sha256": "f40f0c8b5e1259ad8cd575102ec36393e3c296534ffb477c50f32398d115b307",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2018.1.0",
     "build": null,
     "dir": "/Applications/LehrerOffice",
