@@ -5,6 +5,10 @@
     "identifier": "com.github.GitHubClient",
     "download": "https://desktop.githubusercontent.com/releases/1.1.1-bf9cffc6/GitHubDesktop.zip",
     "sha256": "8414fd278649132f092faabf740df5817ca06abd7b9b9d43a1624e5948856396",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.1.1",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "org.freeplane.core",
     "download": "https://downloads.sourceforge.net/freeplane/freeplane%20stable/freeplane_app_jre-1.6.13.dmg",
     "sha256": "21fea08960f65be82a005998b11e294dfa505245ebb686a10ff1dc804f8c11d2",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.6.13",
     "build": null,
     "dir": "/Applications",

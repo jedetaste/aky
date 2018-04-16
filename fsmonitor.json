@@ -5,6 +5,10 @@
     "identifier": "com.tristan.FSMonitor",
     "download": "https://tristan-software.ch/FSMonitor/Archives/FSMonitor_87.zip",
     "sha256": "0e5f482a74889a57bbed00553f50405ee86626635e77b32e69a4e373693604e3",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "87",
     "dir": "/Applications",

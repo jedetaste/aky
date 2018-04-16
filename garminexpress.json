@@ -5,6 +5,10 @@
     "identifier": "com.garmin.renu.client",
     "download": "http://download.garmin.com/omt/express/GarminExpress.dmg",
     "sha256": "2e08389f33dfdeed30fdf33201a7781c7986701174dcb85ff077a0778feb4a44",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "6.3.0.0",
     "build": null,
     "dir": "/Applications",
