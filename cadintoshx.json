@@ -5,6 +5,10 @@
     "identifier": "com.lemkesoft.cadintosh",
     "download": "https://www.lemkesoft.info/files/cadintosh/cad8.dmg",
     "sha256": "c438b5d7034e694247c04922bdd771767defa92e3c1f688377952075586e13c9",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "8.3.1",
     "build": null,
     "dir": "/Applications",
