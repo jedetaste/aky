@@ -5,6 +5,10 @@
     "identifier": "com.jgraph.drawio.desktop",
     "download": "https://github.com/jgraph/drawio-desktop/releases/download/v8.0.6/draw.io-8.0.6.dmg",
     "sha256": "7a5407579a403ce9d1e79011998af08847394e6b1c0d34b46d5c5c04f1476213",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "8.0.6",
     "build": null,
     "dir": "/Applications",

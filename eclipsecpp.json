@@ -5,6 +5,10 @@
     "identifier": "org.eclipse.platform.ide",
     "download": "http://mirror.switch.ch/eclipse/technology/epp/downloads/release/oxygen/3/eclipse-cpp-oxygen-3-macosx-cocoa-x86_64.dmg",
     "sha256": "583722942fc755b9fc22e57a4b1b7dedbef3590ec6feb6a93ee0f7557801f861",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "4.7.3",
     "build": null,
     "dir": "/Applications/Eclipse CPP",

@@ -5,6 +5,10 @@
     "identifier": "com.docker.docker",
     "download": "https://download.docker.com/mac/stable/23751/Docker.dmg",
     "sha256": "cd2970d062d5ffb714f22a8595660646cbd7f3130874df1217f460b40f5e5a93",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "23751",
     "dir": "/Applications",

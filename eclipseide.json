@@ -5,6 +5,10 @@
     "identifier": "org.eclipse.platform.ide",
     "download": "http://mirror.switch.ch/eclipse/technology/epp/downloads/release/oxygen/3/eclipse-committers-oxygen-3-macosx-cocoa-x86_64.dmg",
     "sha256": "8dc8c366f2f1eab94c6eb9adaff8506363debd84a953f932e1c28e5652e32853",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "4.7.3",
     "build": null,
     "dir": "/Applications/Eclipse IDE",
