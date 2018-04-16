@@ -5,6 +5,10 @@
     "identifier": "com.Google.GoogleEarthPro",
     "download": "https://dl.google.com/earth/client/advanced/current/GoogleEarthMac-Intel.dmg",
     "sha256": "98327fec576eb56e6116b20f511434273bfe772e4a750736a9eb39a2f06a27db",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "7.3.1.4507",
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "com.PurgatoryDesign.Intaglio",
     "download": "http://cdn-cloud.anykeyit.ch/Static/Intaglio%203.9.5.dmg",
     "sha256": "ae566c32e5de57ac94302eed8d0d55fa43e6ca8a374030d1caba31934e1fca33",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.9.5",
     "build": "3.9.500",
     "dir": "/Applications",

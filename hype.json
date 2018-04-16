@@ -5,6 +5,10 @@
     "identifier": "com.tumult.Hype2",
     "download": "https://tumult.com/hype/download/Hype.zip",
     "sha256": "53d795cd2d66e197eae4183004ede1153352f17ab834faba59850fd6b08a6e83",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.6.5",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "com.jetbrains.intellij",
     "download": "https://download-cf.jetbrains.com/idea/ideaIU-2018.1.dmg",
     "sha256": "aac60c5b88198bcaa021c35eaa5444506aa4b436187fb8c53c3f4ce2d42b73b0",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2018.1",
     "build": null,
     "dir": "/Applications",

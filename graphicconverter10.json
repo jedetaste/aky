@@ -5,6 +5,10 @@
     "identifier": "com.lemkesoft.graphicconverter10",
     "download": "http://mirror.switch.ch/ftp/mirror/lemkesoft/gc10.dmg",
     "sha256": "b6134426a3b100c297e2ee0830b1c30233fc6d4fda27a2ed7cdf34b474bc70dd",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "10.5.5",
     "build": null,
     "dir": "/Applications",

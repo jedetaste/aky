@@ -5,6 +5,10 @@
     "identifier": "org.keepassx.keepassxc",
     "download": "https://github.com/keepassxreboot/keepassxc/releases/download/2.3.0/KeePassXC-2.3.0.dmg",
     "sha256": "2998d94d7bccdff9490c582a58fda6b63ae208b3ddd1f0f65257a694de6fb094",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.3.0",
     "build": null,
     "dir": "/Applications",

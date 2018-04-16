@@ -5,6 +5,10 @@
     "identifier": "com.ifolor.ifolor-Mac-Designer",
     "download": "https://chkr-download.ifolor.net/download/MacDesigner/Chkr-Mac-Designer.dmg",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.3.3",
     "build": null,
     "dir": "/Applications",

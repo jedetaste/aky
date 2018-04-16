@@ -5,6 +5,10 @@
     "identifier": "net.pornel.ImageOptim",
     "download": "https://imageoptim.com/ImageOptim1.8.0.tar.bz2",
     "sha256": "a674f8f0cf09eda0e0f725da0e95dbdf929bec6e06dd087f38ee4d7e6858b568",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.8.0",
     "build": null,
     "dir": "/Applications",

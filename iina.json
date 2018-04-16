@@ -5,6 +5,10 @@
     "identifier": "com.colliderli.iina",
     "download": "https://dl-portal.iina.io/IINA.v0.0.15-build64.dmg",
     "sha256": "adc15b266abc3e3cefbaec691aa35a79c4c4dbb4251d617a97c0ba892147f4d3",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "0.0.15",
     "build": null,
     "dir": "/Applications",
