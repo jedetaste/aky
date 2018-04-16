@@ -5,6 +5,10 @@
     "identifier": "com.adobe.flashplayer.installmanager",
     "download": "https://fpdownload.adobe.com/get/flashplayer/pdc/29.0.0.140/install_flash_player_osx.dmg",
     "sha256": "173d1201269371761460f36656edf92c23b90d1b21389c2b288c47be093951ae",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "29.0.0.140",
     "build": "29.0.0.140",
     "dir": "/Applications/Utilities",

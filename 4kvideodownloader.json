@@ -5,6 +5,10 @@
     "identifier": "com.openmedia.4kvideodownloader",
     "download": "https://dl.4kdownload.com/app/4kvideodownloader_4.4.6.dmg",
     "sha256": "821979eeb980351c253bc49e5d103ad6791d0520e406bf582a97565974a428f6",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "4.4.6",
     "dir": "/Applications",

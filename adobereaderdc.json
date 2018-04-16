@@ -5,6 +5,10 @@
     "identifier": "com.adobe.Reader",
     "download": "http://cdn-cloud.anykeyit.ch/Static/Adobe%20Acrobat%20Reader%20DC.pkg.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "18.011.20038",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "de.sedna.abbuicbuapp",
     "download": "http://xsedna.de/Sedna/abbu-icbu_files/abbuicbu.dmg",
     "sha256": "790291a577dc1df6432fd58433ae25b19f90591a51802e61027b64032e4e5842",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.10.4",
     "build": null,
     "dir": "/Applications",

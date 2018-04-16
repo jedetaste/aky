@@ -5,6 +5,10 @@
     "identifier": "com.google.android.mtpviewer",
     "download": "https://dl.google.com/dl/androidjumper/mtp/4421500/androidfiletransfer.dmg",
     "sha256": "9ac944cd72542d35b3e480257ed6e5eb9ff07f0cc5ffba349fbad33d523da529",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.0.11",
     "build": "1.0.442.1500",
     "dir": "/Applications",
