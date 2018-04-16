@@ -5,6 +5,10 @@
     "identifier": "com.Kerio-Connect",
     "download": "http://kerio-dc-releases.kerio.com/kerio-connect-client-update-darwin64-9.2.5.9921.zip",
     "sha256": "01b1c9da268cdccbbba560e22e2d615e37e4ca4818ac57dc84c598949b6f9a6a",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "9.2.5",
     "build": "9.2.5.9921",
     "dir": "/Applications",

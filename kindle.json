@@ -5,6 +5,10 @@
     "identifier": "com.amazon.Kindle",
     "download": "https://s3.amazonaws.com/kindleformac/48016/KindleForMac-48016.dmg",
     "sha256": "96acc8fed585c2759f6e001dac4ce91b276147f7866032d2890fac9614cf54e1",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "48016",
     "build": null,
     "dir": "/Applications",
