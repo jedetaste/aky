@@ -5,6 +5,10 @@
     "identifier": "com.globaldelight.Boom3D",
     "download": "https://dl.devmate.com/com.globaldelight.Boom3D/Boom3D.dmg",
     "sha256": "14c645ab8b85a696052dc01ad810487cdc4a21fae3f702eee156dd9ec9af2895",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.1.2",
     "build": null,
     "dir": "/Applications",

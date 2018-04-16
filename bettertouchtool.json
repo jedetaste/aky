@@ -5,6 +5,10 @@
     "identifier": "com.hegenberg.BetterTouchTool",
     "download": "https://bettertouchtool.net/releases/BetterTouchTool.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.425",
     "build": null,
     "dir": "/Applications",

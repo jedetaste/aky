@@ -5,6 +5,10 @@
     "identifier": "com.collectorz.com.Book-Collector",
     "download": "http://installers.collectorz.com/book-mac/bookcollectorsetup1713.dmg",
     "sha256": "634a74f5c189b8ab1d8d70daa4e2cd6efe0a753bc47a8e5ffb2ce7212e8ffd83",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "17.1.3",
     "build": null,
     "dir": "/Applications",
