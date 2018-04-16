@@ -5,6 +5,10 @@
     "identifier": "com.Eltima.ElmediaPlayer",
     "download": "https://cdn.eltima.com/download/elmediaplayer.dmg",
     "sha256": "4fad51809cac898a427daea3b78908c38bddf1651af52a864bfa435149055b5b",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "6.9",
     "build": null,
     "dir": "/Applications",

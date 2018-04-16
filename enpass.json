@@ -5,6 +5,10 @@
     "identifier": "in.sinew.Enpass-Desktop",
     "download": "https://dl.sinew.in/mac/setup/Enpass-5.6.3.dmg",
     "sha256": "308a4aad425ee8fba42c678f3bcf6d5109cfdc8cfb4c7b6db3f4995140460922",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "5.6.3",
     "build": "112",
     "dir": "/Applications",
