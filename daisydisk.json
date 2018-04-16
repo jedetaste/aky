@@ -5,6 +5,10 @@
     "identifier": "com.daisydiskapp.DaisyDiskStandAlone",
     "download": "https://daisydiskapp.com/downloads/DaisyDisk.zip",
     "sha256": "680bbd192deade466a98cd1e2e4adec7aac4145dcf0c044a37a9d44f4a2e0c00",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "4.5",
     "build": null,
     "dir": "/Applications",

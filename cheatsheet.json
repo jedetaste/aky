@@ -5,6 +5,10 @@
     "identifier": "com.mediaatelier.CheatSheet",
     "download": "https://mediaatelier.com/CheatSheet/CheatSheet_1.2.9.zip",
     "sha256": "0d3bb2a72a9f108ac37ad62b3ed278b1344f92835b7d47548bfa2d49777aefec",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.2.9",
     "build": "1.2.9",
     "dir": "/Applications",

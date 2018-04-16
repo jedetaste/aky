@@ -5,6 +5,10 @@
     "identifier": "com.backup42.desktop",
     "download": "https://download.code42.com/installs/mac/install/CrashPlanPROe/CrashPlanPROe_4.8.4_Mac.dmg",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "4.8.4",
     "build": null,
     "dir": "/Applications",

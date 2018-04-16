@@ -5,6 +5,10 @@
     "identifier": "uk.co.canimaansoftware.clamxav",
     "download": "https://www.clamxav.com/downloads/ClamXAV_2.18.1_3610.zip",
     "sha256": "a51284f640a1e0b95cce95d90df6031c4d3e543f1d6e109b980102a26fbb30e9",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.18.1",
     "build": null,
     "dir": "/Applications",

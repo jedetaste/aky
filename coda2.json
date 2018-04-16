@@ -5,6 +5,10 @@
     "identifier": "com.panic.Coda2",
     "download": "https://download.panic.com/coda/Coda%202.6.9.zip",
     "sha256": "9de300786284e8f9afd25d51aa5c1858d6c6e9d3248ee35ca0ec8f61155c8aeb",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.6.9",
     "build": null,
     "dir": "/Applications",

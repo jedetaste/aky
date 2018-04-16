@@ -5,6 +5,10 @@
     "identifier": "ch.sudo.cyberduck",
     "download": "https://update.cyberduck.io/Cyberduck-6.4.6.27773.zip",
     "sha256": "a3d43d37d75f6f6c93c4af84e93e1cd3d8ff64ec224730b454482e8b3ec9025c",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "6.4.6",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "com.coconut-flavour.coconutBattery",
     "download": "https://coconut-flavour.com/downloads/coconutBattery_3.6.7.zip",
     "sha256": "990bf4153193a4f72bc21f5cd4e17fdbc5b1dbb3df1603a817ba42ff660f28b5",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.6.7",
     "build": null,
     "dir": "/Applications",
