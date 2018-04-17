@@ -5,6 +5,10 @@
     "identifier": "org.videolan.vlc",
     "download": "https://get.videolan.org/vlc/3.0.1/macosx/vlc-3.0.1.dmg",
     "sha256": "ceea37fb888b810c1b11c558471f10fa35500c047d6eca5733f038eefb16d926",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.0.1",
     "build": null,
     "dir": "/Applications",

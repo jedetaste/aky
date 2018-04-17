@@ -5,6 +5,10 @@
     "identifier": "com.realvnc.vncviewer",
     "download": "https://www.realvnc.com/download/file/viewer.files/VNC-Viewer-6.17.1113-MacOSX-x86_64.dmg",
     "sha256": "94372f5ce18e9432d6b9ebc082e1a655554c6ffbbfd90ea46580a520811aae77",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "6.17.1113.31799",
     "dir": "/Applications",

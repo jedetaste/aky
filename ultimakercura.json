@@ -5,6 +5,10 @@
     "identifier": "nl.ultimaker.cura",
     "download": "https://download.ultimaker.com/current/Ultimaker%20Cura-3.2.1-Darwin.dmg",
     "sha256": "162554f2784d8a44b2d8a5fb9827a6cae6009582484d10feb9f8f1217598c8a1",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "3.2.1",
     "dir": "/Applications",

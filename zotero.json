@@ -5,6 +5,10 @@
     "identifier": "org.zotero.zotero",
     "download": "https://download.zotero.org/client/release/5.0.44/Zotero-5.0.44.dmg",
     "sha256": "b1b7c5bf1696d75cfd4b6b992751b7b87464873304771b5e4050cba7530b18a5",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "5.0.44",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "org.virtualbox.app.VirtualBox",
     "download": "https://download.virtualbox.org/virtualbox/5.2.8/VirtualBox-5.2.8-121009-OSX.dmg",
     "sha256": "97764ad37c5fafdeccecfb660ce056f625e9048890af772befe0330ed2def1d8",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "5.2.8",
     "build": null,
     "dir": "/Applications",

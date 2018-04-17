@@ -5,6 +5,10 @@
     "identifier": "com.vivaldi.Vivaldi",
     "download": "https://downloads.vivaldi.com/stable/Vivaldi.1.14.1077.60.dmg",
     "sha256": "b6cfeafdf7a952ca30adfa9eaa0a3044b96d9a47dbcbe31c65f5da9b699c96ef",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.14.1077.60",
     "build": null,
     "dir": "/Applications",

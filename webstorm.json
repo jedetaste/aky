@@ -5,6 +5,10 @@
     "identifier": "com.jetbrains.WebStorm",
     "download": "https://download-cf.jetbrains.com/webstorm/WebStorm-2018.1.dmg",
     "sha256": "0db07163e893ba1493453c31646783d765863322a050555298870dd78bae387f",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2018.1",
     "build": null,
     "dir": "/Applications",

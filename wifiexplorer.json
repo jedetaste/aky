@@ -5,6 +5,10 @@
     "identifier": "wifiexplorer",
     "download": "https://www.adriangranados.com/downloads/wifiexplorer.zip",
     "sha256": "b07d82556ecb9c5c8972d7973a67350557a6c5b809d078621b0554f1899ca743",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.4",
     "build": "22",
     "dir": "/Applications",

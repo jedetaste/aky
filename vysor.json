@@ -5,6 +5,10 @@
     "identifier": "com.electron.vysor",
     "download": "https://github.com/koush/vysor.io/releases/download/1.8.3/Vysor-mac.zip",
     "sha256": "7a8622b187fd69338ef9f21e7b9655b599c65800b84a25af49b3fd1948fcd060",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.8.3",
     "build": null,
     "dir": "/Applications",

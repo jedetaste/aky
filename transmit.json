@@ -5,6 +5,10 @@
     "identifier": "com.panic.Transmit",
     "download": "https://download.panic.com/transmit/Transmit%205.1.1.zip",
     "sha256": "57b3990710267152b06e28880fa494fde29ce6eeb33bdd79e23dbd799add199b",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "5.1.1",
     "build": null,
     "dir": "/Applications",

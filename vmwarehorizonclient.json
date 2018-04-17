@@ -5,6 +5,10 @@
     "identifier": "com.vmware.horizon",
     "download": "https://download3.vmware.com/software/view/viewclients/CART18FQ4/VMware-Horizon-Client-4.7.0-7395166.dmg",
     "sha256": "5907cf801cc2fedfc20bcdb65b9fe9b9d69f9dd9e39e4d7a5a1127f3b8bdfcf9",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "4.7.0",
     "build": null,
     "dir": "/Applications",

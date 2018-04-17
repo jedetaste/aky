@@ -5,6 +5,10 @@
     "identifier": "com.SchoolCraft.WorksheetCrafter",
     "download": "https://dl.cleverbridge.com/1010/q8faw1-23340-36FF3ECC-115515233/WorksheetCrafter.dmg",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2017.2.3.13",
     "build": null,
     "dir": "/Applications",

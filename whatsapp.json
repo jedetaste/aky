@@ -5,6 +5,10 @@
     "identifier": "WhatsApp",
     "download": "https://web.whatsapp.com/desktop/mac/files/release-0.2.8691.zip",
     "sha256": "9ec513088b9c668a2803a2711d84af49e83bca6754caee1539186d24ca60a15e",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "0.2.8691",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "tracesOf.Uebersicht",
     "download": "http://tracesof.net/uebersicht/releases/Uebersicht-1.2.53.app.zip",
     "sha256": "e74dfc4d49e035269e44563541eb0b50b5de7c102fe948a09d5b075140ddf29e",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.2",
     "build": "53",
     "dir": "/Applications",
