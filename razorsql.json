@@ -5,6 +5,10 @@
     "identifier": "com.razorsql.RazorSQL",
     "download": "http://downloads.razorsql.com/downloads/7_4_10/razorsql7_4_10_x64.dmg",
     "sha256": "201df9ccbbbe3e5347c474986ee456b58971f41e0b5ba8b77d7a5cee3db8b465",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "7.4.10",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "com.macility.popchar3",
     "download": "http://cdn-cloud.anykeyit.ch/Static/PopCharX82-Install.dmg",
     "sha256": "32cab3a02c9fc867a6e668ba6804ffa2c573e0719b6fdaf3fa59668ba67b5bf8",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "8.2",
     "build": "8.2",
     "dir": "/Applications",

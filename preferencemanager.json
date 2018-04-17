@@ -5,6 +5,10 @@
     "identifier": "com.digitalrebellion.PreferenceManager",
     "download": "http://download.digitalrebellion.com/prefman/Preference_Manager_4420.dmg",
     "sha256": "b39ece3b79d5d72987abf0aa79b8d5fcb996dfd29dff6016f37c3529fd3ecefd",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "4.4.2",
     "build": null,
     "dir": "/Applications",

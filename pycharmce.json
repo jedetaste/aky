@@ -5,6 +5,10 @@
     "identifier": "com.jetbrains.pycharm",
     "download": "https://download-cf.jetbrains.com/python/pycharm-community-2017.3.4.dmg",
     "sha256": "7f28b4f75600671c0d0f8d9153be0f5fbf64fb9616812e34569e06a30ebcbd55",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2017.3.4",
     "build": null,
     "dir": "/Applications",

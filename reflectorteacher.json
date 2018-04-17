@@ -5,6 +5,10 @@
     "identifier": "com.squirrels.Reflector-Teacher",
     "download": "https://download.airsquirrels.com/ReflectorTeacher/Mac/ReflectorTeacher-3.0.2.dmg",
     "sha256": "1d9d2db04d6b5d4c2a4150718693792a813560d0af20d5afa8a067617f70558f",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.0.2",
     "build": null,
     "dir": "/Applications",

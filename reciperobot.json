@@ -5,6 +5,10 @@
     "identifier": "com.elliotjordan.recipe-robot",
     "download": "https://github.com/homebysix/recipe-robot/releases/download/v1.0.5/RecipeRobot-1.0.5.dmg",
     "sha256": "fc3beab891fe0d21868ec067073ead3bff157ea63bf911322a47fad5d9d3712b",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.0.5",
     "build": "772",
     "dir": "/Applications",

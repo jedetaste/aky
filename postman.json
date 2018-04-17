@@ -5,6 +5,10 @@
     "identifier": "com.postmanlabs.mac",
     "download": "https://dl.pstmn.io/download/latest/osx",
     "sha256": "023705ccd601471a3e3560bf9ef5d850cebccb787ad2f4c342aed71bb27b0152",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "6.0.10",
     "build": null,
     "dir": "/Applications",

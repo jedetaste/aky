@@ -5,6 +5,10 @@
     "identifier": "com.resilio.Sync",
     "download": "https://download-cdn.resilio.com/stable/osx/Resilio-Sync.dmg",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.5.12",
     "build": null,
     "dir": "/Applications",
