@@ -6,8 +6,8 @@
     "download": "https://s3.amazonaws.com/Airflow/Download/Airflow%202.3.1-u1.zip",
     "sha256": "f6cecbc2865238c775f2a83656c3efcdc9443783bf613624b4ac908e9ef87811",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://s3.amazonaws.com/Airflow/Updates/appcast-osx.xml",
+        "checkpoint": "012c22c7bce1061485202a328111f2e7cb51188b90d009ccab884e5dcc8aa61c"
     },
     "version": "2.3.1-u1",
     "build": "10706",
