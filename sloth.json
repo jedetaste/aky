@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "sloth",
+    "bundle": "Sloth.app",
+    "identifier": "org.sveinbjorn.Sloth",
+    "download": "https://sveinbjorn.org/files/software/sloth.zip",
+    "sha256": null,
+    "appcast": {
+        "url": "https://sveinbjorn.org/files/appcasts/SlothAppcast.xml",
+        "checkpoint": "8e2118307c2d1ae9184f819cb9f960f6f1c9492a20c72b3715cd868967d2d652"
+    },
+    "version": "2.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://sveinbjorn.org/sloth"
+  }
+}
