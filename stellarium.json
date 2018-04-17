@@ -5,6 +5,10 @@
     "identifier": "org.stellarium.Stellarium",
     "download": "https://github.com/Stellarium/stellarium/releases/download/v0.18.0/Stellarium-0.18.0.dmg",
     "sha256": "ef2fffc09d1b0334939ce05a8ddbd732a2e55bc5cef8258dd22bbc948f259522",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "0.18.0",
     "build": null,
     "dir": "/Applications",

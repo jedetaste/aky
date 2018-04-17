@@ -5,6 +5,10 @@
     "identifier": "com.TechSmith.Snagit2018",
     "download": "http://download.techsmith.com/snagitmac/deu/Snagit.dmg",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2018.1.1",
     "build": null,
     "dir": "/Applications",

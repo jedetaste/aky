@@ -5,6 +5,10 @@
     "identifier": "cytotrade.Sophia",
     "download": "http://www.sophiatesting.com/download/Sophia.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.27",
     "build": null,
     "dir": "/Applications",

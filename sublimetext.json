@@ -5,6 +5,10 @@
     "identifier": "com.sublimetext.3",
     "download": "https://download.sublimetext.com/Sublime%20Text%20Build%203143.dmg",
     "sha256": "952f81f79efb1a0a103fe87328af6a0dd8adf64e16636ecb221e79e453564b6c",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "3143",
     "dir": "/Applications",

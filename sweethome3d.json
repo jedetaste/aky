@@ -5,6 +5,10 @@
     "identifier": "com.eteks.sweethome3d.SweetHome3D",
     "download": "https://downloads.sourceforge.net/sweethome3d/SweetHome3D/SweetHome3D-5.7/SweetHome3D-5.7-macosx.dmg",
     "sha256": "5440e833e771acb390bb31b6553d86869f36a9ea699be49ba5176f9851c01d09",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "5.7",
     "build": null,
     "dir": "/Applications",

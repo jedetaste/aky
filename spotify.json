@@ -5,6 +5,10 @@
     "identifier": "com.spotify.client",
     "download": "https://download.scdn.co/Spotify.dmg",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.0.74.380.g1fcff12a",
     "build": null,
     "dir": "/Applications",

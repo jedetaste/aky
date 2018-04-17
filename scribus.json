@@ -5,6 +5,10 @@
     "identifier": "net.scribus",
     "download": "https://downloads.sourceforge.net/scribus/scribus/1.4.6/scribus-1.4.6.dmg",
     "sha256": "db818ae3a69ca16c1b3fb873b55903062f7b81f42d7adcc64a61ee93bf95727e",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.4.6",
     "build": null,
     "dir": "/Applications",

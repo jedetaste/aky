@@ -5,6 +5,10 @@
     "identifier": "com.mothersruin.SuspiciousPackageApp",
     "download": "http://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg",
     "sha256": "49eee6dc930574b6d03534bea5820cdf47fd10c4f6b82be14afb8e1e76a06304",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.3.1",
     "build": "296",
     "dir": "/Applications",

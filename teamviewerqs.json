@@ -5,6 +5,10 @@
     "identifier": "com.teamviewer.TeamViewerQS",
     "download": "https://download.teamviewer.com/download/TeamViewerQS.dmg",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "13.1.4170",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "com.bohemiancoding.sketch3",
     "download": "https://download.sketchapp.com/sketch-49.3-51167.zip",
     "sha256": "1bbe2cd7fa80bba29be24cf4475c27200f7f5ee89dc4276459c44762f8cea273",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "49.3",
     "build": null,
     "dir": "/Applications",

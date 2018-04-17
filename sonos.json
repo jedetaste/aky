@@ -5,6 +5,10 @@
     "identifier": "com.sonos.macController",
     "download": "http://update-software.sonos.com/software/mac/mdcr/SonosDesktopController851.dmg",
     "sha256": "ecd26d25b4c3f70d5796e6517810ca0af9e1af258d139170c3cb91c8ea445fee",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "8.5.1",
     "build": null,
     "dir": "/Applications",

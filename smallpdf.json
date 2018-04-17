@@ -5,6 +5,10 @@
     "identifier": "com.electron.smallpdf",
     "download": "https://download.smallpdf.com/desktop/mac/Smallpdf.dmg",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.5.0",
     "build": null,
     "dir": "/Applications",

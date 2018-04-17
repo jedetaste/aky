@@ -5,6 +5,10 @@
     "identifier": "de.starface.STARFACE-Client",
     "download": "http://www.starface-cdn.de/starface/ISOS/STARFACE%20UCC%20Client%206.4.3.10.zip",
     "sha256": "980f4d75e3741f6a3613ae87ed8c3fdd3b81fc18d0d3d7e24fcb41f33b2369be",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "6.4.3.10",
     "build": null,
     "dir": "/Applications",

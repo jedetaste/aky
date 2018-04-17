@@ -5,6 +5,10 @@
     "identifier": "com.jssmut.jssmut",
     "download": "http://m-lev.com/uploads/TheMUT_4_0_0.dmg",
     "sha256": "95a805ae455aeae67f2d3a0db2210cf4a25adefe5a9d01ab724ced3d36d1a555",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "4.0.0",
     "build": null,
     "dir": "/Applications",

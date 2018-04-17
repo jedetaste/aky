@@ -5,6 +5,10 @@
     "identifier": "com.torusknot.SourceTreeNotMAS",
     "download": "https://downloads.atlassian.com/software/sourcetree/Sourcetree_2.7.2b.zip",
     "sha256": "13a84f91daf777921c8535885b0f9a53728c82ff714d96fa17f07177b9c3cb7b",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.7.2",
     "build": null,
     "dir": "/Applications",

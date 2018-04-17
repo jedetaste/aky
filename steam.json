@@ -5,6 +5,10 @@
     "identifier": "com.valvesoftware.steam",
     "download": "https://steamcdn-a.akamaihd.net/client/installer/steam.dmg",
     "sha256": "ca6cf486630bc44497715c2e86d86cab81156005095d54a9dea8b6872326acf6",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "1.5",
     "dir": "/Applications",

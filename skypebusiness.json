@@ -5,6 +5,10 @@
     "identifier": "com.microsoft.SkypeForBusiness",
     "download": "http://download.microsoft.com/download/D/0/5/D055DA17-C7B8-4257-89A1-78E7BBE3833F/SkypeForBusinessInstaller-16.16.0.102.pkg",
     "sha256": "6bdf075fae7e7b3a01ab88c656cf6368bd1cf1bad02edfbd8dbc2826b0be95fa",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "16.16.102",
     "build": null,
     "dir": "/Applications",

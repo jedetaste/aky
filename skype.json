@@ -5,6 +5,10 @@
     "identifier": "com.skype.skype",
     "download": "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.19.0.1.dmg",
     "sha256": "a645feda6903cb627e624d11836159c0466d797a9cb0b160247572da538f7bc7",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "8.19.0.1",
     "dir": "/Applications",

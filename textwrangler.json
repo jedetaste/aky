@@ -5,6 +5,10 @@
     "identifier": "com.barebones.textwrangler",
     "download": "https://s3.amazonaws.com/BBSW-download/TextWrangler_5.5.2.dmg",
     "sha256": "046aff569123d39782981f52d918a1b51f18caefca4ac0436dcc193edfd96c08",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "5.5.2",
     "build": null,
     "dir": "/Applications",
