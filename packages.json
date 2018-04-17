@@ -5,6 +5,10 @@
     "identifier": "fr.whitebox.Packages",
     "download": "http://s.sudre.free.fr/Software/files/Packages.dmg",
     "sha256": "77e88cf1b02cee232ece0c24c61e30da20274f3c0e1a6107d06030dd126d677c",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.2.3",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "notion.id",
     "download": "https://desktop-release.notion-static.com/Notion-0.2.0.dmg",
     "sha256": "08053ceae79878bb5f5be55fc2dbb7fbdbcb81ea309c3cd8049a8da677195bc8",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "0.2.0",
     "build": null,
     "dir": "/Applications",

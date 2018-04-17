@@ -5,6 +5,10 @@
     "identifier": "com.titanium.OnyX",
     "download": "https://www.titanium-software.fr/download/1013/OnyX.dmg",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.4.3",
     "build": null,
     "dir": "/Applications",

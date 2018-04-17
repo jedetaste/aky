@@ -5,6 +5,10 @@
     "identifier": "com.omnigroup.OmniDiskSweeper",
     "download": "https://downloads.omnigroup.com/software/MacOSX/10.12/OmniDiskSweeper-1.10.dmg",
     "sha256": "0d8f5b7ff075fca4503a41e1ea898a145001f3f602f6b53ffb310e0a465af080",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.10",
     "build": null,
     "dir": "/Applications",

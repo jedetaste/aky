@@ -5,6 +5,10 @@
     "identifier": "com.plexapp.plexmediaserver",
     "download": "https://downloads.plex.tv/plex-media-server/1.12.2.4929-29f6d1796/PlexMediaServer-1.12.2.4929-29f6d1796-OSX.zip",
     "sha256": "48623c7e7e7f87ab1c4ab9e701c4b4cd5197d090d65b5a39b7083c6d376397b5",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.12.2",
     "build": null,
     "dir": "/Applications",

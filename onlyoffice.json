@@ -5,6 +5,10 @@
     "identifier": "asc.onlyoffice.ONLYOFFICE",
     "download": "http://download.onlyoffice.com/install/desktop/editors/mac/updates/onlyoffice/ONLYOFFICE-4.4.zip",
     "sha256": "ef98728c2b644e025d75c4abb722da71627e9d56169e4cd8ff95487e9ae27ce6",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "4.4",
     "build": null,
     "dir": "/Applications",

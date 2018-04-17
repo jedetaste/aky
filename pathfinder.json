@@ -5,6 +5,10 @@
     "identifier": "com.cocoatech.PathFinder",
     "download": "http://get.cocoatech.com/PF7.zip",
     "sha256": "0757904f969e0cadff112ce10b48ff28647c0ee3a8b9221bdb34389522fa2d54",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "7.6.2",
     "build": null,
     "dir": "/Applications",

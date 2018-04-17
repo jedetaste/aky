@@ -5,6 +5,10 @@
     "identifier": "com.jetbrains.PhpStorm",
     "download": "https://download-cf.jetbrains.com/webide/PhpStorm-2018.1.dmg",
     "sha256": "45d634cfd962569d0f5eb91b703b2b1721bf4b6d2187696e4fc1b5fa4c23c6c0",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2018.1",
     "build": null,
     "dir": "/Applications",

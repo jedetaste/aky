@@ -5,6 +5,10 @@
     "identifier": "com.fatcatsoftware.pledpro",
     "download": "https://www.fatcatsoftware.com/plisteditpro/PlistEditPro.zip",
     "sha256": "760959a34c9732dc675df7215837ed0cc9a1923d42ee151406ead96ef5c23b09",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.8.7",
     "build": null,
     "dir": "/Applications",

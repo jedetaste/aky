@@ -5,6 +5,10 @@
     "identifier": "com.luckymarmot.Paw",
     "download": "https://cdn-builds.paw.cloud/paw/Paw-3.1.5-3001005003.zip",
     "sha256": "7a4c658ac371539335090d7ed714b6efee566a46ea94d1ebaed06346328d4a92",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.1.5",
     "build": null,
     "dir": "/Applications",

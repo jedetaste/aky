@@ -5,6 +5,10 @@
     "identifier": "org.pencil2d.Pencil2D",
     "download": "https://github.com/pencil2d/pencil/releases/download/0.6.0/pencil2d-mac-0.6.0.zip",
     "sha256": "22026401c6eece9358a9251bf7f9a22e62214ef25bf2d82daf66c00ede9eb11c",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "0.6.0",
     "build": null,
     "dir": "/Applications",
