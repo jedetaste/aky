@@ -1,7 +1,7 @@
 {
   "recipe": {
     "id": "firefoxdeveloperedition-en",
-    "bundle": "FirefoxDeveloperEdition.app",
+    "bundle": "Firefox Developer Edition.app",
     "identifier": "org.mozilla.firefoxdeveloperedition",
     "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/60.0b13/mac/en-US/Firefox%2060.0b13.dmg",
     "sha256": "0ed23c0c24b41e82cb7dd3380e4ee5e782b4494c5a5a8a26653abc8395cd74c8",
