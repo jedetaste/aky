@@ -5,6 +5,10 @@
     "identifier": "com.matchware.MindView7",
     "download": "http://cdn.matchware.com/demos/mindview7mac_en.dmg",
     "sha256": "cdb4ce9491c2aac434694a4c0517acdb8c749157bd3f5f8d7825b365753bf0ec",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "7.0.0",
     "build": null,
     "dir": "/Applications/MindView 7",

@@ -5,6 +5,10 @@
     "identifier": "org.musescore.MuseScore",
     "download": "https://ftp.osuosl.org/pub/musescore/releases/MuseScore-2.2.1/MuseScore-2.2.1.dmg",
     "sha256": "f1291f1f9ff5a85946215c926266f65cc51ab3558127e2cb554ac812d6fe320f",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "2.2.1",
     "dir": "/Applications",

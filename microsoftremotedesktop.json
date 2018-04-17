@@ -5,6 +5,10 @@
     "identifier": "com.microsoft.rdc.macos",
     "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Remote_Desktop_10.1.7_installer.pkg",
     "sha256": "bb90305fa3bf0bc3d8e10a4ef61fe57e8e5d5cfd6bbe8774dd9e1e0ebbe1672e",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "10.1.7",
     "build": null,
     "dir": "/Applications",

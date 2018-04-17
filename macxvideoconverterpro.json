@@ -5,6 +5,10 @@
     "identifier": "com.macxdvd.macxiphonevdoconverter",
     "download": "https://www.macxdvd.com/download/macx-iphone-video-converter.dmg",
     "sha256": "5ebd2528f8d5670e73da19486aad8f70f50562fec66fffc2cc1d3ebdf4036d87",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "6.3.0",
     "build": null,
     "dir": "/Applications",

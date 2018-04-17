@@ -5,6 +5,10 @@
     "identifier": "com.nextcloud.desktopclient",
     "download": "https://download.nextcloud.com/desktop/releases/Mac/Installer/Nextcloud-2.3.3.84.pkg",
     "sha256": "87c551d015a4e64bffe39f775b8ba46a3b9a424988e03ae8a5d753de2b4a7a8e",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "2.3.3.84",
     "dir": "/Applications",

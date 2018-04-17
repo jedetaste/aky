@@ -5,6 +5,10 @@
     "identifier": "com.CodeContortionist.MultiFirefox",
     "download": "https://s3.amazonaws.com/mff_sparkle/MultiFirefox_2.4.0.zip",
     "sha256": "7b0cac19469d6a222b4254c0c6ef27cafe847ce89e1efb398d3637f1425645dc",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": null,
     "build": "2.4.0",
     "dir": "/Applications",

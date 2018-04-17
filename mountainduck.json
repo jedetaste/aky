@@ -5,6 +5,10 @@
     "identifier": "io.mountainduck",
     "download": "https://dist.mountainduck.io/Mountain%20Duck-2.3.3.9245.zip",
     "sha256": "dc00f673b087d117cb5881c1bfe16f31c4de6b41e4a5d8534d847b1b33cc7c55",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2.3.3",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "net.projectwizards.merlinproject",
     "download": "http://www.projectwizards.net/downloads/MerlinProject.zip",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "4.3.5",
     "build": null,
     "dir": "/Applications",

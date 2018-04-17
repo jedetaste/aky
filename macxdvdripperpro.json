@@ -5,6 +5,10 @@
     "identifier": "com.macxdvd.macxvideoconverterpro",
     "download": "https://www.macxdvd.com/download/macx-dvd-ripper-pro.dmg",
     "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "5.7.0",
     "build": null,
     "dir": "/Applications",

@@ -5,6 +5,10 @@
     "identifier": "ch.rothsoft.lehreroffice.sv",
     "download": "https://www.lehreroffice.ch/lo/dateien/zusatz/lo_zusatz_osx.dmg",
     "sha256": "807d3c47c73d3b0dbd82bd9c810ce764ce819c7abb6b99d39c90f83523ea8aa2",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "2018.5.0",
     "build": null,
     "dir": "/Applications/LehrerOffice",

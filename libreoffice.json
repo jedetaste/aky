@@ -5,6 +5,10 @@
     "identifier": "org.libreoffice.script",
     "download": "https://download.documentfoundation.org/libreoffice/stable/6.0.3/mac/x86_64/LibreOffice_6.0.3_MacOS_x86-64.dmg",
     "sha256": "acb71b1d1b8c8857a0150d5cf9db06515abe82458fd4684be3b88d98d722fd98",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "6.0.3002",
     "build": null,
     "dir": "/Applications",

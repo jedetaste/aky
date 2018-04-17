@@ -5,6 +5,10 @@
     "identifier": "com.microsoft.autoupdate2",
     "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.18.18041000_Updater.pkg",
     "sha256": "2d49dd7f031742ec84d759c98fcbf597f4a37010d07f97987aff6c00e3c043e8",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.18",
     "build": null,
     "dir": "/Library/Application Support/Microsoft/MAU2.0",

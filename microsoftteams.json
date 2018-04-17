@@ -5,6 +5,10 @@
     "identifier": "com.microsoft.teams",
     "download": "https://statics.teams.microsoft.com/production-osx/1.1.00.8752/Teams_osx.dmg",
     "sha256": "537e0030d0e93c91daf449d6913bdbf2b833f07e9375ea3fe0ddbd153643020d",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "1.00.18752",
     "build": null,
     "dir": "/Applications",

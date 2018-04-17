@@ -5,6 +5,10 @@
     "identifier": "net.freemacsoft.LiteIcon",
     "download": "https://freemacsoft.net/downloads/LiteIcon_3.8.2.zip",
     "sha256": "ede528b762f4f979b488973db002442260c6eda36d4875655887956e62576e62",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "3.8.2",
     "build": "1304",
     "dir": "/Applications",

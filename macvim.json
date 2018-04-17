@@ -5,6 +5,10 @@
     "identifier": "org.vim.MacVim",
     "download": "https://github.com/macvim-dev/macvim/releases/download/snapshot-145/MacVim.dmg",
     "sha256": "4182cbf0cd6158f4515d3a7af96140d6069e01542e9250410cbeb66452779460",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "8.0.1522",
     "build": null,
     "dir": "/Applications",

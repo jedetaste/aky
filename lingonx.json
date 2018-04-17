@@ -5,6 +5,10 @@
     "identifier": "com.peterborgapps.LingonX5",
     "download": "https://www.peterborgapps.com/downloads/LingonX6.zip",
     "sha256": "8168b2a9ae37694dd65f3b17b978c445af4f1d916e6a4d449206a486b559d097",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
     "version": "6.0",
     "build": null,
     "dir": "/Applications",
