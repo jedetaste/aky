@@ -6,8 +6,8 @@
     "download": "https://bettertouchtool.net/releases/BetterTouchTool.zip",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://updates.bettertouchtool.net/bettertouchtool_release_notes.html",
+        "checkpoint": "a4ffd72045e95864ddf9f6134210b75ff1eeec692d0bb6ec6f7096eb3efa6304"
     },
     "version": "2.425",
     "build": null,
