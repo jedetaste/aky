@@ -6,8 +6,8 @@
     "download": "https://www.obdev.at/ftp/pub/Products/launchbar/LaunchBar-6.9.4.dmg",
     "sha256": "1bbdc779588ef8c443c9a2395db04645164607270999a93200246210b87868a6",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.obdev.at/products/launchbar/releasenotes.html",
+        "checkpoint": "e8003d9c51a2d8a0806cea62110e28e2158cf5dfd21e02def699f1f0ef0d001a"
     },
     "version": "6.9.4",
     "build": null,
