@@ -6,8 +6,8 @@
     "download": "https://www.lehreroffice.ch/lo/dateien/zusatz/lo_zusatz_osx.dmg",
     "sha256": "807d3c47c73d3b0dbd82bd9c810ce764ce819c7abb6b99d39c90f83523ea8aa2",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.lehreroffice.ch/services/update/getcurrentversion.php?app=Zusatz",
+        "checkpoint": "8e188ada96aeae9cfb861c5e427472334e9b2b1331ee9469f84c35132b873b47"
     },
     "version": "2018.5.0",
     "build": null,

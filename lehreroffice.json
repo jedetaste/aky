@@ -6,8 +6,8 @@
     "download": "https://www.lehreroffice.ch/lo/dateien/easy/lo_osx.dmg",
     "sha256": "fd61efcb433d6952399e295104624b36572a4c1e6afb9b38615f888d8ec60928",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.lehreroffice.ch/services/update/getcurrentversion.php?app=Desktop",
+        "checkpoint": "8e188ada96aeae9cfb861c5e427472334e9b2b1331ee9469f84c35132b873b47"
     },
     "version": "2018.5.0",
     "build": null,
