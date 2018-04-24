@@ -3,13 +3,13 @@
     "id": "vlc",
     "bundle": "VLC.app",
     "identifier": "org.videolan.vlc",
-    "download": "https://get.videolan.org/vlc/3.0.1/macosx/vlc-3.0.1.dmg",
-    "sha256": "ceea37fb888b810c1b11c558471f10fa35500c047d6eca5733f038eefb16d926",
+    "download": "http://mirror.switch.ch/ftp/mirror/videolan/vlc/3.0.2/macosx/vlc-3.0.2.dmg",
+    "sha256": "377d93d29d27880530e54e5b8d62a96de329ec05d58d7cde821e50cebf1512d7",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "3.0.1",
+    "version": "3.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
