@@ -4,12 +4,12 @@
     "bundle": "Formular-Designer.app",
     "identifier": "ch.rothsoft.lehreroffice.formulardesigner",
     "download": "https://www.lehreroffice.ch/lo/dateien/designer/lo_designer_osx.dmg",
-    "sha256": "f40f0c8b5e1259ad8cd575102ec36393e3c296534ffb477c50f32398d115b307",
+    "sha256": "86f6f70b5df6535e81c17deb2dc16166ce5f7a92be79be28c3b73d74b5187474",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "2018.1.0",
+    "version": "2018.2.0",
     "build": null,
     "dir": "/Applications/LehrerOffice",
     "symlink": null,
