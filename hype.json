@@ -4,12 +4,12 @@
     "bundle": "Hype2.app",
     "identifier": "com.tumult.Hype2",
     "download": "https://tumult.com/hype/download/Hype.zip",
-    "sha256": "aaee53e8232769b986eb6545babff96b433a27bcbcaa301077dae24bc3a6e7b3",
+    "sha256": "bf7c50c3586db09eeb957900a156b4e0c14a53b5a92fdb6471a7a952649cc324",
     "appcast": {
         "url": "https://tumult.com/hype/appcast_hype2.xml",
-        "checkpoint": "b2c6f2fc8ffda67a49cea9753c4405d2953b0a691595ae7d02643033071c603c"
+        "checkpoint": "699abf7b4ea099adbf3e68383fac3fa7328de6a4c4293aa21434e0a15c6d84da"
     },
-    "version": "3.6.6",
+    "version": "3.6.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
