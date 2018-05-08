@@ -2,14 +2,14 @@
   "recipe": {
     "id": "lingonx",
     "bundle": "Lingon X.app",
-    "identifier": "com.peterborgapps.LingonX5",
+    "identifier": "com.peterborgapps.LingonX6",
     "download": "https://www.peterborgapps.com/downloads/LingonX6.zip",
     "sha256": "4bbda23e57d7be8c461e13217e586c5b3fa265243f761cf29f57c21b3c8a6a09",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "6.1",
+    "version": "6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
