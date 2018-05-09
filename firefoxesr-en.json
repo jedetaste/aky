@@ -3,13 +3,13 @@
     "id": "firefoxesr-en",
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
-    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/52.7.3esr/mac/en-US/Firefox%2052.7.3esr.dmg",
-    "sha256": "2073a57394c34223157a015aa6de8235b710d6661b6b22f8aa309053aea1b642",
+    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/52.7.4esr/mac/en-US/Firefox%2052.7.4esr.dmg",
+    "sha256": "2e7b3b486e43f522da5d8300a3641653d2718ae044751a3e617e361daf1dd734",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "52.7.3",
+    "version": "52.7.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
