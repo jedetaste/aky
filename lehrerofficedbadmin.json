@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "lehrerofficedbadmin",
+    "bundle": "LehrerOffice-DBAdmin.app",
+    "identifier": "ch.rothsoft.sqlserver.cubesql.dbadmin",
+    "download": "https://www.lehreroffice.ch/lo/dateien/db/lo_db_admin.dmg",
+    "sha256": "b262f2f83e035063642cf760f9da4fab1ece04842d7d32363bf5f8c28df2222d",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
+    "version": "2017.2.0",
+    "build": null,
+    "dir": "/Applications/LehrerOffice",
+    "symlink": null,
+    "web": "https://www.lehreroffice.ch/"
+  }
+}
