@@ -3,14 +3,14 @@
     "id": "sublimetext",
     "bundle": "Sublime Text.app",
     "identifier": "com.sublimetext.3",
-    "download": "https://download.sublimetext.com/Sublime%20Text%20Build%203170.dmg",
-    "sha256": "c61af654721bd9de6b7e82db43378f583e577d8f6cfb7c1541771c64523b30f3",
+    "download": "https://download.sublimetext.com/Sublime%20Text%20Build%203176.dmg",
+    "sha256": "68cc4a12f30511b3e9fa45e6240f18b1963407a613d8933a57dec0fddf504aaa",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
     "version": null,
-    "build": "3170",
+    "build": "3176",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.sublimetext.com/3"
