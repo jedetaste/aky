@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "leseschlau",
+    "bundle": "Leseschlau.app",
+    "identifier": "ch.seerow.leseschlau",
+    "download": "https://www.leseschlau-app.ch/osx_download",
+    "sha256": "bb9020fddee95dd733e2c255ccaa98a4867e99aa2375735fec254bb1e9b62d58",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
+    "version": "1.0.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.leseschlau-app.ch/"
+  }
+}
