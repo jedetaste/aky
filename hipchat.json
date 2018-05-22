@@ -3,7 +3,7 @@
     "id": "hipchat",
     "bundle": "HipChat.app",
     "identifier": "com.hipchat.HipChat",
-    "download": "https://s3.amazonaws.com/downloads.hipchat.com/osx/HipChat-4.30.1-754.dmg",
+    "download": "https://s3.amazonaws.com/downloads.hipchat.com/osx/HipChat-4.30.1-756.dmg",
     "sha256": "0347177d972f1d9ba89191deff078a25bbe7e57192c75e99bd7a6df52b99a4e9",
     "appcast": {
         "url": null,
