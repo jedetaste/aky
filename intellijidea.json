@@ -3,13 +3,13 @@
     "id": "intellijidea",
     "bundle": "IntelliJ IDEA.app",
     "identifier": "com.jetbrains.intellij",
-    "download": "https://download-cf.jetbrains.com/idea/ideaIU-2018.1.dmg",
-    "sha256": "aac60c5b88198bcaa021c35eaa5444506aa4b436187fb8c53c3f4ce2d42b73b0",
+    "download": "https://download.jetbrains.com/idea/ideaIU-2018.1.4.dmg",
+    "sha256": "0f03e58e1e21e0e4cc72fa24665564409812df9475b11c9e038a41bbb4b257b4",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "2018.1",
+    "version": "2018.1.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
