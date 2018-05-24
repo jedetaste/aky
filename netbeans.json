@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "netbeans",
+    "bundle": "NetBeans 8.2.app",
+    "identifier": "org.netbeans.ide.baseide.8.2",
+    "download": "http://download.netbeans.org/netbeans/8.2/final/bundles/netbeans-8.2-macosx.dmg",
+    "sha256": "ddcf37e91d960cca6b6a37c95eabf2c6f15330ed708bfd79be796de00da20e5e",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "8.2",
+    "build": null,
+    "dir": "/Applications/NetBeans",
+    "symlink": null,
+    "web": "https://netbeans.org/"
+  }
+}
