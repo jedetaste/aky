@@ -4,12 +4,12 @@
     "bundle": "LehrerOffice.app",
     "identifier": "ch.rothsoft.lehreroffice.desktop",
     "download": "https://www.lehreroffice.ch/lo/dateien/easy/lo_osx.dmg",
-    "sha256": "d75b9fa3f40edc46d318863ea39ccff03dd0144cf6d51314faa4c92185a8f70e",
+    "sha256": "78a3b45d3e2e712b94f5e280e3d2c259582be4c6fce4241aa63597056b96c590",
     "appcast": {
         "url": "https://www.lehreroffice.ch/services/update/getcurrentversion.php?app=Desktop",
-        "checkpoint": "5ba4d4a0c1354eee4400a738e53bc9db6e4c85a54c086f403b74d1a684956b35"
+        "checkpoint": "cda17231bef588723b01868ba77f08fd87ca9a6d17bd57dacd03c59ca2eb49ef"
     },
-    "version": "2018.7.0",
+    "version": "2018.8.0",
     "build": null,
     "dir": "/Applications/LehrerOffice",
     "symlink": null,
