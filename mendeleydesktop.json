@@ -3,13 +3,13 @@
     "id": "mendeleydesktop",
     "bundle": "Mendeley Desktop.app",
     "identifier": "com.mendeley.desktop",
-    "download": "https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.17.13-OSX-Universal.dmg",
-    "sha256": "d1316eafbf661adfedfdb2daad8527c177036a9fa30b9ba7b2eac696c0a1d54f",
+    "download": "https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19-OSX-Universal.dmg",
+    "sha256": "6c9f79d5f9b1385fed8daa7a65c137e8a8c67a7b3ad9552956ea0ce723d59fe6",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "1.17.13",
+    "version": "1.19",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
