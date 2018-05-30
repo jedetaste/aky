@@ -3,14 +3,14 @@
     "id": "eclipsejava",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "http://mirror.switch.ch/eclipse/technology/epp/downloads/release/oxygen/3/eclipse-java-oxygen-3-macosx-cocoa-x86_64.dmg",
-    "sha256": "4ef7542cf0bbaa6f70aebbd74fe6a9bbbffb37ee012873fb454f14fda0c53b83",
+    "download": "http://mirror.switch.ch/eclipse/technology/epp/downloads/release/oxygen/3a/eclipse-java-oxygen-3a-macosx-cocoa-x86_64.dmg",
+    "sha256": "88310307ed5481f4ac129ae3db88ddbb0a41e349d0dd044762c9eddffa2031a3",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
     "version": "4.7.3",
-    "build": null,
+    "build": "4.7.3.M20180330-0640",
     "dir": "/Applications/Eclipse Java",
     "symlink": null,
     "web": "https://eclipse.org/"
