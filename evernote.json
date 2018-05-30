@@ -6,8 +6,8 @@
     "download": "https://cdn1.evernote.com/mac-smd/public/Evernote_RELEASE_7.2_456745.dmg",
     "sha256": "8c6d00bf27557f639b98cb2f6be0350d744232583a6cade145230510f9f192a9",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://update.evernote.com/public/ENMacSMD/EvernoteMacUpdate.xml",
+        "checkpoint": "1eaaaae0a4ecfc0dddff37c96b05be5091539edb642f951589912896dc87657c"
     },
     "version": "7.2",
     "build": null,
