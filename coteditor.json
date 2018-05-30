@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "coteditor",
+    "bundle": "CotEditor.app",
+    "identifier": "com.coteditor.CotEditor",
+    "download": "https://github.com/coteditor/CotEditor/releases/download/3.4.1/CotEditor_3.4.1.dmg",
+    "sha256": "7df0f23e3e61813b5d98d823023b74a36ec81b5b99a9a377e9489604a5bf93e8",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.4.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://coteditor.com/"
+  }
+}
