@@ -6,8 +6,8 @@
     "download": "https://update.cyberduck.io/Cyberduck-6.6.0.28133.zip",
     "sha256": "1dbd8c3e06f6358d962f417c236a3a7ffeae5fb03efc5df4bd4bc8968c9da0f7",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://version.cyberduck.io/changelog.rss",
+        "checkpoint": "6a6d790018ebe2f1e0d44d7302aadf426bbf6ac9cc74f5b0855130f23ea6131c"
     },
     "version": "6.6.0",
     "build": null,
