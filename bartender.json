@@ -6,8 +6,8 @@
     "download": "https://www.macbartender.com/Demo/Bartender%203.zip",
     "sha256": "8a3779dc0ec30eabe2bca30eb35448ed86bd3b87bcfa5c3b9ec3dd9fe995e09a",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.macbartender.com/B2/updates/Appcast.xml",
+        "checkpoint": "d88a890e78206b18540a0d4d5f2d447a88ae2a26dc04e662872a96694e0b3ce5"
     },
     "version": "3.0.45",
     "build": null,
