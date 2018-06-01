@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "timings",
+    "bundle": "Timings.app",
+    "identifier": "com.mediaatelier.Timings",
+    "download": "https://mediaatelier.com/Timings3/Timings_3.2.3.zip",
+    "sha256": "284f9633808170fb630ce1a57482a7a580fecc4575933f9671f570e44d587672",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.2.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://mediaatelier.com/Timings3/"
+  }
+}
