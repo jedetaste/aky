@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "edulo",
+    "bundle": "Edulo.app",
+    "identifier": "com.electron.edulo",
+    "download": "https://management.edulo.com/Edulo.dmg",
+    "sha256": "1f9e6ce836562e12c74fc94716d4f4f7d8ad58d8c2030ac7a6f6224e2f719e0f",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.0.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://www.edulo.com/"
+  }
+}
