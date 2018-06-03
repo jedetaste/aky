@@ -4,12 +4,12 @@
     "bundle": "Path Finder.app",
     "identifier": "com.cocoatech.PathFinder",
     "download": "http://get.cocoatech.com/PF7.zip",
-    "sha256": "0757904f969e0cadff112ce10b48ff28647c0ee3a8b9221bdb34389522fa2d54",
+    "sha256": "39e7f066ca02e04d9d35bb28df97060bd7460494ba71b36e099c3d8125d04d43",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "7.6.2",
+    "version": "8.0.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
