@@ -3,13 +3,13 @@
     "id": "coda2",
     "bundle": "Coda 2.app",
     "identifier": "com.panic.Coda2",
-    "download": "https://download.panic.com/coda/Coda%202.6.9.zip",
-    "sha256": "9de300786284e8f9afd25d51aa5c1858d6c6e9d3248ee35ca0ec8f61155c8aeb",
+    "download": "https://download.panic.com/coda/Coda%202.6.10.zip",
+    "sha256": "5f780a6a16548501dd5692265ca6eb10a04e7409cf9954b1660c9b62591480ad",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "2.6.9",
+    "version": "2.6.10",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
