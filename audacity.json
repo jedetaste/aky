@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "audacity",
+    "bundle": "Audacity.app",
+    "identifier": "org.audacityteam.audacity",
+    "download": "hhttps://www.fosshub.com/Audacity.html/audacity-macos-2.2.2.dmg",
+    "sha256": "39a2783c78cca13e893321e0d87098739258cabbfc257119ee6cb21d0dc9037c",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.2.2.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.audacityteam.org"
+  }
+}
