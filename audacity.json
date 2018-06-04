@@ -4,7 +4,7 @@
     "bundle": "Audacity.app",
     "identifier": "org.audacityteam.audacity",
     "download": "https://www.fosshub.com/Audacity.html/audacity-macos-2.2.2.dmg",
-    "sha256": "39a2783c78cca13e893321e0d87098739258cabbfc257119ee6cb21d0dc9037c",
+    "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
