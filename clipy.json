@@ -6,8 +6,8 @@
     "download": "https://github.com/Clipy/Clipy/releases/download/1.1.5/Clipy_1.1.5.dmg",
     "sha256": "58b49c5a63fcee8d9636922911d24055e85ecbe10cec3d2a4a86c6a377f44ab1",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/Clipy/Clipy/releases.atom",
+        "checkpoint": "4393207c4f4497023a687700bd8cf9a46d579e8217af0e3cff2ae06d94e8e5a5"
     },
     "version": "1.1.5",
     "build": null,

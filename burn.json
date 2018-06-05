@@ -6,8 +6,8 @@
     "download": "https://downloads.sourceforge.net/burn-osx/Burn/2.5.1/burn251.zip",
     "sha256": "e82d2b7ef6a99e5a139706ff4e360659830d618ab8743e4b55ec80cdcdc97596",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://sourceforge.net/projects/burn-osx/rss?path=/Burn",
+        "checkpoint": "647f9148eae77326d9868982b9ac03a0a0d08cb389b7dab8f431a5d6c64106a3"
     },
     "version": "2.5.1",
     "build": null,

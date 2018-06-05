@@ -6,8 +6,8 @@
     "download": "https://coconut-flavour.com/downloads/coconutBattery_3.6.7.zip",
     "sha256": "990bf4153193a4f72bc21f5cd4e17fdbc5b1dbb3df1603a817ba42ff660f28b5",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://coconut-flavour.com/updates/coconutBattery.xml",
+        "checkpoint": "51f8879cfb05182574028ef8b74378b5a760214963a6fa5f116a422964b51ecb"
     },
     "version": "3.6.7",
     "build": null,

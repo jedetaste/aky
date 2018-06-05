@@ -6,8 +6,8 @@
     "download": "http://downloads.plasq.com/comiclife3.zip",
     "sha256": "1c5dca65928e8107879575114854e2acd9228bf4c23e107a756021bef091d4b1",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://s3.amazonaws.com/updater.plasq.com/comiclife3-appcast.xml",
+        "checkpoint": "e1b29f0f99cacf73ceb631f704ff6d180eb9e46872a3315b02520d3c94c843d2"
     },
     "version": "3.5.8",
     "build": null,

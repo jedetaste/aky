@@ -6,8 +6,8 @@
     "download": "https://cakebrew-377a.kxcdn.com/cakebrew-1.2.5.dmg",
     "sha256": "2dc287acf04952a2b449a0d69cf1581915ef1e6c59d2ec1c83c3e37c263826ca",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.cakebrew.com/appcast/profileInfo.php",
+        "checkpoint": "425c0d51a81dda9dc7747fb6deb77d8569d241f35cfe37221fabede63cba2aa4"
     },
     "version": "1.2.5",
     "build": "549",

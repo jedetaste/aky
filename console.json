@@ -6,8 +6,8 @@
     "download": "https://github.com/macmade/Console/releases/download/0.2.0/Console.app.zip",
     "sha256": "b49df2c4df4e99a9f4b50d8b426b1084f0d64a3d037a7e9960c5e87968f03b87",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/macmade/Console/releases.atom",
+        "checkpoint": "bd68e653bc3ec386d56e64dc9293dfb3d170ee7372e02429ecc1273705b7a876"
     },
     "version": "0.2.0",
     "build": null,
