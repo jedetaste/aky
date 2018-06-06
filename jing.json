@@ -4,12 +4,12 @@
     "bundle": "Jing.app",
     "identifier": "com.techSmith.jing",
     "download": "http://download.techsmith.com/jing/mac/jing.dmg",
-    "sha256": "5717c1602347965dc28e53d792e252e03a5f6ee1ad59cc3ad3bb596bed910935",
+    "sha256": "0eac9085ab7fe35f4530bde2e5c5cb4fb574c306d3a7331a8bf9186506b2c136",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "2.8.0",
+    "version": "2.8.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
