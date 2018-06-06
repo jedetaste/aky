@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "ubar",
+    "bundle": "uBar.app",
+    "identifier": "ca.brawer.uBar",
+    "download": "https://brawersoftware.com/downloads/ubar/ubar.zip",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.0.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://brawersoftware.com/products/ubar"
+  }
+}
