@@ -1,7 +1,7 @@
 {
   "recipe": {
     "id": "drivedx",
-    "bundle": "DriveDX.app",
+    "bundle": "DriveDx.app",
     "identifier": "com.binaryfruit.DriveDx",
     "download": "https://binaryfruit.com/download/drivedx/mac/1/bin/DriveDx.1.8.0.zip",
     "sha256": "78038902cfb33ae82dc1b9ac6b9eaf164ecdf8f13d848effcdafd1dd631a4953",
