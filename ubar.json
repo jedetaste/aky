@@ -4,10 +4,10 @@
     "bundle": "uBar.app",
     "identifier": "ca.brawer.uBar",
     "download": "https://brawersoftware.com/downloads/ubar/ubar.zip",
-    "sha256": null,
+    "sha256": "eccf9c393975733693808c09e318928445978ad79203e47db2ac90e32b219601",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://brawersoftware.com/appcasts/feeds/ubar/ubar4.xml",
+      "checkpoint": "dfb8a05a26c40311750a9fdf4db4a4698fa29dcb93d7108ac42362a6f0c96aa7"
     },
     "version": "4.0.5",
     "build": null,
