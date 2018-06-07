@@ -3,13 +3,13 @@
     "id": "visualstudiocode",
     "bundle": "Visual Studio Code.app",
     "identifier": "com.microsoft.VSCode",
-    "download": "https://az764295.vo.msecnd.net/stable/3aeede733d9a3098f7b4bdc1f66b63b0f48c1ef9/VSCode-darwin-stable.zip",
-    "sha256": "92e51c4be9e945a295d719ed2e5e570daf98a4fd1c7be3192ca4f6ffe28f7020",
+    "download": "https://az764295.vo.msecnd.net/stable/6a6e02cef0f2122ee1469765b704faf5d0e0d859/VSCode-darwin-stable.zip",
+    "sha256": "8e8e6b10d199877e44d5e6c7a59438304dd031e97c676a8b9f798c85dc80a6f2",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://vscode-update.azurewebsites.net/api/update/darwin/stable/VERSION",
+        "checkpoint": "8e8e6b10d199877e44d5e6c7a59438304dd031e97c676a8b9f798c85dc80a6f2"
     },
-    "version": "1.22.2",
+    "version": "1.24.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
