@@ -6,8 +6,8 @@
     "download": "https://github.com/koush/vysor.io/releases/download/1.8.3/Vysor-mac.zip",
     "sha256": "7a8622b187fd69338ef9f21e7b9655b599c65800b84a25af49b3fd1948fcd060",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/koush/vysor.io/releases.atom",
+        "checkpoint": "f91126645efb044b1b8eb88ab4295583b04f39cc8a8d9dad0ca7fcfbaaf739d9"
     },
     "version": "1.8.3",
     "build": null,
