@@ -4,12 +4,12 @@
     "bundle": "Lingon X.app",
     "identifier": "com.peterborgapps.LingonX6",
     "download": "https://www.peterborgapps.com/downloads/LingonX6.zip",
-    "sha256": "354a8fa7270d3ff314cb90363e6aa55d2b8de6c765af1099b875f89297d73f73",
+    "sha256": "c9b873a28fc84f2a98ad470a30ebd8a4d4d24ece8f1afca73d7cb7b48ddfb471",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "6.3",
+    "version": "6.3.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
