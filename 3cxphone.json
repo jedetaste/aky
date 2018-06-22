@@ -4,13 +4,13 @@
     "bundle": "3CXPhone.app",
     "identifier": "3cxphone14",
     "download": "http://downloads.3cx.com/downloads/3CXPhoneForMac15.dmg",
-    "sha256": "eb79c612f3a5f3687dd41a27812435494321e6b16e9f648ab1119f57e8bde733",
+    "sha256": "bda1de2a7132150eadde6130dd9a46689d411691b29b3040ef35fa182d6f433d",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
     "version": null,
-    "build": "15.1.1.125",
+    "build": "15.1.1.137",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.3cx.com/"
