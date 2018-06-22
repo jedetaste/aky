@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "hancock",
+    "bundle": "Hancock.app",
+    "identifier": "com.GroundControl.Hancock",
+    "download": "https://github.com/JeremyAgost/Hancock/releases/download/v1.2/Hancock1.2.dmg",
+    "sha256": "fd0172835c2ee475e1247107d89fb40e0ecbe8c8cda3788f284aa670b244465b",
+    "appcast": {
+      "url": "https://github.com/JeremyAgost/Hancock/releases.atom",
+      "checkpoint": "c8b56ec7a4b9293207c44530bad7dc1be9c8e0ad7f31750ccd054d82f1b8ce51"
+    },
+    "version": "1.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/JeremyAgost/Hancock"
+  }
+}
