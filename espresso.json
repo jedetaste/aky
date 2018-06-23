@@ -6,11 +6,11 @@
     "download": "https://presto.espressoapp.com/downloads/Espresso%20v5.1.1.zip",
     "sha256": "728b5cb018479463bfb919533bfdcbd1788d1ec5b00ee312d3dc316d2e50527d",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://update.macrabbit.com/espresso/5.1.1.xml",
+        "checkpoint": "cbd08a6b50e97f2963e493e0eef82530dd964a9c6f21a9f07e2f35769d1d216d"
     },
     "version": "5.1.1",
-    "build": "5.1.1",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
     "web": "https://espressoapp.com/"
