@@ -3,14 +3,14 @@
     "id": "hipchat",
     "bundle": "HipChat.app",
     "identifier": "com.hipchat.HipChat",
-    "download": "https://s3.amazonaws.com/downloads.hipchat.com/osx/HipChat-4.30.1-756.dmg",
-    "sha256": "a1889c663b1e9fa9d02ccf64a972567cfbd9ed7bafcb2c6e0db6353ef0aa5f5a",
+    "download": "https://s3.amazonaws.com/downloads.hipchat.com/osx/HipChat-4.30.1-759.zip",
+    "sha256": "058da1b14ec884e43fac8cbebbafddcbefc38384918c5f7bec2bed8ca36de8cb",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.hipchat.com/release_notes/appcast/mac",
+        "checkpoint": "14805ccab6dfaa5c5b0240f4845fe74e9d1e3613bc68f117e256f597d70ade29"
     },
     "version": null,
-    "build": "756",
+    "build": "759",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.hipchat.com/"
