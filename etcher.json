@@ -6,8 +6,8 @@
     "download": "https://github.com/resin-io/etcher/releases/download/v1.4.4/Etcher-1.4.4.dmg",
     "sha256": "b09f9352d69741ffbef9d99afbfd3db0230e2e9fe93f37723fe5028005df7a5e",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/resin-io/etcher/releases.atom",
+        "checkpoint": "ad732fe09130bbb97d0e083bd8e081e8d8e63ac910bbfbbfda94a0031497728c"
     },
     "version": "1.4.4",
     "build": null,
