@@ -4,10 +4,10 @@
     "bundle": "OnyX.app",
     "identifier": "com.titanium.OnyX",
     "download": "https://www.titanium-software.fr/download/1013/OnyX.dmg",
-    "sha256": null,
+    "sha256": "2e9812751f7f15ebe05d5eaa10449beb3c4a285657e2195d55ad1d9190cffce9",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.titanium-software.fr/en/release_onyx.html",
+        "checkpoint": "38f469d23d50978756345a075c0c94af794371ba611884d6fb16bd3ecb65f9f3"
     },
     "version": "3.4.5",
     "build": null,
