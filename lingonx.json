@@ -6,8 +6,8 @@
     "download": "https://www.peterborgapps.com/downloads/LingonX6.zip",
     "sha256": "c9b873a28fc84f2a98ad470a30ebd8a4d4d24ece8f1afca73d7cb7b48ddfb471",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.peterborgapps.com/updates/lingonx6-appcast.xml",
+        "checkpoint": "510e9491b2fe8e9b9001668ed933f167b711c3255a05879fdc7e51259be11690"
     },
     "version": "6.3.1",
     "build": null,
