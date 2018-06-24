@@ -6,8 +6,8 @@
     "download": "https://github.com/mstarke/MacPass/releases/download/0.7.3/MacPass-0.7.3.zip",
     "sha256": "1551b9db0e275827ab99e80a14980dcc1c1e20e47bdb65c0140e618407f150c2",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/MacPass/MacPass/releases.atom",
+        "checkpoint": "3aa0f4ed3bc4ea83cdf2e74e35068694d93dd8abdcccbe414fd071115da49141"
     },
     "version": "0.7.3",
     "build": null,
