@@ -6,11 +6,11 @@
     "download": "https://freemacsoft.net/downloads/LiteIcon_3.8.2.zip",
     "sha256": "ede528b762f4f979b488973db002442260c6eda36d4875655887956e62576e62",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://freemacsoft.net/liteicon/updates.xml",
+        "checkpoint": "65a5e1eb06fe9c12c5bf1e0f37e0e68ededa6318e72eecbc8c32a348c7bb4f6f"
     },
     "version": "3.8.2",
-    "build": "1304",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
     "web": "https://freemacsoft.net/liteicon/"
