@@ -6,8 +6,8 @@
     "download": "http://download.digitalrebellion.com/prefman/Preference_Manager_4420.dmg",
     "sha256": "b39ece3b79d5d72987abf0aa79b8d5fcb996dfd29dff6016f37c3529fd3ecefd",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.digitalrebellion.com/rss/appcasts/pref_man.xml",
+        "checkpoint": "cbd55378681bbe4c415aac26f9e3e05422702daac093c8bf105fb92584a301a4"
     },
     "version": "4.4.2",
     "build": null,
