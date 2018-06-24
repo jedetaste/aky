@@ -6,8 +6,8 @@
     "download": "https://www.lemkesoft.info/files/graphicconverter/gc10.dmg",
     "sha256": "0dc743f3e20558ea65f9f32152c2ab2810a30ca86794d0931e5ad3e95764a5bb",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.lemkesoft.info/sparkle/graphicconverter/graphicconverter10.xml",
+        "checkpoint": "c211b6ffaac2bd6350c45a1c07262fc890a3a1c132df13f9b31f570f74350073"
     },
     "version": "10.6.1",
     "build": null,
