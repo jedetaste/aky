@@ -3,13 +3,13 @@
     "id": "kindle",
     "bundle": "Kindle.app",
     "identifier": "com.amazon.Kindle",
-    "download": "https://s3.amazonaws.com/kindleformac/48016/KindleForMac-48016.dmg",
-    "sha256": "96acc8fed585c2759f6e001dac4ce91b276147f7866032d2890fac9614cf54e1",
+    "download": "https://s3.amazonaws.com/kindleformac/50131/KindleForMac-50131.dmg",
+    "sha256": "cc58e6fef6a30e98d78349016a9828009a1d7cd7d0d9f6bc88e74db43edbf7b6",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "48016",
+    "version": "50131",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
