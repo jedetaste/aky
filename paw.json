@@ -6,8 +6,8 @@
     "download": "https://cdn-builds.paw.cloud/paw/Paw-3.1.7-3001007002.zip",
     "sha256": "c2ede505c1173cc0407e4c0a9f93469abae88d8170cd8b53ae93b23971b13b6f",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://paw.cloud/api/v2/updates/appcast",
+        "checkpoint": "afc375ce305b0718733f7a86d7e794b9459b67289a595b2d4f41680eb2e6d4de"
     },
     "version": "3.1.7",
     "build": null,
