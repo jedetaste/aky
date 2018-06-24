@@ -3,13 +3,13 @@
     "id": "resiliosync",
     "bundle": "Resilio Sync.app",
     "identifier": "com.resilio.Sync",
-    "download": "https://download-cdn.resilio.com/stable/osx/Resilio-Sync.dmg",
-    "sha256": null,
+    "download": "https://download-cdn.resilio.com/2.5.13/osx/Resilio-Sync.dmg",
+    "sha256": "d6ffd3027713e7dc73cce92110dfd0650644051dfda67d889e8becaf083e8460",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "2.5.12",
+    "version": "2.5.13",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
