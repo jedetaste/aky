@@ -6,8 +6,8 @@
     "download": "https://download.jetbrains.com/idea/ideaIU-2018.1.5.dmg",
     "sha256": "a1d9218d3ad6a0aab3a31a191796e750db136c06d6fda20d2aca58c7dae4f7ea",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://data.services.jetbrains.com/products/releases?code=IIU&latest=true&type=release",
+        "checkpoint": "53462397ecbecb219a4dd8d18020eebe88ed8de37491f5d17477e1f8138b5f44"
     },
     "version": "2018.1.5",
     "build": null,
