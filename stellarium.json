@@ -6,8 +6,8 @@
     "download": "https://github.com/Stellarium/stellarium/releases/download/v0.18.0/Stellarium-0.18.0.dmg",
     "sha256": "ef2fffc09d1b0334939ce05a8ddbd732a2e55bc5cef8258dd22bbc948f259522",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/Stellarium/stellarium/releases.atom",
+        "checkpoint": "51ea182a1ce22a09af0d74497f93617f4e136f927c4009bacc8207e8ff806538"
     },
     "version": "0.18.0",
     "build": null,
