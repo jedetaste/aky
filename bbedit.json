@@ -6,8 +6,8 @@
     "download": "https://s3.amazonaws.com/BBSW-download/BBEdit_12.1.4.dmg",
     "sha256": "92a23607b4c22c4eab050592c4f0fd243c489690180e8fabaf11c30854ac9aec",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://versioncheck.barebones.com/BBEdit.xml",
+        "checkpoint": "bb98b564e338cadadc2d12c0e59d93d8ace90b274b5f60b28aabdd5e2e0d3482"
     },
     "version": "12.1.4",
     "build": null,
