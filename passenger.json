@@ -4,10 +4,10 @@
     "bundle": "Passenger.app",
     "identifier": "com.macinmind.passenger",
     "download": "http://macinmind.com/Passenger.dmg",
-    "sha256": null,
+    "sha256": "d940757e97e89f173aeb8c874a82d62228c9f8b7e4c23fce14d3321135e9ff98",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://macinmind.com/pads/PassengerAppcast.xml",
+        "checkpoint": "8aa2317082e9356fdcd24b11d1588c45d5084a016c45f49462850b3e92b8fb40"
     },
     "version": "4.6",
     "build": null,
