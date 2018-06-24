@@ -6,8 +6,8 @@
     "download": "https://ftp.mozilla.org/pub/thunderbird/releases/52.8.0/mac/de/Thunderbird%2052.8.0.dmg",
     "sha256": "79838ff7945697f32a2d40aedc2c858a79a2150f6db5fd5f487ad06e17bd570d",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://aus5.mozilla.org/update/3/Thunderbird/52.8.0/0/Darwin_x86_64-gcc3-u-i386-x86_64/en-US/release/Darwin%2015.3.0/default/default/update.xml?force=1",
+        "checkpoint": "0a8b6f62de3ade09ce1acefd70c36d8c3c859a1850bd08a9d628e2e75db6b979"
     },
     "version": "52.8.0",
     "build": null,
