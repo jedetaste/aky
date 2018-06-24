@@ -6,8 +6,8 @@
     "download": "https://github.com/transmission/transmission-releases/raw/master/Transmission-2.94.dmg",
     "sha256": "2cae915ae0e37fc5983406ca7fbd53a054a7153d3bfd7a6cef117a8a28d8a78a",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/transmission/transmission/releases.atom",
+        "checkpoint": "81b72e634be104ae5cecf67fed8d55894190f9696a3ee2aaf72501caf32e8456"
     },
     "version": "2.94",
     "build": null,
