@@ -6,8 +6,8 @@
     "download": "https://s3.amazonaws.com/mff_sparkle/MultiFirefox_2.4.0.zip",
     "sha256": "7b0cac19469d6a222b4254c0c6ef27cafe847ce89e1efb398d3637f1425645dc",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://s3.amazonaws.com/mff_sparkle/MultiFirefoxAppcast2.xml",
+        "checkpoint": "fc4c1e122aa26f0f081158d044aa9dc51e70655b265682902e925f7c11782090"
     },
     "version": null,
     "build": "2.4.0",
