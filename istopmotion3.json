@@ -6,8 +6,8 @@
     "download": "https://cdn.boinx.com/software/istopmotion/Boinx_iStopMotion_3.8.2-16057.app.zip",
     "sha256": "eb31319488346e12d6f95b7be9d61d911eaaf0228f22b6053ee0be8f6902f520",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://boinx.com/d/connect/histories/istopmotion",
+        "checkpoint": "8c8879086a3151acf6cac7db37c250d190e3497a582e34049e9d5f9904914d37"
     },
     "version": "3.8.2",
     "build": null,
