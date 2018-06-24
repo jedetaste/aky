@@ -6,8 +6,8 @@
     "download": "https://github.com/keepassxreboot/keepassxc/releases/download/2.3.3/KeePassXC-2.3.3.dmg",
     "sha256": "1219dd686aee2549ef8fe688aeef22e85272a8ccbefdbbb64c0e5601db17fbdb",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/keepassxreboot/keepassxc/releases.atom",
+        "checkpoint": "a8cbfbdba6401a017d3191a774acec0ef2e83402c96f5581da5004b57bedea95"
     },
     "version": "2.3.3",
     "build": null,
