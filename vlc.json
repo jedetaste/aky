@@ -6,8 +6,8 @@
     "download": "http://mirror.switch.ch/ftp/mirror/videolan/vlc/3.0.3/macosx/vlc-3.0.3.dmg",
     "sha256": "140990d6ece0f60a10701bdb87aa86cc17a51d2dd875fbd63d84fe40cca17c11",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "http://update.videolan.org/vlc/sparkle/vlc-intel64.xml",
+        "checkpoint": "65e552352293117dd6df988d688d24425a474aa1379e9603ee4bddd10fac6d84"
     },
     "version": "3.0.3",
     "build": null,
