@@ -6,8 +6,8 @@
     "download": "https://sourceforge.net/projects/seb/files/seb-macosx/seb-macos_2.1.2/SafeExamBrowser-2.1.2.dmg",
     "sha256": "1cc1520ecf02bfc6f60273d33496f340d5aff2320b47c8151611d4806efbf3d5",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://sourceforge.net/projects/seb/rss",
+        "checkpoint": "c164785fea36e476b8151c01c9bebabe0c74c5144e509f63c0c77b9a8b454a42"
     },
     "version": "2.1.2",
     "build": null,
