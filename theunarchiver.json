@@ -2,14 +2,14 @@
   "recipe": {
     "id": "theunarchiver",
     "bundle": "The Unarchiver.app",
-    "identifier": "cx.c3.theunarchiver",
-    "download": "https://dl.devmate.com/com.macpaw.site.theunarchiver/TheUnarchiver.zip",
+    "identifier": "com.macpaw.site.theunarchiver",
+    "download": "https://dl.devmate.com/com.macpaw.site.theunarchiver/120/1528909123/TheUnarchiver-120.zip",
     "sha256": "78becd148d5f3cd9a1570751786f364399062b43f576e5a78d9aec3b9450b942",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://updates.devmate.com/com.macpaw.site.theunarchiver.xml",
+        "checkpoint": "17fa74f6ffbeecbdfa90497e99ae5524550d26db7545f7f2b38b4515c7c19a57"
     },
-    "version": "3.11.6",
+    "version": "4.0.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
