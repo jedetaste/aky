@@ -4,12 +4,12 @@
     "bundle": "ifolor Mac Designer.app",
     "identifier": "com.ifolor.ifolor-Mac-Designer",
     "download": "https://chkr-download.ifolor.net/download/MacDesigner/Chkr-Mac-Designer.dmg",
-    "sha256": null,
+    "sha256": "dea66b8758fd9b7364547d63064af03bd76d3f963131b1d82205fc41a419c452",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "3.3.3",
+    "version": "3.3.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
