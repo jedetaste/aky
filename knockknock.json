@@ -6,8 +6,8 @@
     "download": "https://bitbucket.org/objective-see/deploy/downloads/KnockKnock_1.9.3.zip",
     "sha256": "37f59fbeaa7e80fe92bd1a25bd6342d7b3f78778a248c307336e24cfebd3dbf8",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://objective-see.com/products/changelogs/KnockKnock.txt",
+        "checkpoint": "98298d3a2fce138c19d646448e749dbc3ddd2b23a229ac2081c36da91c6252e3"
     },
     "version": "1.9.3",
     "build": null,
