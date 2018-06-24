@@ -6,8 +6,8 @@
     "download": "https://github.com/google/restor/releases/download/1.4/restor-1.4.dmg",
     "sha256": "b35e63a4473fd305b6dfc170bc4b323781b258ee0b392a0edcaf0991717f6229",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/google/restor/releases.atom",
+        "checkpoint": "06c115e42a56eacd157eeea17631bc15dc4380893e7012f833113dae79665951"
     },
     "version": "1.4",
     "build": null,
