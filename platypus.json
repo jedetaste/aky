@@ -6,8 +6,8 @@
     "download": "http://sveinbjorn.org/files/software/platypus/platypus5.2.zip",
     "sha256": "09d6511a62a6965b0d69c7e92455ead70853c299bf1649ea52ba00e528cb34f4",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.sveinbjorn.org/files/appcasts/PlatypusAppcast.xml",
+        "checkpoint": "2c6e7a0b24a686c3efb7b12f862ffd7ed0f97e1902383ee3d78a432863ce666c"
     },
     "version": "5.2",
     "build": null,
