@@ -6,8 +6,8 @@
     "download": "https://download.sketchapp.com/sketch-50.2-55047.zip",
     "sha256": "24d2af81f516d403526dcc0b60079fa3af369d2971d6075656f0a59457acb3a5",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://download.sketchapp.com/sketch-versions.xml",
+        "checkpoint": "155a587345f8b81439d76876366ce5cfa74eeceac5d0f1cfae0cc0e80248ffce"
     },
     "version": "50.2",
     "build": null,
