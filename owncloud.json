@@ -6,8 +6,8 @@
     "download": "https://download.owncloud.com/desktop/stable/ownCloud-2.4.1.9367.pkg",
     "sha256": "7f3a88d47cabdecf30681793e16a2f892224fa769d37af0bcd5472b3241b7386",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/owncloud/client/releases.atom",
+        "checkpoint": "ab208a172c55f2aa742bb173ffc0ed20c34dc88b536e63c3111540ebf555b981"
     },
     "version": null,
     "build": "2.4.1.9367",
