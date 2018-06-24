@@ -3,7 +3,7 @@
     "id": "openoffice",
     "bundle": "OpenOffice.app",
     "identifier": "org.openoffice.script",
-    "download": "https://downloads.sourceforge.net/openofficeorg.mirror/Apache_OpenOffice_4.1.5_MacOS_x86-64_install_de.dmg"
+    "download": "https://downloads.sourceforge.net/openofficeorg.mirror/Apache_OpenOffice_4.1.5_MacOS_x86-64_install_de.dmg",
     "sha256": "a2547de957ac88248d078a1244d14f7f48fc043f6c7517f9f242220f7ed41e35",
     "appcast": {
         "url": "https://sourceforge.net/projects/openofficeorg.mirror/rss",
