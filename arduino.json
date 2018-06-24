@@ -6,8 +6,8 @@
     "download": "https://downloads.arduino.cc/arduino-1.8.5-macosx.zip",
     "sha256": "49d0a255802167fc7644f4cc5b3d8b41c94859343c0c4d1f90816f18b11f3fd9",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.arduino.cc/en/Main/ReleaseNotes",
+        "checkpoint": "37fd35115f81767327b55d97fd2b6b3fca02286ab3f6b3cb2608d6341e1f3101"
     },
     "version": "1.8.5",
     "build": null,
