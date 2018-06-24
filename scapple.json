@@ -4,10 +4,10 @@
     "bundle": "Scapple.app",
     "identifier": "com.literatureandlatte.scapple",
     "download": "http://scrivener.s3.amazonaws.com/Scapple.dmg",
-    "sha256": null,
+    "sha256": "aacbabb14b4cb69ea8d6d93293ac2a20233be8174bd481ccb5dae479c8f39059",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.literatureandlatte.com/downloads/scapple/scapple.xml",
+        "checkpoint": "c231b3815d98207dccdce3646f206ff905d68af3d2cc6c7cc8f1d07925198cd4"
     },
     "version": "1.3.1",
     "build": null,
