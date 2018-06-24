@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "preziclassic",
+    "bundle": "Prezi Classic.app",
+    "identifier": "com.prezi.desktop",
+    "download": "https://desktopassets.prezi.com/mac/pd6/releases/Prezi_Classic_6.12.1.dmg",
+    "sha256": "03e014d0944f51ecb91f93c45d07d8fb1a0d5ed226d6d3b68b6d12d4bfbc9f53",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
+    "version": "6.12.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://prezi.com/"
+  }
+}
