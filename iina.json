@@ -6,8 +6,8 @@
     "download": "https://dl-portal.iina.io/IINA.v0.0.15-build64.dmg",
     "sha256": "adc15b266abc3e3cefbaec691aa35a79c4c4dbb4251d617a97c0ba892147f4d3",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.iina.io/appcast.xml",
+        "checkpoint": "774af441bd5449fc4bba04a65d1623ed9f9e9b6439c586a37e181d3ee4237190"
     },
     "version": "0.0.15",
     "build": null,
