@@ -6,8 +6,8 @@
     "download": "https://appzapper.com/downloads/appzapper202.zip",
     "sha256": "bc05e7b2290ffdbfba23fcb445d57237eef258fea679aff902aa135ee302d297",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.appzapper.com/az2appcast.xml",
+        "checkpoint": "b91ae47cbd23159ada1e03357647dc3140cd35ef509dfa44ed13e369aad07e88"
     },
     "version": "2.0.2",
     "build": null,
