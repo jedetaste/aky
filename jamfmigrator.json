@@ -6,8 +6,8 @@
     "download": "https://github.com/jamfprofessionalservices/JamfMigrator/releases/download/current/jamf-migrator.zip",
     "sha256": "781797e0116196b9b75bf243f98a1394a2e90da59d3ded0b81e61334bc7b34d6",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/jamfprofessionalservices/JamfMigrator/releases.atom",
+        "checkpoint": "a5f770213d5a311db18acf76403ca70ff3747e387880a12963460e8e2a0a8736"
     },
     "version": "2.7.2",
     "build": null,
