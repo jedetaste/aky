@@ -6,8 +6,8 @@
     "download": "https://github.com/newmarcel/KeepingYouAwake/releases/download/1.4.2/KeepingYouAwake-1.4.2.zip",
     "sha256": "7e18482692401147d3d4ac1f38e0ace3993d69e7c864b4ef54373cbf10763202",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/newmarcel/KeepingYouAwake/releases.atom",
+        "checkpoint": "8e61bfed4ed731afd487fab11f8b068c592d5f15de34ffc8df87f671c85b2ec4"
     },
     "version": "1.4.2",
     "build": null,
