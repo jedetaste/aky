@@ -6,8 +6,8 @@
     "download": "https://www.charlessoft.com/pacifist_download/Pacifist_3.6.dmg",
     "sha256": "e0571facfaebb843327426c2a356beb4b8c537aebce3b83848a0887453562f8c",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.charlessoft.com/cgi-bin/pacifist_sparkle.cgi",
+        "checkpoint": "7a416fcb387bab753bb583c1ac2d8d220da671c8fbfca1aac1f73e8d2834fb34"
     },
     "version": "3.6",
     "build": null,
