@@ -6,8 +6,8 @@
     "download": "https://github.com/torakiki/pdfsam/releases/download/v3.3.5/PDFsam-3.3.5.dmg",
     "sha256": "a053c1c1815d66110b7da8e598099896841dd36cb3672a5e79f3843fdc872688",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/torakiki/pdfsam/releases.atom",
+        "checkpoint": "5f575016340692f662996057a0af092bf5d51db21fb432c68b31fd432cc67fe7"
     },
     "version": "0.1",
     "build": null,
