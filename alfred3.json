@@ -6,8 +6,8 @@
     "download": "https://cachefly.alfredapp.com/Alfred_3.6.1_910.dmg",
     "sha256": "fdefdb35047e193e1d06f5a441f4aabd4b45b24fd43c63d223d8508ad11a131e",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.alfredapp.com/app/update/general.xml",
+        "checkpoint": "dd1cdfd7338d25e0ab3fb50e15ebf63e60080be406f1e4c455f99254927a84c9"
     },
     "version": "3.6.1",
     "build": null,
