@@ -3,13 +3,13 @@
     "id": "plexmediaplayer",
     "bundle": "Plex Media Player.app",
     "identifier": "tv.plex.player",
-    "download": "https://downloads.plex.tv/plexmediaplayer/2.12.1.871-6c71195e/PlexMediaPlayer-2.12.1.871-6c71195e-macosx-x86_64.zip",
-    "sha256": "6e9882df81b4f62db7e3a29d6bb3a232f99f194db181cf2390554766c0583cdc",
+    "download": "https://downloads.plex.tv/plexmediaplayer/2.13.0.877-6e1ea2cb/PlexMediaPlayer-2.13.0.877-6e1ea2cb-macosx-x86_64.zip",
+    "sha256": "73dbc3289761e9c2144a3985769db097a672b4a5dee8052515c22486f53c6203",
     "appcast": {
         "url": "https://plex.tv/api/downloads/3.json",
-        "checkpoint": "2e3a0a0dd9af861d93e354779157c2bb8e81424a752cd376c99cf0c5ac1d9672"
+        "checkpoint": "e0361655f815134daf5ccda5da9e01b4e351ccf2f35ddff07f321ef6e724588e"
     },
-    "version": "2.12.1.871-6c71195e",
+    "version": "2.13.0.877-6e1ea2cb",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
