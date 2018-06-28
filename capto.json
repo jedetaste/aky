@@ -6,8 +6,8 @@
     "download": "https://dl.devmate.com/com.globaldelight.Capto/Capto.dmg",
     "sha256": "18594a1f435560cafd40d3b1db3416f0f504becd83cad4db97f716885af2ea27",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://updates.devmate.com/com.globaldelight.Capto.xml",
+        "checkpoint": "385da2ca486b719393028066509f9b0bd8cf73ba405c74d7bc41dca455ada3c8"
     },
     "version": "1.2.9",
     "build": null,
