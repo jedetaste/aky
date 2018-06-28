@@ -3,13 +3,13 @@
     "id": "lilypond",
     "bundle": "LilyPond.app",
     "identifier": "org.lilypond.lilypond",
-    "download": "http://download.linuxaudio.org/lilypond/binaries/darwin-x86/lilypond-2.19.80-1.darwin-x86.tar.bz2",
-    "sha256": "c73e4f9856b94a3ea760634ec3829f87495d4c392af95889a584987fe6260a38",
+    "download": "http://download.linuxaudio.org/lilypond/binaries/darwin-x86/lilypond-2.19.82-1.darwin-x86.tar.bz2",
+    "sha256": "558ffac7ba7543b39f2f87ed4a4141a29951d44772893c9af89a89ed33f16176",
     "appcast": {
         "url": "http://lilypond.org/macos-x.html",
-        "checkpoint": "29312324c58a5efce83d7a7c48a393edf1891941fed69d7f35dadf021dfaec40"
+        "checkpoint": "64138a656d1d127eb5acf576f9017d72c68393237b6f565756427c41205d6645"
     },
-    "version": "2.19.80-1",
+    "version": "2.19.82-1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
