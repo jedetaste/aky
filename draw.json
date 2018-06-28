@@ -6,8 +6,8 @@
     "download": "https://github.com/jgraph/drawio-desktop/releases/download/v8.6.5/draw.io-8.6.5-mac.zip",
     "sha256": "60b20ae5e023bed302899728b2b20b8bf1d78dfd16a579baf7d83c15834607c2",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://github.com/jgraph/drawio-desktop/releases.atom",
+        "checkpoint": "73c1d2bff52a98c61e699c6b0fa0a9f52d8d1b0257439c54d527ab34d051ebb9"
     },
     "version": "8.6.5",
     "build": null,
