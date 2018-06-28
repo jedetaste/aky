@@ -3,14 +3,14 @@
     "id": "eclipseide",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "http://mirror.switch.ch/eclipse/technology/epp/downloads/release/oxygen/3a/eclipse-committers-oxygen-3a-macosx-cocoa-x86_64.dmg",
-    "sha256": "de8dfa56b0e1047078e539831b3c958dab12d4ca870f8249293650840aa863ab",
+    "download": "http://mirror.switch.ch/eclipse/technology/epp/downloads/release/photon/R/eclipse-committers-photon-R-macosx-cocoa-x86_64.dmg",
+    "sha256": "9aeb9ad57a359efb38b40ea1195873fbf6c8c5dd920ca9b079facf0f24b555fa",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "4.7.3",
-    "build": "4.7.3.M20180330-0640",
+    "version": "4.8.0",
+    "build": "4.8.0.I20180611-0500",
     "dir": "/Applications/Eclipse IDE",
     "symlink": null,
     "web": "https://eclipse.org/"
