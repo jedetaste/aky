@@ -4,12 +4,12 @@
     "bundle": "Lingon X.app",
     "identifier": "com.peterborgapps.LingonX6",
     "download": "https://www.peterborgapps.com/downloads/LingonX6.zip",
-    "sha256": "c9b873a28fc84f2a98ad470a30ebd8a4d4d24ece8f1afca73d7cb7b48ddfb471",
+    "sha256": "b5f60becd9e5afa2ea8f094c4d0e268b5dd16d6727babbe37c4588569a67dbad",
     "appcast": {
         "url": "https://www.peterborgapps.com/updates/lingonx6-appcast.xml",
-        "checkpoint": "510e9491b2fe8e9b9001668ed933f167b711c3255a05879fdc7e51259be11690"
+        "checkpoint": "d5c7a9450a1524152b60b8bf3aa2f176ca11c10d90693a5b1e7758a06e9c8036"
     },
-    "version": "6.3.1",
+    "version": "6.3.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
