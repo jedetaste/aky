@@ -4,12 +4,12 @@
     "bundle": "Merlin Project.app",
     "identifier": "net.projectwizards.merlinproject",
     "download": "http://www.projectwizards.net/downloads/MerlinProject.zip",
-    "sha256": "2923a234c44d7e5dd5c1449fbf3f13e2916ab6e53985bb8933f24d38dcab0ad2",
+    "sha256": "2bca13baae5657575cda9c19bfa4dbe8d7ec0e1631a7b6b6ac9d411750ff2b88",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "5.0.1",
+    "version": "5.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
