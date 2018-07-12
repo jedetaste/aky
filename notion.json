@@ -3,13 +3,13 @@
     "id": "notion",
     "bundle": "Notion.app",
     "identifier": "notion.id",
-    "download": "https://desktop-release.notion-static.com/Notion-0.2.0.dmg",
-    "sha256": "08053ceae79878bb5f5be55fc2dbb7fbdbcb81ea309c3cd8049a8da677195bc8",
+    "download": "https://desktop-release.notion-static.com/Notion-0.2.2.dmg",
+    "sha256": "786a94f3307bb731492c21439cd3fc578996568e5fc11660c6e3e8231bbecdc3",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "0.2.0",
+    "version": "0.2.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
