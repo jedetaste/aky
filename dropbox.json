@@ -3,13 +3,13 @@
     "id": "dropbox",
     "bundle": "Dropbox.app",
     "identifier": "com.getdropbox.dropbox",
-    "download": "https://clientupdates.dropboxstatic.com/dbx-releng/client/Dropbox%2053.4.66.dmg",
-    "sha256": "991d4bbf5e1065fe7fd0745c405b58f7c128cc189c2a99198d15acacd3d32e8f",
+    "download": "https://clientupdates.dropboxstatic.com/dbx-releng/client/Dropbox%2053.4.67.dmg",
+    "sha256": "b6b5ca0465ea671a7d7390b69444e3d96487e492efa81da517bb29c147d84d67",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "53.4.66",
+    "version": "53.4.67",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
