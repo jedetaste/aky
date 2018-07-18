@@ -4,12 +4,12 @@
     "bundle": "Dash.app",
     "identifier": "com.kapeli.dashdoc",
     "download": "https://kapeli.com/downloads/v4/Dash.zip",
-    "sha256": "89edf68914d46f04846312a4dedeedf036528db39ccfb3ebd1465395b78c8b29",
+    "sha256": "fcd9f71c45fa53b77a57134d342ed186b7d65ca88f434361c560ea964f04ecbd",
     "appcast": {
         "url": "https://kapeli.com/Dash4.xml",
-        "checkpoint": "fef9cf538040a9e9d5db82d0eb9a52fd0fc7b3fd051204555b45e82a1623f444"
+        "checkpoint": "6b3772dd69976cd4f5ab20569b11c0b8b33f55cc0a84205a07eb20062da28a10"
     },
-    "version": "4.3.1",
+    "version": "4.3.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
