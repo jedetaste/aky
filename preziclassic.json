@@ -3,13 +3,13 @@
     "id": "preziclassic",
     "bundle": "Prezi Classic.app",
     "identifier": "com.prezi.desktop",
-    "download": "https://desktopassets.prezi.com/mac/pd6/releases/Prezi_Classic_6.12.1.dmg",
-    "sha256": "03e014d0944f51ecb91f93c45d07d8fb1a0d5ed226d6d3b68b6d12d4bfbc9f53",
+    "download": "https://desktopassets.prezi.com/mac/pd6/releases/Prezi_Classic_6.13.1.dmg",
+    "sha256": "9870c55a6e7f9d6163bb45e8a4eadb39192319219638941b08a9eb10841750fb",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "6.12.1",
+    "version": "6.13.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
