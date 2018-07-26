@@ -4,12 +4,12 @@
     "bundle": "BusyContacts.app",
     "identifier": "com.busymac.busycontacts",
     "download": "https://www.busymac.com/download/BusyContacts.zip",
-    "sha256": "b83feef9fb170330fa02b0415969f7480a2b8653c7d54695bc97a949f6ac2ae0",
+    "sha256": "6411eed67fd9cbbf437497371d1855e026dd9a427f5d194606df366791da07ae",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "1.2.14",
+    "version": "1.2.15",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
