@@ -1,7 +1,7 @@
 {
   "recipe": {
     "id": "diskmakerx",
-    "bundle": "DiskMaker X 7 for High Sierra.app.app",
+    "bundle": "DiskMaker X 7 for High Sierra.app",
     "identifier": "net.gete.diskmakerx",
     "download": "https://diskmakerx.com/downloads/DiskMaker_X_701.dmg",
     "sha256": "c9b12c63d9742b2eb0136d352725b364a2af98f26e7efd310520a44a3d367471",
