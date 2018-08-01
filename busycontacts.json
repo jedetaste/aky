@@ -6,8 +6,8 @@
     "download": "https://www.busymac.com/download/BusyContacts.zip",
     "sha256": "6411eed67fd9cbbf437497371d1855e026dd9a427f5d194606df366791da07ae",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.busymac.com/busycontacts/releasenotes.html",
+        "checkpoint": "40e289d66321ef43b6b7c76f36398dea02ebe03bd4e6cd98e88bd86ff9f42d8b"
     },
     "version": "1.2.15",
     "build": null,
