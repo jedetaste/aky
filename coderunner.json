@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "coderunner",
+    "bundle": "CodeRunner.app",
+    "identifier": "com.krill.CodeRunner",
+    "download": "https://dktfof1z89xc1.cloudfront.net/CodeRunner-2.3.zip",
+    "sha256": "0e086e416827b0262d65ca3bdcec82a81c5ba6eff5018582d324e0cd3a343dd8",
+    "appcast": {
+      "url": "https://coderunnerapp.com/appcast.xml",
+      "checkpoint": "831e8edd6a5ae578bcbbac2481de6242e51472f555135d8f36855c57a8873650"
+    },
+    "version": "2.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://coderunnerapp.com/"
+  }
+}
