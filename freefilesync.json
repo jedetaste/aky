@@ -3,13 +3,13 @@
     "id": "freefilesync",
     "bundle": "FreeFileSync.app",
     "identifier": "Zenju.FreeFileSync",
-    "download": "https://freefilesync.org/download/FreeFileSync_10.2_macOS.zip",
-    "sha256": "e64ec6a1c9c5355affadc2842adf0a7dda164476317f21baa3506aa8507b4315",
+    "download": "https://freefilesync.org/download/FreeFileSync_10.3_macOS.zip",
+    "sha256": "81d69b3e1040e40faa9c08b2721596620a05b46ecee06b4258bc09852b121a77",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "10.2",
+    "version": "10.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
