@@ -3,14 +3,14 @@
     "id": "musescore",
     "bundle": "MuseScore 2.app",
     "identifier": "org.musescore.MuseScore",
-    "download": "https://ftp.osuosl.org/pub/musescore/releases/MuseScore-2.3.1/MuseScore-2.3.1.dmg",
-    "sha256": "6673507df422b4be77c3e62a3143d2c0b5b9d2f24e6bed22d2b747baa8d56318",
+    "download": "https://ftp.osuosl.org/pub/musescore/releases/MuseScore-2.3.2/MuseScore-2.3.2.dmg",
+    "sha256": "67eb15707c2aff816dce25f1b91c7381184fa3a4bd731c76a3c963bfb110a4fa",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
     "version": null,
-    "build": "2.3.1",
+    "build": "2.3.2",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://musescore.org/"
