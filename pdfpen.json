@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "pdfpen",
+    "bundle": "PDFpen.app",
+    "identifier": "com.smileonmymac.PDFpen",
+    "download": "https://dl.smilesoftware.com/com.smileonmymac.PDFpen/PDFpen.dmg",
+    "sha256": "bc1b378012eec8731ba97f70fe7f6b3c3db22c76aff05337febda123b1e63611",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "10.1.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://smilesoftware.com/pdfpen-family"
+  }
+}
