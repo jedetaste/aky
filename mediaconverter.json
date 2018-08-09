@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "mediaconverter",
+    "bundle": "Media Converter.app",
+    "identifier": "com.kiwifruitware.Media_Converter",
+    "download": "https://downloads.sourceforge.net/media-converter/media-converter/1.2/media-converter-1.2.zip",
+    "sha256": "4893e6e5bc18b9cb0f0d8e1bcb861f92595314e4f9768ef638affdfc866f37e1",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://media-converter.sourceforge.net/"
+  }
+}
