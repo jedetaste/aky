@@ -3,13 +3,13 @@
     "id": "evernote",
     "bundle": "Evernote.app",
     "identifier": "com.evernote.Evernote",
-    "download": "https://cdn1.evernote.com/mac-smd/public/Evernote_RELEASE_7.3.1_456985.dmg",
-    "sha256": "35206946328ec5748dc2da26f831e2b278aa8dc0c13dd6d9c666067bbf2273b9",
+    "download": "https://cdn1.evernote.com/mac-smd/public/Evernote_RELEASE_7.4_456999.dmg",
+    "sha256": "c4e792c7c9ee0ed6c244d1d6f416567d8b8d3c2bf313e2175c6e84bade3a1608",
     "appcast": {
         "url": "https://update.evernote.com/public/ENMacSMD/EvernoteMacUpdate.xml",
-        "checkpoint": "3c6474c4247d6adbd05e83521aa60fbd1cdbb32b9e805ccb73a7e338d7c4fda1"
+        "checkpoint": "fee933506c2ed6f686e3ea23c2e75b4b0d04364640fa698cdfd170575d22724b"
     },
-    "version": "7.3.1",
+    "version": "7.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
