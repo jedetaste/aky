@@ -3,8 +3,8 @@
     "id": "teamspeak",
     "bundle": "TeamSpeak 3 Client.app",
     "identifier": "com.teamspeak.TeamSpeak3",
-    "download": "http://dl.4players.de/ts/releases/3.1.10/TeamSpeak3-Client-macosx-3.1.10.dmg",
-    "sha256": "a8c38b3dd886e8cfd4875220387b3cd19bde1376604b180032d8f3955e154d17",
+    "download": "http://dl.4players.de/ts/releases/3.2.1/TeamSpeak3-Client-macosx-3.2.1.dmg",
+    "sha256": "04a53228267a9cdcb8f359355cd3ab109b6dd3157e7df4c77116adc5610903ce",
     "appcast": {
         "url": null,
         "checkpoint": null
