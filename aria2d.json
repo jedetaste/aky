@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "aria2d",
+    "bundle": "Aria2D.app",
+    "identifier": "com.xjbeta.Aria2D",
+    "download": "https://dl.devmate.com/com.xjbeta.Aria2D/Aria2D.zip",
+    "sha256": "1e2649855f2d4c422c3c916be5d6b202d3dca069f979d2a42967208da29978c7",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/xjbeta/Aria2D"
+  }
+}
