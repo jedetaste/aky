@@ -6,8 +6,8 @@
     "download": "http://installers.collectorz.com/book-mac/bookcollectorsetup1821.dmg",
     "sha256": "34c20023e02b8231d832f190fea73a5a5279557c39dfbe6ba4c429cd80977ca4",
     "appcast": {
-        "url": "https://www.collectorz.com/book/book-collector/whatsnew/macos",
-        "checkpoint": "d29dd2d3fc394622e49c13cac4609fb8a4610f01026b21419dbf420f03c36501"
+        "url": null,
+        "checkpoint": null
     },
     "version": "18.2.1",
     "build": null,
