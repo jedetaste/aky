@@ -3,13 +3,13 @@
     "id": "dropdmg",
     "bundle": "DropDMG.app",
     "identifier": "com.c-command.DropDMG",
-    "download": "https://c-command.com/downloads/DropDMG-3.5.3.dmg",
-    "sha256": "93736ab7dcaa425bc9d1124b029abb6f11f9a7926faacc7a7d56fc2e1d4b41ba",
+    "download": "https://c-command.com/downloads/DropDMG-3.5.4.dmg",
+    "sha256": "7834333686e3dcde0c1b6a4560b504e45b17697290d20f2057690aed2c526ae7",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "3.5.3",
+    "version": "3.5.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
