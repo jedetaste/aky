@@ -1,7 +1,7 @@
 {
   "recipe": {
     "id": "parallels",
-    "bundle": "Parallels Desktop.app.app",
+    "bundle": "Parallels Desktop.app",
     "identifier": "com.parallels.desktop.console",
     "download": "https://download.parallels.com/desktop/v13/13.3.2-43368/ParallelsDesktop-13.3.2-43368.dmg",
     "sha256": "a79bb516ed3ec81c5b2c9150b1d605c2a2fc596e426effe24177693939db795f",
