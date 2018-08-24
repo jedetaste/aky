@@ -3,13 +3,13 @@
     "id": "github",
     "bundle": "GitHub Desktop.app",
     "identifier": "com.github.GitHubClient",
-    "download": "https://desktop.githubusercontent.com/releases/1.3.3-9d2e0466/GitHubDesktop.zip",
-    "sha256": "fba7ce682457e672189734453d972ba3879852e0d032b40a514478da97edf58f",
+    "download": "https://desktop.githubusercontent.com/releases/1.3.4-b94d0670/GitHubDesktop.zip",
+    "sha256": "3248e370ba02a04878c80f3e732fdcb069d30d41a2b30d58b4dfc50eaf8cd31e",
     "appcast": {
         "url": "https://github.com/desktop/desktop/releases.atom",
-        "checkpoint": "3c60fb832e9e40cf434d36b26bb5f1d6223b31f48b5a2739c290aa496fb0436c"
+        "checkpoint": "c730cf9b39d114d0f61e01ddcd36aed3718cc60de2fdfd57d375c41c1c6af6c8"
     },
-    "version": "1.3.3",
+    "version": "1.3.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
