@@ -3,13 +3,13 @@
     "id": "sonos",
     "bundle": "Sonos.app",
     "identifier": "com.sonos.macController",
-    "download": "http://update-software.sonos.com/software/mac/mdcr/SonosDesktopController90.dmg",
-    "sha256": "da033560d4a52444293a51d0f2010916745c629de2a06eb5e95c9b12e33577c3",
+    "download": "http://update-software.sonos.com/software/mac/mdcr/SonosDesktopController91.dmg",
+    "sha256": "bacb03bf7dbd42325ea95e54bc94dbc3bb2414d2314c0f62adfb59a9a807e99b",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "9.0",
+    "version": "9.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
