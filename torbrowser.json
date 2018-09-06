@@ -1,7 +1,7 @@
 {
   "recipe": {
     "id": "torbrowser",
-    "bundle": "TorBrowser.app",
+    "bundle": "Tor Browser.app",
     "identifier": "org.torproject.torbrowser",
     "download": "https://dist.torproject.org/torbrowser//8.0/TorBrowser-8.0-osx64_de.dmg",
     "sha256": "d1fa6ebf4e0af86e5fd4c0c0d4d4885e3cb712345958f01a25073a0e13662da7",
