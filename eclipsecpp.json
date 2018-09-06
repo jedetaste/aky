@@ -3,14 +3,14 @@
     "id": "eclipsecpp",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "http://mirror.switch.ch/eclipse/technology/epp/downloads/release/oxygen/3a/eclipse-cpp-oxygen-3a-macosx-cocoa-x86_64.dmg",
-    "sha256": "e94fcad0c13132878380a399371f8aec6416f7559c127bf77b9ef0b2f96b8e34",
+    "download": "http://mirror.switch.ch/eclipse/technology/epp/downloads/release/photon/R/eclipse-cpp-photon-R-macosx-cocoa-x86_64.dmg",
+    "sha256": "5a6c292ae35aca86df874cefcaf682e78209859ebb26aaf88541cb6d42b377cd",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "4.7.3",
-    "build": "4.7.3.M20180330-0640",
+    "version": "4.8.0",
+    "build": "4.8.0.I20180611-0500",
     "dir": "/Applications/Eclipse CPP",
     "symlink": null,
     "web": "https://eclipse.org/"
