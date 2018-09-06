@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "seadrive",
+    "bundle": "Seadrive.app",
+    "identifier": "com.seafile.seadrive",
+    "download": "https://download.seadrive.org/seadrive-0.9.4.dmg",
+    "sha256": "077e8562b2cc2aeefdcc252582a440677a368212969a2472d984acab74d9f1d3",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "0.8.7",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.seafile.com/"
+  }
+}
