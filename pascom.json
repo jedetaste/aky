@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "pascom",
+    "bundle": "pascom Client.app",
+    "identifier": "net.pascom.pascomClient",
+    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-7.17.10.R.dmg",
+    "sha256": "7c8816d1f74f14ab85de6a0401e19ed75ca1314bdc997822752ce64fa0226638",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "7.17.10.R",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.pascom.net/"
+  }
+}
