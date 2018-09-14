@@ -3,13 +3,13 @@
     "id": "daisydisk",
     "bundle": "DaisyDisk.app",
     "identifier": "com.daisydiskapp.DaisyDiskStandAlone",
-    "download": "https://daisydiskapp.com/downloads/DaisyDisk.zip",
-    "sha256": "5e48065a0ccaf2d44b4a1e0c934efc7d7f9b75f9f1414ae6b1de919036ad0993",
+    "download": "https://www.daisydiskapp.com/downloads/DaisyDisk.zip",
+    "sha256": "c99e4a5eb7209770e4ffc21a43e6c8c047567f04af0841afe064002c8d04e770",
     "appcast": {
         "url": "https://daisydiskapp.com/downloads/appcastReleaseNotes.php?appEdition=Standard&osVersion=10.13",
-        "checkpoint": "c4b806c54dee87c43bc67e4c6c747c026c95f8b76c87f94f1557b6b203ef94f8"
+        "checkpoint": "03126fa75a6b795336352503bb0107096e96042f1659edf6a3cfa52c06925554"
     },
-    "version": "4.6.3",
+    "version": "4.6.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
