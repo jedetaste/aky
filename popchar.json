@@ -3,13 +3,13 @@
     "id": "popchar",
     "bundle": "PopChar.app",
     "identifier": "com.macility.popchar3",
-    "download": "http://www.ergonis.com/downloads/products/popcharx/PopCharX83-Install.dmg",
-    "sha256": "1e19134b1b5617e5f46f96846da5d460b41fd62e89014ea1819e8c4fbe9cb98d",
+    "download": "http://www.ergonis.com/downloads/products/popcharx/PopCharX84-Install.dmg",
+    "sha256": "c9a39386ee171f3ed814035a93dbee9844b57c8414bd5ca7ba2990ee8a74119f",
     "appcast": {
         "url": "http://www.ergonis.com/products/popcharx/history.html",
-        "checkpoint": "bfda2b0f6a789ea449b5aa0a36fdbbc71df259aa68afad28d12ca550ec2677fb"
+        "checkpoint": "5c60b2a5eed8f72e90f76e12e8671af691a75fb2289c77f36ece056e0e61b800"
     },
-    "version": "8.3",
+    "version": "8.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
