@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "sketchbook",
+    "bundle": "SketchBook.app",
+    "identifier": "com.autodesk.SketchBook",
+    "download": "https://sketchbook.com/mac/SketchBook_v8.6.1_mac.dmg",
+    "sha256": "6f7c1b4feb32fea7172068e3f3b02748a9fa9e21e099579c7ca7ce00648c2518",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "8.6.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://sketchbook.com/"
+  }
+}
