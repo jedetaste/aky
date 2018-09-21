@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "silhouettestudio",
+    "bundle": "Silhouette Studio.app",
+    "identifier": "com.silhouettesoftware.Silhouette-Studio",
+    "download": "https://dl.silhcdn.com/6145ed0d05415535",
+    "sha256": "08212b5b7ac718ce64306abc6e6806c010e62603fd4f27cac2f16afae5251d65",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.1.468.001",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.silhouetteamerica.com/software"
+  }
+}
