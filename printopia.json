@@ -3,13 +3,13 @@
     "id": "printopia",
     "bundle": "Printopia.app",
     "identifier": "com.decisivetactics.printopia",
-    "download": "https://www.decisivetactics.com/products/printopia/dl/Printopia_3.0.10.zip",
-    "sha256": "9acad71b496fc93f2095ceab9f0eece879710aee783541c39450d3303859aa59",
+    "download": "https://www.decisivetactics.com/products/printopia/dl/Printopia_3.0.12.zip",
+    "sha256": "82176d21ab869bc132f6776200c51fce8ac8273c579d6ae339c6989addde4c65",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "3.0.10",
+    "version": "3.0.12",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
