@@ -4,10 +4,10 @@
     "bundle": "coconutBattery.app",
     "identifier": "com.coconut-flavour.coconutBattery",
     "download": "https://www.coconut-flavour.com/downloads/coconutBattery_3.7.zip",
-    "sha256": "111555c9c6e37f040d71c99369dc1f8726b5800a7087a76f5c6456fcec6de2e8",
+    "sha256": "fe0338e808c76096d8fad8cd3ef2eb98f8f6860278abbb89a85507e9872bffe2",
     "appcast": {
         "url": "https://coconut-flavour.com/updates/coconutBattery.xml",
-        "checkpoint": "df0995093d633a02a93c6886dfe2ef433ebe2dfa5b22d25eda0264ad782d3c30"
+        "checkpoint": "93909252e1d606b4e037aef2ca0ef9d00fa5c522f45105905e90ff40d6a2d4e9"
     },
     "version": "3.7",
     "build": null,
