@@ -1,9 +1,9 @@
 {
   "recipe": {
     "id": "etrecheck",
-    "bundle": "EtreCheck.app",
+    "bundle": "EtreCheckPro.app",
     "identifier": "com.etresoft.EtreCheck4",
-    "download": "https://d1ajlxshccx4yr.cloudfront.net/EtreCheck.zip",
+    "download": "https://d1ajlxshccx4yr.cloudfront.net/EtreCheckPro.zip",
     "sha256": "3d7482e791ad956d2e1138dda2cfa84e666dec55effd06d23075ad960c9d042a",
     "appcast": {
         "url": null,
