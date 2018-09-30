@@ -4,13 +4,13 @@
     "bundle": "GraphicConverter 10.app",
     "identifier": "com.lemkesoft.graphicconverter10",
     "download": "https://www.lemkesoft.info/files/graphicconverter/gc10.dmg",
-    "sha256": "7c4e13afae5c029ba523034dd3bbee182ac7d2eab9310ece624ef11a406ba21d",
+    "sha256": "5fe215b43823d5097292700ac52947a420a07816b6de13f7281ff98c61bc79f9",
     "appcast": {
         "url": "https://www.lemkesoft.info/sparkle/graphicconverter/graphicconverter10.xml",
-        "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        "checkpoint": "521d54d0851abce33052cefc81b8a1c5ae687274244a4739c189130678884cea"
     },
-    "version": "10.6.4",
-    "build": "3185",
+    "version": "10.6.5",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
     "web": "http://www.lemkesoft.de/products/graphicconverter/"
