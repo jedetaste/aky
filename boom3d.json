@@ -1,13 +1,13 @@
 {
   "recipe": {
-    "id": "boom3",
+    "id": "boom3d",
     "bundle": "Boom 3D.app",
     "identifier": "com.globaldelight.Boom3D",
-    "download": "https://dl.devmate.com/com.globaldelight.Boom3D/Boom3D.dmg",
+    "download": "https://dl.devmate.com/com.globaldelight.Boom3D/1.1.4/1527055860/Boom3D-1.1.4.dmg",
     "sha256": "d4800054fe1e8db5cfa70989320e9f289d98e780f8c11a2d522fcc4bc8e9cbe8",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://updates.devmate.com/com.globaldelight.Boom3D.xml",
+        "checkpoint": "0efeb31ff3a8a51810002b0f7383a6281f05e230fac3d8e3bc6efa0fafbceb00"
     },
     "version": "1.1.4",
     "build": null,
