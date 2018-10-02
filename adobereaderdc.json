@@ -3,13 +3,13 @@
     "id": "adobereaderdc",
     "bundle": "Adobe Acrobat Reader DC.app",
     "identifier": "com.adobe.Reader",
-    "download": "https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/1801120063/AcroRdrDC_1801120063_MUI.dmg",
-    "sha256": "09aa429f8d0a3487e3da11dc9a5a9515c2fc3087c8eb06a72f575ee2f823e9fc",
+    "download": "http://ardownload.adobe.com/pub/adobe/reader/mac/AcrobatDC/1900820071/AcroRdrDC_1900820071_MUI.dmg",
+    "sha256": "32bf967bfb96ec994623c9f914efb2a1fedd1e903aecc871e1e6a7998a74c18b",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "18.011.20063",
+    "version": "19.008.20071",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
