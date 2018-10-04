@@ -3,13 +3,13 @@
     "id": "cmake",
     "bundle": "CMake.app",
     "identifier": "org.cmake.cmake",
-    "download": "https://cmake.org/files/v3.11/cmake-3.11.3-Darwin-x86_64.dmg",
-    "sha256": "f53bfe13a7b4c143facb2d792c7f161007c0a569a7585378127f6789e536c109",
+    "download": "https://cmake.org/files/v3.12/cmake-3.12.3-Darwin-x86_64.dmg",
+    "sha256": "1dcb8146fd115c17a5836083a915e4e3e98cd1353dacae74e3aab343f052c355",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "3.11.3",
+    "version": "3.12.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
