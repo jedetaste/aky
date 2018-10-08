@@ -3,13 +3,13 @@
     "id": "timings",
     "bundle": "Timings.app",
     "identifier": "com.mediaatelier.Timings",
-    "download": "https://mediaatelier.com/Timings3/Timings_3.2.3.zip",
-    "sha256": "284f9633808170fb630ce1a57482a7a580fecc4575933f9671f570e44d587672",
+    "download": "https://mediaatelier.com/Timings3/Timings_3.2.5.2.zip",
+    "sha256": "4393ef86d5661d2b02b476ae61e15b40157ce93431e4e865ad17f4b7362b148d",
     "appcast": {
       "url": "https://mediaatelier.com/Timings3/feed.php",
-      "checkpoint": "7d60c8b8237dfa1ecf92ca8092338bdc1840929815a64acfc75d268154886797"
+      "checkpoint": "a9d502ccb436c5dc93b685629dc6499a020bfdfc09e4612e0128978f8e2a9271"
     },
-    "version": "3.2.3",
+    "version": "3.2.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
