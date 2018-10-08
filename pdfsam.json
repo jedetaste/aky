@@ -1,15 +1,15 @@
 {
   "recipe": {
     "id": "pdfsam",
-    "bundle": "PDFsam.app",
-    "identifier": "org.pdfsam.community.App",
-    "download": "https://github.com/torakiki/pdfsam/releases/download/v3.3.5/PDFsam-3.3.5.dmg",
-    "sha256": "a053c1c1815d66110b7da8e598099896841dd36cb3672a5e79f3843fdc872688",
+    "bundle": "PDFsam Basic.app",
+    "identifier": "org.pdfsam.basic",
+    "download": "https://github.com/torakiki/pdfsam/releases/download/v3.3.7/pdfsam-3.3.7.dmg",
+    "sha256": "74cdfb48751f30a60cd241ed19bf1af7714a2e3dc257125b3db589d899c1b9d3",
     "appcast": {
         "url": "https://github.com/torakiki/pdfsam/releases.atom",
-        "checkpoint": "5f575016340692f662996057a0af092bf5d51db21fb432c68b31fd432cc67fe7"
+        "checkpoint": "661e3b99f0697d0ab548172ee90d467206eb6d5bb4149d8bf9b03f63f26ff0de"
     },
-    "version": "0.1",
+    "version": "3.3.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
