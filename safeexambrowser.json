@@ -3,13 +3,13 @@
     "id": "safeexambrowser",
     "bundle": "Safe Exam Browser.app",
     "identifier": "org.safeexambrowser.Safe-Exam-Browser",
-    "download": "https://sourceforge.net/projects/seb/files/seb-macosx/seb-macos_2.1.2/SafeExamBrowser-2.1.2.dmg",
-    "sha256": "1cc1520ecf02bfc6f60273d33496f340d5aff2320b47c8151611d4806efbf3d5",
+    "download": "https://sourceforge.net/projects/seb/files/seb-macosx/seb-macos_2.1.3/SafeExamBrowser-2.1.3.dmg",
+    "sha256": "57cdaf387378b0944050f652ab6451c1319cb5b3ab3b2f83cbd3755b085c2401",
     "appcast": {
         "url": "https://sourceforge.net/projects/seb/rss",
-        "checkpoint": "c164785fea36e476b8151c01c9bebabe0c74c5144e509f63c0c77b9a8b454a42"
+        "checkpoint": "aec3a5a4741db755353f89f9ceb8fb0bd2962ff736efb79092b53c2d2aa2e149"
     },
-    "version": "2.1.2",
+    "version": "2.1.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
