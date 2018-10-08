@@ -3,13 +3,13 @@
     "id": "pencil2d",
     "bundle": "Pencil2D.app",
     "identifier": "org.pencil2d.Pencil2D",
-    "download": "https://github.com/pencil2d/pencil/releases/download/v0.6.1.1/pencil2d-mac-0.6.1.1.zip",
-    "sha256": "bce374e85b2d49641cf3325aeb91f5cdfaaa02c2defc83c95092e1f8c56e4bb9",
+    "download": "https://github.com/pencil2d/pencil/releases/download/v0.6.2/pencil2d-mac-0.6.2.zip",
+    "sha256": "5661d6cbaadfc4542ce584966ae5075d44fbf00dd430b9d854210db9b9cf3fff",
     "appcast": {
         "url": "https://github.com/pencil2d/pencil/releases.atom",
-        "checkpoint": "d1a066e475fc20dccffac319bd271b16826870c2aecab693fb08e3f882dd64d5"
+        "checkpoint": "b59783c16af7958970b482b6cfbcf3f10f79bafc3eddfbc3b6c5ca9d380a6799"
     },
-    "version": "0.6.0",
+    "version": "0.6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
