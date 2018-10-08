@@ -4,12 +4,12 @@
     "bundle": "PDFpen.app",
     "identifier": "com.smileonmymac.PDFpen",
     "download": "https://dl.smilesoftware.com/com.smileonmymac.PDFpen/PDFpen.dmg",
-    "sha256": "bc1b378012eec8731ba97f70fe7f6b3c3db22c76aff05337febda123b1e63611",
+    "sha256": "34b11d2734814b207d14bf90cd8ad6a1e2717d6743950f0a72ad626da2ff2c34",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "10.1.1",
+    "version": "10.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
