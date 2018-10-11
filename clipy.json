@@ -3,13 +3,13 @@
     "id": "clipy",
     "bundle": "Clipy.app",
     "identifier": "com.clipy-app.Clipy",
-    "download": "https://github.com/Clipy/Clipy/releases/download/1.1.5/Clipy_1.1.5.dmg",
-    "sha256": "58b49c5a63fcee8d9636922911d24055e85ecbe10cec3d2a4a86c6a377f44ab1",
+    "download": "https://github.com/Clipy/Clipy/releases/download/1.2.1/Clipy_1.2.1.dmg",
+    "sha256": "dfbb66ce3135fbaa2d64eaeea99a63e63485e322c9746045a1098b1696a1ecd5",
     "appcast": {
         "url": "https://github.com/Clipy/Clipy/releases.atom",
-        "checkpoint": "9fcc325507ccfa554768cdd24308b1f4ffcc7ff96205007196999d3611cb77f3"
+        "checkpoint": "f28b755de173424082f3e1004630111d2298442d848b9d2abbaaff58a70d8ee2"
     },
-    "version": "1.1.5",
+    "version": "1.2.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
