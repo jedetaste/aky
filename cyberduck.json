@@ -3,13 +3,13 @@
     "id": "cyberduck",
     "bundle": "Cyberduck.app",
     "identifier": "ch.sudo.cyberduck",
-    "download": "https://update.cyberduck.io/Cyberduck-6.8.1.28935.zip",
-    "sha256": "71924a2fad5d1a317eada57eb7df6b4d917001a84cc44a12736331d9c32a09ab",
+    "download": "https://update.cyberduck.io/Cyberduck-6.8.2.28974.zip",
+    "sha256": "ca059e070710ee2e634900680990ff4581a2a18cf17e416779853980c173fb24",
     "appcast": {
         "url": "https://version.cyberduck.io/changelog.rss",
-        "checkpoint": "0a188ba35b76506045e1f46078516676c6fdc4328ae6009d871aff81cd15aa83"
+        "checkpoint": "c5668867d27760ec60e78df97d7a8855d4f221f5fb1811cf2f0906df580cc579"
     },
-    "version": "6.8.1",
+    "version": "6.8.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
