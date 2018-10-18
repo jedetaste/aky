@@ -3,14 +3,14 @@
     "id": "pascom",
     "bundle": "pascom Client.app",
     "identifier": "net.pascom.pascomClient",
-    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-7.18.00.R.dmg",
-    "sha256": "d7ba387aeae826c5e7c229cdf272ec623a8e16ab9dfb22dbf4256888558b98cb",
+    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-42.R34_99e005c.dmg",
+    "sha256": "5c5df293b5d6229f1404d1fae083faf141498c6f0159342dc7c4d9b723ee5afd",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "7.18.00.R",
-    "build": null,
+    "version": null,
+    "build": "42.R34_99e005c",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.pascom.net/"
