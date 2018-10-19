@@ -3,13 +3,13 @@
     "id": "fluid",
     "bundle": "Fluid.app",
     "identifier": "com.fluidapp.Fluid2",
-    "download": "https://fluidapp.com/dist/Fluid_2.1.zip",
-    "sha256": "aa99e0218d8de548a292751f2e3145f299ddb7d6acf929b9d05b8d88db86e8e5",
+    "download": "https://fluidapp.com/dist/Fluid_2.1.1.zip",
+    "sha256": "cbbfe30e18eac64cafb9a3ca95513c6281312468769f923ee41d5cb0fe508284",
     "appcast": {
         "url": "https://fluidapp.com/appcast/fluid2.rss",
-        "checkpoint": "7411f51751e2db5184ae1dc49a14b47c11d9c5312dc8dce895955c3372f52341"
+        "checkpoint": "78a2572238d45bcf4e7237626fa607a0bb4e685118b0e4439daf017cc19c38b5"
     },
-    "version": "2.1",
+    "version": "2.1.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
