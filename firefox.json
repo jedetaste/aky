@@ -3,13 +3,13 @@
     "id": "firefox",
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
-    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/62.0.3/mac/de/Firefox%2062.0.3.dmg",
-    "sha256": "6adcc21cfd9e64f6effe60675028936ac291d90c5827ad81e67cab1396a63224",
+    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/63.0/mac/de/Firefox%2063.0.dmg",
+    "sha256": "72f6402660e7840fdbd2e1e5ea79a7abf1a6359f5ce564ed868376e175c3919f",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "62.0.3",
+    "version": "63.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
