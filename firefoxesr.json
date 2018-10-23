@@ -3,13 +3,13 @@
     "id": "firefoxesr",
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
-    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/60.2.1esr/mac/de/Firefox%2060.2.1esr.dmg",
-    "sha256": "5a90aa1143463cad8d537d9c8ae337e7eb92b632a6e93e072b1c172b6e2eec89",
+    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/60.3.0esr/mac/de/Firefox%2060.3.0esr.dmg",
+    "sha256": "c3b92b4d045fe409403f092cb2bddbbcb4357b8cd359a73f71f27cdd0b21426f",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "60.2.1",
+    "version": "60.3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
