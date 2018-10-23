@@ -4,12 +4,12 @@
     "bundle": "Path Finder.app",
     "identifier": "com.cocoatech.PathFinder",
     "download": "https://get.cocoatech.com/PF8.dmg",
-    "sha256": "8c2d2a5abf823c17dde1bc45fceb30f72086a4e10091f39e1b9e4ddb057545de",
+    "sha256": "432c5931568ce0c0a269a6a3d22e9fceac946ba1f6e06318cf502939499caa80",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "8.2.4",
+    "version": "8.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
