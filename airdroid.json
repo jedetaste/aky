@@ -3,13 +3,13 @@
     "id": "airdroid",
     "bundle": "AirDroid.app",
     "identifier": "com.sandstudio.airdroid",
-    "download": "http://dl.airdroid.com/AirDroid_Desktop_Client_3.6.3.1.dmg",
-    "sha256": "3010932cd20aed546dfe9b324e7a56f4980f10c53de45fa4841b89aafb716c2b",
+    "download": "http://dl.airdroid.com/AirDroid_Desktop_Client_3.6.4.0.dmg",
+    "sha256": "ff8326016e22f89016bbcec84991ff3152a0495ef12a520b6442802286e7d892",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "3.6.3.1",
+    "version": "3.6.4.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
