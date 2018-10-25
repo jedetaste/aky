@@ -3,8 +3,8 @@
     "id": "adobereader",
     "bundle": "Adobe Reader.app",
     "identifier": "com.adobe.Reader",
-    "download": "http://ardownload.adobe.com/pub/adobe/reader/mac/11.x/11.0.00/de_DE/AdbeRdr11000_de_DE.dmg",
-    "sha256": "fba620a52ab0073c53dca18dc29edeebfe3e534325b97bbcd2a318f3747b6a98",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/Adobe%20Reader%20XI%20Installer.pkg.zip",
+    "sha256": "7528b8aafeac5cbc80048c9a10df988b34731215039af6ee16bac36f8d8020c9",
     "appcast": {
         "url": null,
         "checkpoint": null
