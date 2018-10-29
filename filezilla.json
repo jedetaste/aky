@@ -3,13 +3,13 @@
     "id": "filezilla",
     "bundle": "FileZilla.app",
     "identifier": "de.filezilla",
-    "download": "https://download.filezilla-project.org/client/FileZilla_3.37.4_macosx-x86.app.tar.bz2",
-    "sha256": "bc2c4ba4959beb61a7a19496fbc0510c76c0d6c0e76cf5d276e865cec39e2c11",
+    "download": "https://download.filezilla-project.org/client/FileZilla_3.38.1_macosx-x86_setup_bundled.dmg",
+    "sha256": "42e598b406b95a731c1067cfb4968e3d888470ba6b9049cb3028aaac473f0734",
     "appcast": {
         "url": "https://filezilla-project.org/versions.php?type=client",
-        "checkpoint": "6cf54864070c48183092b1feb7417ec553b8eae074ce619ee7743418f5b659f1"
+        "checkpoint": "0dd902955a0ae0e516de5e1cb6ba7c4d0929e7ee35ebe207e4be748432f836dd"
     },
-    "version": "3.37.4",
+    "version": "3.38.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
