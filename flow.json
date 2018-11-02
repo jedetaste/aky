@@ -4,12 +4,12 @@
     "bundle": "Flow.app",
     "identifier": "com.metalab.flow-mac",
     "download": "https://cdn.getflow.com/darwin_x64/Flow.zip",
-    "sha256": "91aee14a8bec5d2525171dfb30614af3b99c702ce13749fb31402c1d300e739d",
+    "sha256": "4d26a960ae77b74b23ae1fe1bac779773cd6446e1ba52e2c58f783c7ef328547",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "6.0.22",
+    "version": "6.0.23",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
