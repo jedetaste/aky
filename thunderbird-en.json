@@ -3,13 +3,13 @@
     "id": "thunderbird-en",
     "bundle": "Thunderbird.app",
     "identifier": "org.mozilla.thunderbird",
-    "download": "https://ftp.mozilla.org/pub/thunderbird/releases/60.2.1/mac/en-US/Thunderbird%2060.2.1.dmg",
-    "sha256": "3698009175f9bbae37579ff6cdc4f68779dbef4e2b760082e364ea5229d80626",
+    "download": "https://ftp.mozilla.org/pub/thunderbird/releases/60.3.0/mac/en-US/Thunderbird%2060.3.0.dmg",
+    "sha256": "f6eafcbddc6731dcf38f3c880d9a711570cd3c87556e22b6f5795594b9ad2a8f",
     "appcast": {
         "url": "https://www.thunderbird.net/en-US/thunderbird/releases/",
-        "checkpoint": "209b1fe8647661be3075166cb873c70f3b05ab990b55365109c52626b1130933"
+        "checkpoint": "2a48a0c14631c9be6a98828da2048fbd5099b4286fda8de5560e390a8e37984a"
     },
-    "version": "60.2.1",
+    "version": "60.3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
