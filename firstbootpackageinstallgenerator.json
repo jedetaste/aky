@@ -3,13 +3,13 @@
     "id": "firstbootpackageinstallgenerator",
     "bundle": "First Boot Package Install Generator.app",
     "identifier": "com.apple.automator.First Boot Package Install Generator",
-    "download": "https://github.com/rtrouton/First_Boot_Package_Install_Generator/releases/download/1.6/First_Boot_Package_Install_Generator.pkg",
-    "sha256": "a8969416b035d1fdc0a4414d6592770cb23744ef9afcfd782e8016990103dfc6",
+    "download": "https://github.com/rtrouton/First_Boot_Package_Install_Generator/releases/download/1.7/First_Boot_Package_Install_Generator.zip",
+    "sha256": "50a8d8cba495156f2e330b9176d9a9220a1719ea6038830f28db9a87db08db4a",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "1.6",
+    "version": "1.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
