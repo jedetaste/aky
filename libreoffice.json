@@ -3,13 +3,13 @@
     "id": "libreoffice",
     "bundle": "LibreOffice.app",
     "identifier": "org.libreoffice.script",
-    "download": "http://mirror.switch.ch/ftp/mirror/tdf/libreoffice/stable/6.1.2/mac/x86_64/LibreOffice_6.1.2_MacOS_x86-64.dmg",
-    "sha256": "e22460b1500b8b44c3bb477792f4537b9480cc969ed56202cff767423282148d",
+    "download": "https://download.documentfoundation.org/libreoffice/stable/6.1.3/mac/x86_64/LibreOffice_6.1.3_MacOS_x86-64.dmg",
+    "sha256": "239a86646f9a2d532cadb647be38e619e4d5d4ca735da6731c660e8849949df4",
     "appcast": {
         "url": "https://download.documentfoundation.org/libreoffice/stable/",
-        "checkpoint": "9f07867e903507e5eff286362bc0cb3415d7e851395826b35228337270622094"
+        "checkpoint": "548682f2ef6e17eeede5dc11ba4c21308d66c799de2c6d1534c6ba131076fdfe"
     },
-    "version": "6.1.2001",
+    "version": "6.1.3002",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
