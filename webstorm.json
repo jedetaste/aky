@@ -3,13 +3,13 @@
     "id": "webstorm",
     "bundle": "WebStorm.app",
     "identifier": "com.jetbrains.WebStorm",
-    "download": "https://download-cf.jetbrains.com/webstorm/WebStorm-2018.2.6.dmg",
-    "sha256": "e191579a69210cfbea3585229d40437afed2fbffb9695885a86c2a7f85acfeb5",
+    "download": "https://download.jetbrains.com/webstorm/WebStorm-2018.3.dmg",
+    "sha256": "a7f4bbbe66abf18d55c74e7fb07cdf4d5ce1e56431e0ffff1c766bc7239768a3",
     "appcast": {
         "url": "https://data.services.jetbrains.com/products/releases?code=WS&latest=true&type=release",
-        "checkpoint": "6250a458850d6a4546d379094fa05c21ff04d051782776ce59162366970525b6"
+        "checkpoint": "498b20bad71eac108d8072607a09436bc3cc2a62cfa12e13bbc7706a729761a7"
     },
-    "version": "2018.2.6",
+    "version": "2018.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
