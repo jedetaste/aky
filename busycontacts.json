@@ -3,13 +3,13 @@
     "id": "busycontacts",
     "bundle": "BusyContacts.app",
     "identifier": "com.busymac.busycontacts",
-    "download": "https://www.busymac.com/download/BusyContacts.zip",
-    "sha256": "535a90466810f6200f88f9bedf0229e511d35629c879d1f5e01ed3f937a73538",
+    "download": "http://www.busymac.com/download/BusyContacts.zip",
+    "sha256": "166488d7d7a2c81dbb6f7a24b6ae453f15c4ce46b68692b552e31c87d5c56808",
     "appcast": {
         "url": "https://www.busymac.com/busycontacts/releasenotes.html",
-        "checkpoint": "1fcf757b044186424dbe0fb862c80043bfdb42388f597813b08f5e2b55cd0856s"
+        "checkpoint": "80b0f5574b2f893564b25f2903afc7a07b68d6f0e3c5809dde5841c4c46c32fb"
     },
-    "version": "1.3.0",
+    "version": "1.3.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
