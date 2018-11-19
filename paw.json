@@ -3,13 +3,13 @@
     "id": "paw",
     "bundle": "Paw.app",
     "identifier": "com.luckymarmot.Paw",
-    "download": "https://cdn-builds.paw.cloud/paw/Paw-3.1.7-3001007002.zip",
-    "sha256": "c2ede505c1173cc0407e4c0a9f93469abae88d8170cd8b53ae93b23971b13b6f",
+    "download": "https://cdn-builds.paw.cloud/paw/Paw-3.1.8.zip",
+    "sha256": "1eca10c6b71d54f961f9942341a159cc172153c4634241971e6c49c117d8c452",
     "appcast": {
         "url": "https://paw.cloud/api/v2/updates/appcast",
-        "checkpoint": "afc375ce305b0718733f7a86d7e794b9459b67289a595b2d4f41680eb2e6d4de"
+        "checkpoint": "552afcb11dac701cd87de93f4c83a71f0c9f28e0a1bc0b119ee0c88e3df86246"
     },
-    "version": "3.1.7",
+    "version": "3.1.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
