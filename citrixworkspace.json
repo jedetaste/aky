@@ -4,15 +4,15 @@
     "bundle": "Citrix Workspace.app",
     "identifier": "com.citrix.receiver.nomas",
     "download": "http://downloadplugins.citrix.com.edgesuite.net/Mac/CitrixWorkspaceApp.dmg",
-    "sha256": "fdc611639ad9f1cc33b0bd45ae6d701f2c8124c3969b1a3cae821e6079004de0",
+    "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "18.8.0",
+    "version": "18.9.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.citrix.de/products/citrix-workspace/"
+    "web": "https://www.citrix.com/products/workspace-app/"
   }
 }
