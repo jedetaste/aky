@@ -3,13 +3,13 @@
     "id": "vmwarefusion",
     "bundle": "VMware Fusion.app",
     "identifier": "com.vmware.fusion",
-    "download": "https://download3.vmware.com/software/fusion/file/VMware-Fusion-11.0.1-10738065.dmg",
-    "sha256": "591290e98505c43cf2c0d3d496738e23b416836336a76126493b3fdfacca840a",
+    "download": "https://download3.vmware.com/software/fusion/file/VMware-Fusion-11.0.2-10952296.dmg",
+    "sha256": "df0c81be1b0a02a7a2eba139dc458799b685b85f7202262ecb32816eb514fd72",
     "appcast": {
         "url": "https://softwareupdate.vmware.com/cds/vmw-desktop/fusion.xml",
-        "checkpoint": "6b730ac38ef6fd89cf8f0ff0c52e4e27944a6a868a86ad6ecb5d0f821a87efcd"
+        "checkpoint": "e82c0795568a3a8773fc8b64d5308348ff4b35efb56c995caba275a66a83ef2e"
     },
-    "version": "11.0.1",
+    "version": "11.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
