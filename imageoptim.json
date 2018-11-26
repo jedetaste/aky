@@ -3,13 +3,13 @@
     "id": "imageoptim",
     "bundle": "ImageOptim.app",
     "identifier": "net.pornel.ImageOptim",
-    "download": "https://imageoptim.com/ImageOptim1.8.1.tar.bz2",
-    "sha256": "1f937dd5d13b066fb5fbec9fbd125ab7cd1d1cfe42cc2fe41e5896390835f9c5",
+    "download": "https://imageoptim.com/ImageOptim1.8.5.tar.bz2",
+    "sha256": "5ed912d4e5f726ea7a552c8f294c95c61cd9f6f8842239f65866fba5ca010f03",
     "appcast": {
         "url": "https://imageoptim.com/appcast.xml",
-        "checkpoint": "f252c3601c4bbc15ce58dc47b72b888f338f6544a0703219825cf358281eb303"
+        "checkpoint": "693949b04c665bd053e03a434306425a50e1a7d40e3ebd86b1bf871ebe9df585"
     },
-    "version": "1.8.1",
+    "version": "1.8.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
