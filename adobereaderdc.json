@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "adobereaderdc",
+    "bundle": "Adobe Acrobat Reader DC.app",
+    "identifier": "com.adobe.Reader",
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/Adobe%20Acrobat%20Reader%20DC.pkg.zip",
+    "sha256": null,
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
+    "version": "19.008.20080",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html"
+  }
+}
