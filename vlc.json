@@ -3,10 +3,10 @@
     "id": "vlc",
     "bundle": "VLC.app",
     "identifier": "org.videolan.vlc",
-    "download": "http://mirror.switch.ch/ftp/mirror/videolan/vlc/3.0.4/macosx/vlc-3.0.4.dmg",
+    "download": "https://get.videolan.org/vlc/3.0.4/macosx/vlc-3.0.4.dmg",
     "sha256": "5cd095114e92b53f3da4af227229c702f73b47f75a58c46d69ddb6f135a02a3b",
     "appcast": {
-        "url": "http://update.videolan.org/vlc/sparkle/vlc-intel64.xml",
+        "url": "https://update.videolan.org/vlc/sparkle/vlc-intel64.xml",
         "checkpoint": "5a94e15b5389244ac83dc7ee3b3e3dc2bb0bd259a1ef2f452925a07eff0d212d"
     },
     "version": "3.0.4",
