@@ -3,14 +3,14 @@
     "id": "pdfpen",
     "bundle": "PDFpen.app",
     "identifier": "com.smileonmymac.PDFpen",
-    "download": "https://dl.smilesoftware.com/com.smileonmymac.PDFpen/PDFpen.dmg",
-    "sha256": "34b11d2734814b207d14bf90cd8ad6a1e2717d6743950f0a72ad626da2ff2c34",
+    "download": "https://dl.smilesoftware.com/com.smileonmymac.PDFpen/1020.14/1539654911/PDFpen-1020.14.zip",
+    "sha256": "9335491b51a5a900868bb206bde03539ab02da688636045a506eb180988fa979",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "10.1.2",
-    "build": null,
+    "version": null,
+    "build": "1020.14",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://smilesoftware.com/pdfpen-family"
