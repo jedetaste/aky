@@ -3,13 +3,13 @@
     "id": "adobedigitaledition",
     "bundle": "Adobe Digital Editions.app",
     "identifier": "com.adobe.adobedigitaleditions.app",
-    "download": "https://adedownload.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.dmg",
-    "sha256": "c9e0fbaac534adb7ebe2b47a3fb2257c3f84567cda40f19dc39b7239d45baacf",
+    "download": "https://download.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.dmg",
+    "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.5.8",
+    "version": "4.5.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
