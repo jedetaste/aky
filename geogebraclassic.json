@@ -1,15 +1,15 @@
 {
   "recipe": {
-    "id": "geogebraclassic.json",
+    "id": "geogebraclassic",
     "bundle": "GeoGebra Classic 6.app",
     "identifier": "org.geogebra6.mac",
-    "download": "https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-511-0.zip",
-    "sha256": "5d9a52e56bd5d0deeceff973132fe98455c7d1fb38e518ce8fb47a51942a87ec",
+    "download": "https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-512-0.zip",
+    "sha256": "c7fedefde34cabf342ff2a9742a1453c40e077fd1343558175fc0972ba2a7e75",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "6.0.511",
+    "version": "6.0.512",
     "build": null,
     "dir": "/Applications",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Mathematik",
