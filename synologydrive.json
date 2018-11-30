@@ -3,13 +3,13 @@
     "id": "synologydrive",
     "bundle": "Synology Drive.app",
     "identifier": "com.synology.CloudStation",
-    "download": "https://global.download.synology.com/download/Tools/SynologyDriveClient/1.0.3-10281/Mac/Installer/synology-drive-10281.dmg",
-    "sha256": "183d350ded3d563bf5330226e85471ba24a8ebe046ef1ac8eda312565b0f897d",
+    "download": "https://global.download.synology.com/download/Tools/SynologyDriveClient/1.1.2-10562/Mac/Installer/synology-drive-10562.dmg",
+    "sha256": "65c5725febae0b8200c53e8bc43bce165012b81d851ddd59352e26c8f092d9de",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.synology.com/en-global/releaseNote/SynologyDriveClient",
+      "checkpoint": "16d173483e0866b0b64d73470f6af3e77659791cb20bcfadce24eb6b5d8cf4b7"
     },
-    "version": "5.0.3",
+    "version": "5.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
