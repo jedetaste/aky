@@ -3,7 +3,7 @@
     "id": "eclipseide",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "http://mirror.switch.ch/eclipse/technology/epp/downloads/release/photon/R/eclipse-committers-photon-R-macosx-cocoa-x86_64.dmg",
+    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/photon/R/eclipse-committers-photon-R-macosx-cocoa-x86_64.dmg&r=1",
     "sha256": "9aeb9ad57a359efb38b40ea1195873fbf6c8c5dd920ca9b079facf0f24b555fa",
     "appcast": {
         "url": null,
