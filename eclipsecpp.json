@@ -3,7 +3,7 @@
     "id": "eclipsecpp",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "http://mirror.switch.ch/eclipse/technology/epp/downloads/release/photon/R/eclipse-cpp-photon-R-macosx-cocoa-x86_64.dmg",
+    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/photon/R/eclipse-cpp-photon-R-macosx-cocoa-x86_64.dmg&r=1",
     "sha256": "5a6c292ae35aca86df874cefcaf682e78209859ebb26aaf88541cb6d42b377cd",
     "appcast": {
         "url": null,
