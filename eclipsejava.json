@@ -3,7 +3,7 @@
     "id": "eclipsejava",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "http://mirror.switch.ch/eclipse/technology/epp/downloads/release/photon/R/eclipse-java-photon-R-macosx-cocoa-x86_64.dmg",
+    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/photon/R/eclipse-java-photon-R-macosx-cocoa-x86_64.dmg&r=1",
     "sha256": "dce58bbf72a1ad666e658da24b9f161fcafb939388fce9be870e0d68c3c907e9",
     "appcast": {
         "url": null,
