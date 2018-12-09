@@ -3,14 +3,14 @@
     "id": "autocaspernbi",
     "bundle": "AutoCasperNBI.app",
     "identifier": "com.macmule.AutoCasperNBI",
-    "download": "https://github.com/macmule/AutoCasperNBI/releases/download/1.4.1/AutoCasperNBI.zip",
-    "sha256": "a3cf1ce05bcdadf64430fcd2aca69ab449f9c67846b13649a034d227f6a3384b",
+    "download": "https://github.com/macmule/AutoCasperNBI/releases/download/1.5.0/AutoCasperNBI.zip",
+    "sha256": "1e6c655ab24cb9c2501a41f5f9601149c15acdbd673b5ecd8968955616a79432",
     "appcast": {
         "url": "https://github.com/macmule/AutoCasperNBI/releases.atom",
-        "checkpoint": "2f97f6784b547d0f3f9bab86d24a7f80fc8412a32b285092d1c522581191896d"
+        "checkpoint": "667a24d69c655e2dbbb549a4c485b2c9debe851390892af95f7695616d554013"
     },
-    "version": "1.4.1",
-    "build": "112",
+    "version": "1.5.0",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
     "web": "https://macmule.com/projects/AutoCasperNBI/"
