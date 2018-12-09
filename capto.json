@@ -3,11 +3,11 @@
     "id": "capto",
     "bundle": "Capto.app",
     "identifier": "com.globaldelight.Capto",
-    "download": "https://dl.devmate.com/com.globaldelight.Capto/Capto.dmg",
+    "download": "https://dl.devmate.com/com.globaldelight.Capto/1.2.9/1519212504/Capto-1.2.9.dmg",
     "sha256": "18594a1f435560cafd40d3b1db3416f0f504becd83cad4db97f716885af2ea27",
     "appcast": {
         "url": "https://updates.devmate.com/com.globaldelight.Capto.xml",
-        "checkpoint": "385da2ca486b719393028066509f9b0bd8cf73ba405c74d7bc41dca455ada3c8"
+        "checkpoint": "99f3641c89c90a8be137f8f85b0ce79f5d0cba01af9f4e6a98cdda48b0458ff9"
     },
     "version": "1.2.9",
     "build": null,
