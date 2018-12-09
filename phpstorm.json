@@ -3,13 +3,13 @@
     "id": "phpstorm",
     "bundle": "PhpStorm.app",
     "identifier": "com.jetbrains.PhpStorm",
-    "download": "https://download-cf.jetbrains.com/webide/PhpStorm-2018.2.4.dmg",
-    "sha256": "b43fb9add266bf57cc25e1d3063afeca54e8cc4e8ea712b29408cb371708446d",
+    "download": "https://download.jetbrains.com/webide/PhpStorm-2018.3.1.dmg",
+    "sha256": "e7e08101676375efe216e97312bea721a98f27380deb7aada5a7f096d469ca7a",
     "appcast": {
         "url": "https://data.services.jetbrains.com/products/releases?code=PS&latest=true&type=release",
-        "checkpoint": "3e99116cead58afcf9b422bab3f000e914a10dfba6142753436cc9083ca6652a"
+        "checkpoint": "d0715c49e806465905e28bfaadc48868c063de9d73f56744720259a5f4ebc716"
     },
-    "version": "2018.2.4",
+    "version": "2018.3.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
