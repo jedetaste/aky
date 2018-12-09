@@ -3,13 +3,13 @@
     "id": "ubar",
     "bundle": "uBar.app",
     "identifier": "ca.brawer.uBar",
-    "download": "https://www.brawersoftware.com/downloads/ubar/ubar411.zip",
-    "sha256": "1a8565ac175aa22eb3ead10ac8e80d61fe8310e2cf575c6a931019f66b12dff7",
+    "download": "https://brawersoftware.com/downloads/ubar/ubar413.zip",
+    "sha256": "bd2cd66c364d7e076e10d01e05b978c947b5bb1c6a1ee17d0b5a15db0f5e2323",
     "appcast": {
       "url": "https://brawersoftware.com/appcasts/feeds/ubar/ubar4.xml",
-      "checkpoint": "e19dfc2616763a3b9ff872bd42da05100f58187504bcbab94f60172e16ca12ba"
+      "checkpoint": "a6b160fefad9ee42adf2fbb5e704d20438a19b3db55f4e63b9ab472641563dc6"
     },
-    "version": "4.1.1",
+    "version": "4.1.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
