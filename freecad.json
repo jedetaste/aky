@@ -3,11 +3,11 @@
     "id": "freecad",
     "bundle": "FreeCAD.app",
     "identifier": null,
-    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.17/FreeCAD_0.17-13519.1a8b868-OSX-x86_64-Qt5.dmg",
+    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.17/FreeCAD_0.17-13541.9948ee4-OSX-x86_64-Qt5.dmg",
     "sha256": "48623a0dc48c93863ed5bdd76e19008e96c3c2492d3e49041e123b1d582dc383",
     "appcast": {
         "url": "https://github.com/FreeCAD/FreeCAD/releases.atom",
-        "checkpoint": "9398459a65b758e34eadea99d38efb0871880c115b657159e5799b117b88fc49"
+        "checkpoint": "2eab420961c6c14a97917d32faafc40e386190c2a257c04950383304f176c2ab"
     },
     "version": null,
     "build": "0.17.10000",
