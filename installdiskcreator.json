@@ -4,12 +4,12 @@
     "bundle": "Install Disk Creator.app",
     "identifier": "io.macdaddy.Install-Disk-Creator",
     "download": "https://macdaddy.io/InstallDiskCreator.zip",
-    "sha256": "6fba8e2557d7e20859def674c078e139b671e95035109603389552fe47565a93",
+    "sha256": "9cf1508723404b3e177a8a32f0082d7553e3ccacb26150763a96bbc1fb7eaee9",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "1.3",
+    "version": "1.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
