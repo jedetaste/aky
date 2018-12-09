@@ -3,13 +3,13 @@
     "id": "ubersicht",
     "bundle": "Übersicht.app",
     "identifier": "tracesOf.Uebersicht",
-    "download": "http://tracesof.net/uebersicht/releases/Uebersicht-1.2.53.app.zip",
-    "sha256": "e74dfc4d49e035269e44563541eb0b50b5de7c102fe948a09d5b075140ddf29e",
+    "download": "http://tracesof.net/uebersicht/releases/Uebersicht-1.3.56.app.zip",
+    "sha256": "85be4f4273bfa69e424b996e67729b3590f3876d43d5b9ec209ba002a3cff78a",
     "appcast": {
         "url": "http://tracesof.net/uebersicht/updates.xml.rss",
-        "checkpoint": "92ca85b82c7b917dfb05c8d9264a3bda800de4874c9df84d34a92d9d5dd3c6c3"
+        "checkpoint": "554cdef554df5016e8cd074c46fd4d99d01bf125f8e01ddf467054eacc9d4c87"
     },
-    "version": "1.2",
+    "version": "1.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
