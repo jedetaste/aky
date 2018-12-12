@@ -3,13 +3,13 @@
     "id": "adobereaderdc",
     "bundle": "Adobe Acrobat Reader DC.app",
     "identifier": "com.adobe.Reader",
-    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/Adobe%20Acrobat%20Reader%20DC.pkg.zip",
-    "sha256": null,
+    "download": "http://ardownload.adobe.com/pub/adobe/reader/mac/AcrobatDC/1901020064/AcroRdrDC_1901020064_MUI.dmg",
+    "sha256": "41e8bbab47b12b373ef6c077afc560702ff8d8884660cec0e49489bc41ef8dcb",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "19.008.20080",
+    "version": "19.010.20064",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
