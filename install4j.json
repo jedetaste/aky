@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "install4j",
+    "bundle": "install4j.app",
+    "identifier": "com.install4j.5102-5576-1921-0620.2",
+    "download": "https://download-keycdn.ej-technologies.com/install4j/install4j_macos_7_0_8.dmg",
+    "sha256": "705b2dfe08335f9cffeabd21008a6c0c7f90bca3b11bcf0619f9012aa611aee0",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "7.0.8",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.ej-technologies.com/products/install4j/overview.html"
+  }
+}
