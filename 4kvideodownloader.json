@@ -6,8 +6,8 @@
     "download": "https://dl.4kdownload.com/app/4kvideodownloader_4.4.10.dmg",
     "sha256": "899a1ac9e27f45d92f2e7972c23fe8a44fa02489752f5c94266f5570d5568366",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.4kdownload.com/download",
+        "checkpoint": "a56ec3a3fa1743e476cb76e837cdac010bbdcdc8877580d7c1aec01d4e8f1daf"
     },
     "version": null,
     "build": "4.4.10",
