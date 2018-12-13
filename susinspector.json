@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "susinspector",
+    "bundle": "SUS Inspector.app",
+    "identifier": "com.hjuutilainen.SUS-Inspector",
+    "download": "https://github.com/hjuutilainen/sus-inspector/releases/download/v0.3.1/SUS-Inspector-0.3.1.dmg",
+    "sha256": "19fd4c117f2efd631399491cff599a005df61adcd0b771c4b43747c663b56db7",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "0.3.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/hjuutilainen/sus-inspector"
+  }
+}
