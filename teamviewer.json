@@ -3,13 +3,13 @@
     "id": "teamviewer",
     "bundle": "TeamViewer.app",
     "identifier": "com.teamviewer.TeamViewer",
-    "download": "https://download.teamviewer.com/download/version_13x/TeamViewer.dmg",
+    "download": "https://download.teamviewer.com/download/version_14x/TeamViewer.dmg",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://download.teamviewer.com/download/update/macupdates.xml?id=0&lang=en&version=13.1.4170&os=macos&osversion=10.14.1&type=0",
+        "checkpoint": "1a672bb5204cc6b0e5762c3a7325ed298ba3618af578c9c01bd74be964f4621c"
     },
-    "version": "13.2.14327",
+    "version": "14.1.3399",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
