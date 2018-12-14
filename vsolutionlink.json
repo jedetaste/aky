@@ -6,8 +6,8 @@
     "download": "http://download.wolfvision.com/vSolution_Link_by_WolfVision.dmg",
     "sha256": null,
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "http://download.wolfvision.com/ChangeLog_MacConn.txt",
+      "checkpoint": "a0431f0ab4d275d4e9d92f5b58b811c0c074da941fc6a5ff63e59ca9a397e71a"
     },
     "version": null,
     "build": "1.5",
