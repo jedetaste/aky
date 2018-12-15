@@ -3,13 +3,13 @@
     "id": "krita",
     "bundle": "krita.app",
     "identifier": "org.krita",
-    "download": "http://download.kde.org/stable/krita/4.1.5/krita-4.1.5.dmg",
-    "sha256": "51bab0590cc87352e1a0f83dcadba77d4d9595998c74c13f0fb411563fb1246a",
+    "download": "https://download.kde.org/stable/krita/4.1.7/krita-4.1.7.dmg",
+    "sha256": "df3564744764bf39438c128277327d1f04c5d01a34213ab0a63a015646f5ba6c",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "4.1.5",
+    "version": "4.1.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
