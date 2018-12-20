@@ -3,13 +3,13 @@
     "id": "knockknock",
     "bundle": "KnockKnock.app",
     "identifier": "com.objective-see.KnockKnock",
-    "download": "https://bitbucket.org/objective-see/deploy/downloads/KnockKnock_2.0.1.zip",
-    "sha256": "67916905ccd03b1339db578583ea72dbcec88caccd51b61300ad9561b124b393",
+    "download": "https://bitbucket.org/objective-see/deploy/downloads/KnockKnock_2.0.2.zip",
+    "sha256": "5b57a14a360d747028d9e2917cc424d13b8166c1ae8398a48157367225ee0745",
     "appcast": {
         "url": "https://objective-see.com/products/changelogs/KnockKnock.txt",
-        "checkpoint": "067640a7b08c0ed357dd34a5485fdd3e8fd0ebd104e55fd9d6b14f6a877826b0"
+        "checkpoint": "dead1a3a5767575673c83b764de6b32c5a6d2e0cd5776932c5e5f1f56490960b"
     },
-    "version": "2.0.1",
+    "version": "2.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
