@@ -7,7 +7,7 @@
     "sha256": "bfcd3f0e11afc35adc1910324adc28289769127c41ae32032d75449bcde0b844",
     "appcast": {
         "url": "https://s3.amazonaws.com/Airflow/Updates/appcast-osx.xml",
-        "checkpoint": "b911c78b9b1878403056f31881acf68a79c7d937666d13539b952f3518ce2669"
+        "checkpoint": "3949eed39f0ce5eded1e6e8f25bab56d944c986c4ac240ffd4701f35b469f2bc"
     },
     "version": "2.3.12",
     "build": null,
