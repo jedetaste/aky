@@ -3,14 +3,14 @@
     "id": "eclipsecpp",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/photon/R/eclipse-cpp-photon-R-macosx-cocoa-x86_64.dmg&r=1",
-    "sha256": "5a6c292ae35aca86df874cefcaf682e78209859ebb26aaf88541cb6d42b377cd",
+    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2018-09/R/eclipse-cpp-2018-09-macosx-cocoa-x86_64.dmg&r=1",
+    "sha256": "944edfbaca43f62a4d91bfd4d804633ae3ab70f0d98947a3b2d51ff50959fae9",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "4.8.0",
-    "build": "4.8.0.I20180611-0500",
+    "version": "4.9.0",
+    "build": "4.9.0.I20180906-0745",
     "dir": "/Applications/Eclipse CPP",
     "symlink": null,
     "web": "https://eclipse.org/"
