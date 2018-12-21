@@ -3,14 +3,14 @@
     "id": "eclipseide",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/photon/R/eclipse-committers-photon-R-macosx-cocoa-x86_64.dmg&r=1",
-    "sha256": "9aeb9ad57a359efb38b40ea1195873fbf6c8c5dd920ca9b079facf0f24b555fa",
+    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2018-09/R/eclipse-committers-2018-09-macosx-cocoa-x86_64.dmg&r=1",
+    "sha256": "5dba1a58829e5e641f2bad1616cee4d414caf2e3e7562119d45880ee5321623d",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "4.8.0",
-    "build": "4.8.0.I20180611-0500",
+    "version": "4.9.0",
+    "build": "4.9.0.I20180906-0745",
     "dir": "/Applications/Eclipse IDE",
     "symlink": null,
     "web": "https://eclipse.org/"
