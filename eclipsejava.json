@@ -3,14 +3,14 @@
     "id": "eclipsejava",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/photon/R/eclipse-java-photon-R-macosx-cocoa-x86_64.dmg&r=1",
-    "sha256": "dce58bbf72a1ad666e658da24b9f161fcafb939388fce9be870e0d68c3c907e9",
+    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2018-12/R/eclipse-java-2018-12-R-macosx-cocoa-x86_64.dmg&r=1",
+    "sha256": "320d65a46789c3f3c1e38401703399ef0404f3d752c15786aa14101fb66c71bf",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "4.8.0",
-    "build": "4.8.0.I20180611-0500",
+    "version": "4.10.0",
+    "build": "4.10.0.I20181206-0815",
     "dir": "/Applications/Eclipse Java",
     "symlink": null,
     "web": "https://eclipse.org/"
