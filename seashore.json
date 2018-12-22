@@ -3,13 +3,13 @@
     "id": "seashore",
     "bundle": "Seashore.app",
     "identifier": "net.sourceforge.seashore",
-    "download": "https://downloads.sourceforge.net/seashore/seashore%20binaries/Seashore%200.5.1/Seashore.zip",
-    "sha256": "96463a3642f162a20b160d8df273e9b27a5fdbf9708bee6ebf6a6c8528047765",
+    "download": "https://downloads.sourceforge.net/seashore/seashore-bin-0.6.6.dmg",
+    "sha256": "8e8340029aeb593f04d5e42b8e3f615125c0d6da41ba53100dd3d53added4c93",
     "appcast": {
         "url": "https://sourceforge.net/projects/seashore/rss?path=/seashore%20binaries",
-        "checkpoint": "bcf60985cd8080b2d7d2df038b78e4eff30b60ce2e2d562cf91f2939cf4bb451"
+        "checkpoint": "f57e498f695ab98465bd517a6cd25065f2d218c356cea50e27de3f6f7a1f475c"
     },
-    "version": "0.5.1",
+    "version": "0.6.6",
     "build": null,
     "dir": "/Applications",
     "symlink": "no",
