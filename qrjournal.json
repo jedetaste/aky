@@ -3,13 +3,13 @@
     "id": "qrjournal",
     "bundle": "QR Journal.app",
     "identifier": "com.joshjacob.qrjournal",
-    "download": "http://www.joshjacob.com/mac-development/QRJournal1.6.dmg",
-    "sha256": "f263d0fab5a6ca5dee751cb249d5d2c1472285e10d08bc66c125841c0f603948",
+    "download": "https://www.joshjacob.com/mac-development/QRJournal1.7.1.dmg",
+    "sha256": "a6b83e99dceddaf5f8183abbcaa56fe93755f74f21457eea878cd3e68ac9144e",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "1.6",
+    "version": "1.7.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
