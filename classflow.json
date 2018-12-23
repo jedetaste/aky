@@ -3,13 +3,13 @@
     "id": "classflow",
     "bundle": "ClassFlowDesktop.app",
     "identifier": "ClassFlowDesktop",
-    "download": "https://classflow-dist.s3-accelerate.amazonaws.com/Native/Release/Mac/ClassFlowDesktop-Mac-4.3.1.dmg",
-    "sha256": "fbc0dc32d53f543e3b862e70286fa52abdb8b2aed825c4fd4a89f549874e1e41",
+    "download": "https://classflow-dist.s3-accelerate.amazonaws.com/Native/Release/Mac/ClassFlowDesktop-Mac-4.4.0.dmg",
+    "sha256": "6edac70c035fd89e3d65c26c3d8ab10d31cded40fa28fe8e4ac5852fb9bf8465",
     "appcast": {
         "url": null,
         "checkpoint": null
     },
-    "version": "4.3.1",
+    "version": "4.4.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
