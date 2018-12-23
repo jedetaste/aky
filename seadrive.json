@@ -3,13 +3,13 @@
     "id": "seadrive",
     "bundle": "SeaDrive.app",
     "identifier": "com.seafile.seadrive",
-    "download": "https://download.seadrive.org/seadrive-0.9.5.dmg",
-    "sha256": "53363818b7b52fb825f3fba434955ecf76475ca7a207172e6820b73e753380d5",
+    "download": "https://download.seadrive.org/seadrive-1.0.0.dmg",
+    "sha256": "f7a1a1fd46fc204784444a91e2b8d412b905f6d874cca8fb5ebefdd65f1ac927",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "0.9.4",
+    "version": "1.0.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
