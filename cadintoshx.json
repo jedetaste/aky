@@ -6,8 +6,8 @@
     "download": "https://www.lemkesoft.info/files/cadintosh/cad8.dmg",
     "sha256": "bc10b9fc6562841cf9a03aa3c3dc0488c962742f5162b65bd7b989fa00611d6b",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.lemkesoft.info/sparkle/cadintosh/cadintosh.xml",
+        "checkpoint": "0e7bbd256b67855182c2e90f466e45c419e1d0fe40f2872611c68ade690bdcec"
     },
     "version": "8.4.2",
     "build": null,
