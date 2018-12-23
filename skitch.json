@@ -6,8 +6,8 @@
     "download": "https://evernote.s3.amazonaws.com/skitch/mac/release/Skitch-2.8.1.zip",
     "sha256": "d1ae1479960de2b3069a2ae1904d2fb304250e74d6ad7f5d4275b4004ae8f5c5",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://evernote.s3.amazonaws.com/skitch/mac/release/skitch-appcast.xml",
+        "checkpoint": "dbede6aa51368a3b2e274f18c574202c36ccfc5f3f9fd46c4e6d2e770c492dc0"
     },
     "version": "2.8.1",
     "build": null,
