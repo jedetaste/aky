@@ -3,10 +3,10 @@
     "id": "pycharmce",
     "bundle": "PyCharm CE.app",
     "identifier": "com.jetbrains.pycharm",
-    "download": "https://download.jetbrains.com/python/pycharm-community-2018.3.2.dmg",
+    "download": "https://download-cf.jetbrains.com/python/pycharm-community-2018.3.2.dmg",
     "sha256": "b10fd72dd7a441f7521923a7852448ecf7d1af35896e5f0646d3f7c7311fd905",
     "appcast": {
-        "url": "https://data.services.jetbrains.com/products/releases?code=PCP&latest=true&type=release",
+        "url": "https://data.services.jetbrains.com/products/releases?code=PCC&latest=true&type=release",
         "checkpoint": "abf0005bf98c84fa8b83afce5ee04f1001b52cdbcba188aaed679f5df46602cd"
     },
     "version": "2018.3.2",
