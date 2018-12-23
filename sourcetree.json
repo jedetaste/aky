@@ -6,8 +6,8 @@
     "download": "https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_3.0.1_205.zip",
     "sha256": "b672e3d90a46c76aff94c53f4f02852547dd4369f9e2a561245ff5379bd28a99",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.sourcetreeapp.com/update/SparkleAppcastGroup1.xml",
+        "checkpoint": "d9869e159a27a45bd7a4eb75170bb9942733dbfbe3a96f0c0047024fab8856cd"
     },
     "version": "3.0.1",
     "build": null,
