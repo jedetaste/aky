@@ -7,12 +7,12 @@
     "sha256": "1551b9db0e275827ab99e80a14980dcc1c1e20e47bdb65c0140e618407f150c2",
     "appcast": {
         "url": "https://github.com/MacPass/MacPass/releases.atom",
-        "checkpoint": "b9ba770cf6dbe5fd3fa8f427277fc67eba1e572620d36a4a318ab65ff8916744"
+        "checkpoint": "23fc3b83308c5e86d9ac6bb1fbc9de096f6eb445b18329b00f58927d4ea9523d"
     },
     "version": "0.7.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://mstarke.github.io/MacPass/"
+    "web": "https://macpass.github.io/"
   }
 }
