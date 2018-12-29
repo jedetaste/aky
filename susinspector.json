@@ -6,8 +6,8 @@
     "download": "https://github.com/hjuutilainen/sus-inspector/releases/download/v0.3.1/SUS-Inspector-0.3.1.dmg",
     "sha256": "19fd4c117f2efd631399491cff599a005df61adcd0b771c4b43747c663b56db7",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://github.com/hjuutilainen/sus-inspector/releases.atom",
+      "checkpoint": "e604a2df3725b3afa4c9f1ce8559e0c13577c5a3213ee97c518a057328d24caf"
     },
     "version": "0.3.1",
     "build": null,
