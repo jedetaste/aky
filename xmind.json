@@ -6,8 +6,8 @@
     "download": "https://dl3.xmind.net/xmind-8-update8-macosx.dmg",
     "sha256": "95cc8d8950e8b10fa60a831cc5b3e33da17932336320f0f803cfae94cc1f814e",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "http://www.lobotomo.com/products/WinShortcutter/",
+        "checkpoint": "e818fab5d13f5012e9c8f87c2180ec115d67056fd508193acae4f40e22592c5a"
     },
     "version": null,
     "build": "3.7.8.201807240049",
