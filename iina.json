@@ -3,13 +3,13 @@
     "id": "iina",
     "bundle": "IINA.app",
     "identifier": "com.colliderli.iina",
-    "download": "https://dl-portal.iina.io/IINA.v0.0.15-build64.dmg",
-    "sha256": "adc15b266abc3e3cefbaec691aa35a79c4c4dbb4251d617a97c0ba892147f4d3",
+    "download": "https://dl-portal.iina.io/IINA.v0.0.15.1.dmg",
+    "sha256": "14ed0c7a301f2b5806c23d0e05e1006a82a23c41da9e3a0662f042bd39f15529",
     "appcast": {
         "url": "https://www.iina.io/appcast.xml",
         "checkpoint": "774af441bd5449fc4bba04a65d1623ed9f9e9b6439c586a37e181d3ee4237190"
     },
-    "version": "0.0.15",
+    "version": "0.0.15.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
