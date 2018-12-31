@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "canvasworkspace",
+    "bundle": "Brother CanvasWorkspace.app",
+    "identifier": "com.brother.canvasworkspace",
+    "download": "https://download.brother.com/welcome/dlfh101452/BrotherCanvasWorkspace.pkg",
+    "sha256": "7419f4b387cc60f2d455dfffa6c7fd50bf81f7e10eb9d649d55492a8ce8be92c",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": null,
+    "build": "1.2",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://canvasworkspace.brother.com/de"
+  }
+}
