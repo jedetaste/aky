@@ -6,8 +6,8 @@
     "download": "https://downloads.sourceforge.net/projectlibre/ProjectLibre/1.8/ProjectLibre-1.8.0.dmg",
     "sha256": "0132bcf33b7e792ed0693888982b1163e5397c7820329188f0f916b2e0246ec7",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://sourceforge.net/projects/projectlibre/rss?path=/ProjectLibre",
+      "checkpoint": "9afb861af1703d1dd4fe8c4b15fa7e142b31c2c40d8cb017f95991ccce2c3319"
     },
     "version": "1.8.0",
     "build": null,
