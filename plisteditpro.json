@@ -6,8 +6,8 @@
     "download": "https://www.fatcatsoftware.com/plisteditpro/PlistEditPro.zip",
     "sha256": "5000b560958cc14a92cc44456e37e2e6ef9c73cf9037c30e1516dd152f2cb2ed",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.fatcatsoftware.com/plisteditpro/plisteditpro_appcast.xml",
+        "checkpoint": "e855828c8c3074c38d1e47162dcfde51d06eb3e413f4dea9ef55c716f083cb64"
     },
     "version": "1.9",
     "build": null,
