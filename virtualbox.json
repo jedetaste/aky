@@ -12,7 +12,7 @@
     "version": "6.0.0",
     "build": null,
     "dir": "/Applications",
-    "postflight": "for bin in VirtualBox VirtualBoxVM VBoxNetAdpCtl VBoxNetDHCP VBoxNetNAT VBoxHeadless; do /bin/chmod u+s '/Applications/VirtualBox.app/Contents/MacOS/${bin}'; done"
+    "postflight": "for bin in VirtualBox VirtualBoxVM VBoxNetAdpCtl VBoxNetDHCP VBoxNetNAT VBoxHeadless; do /bin/chmod u+s '/Applications/VirtualBox.app/Contents/MacOS/${bin}'; done",
     "symlink": null,
     "web": "https://www.virtualbox.org/"
   }
