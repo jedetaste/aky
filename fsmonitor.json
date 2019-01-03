@@ -6,8 +6,8 @@
     "download": "https://tristan-software.ch/FSMonitor/Archives/FSMonitor_87.zip",
     "sha256": "0e5f482a74889a57bbed00553f50405ee86626635e77b32e69a4e373693604e3",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://fsmonitor.com/FSMonitor/Archives/appcast.xml",
+        "checkpoint": "8031eaa5570de8aff88bbca758b2ce76fd93df7f49073cbea08b2e93aa4e88b8"
     },
     "version": null,
     "build": "87",
