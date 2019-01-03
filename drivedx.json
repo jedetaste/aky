@@ -3,13 +3,13 @@
     "id": "drivedx",
     "bundle": "DriveDx.app",
     "identifier": "com.binaryfruit.DriveDx",
-    "download": "https://binaryfruit.com/download/drivedx/mac/1/bin/DriveDx.1.8.0.zip",
-    "sha256": "78038902cfb33ae82dc1b9ac6b9eaf164ecdf8f13d848effcdafd1dd631a4953",
+    "download": "https://binaryfruit.com/download/drivedx/mac/1/bin/DriveDx.1.8.1.zip",
+    "sha256": "700e14fccca7a66fd723f5af67ed1d7f1406fd1ba5675073cb73ab9c3ec6b48e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://binaryfruit.com/download/drivedx/mac/1/updates/?appcast&appName=DriveDxMac",
+      "checkpoint": "f691d24622778653ece01d9653ade11d2048c4688b99344210932428fbe771e4"
     },
-    "version": "1.8.0",
+    "version": "1.8.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
