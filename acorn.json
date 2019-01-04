@@ -3,13 +3,13 @@
     "id": "acorn",
     "bundle": "Acorn.app",
     "identifier": "com.flyingmeat.Acorn6",
-    "download": "https://s3.amazonaws.com/flyingmeat/Acorn.zip",
-    "sha256": "0be478b51f70a3667e12c8a5db56c63defd6f6f2947cb87b3622a063e3351837",
+    "download": "https://flyingmeat.com/download/Acorn.zip",
+    "sha256": "531f88a4c8eeebdc4ee8a014c5186db07a8dbb18a2b5ff10f3b46d31dc0bcbb5",
     "appcast": {
         "url": "https://www.flyingmeat.com/download/acorn6update.xml",
-        "checkpoint": "e0bd3f8dafcd36f6e127d08e7e4a5c1ba62562c6fafdfeb99eee81376663ee79"
+        "checkpoint": "7b0c4e28c7cd8c3afba6506c1c1cc0325f0fbf5bb924bc4ac5e3465ef84b4e34"
     },
-    "version": "6.2.3",
+    "version": "6.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
