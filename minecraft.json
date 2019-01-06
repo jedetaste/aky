@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "minecraft",
+    "bundle": "Minecraft.app",
+    "identifier": "com.mojang.minecraftlauncher",
+    "download": "https://launcher.mojang.com/download/Minecraft.dmg",
+    "sha256": "9e4e208cc339026e30bb5bafde148fe1dcfef16ebd32164d141ba230a152bba6",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": null,
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://minecraft.net/"
+  }
+}
