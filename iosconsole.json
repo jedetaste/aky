@@ -3,11 +3,11 @@
     "id": "iosconsole",
     "bundle": "iOS Console.app",
     "identifier": "com.lemonjar.iosconsole",
-    "download": "http://downloads.lemonjar.com/iosconsole_latest.zip",
+    "download": "http://downloads.lemonjar.com/iosconsole_v1.0.2.zip",
     "sha256": "84e3c4fbf685744fddf7ab87ac9fcb7fbccbc0d82baf22351d500ed1616ae84f",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://updates.lemonjar.com/iosconsole.xml",
+        "checkpoint": "147569c16624f23463225a35ab7e9cf3641a756ca9dba6067bae0eab6b448b4a"
     },
     "version": "1.0.2",
     "build": null,
