@@ -6,8 +6,8 @@
     "download": "https://www.lehreroffice.ch/lo/dateien/db/lo_db_admin.dmg",
     "sha256": "b262f2f83e035063642cf760f9da4fab1ece04842d7d32363bf5f8c28df2222d",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://www.lehreroffice.ch/services/update/getcurrentversion.php?app=DBAdmin",
+        "checkpoint": "877d0edcee890eeeced785680aad58a90a3d26cdeec1c34c98824e1487560fbe"
     },
     "version": "2017.2.0",
     "build": null,
