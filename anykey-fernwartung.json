@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "anykey-fernwartung",
+    "bundle": "AnyDesk.app",
+    "identifier": "com.philandro.anydesk",
+    "download": "https://anykey.ch/downloads/AnyDesk.app.zip",
+    "sha256": "cc42163bf1149a71a6e32b83f9adc86a5d35f5cad6b4685f6b8d21d5736cf3fa",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.0.1",
+    "build": "4.0.1",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://anykey.ch/download/"
+  }
+}
