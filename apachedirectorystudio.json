@@ -6,8 +6,8 @@
     "download": "http://www.pirbot.com/mirrors/apache/directory/studio/2.0.0.v20180908-M14/ApacheDirectoryStudio-2.0.0.v20180908-M14-macosx.cocoa.x86_64.dmg",
     "sha256": "845392529c86e52697c1edac1f0603261324ff2a649e697dbdf566ee5f5f8e5e",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "http://apache.mirror.serversaustralia.com.au/directory/studio/",
+        "checkpoint": "fc2cab8966787e39448e22915ac13546e4a40ffad63caff4c45e0c3d235f1587"
     },
     "version": "2.0.0",
     "build": "2.0.0.v20180908-M14",
