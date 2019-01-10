@@ -6,8 +6,8 @@
     "download": "https://dl.smilesoftware.com/com.smileonmymac.PDFpen/1020.14/1539654911/PDFpen-1020.14.zip",
     "sha256": "9335491b51a5a900868bb206bde03539ab02da688636045a506eb180988fa979",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://updates.smilesoftware.com/com.smileonmymac.PDFpen.xml",
+      "checkpoint": "d19e9f49cb90063e41e4584388c8c0ee74ca50037dba2c44113c2684e8c5eb50"
     },
     "version": null,
     "build": "1020.14",
