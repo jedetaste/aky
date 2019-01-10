@@ -6,8 +6,8 @@
     "download": "http://ardownload.adobe.com/pub/adobe/reader/mac/AcrobatDC/1901020069/AcroRdrDC_1901020069_MUI.dmg",
     "sha256": "6ee27ec49e28f57b422288137d7b182d71925bd0096a7688b605bcf811123121",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+        "url": "https://get.adobe.com/reader/",
+        "checkpoint": "b360c9db6b04bf155ddcb15b0fb08688ad35217ff5f8cdb8f9452d588d0f8c77"
     },
     "version": "19.010.20069",
     "build": null,
