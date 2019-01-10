@@ -3,11 +3,11 @@
     "id": "franz",
     "bundle": "Franz.app",
     "identifier": "com.meetfranz.franz",
-    "download": "https://github.com/meetfranz/franz/releases/download/v5.0.0-beta.22/franz-5.0.0-beta.22.dmg",
+    "download": "https://github.com/meetfranz/franz/releases/download/v5.0.0-beta.22/Franz-5.0.0-beta.22.dmg",
     "sha256": "8a3cfe6403fffe6635aa4d712a9c8a17b2ca21a83a86a0edd076d7d780d2b8c5",
     "appcast": {
         "url": "https://github.com/meetfranz/franz/releases.atom",
-        "checkpoint": "48d9af84f0abcac73d80967fbacd8722fdb4a82722b8d219a5242502264e4e83"
+        "checkpoint": "f6b2f052a21bf9a86eaad9959a5f220424e8724adc2949c1b193b67db849de1a"
     },
     "version": "5.0.0-beta.22",
     "build": null,
