@@ -3,16 +3,16 @@
     "id": "pdfpenpro",
     "bundle": "PDFpenPro.app",
     "identifier": "com.smileonmymac.PDFpenPro",
-    "download": "https://dl.smilesoftware.com/com.smileonmymac.PDFpenPro/PDFpenPro.dmg",
-    "sha256": "6e6327ec7c89f8fab819160d000f767b54666a6f12fb30a2bea32949dbaaac5e",
+    "download": "https://dl.smilesoftware.com/com.smileonmymac.PDFpenPro/1021.3/1543266009/PDFpenPro-1021.3.zip",
+    "sha256": "82d852a2304cc7580d0a272a27c9febeecbdfe8c435235d9091587a32b5c1915",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://updates.smilesoftware.com/com.smileonmymac.PDFpenPro.xml",
+      "checkpoint": "d71729feb58ae9bab68ce4ec998f04a94934e88d175e5f0285b4674a690015b0"
     },
     "version": null,
     "build": "1021.3",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://smilesoftware.com/pdfpen-family"
+    "web": "https://smilesoftware.com/PDFpenPro"
   }
 }
