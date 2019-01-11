@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "anki",
+    "bundle": "Anki.app",
+    "identifier": "net.ankiweb.dtop",
+    "download": "https://apps.ankiweb.net/downloads/current/anki-2.1.8-mac.dmg",
+    "sha256": "eb0876f4dce044b82f402e1a803360fe0940822b2f45d0e39c7700cad65bdf95",
+    "appcast": {
+      "url": "https://apps.ankiweb.net/docs/changes.html",
+      "checkpoint": "eb5e48684139f33b1c92b6236722f549feb3cf2e8e21048975708c15a3283b06"
+    },
+    "version": "2.1.8",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://apps.ankiweb.net/"
+  }
+}
