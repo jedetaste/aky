@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "pppcutility",
+    "bundle": "PPPC Utility.app",
+    "identifier": "com.jamf.opensource.pppcutility",
+    "download": "https://github.com/jamf/PPPC-Utility/releases/download/1.0.1/PPPC.Utility.zip",
+    "sha256": "112fe71e2fa4ab7364b69174637aefe831c7333faa39586c8c8eaeff54d4b36f",
+    "appcast": {
+      "url": "https://github.com/jamf/PPPC-Utility/releases.atom",
+      "checkpoint": "669c7a076f445b14f1ffba0cbd141d43fb594575f818e6f261673c6de6826e48"
+    },
+    "version": "1.0.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/jamf/PPPC-Utility"
+  }
+}
