@@ -6,13 +6,14 @@
     "download": "http://download.techsmith.com/snagitmac/deu/Snagit.dmg",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "2019.1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.techsmith.com/screen-capture.html"
+    "web": "https://www.techsmith.com/screen-capture.html",
+    "postflight": null
   }
 }

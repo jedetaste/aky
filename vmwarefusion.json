@@ -6,13 +6,14 @@
     "download": "https://download3.vmware.com/software/fusion/file/VMware-Fusion-11.0.2-10952296.dmg",
     "sha256": "df0c81be1b0a02a7a2eba139dc458799b685b85f7202262ecb32816eb514fd72",
     "appcast": {
-        "url": "https://softwareupdate.vmware.com/cds/vmw-desktop/fusion.xml",
-        "checkpoint": "e82c0795568a3a8773fc8b64d5308348ff4b35efb56c995caba275a66a83ef2e"
+      "url": "https://softwareupdate.vmware.com/cds/vmw-desktop/fusion.xml",
+      "checkpoint": "e82c0795568a3a8773fc8b64d5308348ff4b35efb56c995caba275a66a83ef2e"
     },
     "version": "11.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.vmware.com/products/fusion.html"
+    "web": "https://www.vmware.com/products/fusion.html",
+    "postflight": null
   }
 }

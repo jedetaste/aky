@@ -6,13 +6,14 @@
     "download": "https://github.com/jgraph/drawio-desktop/releases/download/v9.3.1/draw.io-9.3.1.dmg",
     "sha256": "e9496988bc53d520d2a3ab9a5998bd79b4fdfc6f466a7e44d920c3ee7c3fdb27",
     "appcast": {
-        "url": "https://github.com/jgraph/drawio-desktop/releases.atom",
-        "checkpoint": "32b3b5709e76b5b048ccc487ed01cde2020551a10ab3480c21c3288232577e59"
+      "url": "https://github.com/jgraph/drawio-desktop/releases.atom",
+      "checkpoint": "32b3b5709e76b5b048ccc487ed01cde2020551a10ab3480c21c3288232577e59"
     },
     "version": "9.3.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.draw.io/"
+    "web": "https://www.draw.io/",
+    "postflight": null
   }
 }

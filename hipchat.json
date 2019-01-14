@@ -6,13 +6,14 @@
     "download": "https://s3.amazonaws.com/downloads.hipchat.com/osx/HipChat-4.30.2-760.zip",
     "sha256": "4c94f7d22c6808e08a987d5f69124f3f4f3029f8e914b1c930140cd83fe734f2",
     "appcast": {
-        "url": "https://www.hipchat.com/release_notes/appcast/mac",
-        "checkpoint": "14805ccab6dfaa5c5b0240f4845fe74e9d1e3613bc68f117e256f597d70ade29"
+      "url": "https://www.hipchat.com/release_notes/appcast/mac",
+      "checkpoint": "14805ccab6dfaa5c5b0240f4845fe74e9d1e3613bc68f117e256f597d70ade29"
     },
     "version": null,
     "build": "760",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.hipchat.com/"
+    "web": "https://www.hipchat.com/",
+    "postflight": null
   }
 }

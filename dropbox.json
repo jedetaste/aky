@@ -6,13 +6,14 @@
     "download": "https://www.dropbox.com/download?plat=mac&full=1",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "63.4.107",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.dropbox.com/"
+    "web": "https://www.dropbox.com/",
+    "postflight": null
   }
 }

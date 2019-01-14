@@ -6,13 +6,14 @@
     "download": "https://oneclient.sfx.ms/Mac/Direct/18.222.1104.0007/OneDrive.pkg",
     "sha256": "b9fc9041c2c97bff39c046cb7187119482d3af620da142fefabcfd4d1c1364de",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "18.222.1104",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://onedrive.live.com/"
+    "web": "https://onedrive.live.com/",
+    "postflight": null
   }
 }

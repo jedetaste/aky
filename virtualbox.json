@@ -6,13 +6,14 @@
     "download": "https://download.virtualbox.org/virtualbox/6.0.0/VirtualBox-6.0.0-127566-OSX.dmg",
     "sha256": "ab116b29b19a6bf85163d3146c97c8b0bc9625cc78365ed4eb8c87c94042dd9a",
     "appcast": {
-        "url": "https://download.virtualbox.org/virtualbox/LATEST.TXT",
-        "checkpoint": "54ef76332b31df830699e9d4138396885ab72bae260a034a81ff02bf32d8e90a"
+      "url": "https://download.virtualbox.org/virtualbox/LATEST.TXT",
+      "checkpoint": "54ef76332b31df830699e9d4138396885ab72bae260a034a81ff02bf32d8e90a"
     },
     "version": "6.0.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.virtualbox.org/"
+    "web": "https://www.virtualbox.org/",
+    "postflight": null
   }
 }

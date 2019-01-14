@@ -6,13 +6,14 @@
     "download": "https://justgetflux.com/mac/Flux39.9871.zip",
     "sha256": "122a451943ce68a11d3db3b11c74566cef99ed61ab6767679d96cdd8d57a82c2",
     "appcast": {
-        "url": "https://justgetflux.com/mac/macflux.xml",
-        "checkpoint": "ba94b32078eee093dc367980a560d22e51b6c8fb0bd343de6f9acd34b0e7a462"
+      "url": "https://justgetflux.com/mac/macflux.xml",
+      "checkpoint": "ba94b32078eee093dc367980a560d22e51b6c8fb0bd343de6f9acd34b0e7a462"
     },
     "version": "39.9871",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://justgetflux.com/"
+    "web": "https://justgetflux.com/",
+    "postflight": null
   }
 }

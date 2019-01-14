@@ -6,13 +6,14 @@
     "download": "https://get.geo.opera.com/pub/opera/desktop/57.0.3098.116/mac/Opera_57.0.3098.116_Setup.dmg",
     "sha256": "2dea54ab3d4cca87ca8f80ce999ea629a0b78eb02450df293a1ad6840dd28445",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": null,
     "build": "57.0.3098.116",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.opera.com/"
+    "web": "https://www.opera.com/",
+    "postflight": null
   }
 }

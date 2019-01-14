@@ -6,13 +6,14 @@
     "download": "https://download.teamviewer.com/download/TeamViewerQS.dmg",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "14.1.3399",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.teamviewer.com/"
+    "web": "https://www.teamviewer.com/",
+    "postflight": null
   }
 }

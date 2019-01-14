@@ -6,13 +6,14 @@
     "download": "https://downloads.slack-edge.com/mac_releases/Slack-3.3.3-macOS.zip",
     "sha256": "8bcd7340c2ff52ee918e78a0705fe5f0f831fa1f8849ce6c374a60fa0d8279e5",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.3.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://slack.com/"
+    "web": "https://slack.com/",
+    "postflight": null
   }
 }

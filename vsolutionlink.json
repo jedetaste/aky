@@ -13,6 +13,7 @@
     "build": "1.5",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.wolfvision.com/vsolution/"
+    "web": "https://www.wolfvision.com/vsolution/",
+    "postflight": null
   }
 }

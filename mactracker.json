@@ -6,13 +6,14 @@
     "download": "https://mactracker.ca/downloads/Mactracker_7.7.7.zip",
     "sha256": "3e45cfded9dcad0e4704d3de57c43c7e160ddaaabd4932462db31ddf694e3588",
     "appcast": {
-        "url": "https://update.mactracker.ca/appcast-b.xml",
-        "checkpoint": "70e643f65baad82242432e2c85011b62e9ab7589b513db9cc5fff665e69776b4"
+      "url": "https://update.mactracker.ca/appcast-b.xml",
+      "checkpoint": "70e643f65baad82242432e2c85011b62e9ab7589b513db9cc5fff665e69776b4"
     },
     "version": "7.7.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://mactracker.ca/"
+    "web": "https://mactracker.ca/",
+    "postflight": null
   }
 }

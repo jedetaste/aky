@@ -6,13 +6,14 @@
     "download": "https://download.panic.com/coda/Coda%202.6.10.zip",
     "sha256": "5f780a6a16548501dd5692265ca6eb10a04e7409cf9954b1660c9b62591480ad",
     "appcast": {
-        "url": "https://www.panic.com/updates/update.php?appName=Coda%202&appVersion=1",
-        "checkpoint": "7bd960f2f51fda1abb6d854873432601a5f19833cb5cfd1b40897d3991e237b7"
+      "url": "https://www.panic.com/updates/update.php?appName=Coda%202&appVersion=1",
+      "checkpoint": "7bd960f2f51fda1abb6d854873432601a5f19833cb5cfd1b40897d3991e237b7"
     },
     "version": "2.6.10",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://panic.com/coda/"
+    "web": "https://panic.com/coda/",
+    "postflight": null
   }
 }

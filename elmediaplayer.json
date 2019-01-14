@@ -6,13 +6,14 @@
     "download": "https://cdn.eltima.com/download/elmediaplayer.dmg",
     "sha256": "01cd1ec1b125868c5d18e619eb6e21517b5322142bcf0652e6a34fdddf4e7d74",
     "appcast": {
-        "url": "https://cdn.eltima.com/download/elmediaplayer-update/elmediaplayer.xml",
-        "checkpoint": "99258d7d6130ad2ee1f61e8741ddd0739bb7482a03dda24be1a1607443f932bb"
+      "url": "https://cdn.eltima.com/download/elmediaplayer-update/elmediaplayer.xml",
+      "checkpoint": "99258d7d6130ad2ee1f61e8741ddd0739bb7482a03dda24be1a1607443f932bb"
     },
     "version": "7.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://mac.eltima.com/media-player.html"
+    "web": "https://mac.eltima.com/media-player.html",
+    "postflight": null
   }
 }

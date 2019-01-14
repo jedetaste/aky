@@ -6,13 +6,14 @@
     "download": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-2.8.9/ganttproject-2.8.9-r2335.dmg",
     "sha256": "9991d419cf30d8c85ce828102f71e07885530b4a7fae3ad9e0c0ae764ea7f237",
     "appcast": {
-        "url": "https://github.com/bardsoftware/ganttproject/releases.atom",
-        "checkpoint": "ccf41dccc02e90fd36f298eba31929210b3655fbe38c96ebbccb6111b2e22e88"
+      "url": "https://github.com/bardsoftware/ganttproject/releases.atom",
+      "checkpoint": "ccf41dccc02e90fd36f298eba31929210b3655fbe38c96ebbccb6111b2e22e88"
     },
     "version": "2.8.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.ganttproject.biz/"
+    "web": "https://www.ganttproject.biz/",
+    "postflight": null
   }
 }

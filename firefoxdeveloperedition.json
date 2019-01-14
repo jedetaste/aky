@@ -6,13 +6,14 @@
     "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/65.0b1/mac/de/Firefox%2065.0b1.dmg",
     "sha256": "104c35fa64b25974466b8b43da317a6d226c17d077ac4d5313b236b957cb1cfe",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "65.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.mozilla.org/firefox/developer/"
+    "web": "https://www.mozilla.org/firefox/developer/",
+    "postflight": null
   }
 }

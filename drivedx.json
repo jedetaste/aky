@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://binaryfruit.com/drivedx"
+    "web": "https://binaryfruit.com/drivedx",
+    "postflight": null
   }
 }

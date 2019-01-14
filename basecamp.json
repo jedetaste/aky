@@ -6,13 +6,14 @@
     "download": "https://bc3-desktop.s3.amazonaws.com/mac/basecamp3.dmg",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.9.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://basecamp.com"
+    "web": "https://basecamp.com",
+    "postflight": null
   }
 }

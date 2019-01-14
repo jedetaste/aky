@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/jamf/PPPC-Utility"
+    "web": "https://github.com/jamf/PPPC-Utility",
+    "postflight": null
   }
 }

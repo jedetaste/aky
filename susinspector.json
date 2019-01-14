@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/hjuutilainen/sus-inspector"
+    "web": "https://github.com/hjuutilainen/sus-inspector",
+    "postflight": null
   }
 }

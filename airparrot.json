@@ -6,13 +6,14 @@
     "download": "http://download.airsquirrels.com/AirParrot2/Mac/AirParrot-2.7.3.dmg",
     "sha256": "5eea2a81ed32941ed8a169d53a3b3dcda26f5a3dcb30c4c0403f205f5de8577d",
     "appcast": {
-        "url": "https://updates.airsquirrels.com/AirParrot2/Mac/AirParrot2.xml",
-        "checkpoint": "1ddc08c19e11ba37e285ae9d851ed2516d9f1a6708b8048db6b34ede4d863477"
+      "url": "https://updates.airsquirrels.com/AirParrot2/Mac/AirParrot2.xml",
+      "checkpoint": "1ddc08c19e11ba37e285ae9d851ed2516d9f1a6708b8048db6b34ede4d863477"
     },
     "version": "2.7.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.airsquirrels.com/airparrot/"
+    "web": "http://www.airsquirrels.com/airparrot/",
+    "postflight": null
   }
 }

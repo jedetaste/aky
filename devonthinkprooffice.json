@@ -6,13 +6,14 @@
     "download": "https://s3.amazonaws.com/DTWebsiteSupport/download/devonthink/2.11.1/DEVONthink_Pro_Office.app.zip",
     "sha256": "4b92086532bf3996d36073b2f989ca2cc7e95f05db35a7e15fc034413224c6e1",
     "appcast": {
-        "url": "https://www.devontechnologies.com/fileadmin/templates/filemaker/sparkle.php?product=300125739&format=xml",
-        "checkpoint": "4e00aae4e420c3803196fd34dd23d6ef5f3493526af35560984e6144e4f31b8e"
+      "url": "https://www.devontechnologies.com/fileadmin/templates/filemaker/sparkle.php?product=300125739&format=xml",
+      "checkpoint": "4e00aae4e420c3803196fd34dd23d6ef5f3493526af35560984e6144e4f31b8e"
     },
     "version": "2.11.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html"
+    "web": "https://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html",
+    "postflight": null
   }
 }

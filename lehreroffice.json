@@ -6,13 +6,14 @@
     "download": "https://www.lehreroffice.ch/lo/dateien/easy/lo_desktop_macos.dmg",
     "sha256": "e0195c2d605fe4851d79da9d158353d9c46194c20a3cfdd31e6505a3d3820c9a",
     "appcast": {
-        "url": "https://www.lehreroffice.ch/services/update/getcurrentversion.php?app=Desktop",
-        "checkpoint": "54c1a730a59ef5d2cc75ba8a2fe6b9c88b3a69b091917f931ba96ea5cb08aa5e"
+      "url": "https://www.lehreroffice.ch/services/update/getcurrentversion.php?app=Desktop",
+      "checkpoint": "54c1a730a59ef5d2cc75ba8a2fe6b9c88b3a69b091917f931ba96ea5cb08aa5e"
     },
     "version": "2018.17.1",
     "build": null,
     "dir": "/Applications/LehrerOffice",
     "symlink": null,
-    "web": "https://www.lehreroffice.ch/"
+    "web": "https://www.lehreroffice.ch/",
+    "postflight": null
   }
 }

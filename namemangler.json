@@ -6,13 +6,14 @@
     "download": "https://manytricks.com/download/_do_not_hotlink_/namemangler341.dmg",
     "sha256": "040b98d0d0da0f4457b6186d9a3854165bf59dad3b45e61f5df6dbee4173c710",
     "appcast": {
-        "url": "https://manytricks.com/namemangler/appcast/",
-        "checkpoint": "cec08158f7365b5652114c7109899e696fdab37df37597a1406c62d659312129"
+      "url": "https://manytricks.com/namemangler/appcast/",
+      "checkpoint": "cec08158f7365b5652114c7109899e696fdab37df37597a1406c62d659312129"
     },
     "version": "3.4.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://manytricks.com/namemangler/"
+    "web": "https://manytricks.com/namemangler/",
+    "postflight": null
   }
 }

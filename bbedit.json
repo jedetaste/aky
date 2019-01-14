@@ -6,13 +6,14 @@
     "download": "https://s3.amazonaws.com/BBSW-download/BBEdit_12.5.2.dmg",
     "sha256": "10270936e6f4d687232ef8593535b56c1802ac4ed4ddb2357e4bd3f904a214e3",
     "appcast": {
-        "url": "https://versioncheck.barebones.com/BBEdit.xml",
-        "checkpoint": "4b41ea7824b684d4ab37553d7828b81b2f69d8020ed4e0c22feeeb428a3b5dc8"
+      "url": "https://versioncheck.barebones.com/BBEdit.xml",
+      "checkpoint": "4b41ea7824b684d4ab37553d7828b81b2f69d8020ed4e0c22feeeb428a3b5dc8"
     },
     "version": "12.5.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.barebones.com/products/bbedit/"
+    "web": "https://www.barebones.com/products/bbedit/",
+    "postflight": null
   }
 }

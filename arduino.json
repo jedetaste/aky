@@ -6,13 +6,14 @@
     "download": "https://downloads.arduino.cc/arduino-1.8.8-macosx.zip",
     "sha256": "b1628a0ca7ee5c8d75ee98cfee3d29f61c03d180894ff12636abe3d30ef67258",
     "appcast": {
-        "url": "https://www.arduino.cc/en/Main/ReleaseNotes",
-        "checkpoint": "9597b9c3ab003cfa10f22c039324366a27f04b05ed4ed79a5e0ca7a08cd59c5f"
+      "url": "https://www.arduino.cc/en/Main/ReleaseNotes",
+      "checkpoint": "9597b9c3ab003cfa10f22c039324366a27f04b05ed4ed79a5e0ca7a08cd59c5f"
     },
     "version": "1.8.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.arduino.cc/"
+    "web": "https://www.arduino.cc/",
+    "postflight": null
   }
 }

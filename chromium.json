@@ -6,13 +6,14 @@
     "download": "https://download-chromium.appspot.com/dl/Mac?type=snapshots",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "73.0.3661.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.chromium.org/"
+    "web": "https://www.chromium.org/",
+    "postflight": null
   }
 }

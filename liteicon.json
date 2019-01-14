@@ -6,13 +6,14 @@
     "download": "https://freemacsoft.net/downloads/LiteIcon_3.9.zip",
     "sha256": "d185503d1c6cbbc6f770517853bd9ef08dc620f4e7ce3de913251a57e4d450d9",
     "appcast": {
-        "url": "https://freemacsoft.net/liteicon/updates.xml",
-        "checkpoint": "ceec01e33a03f1425cea2fc1d9573cb03b7b3016ededa034458c2a49681358ee"
+      "url": "https://freemacsoft.net/liteicon/updates.xml",
+      "checkpoint": "ceec01e33a03f1425cea2fc1d9573cb03b7b3016ededa034458c2a49681358ee"
     },
     "version": "3.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://freemacsoft.net/liteicon/"
+    "web": "https://freemacsoft.net/liteicon/",
+    "postflight": null
   }
 }

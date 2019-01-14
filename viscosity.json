@@ -6,13 +6,14 @@
     "download": "https://swupdate.sparklabs.com/download/mac/release/viscosity/Viscosity%201.7.12.dmg",
     "sha256": "bc60b724e262472016159aa55aab1ebb1af4e416aea0d8a581d68200d1385e75",
     "appcast": {
-        "url": "https://swupdate.sparklabs.com/appcast/mac/release/viscosity/",
-        "checkpoint": "fe21340b9d143540954957bc975e46f5557308f066dcf5c39bbc84af080ae8ea"
+      "url": "https://swupdate.sparklabs.com/appcast/mac/release/viscosity/",
+      "checkpoint": "fe21340b9d143540954957bc975e46f5557308f066dcf5c39bbc84af080ae8ea"
     },
     "version": "1.7.12",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.sparklabs.com/viscosity/"
+    "web": "https://www.sparklabs.com/viscosity/",
+    "postflight": null
   }
 }

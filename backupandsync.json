@@ -6,13 +6,14 @@
     "download": "https://dl.google.com/drive/InstallBackupAndSync.dmg",
     "sha256": "73eb89c39ef401703bfd415a3848a8a70b6a3d5d1d46f566b32165c66b94c9eb",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": null,
     "build": "3.43.2448.9071",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.google.com/drive/download/"
+    "web": "https://www.google.com/drive/download/",
+    "postflight": null
   }
 }

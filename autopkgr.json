@@ -6,13 +6,14 @@
     "download": "https://github.com/lindegroup/autopkgr/releases/download/v1.4.2/AutoPkgr-1.4.2.dmg",
     "sha256": "3f73bae06c0e61fe6af41ead9455ade181e6b62fec4a85c7235c0834c50546a5",
     "appcast": {
-        "url": "https://github.com/lindegroup/autopkgr/releases.atom",
-        "checkpoint": "5062001f275e9ee39125d89fc1a69c8702c3618952da51a3158a2782b951d65b"
+      "url": "https://github.com/lindegroup/autopkgr/releases.atom",
+      "checkpoint": "5062001f275e9ee39125d89fc1a69c8702c3618952da51a3158a2782b951d65b"
     },
     "version": "1.4.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.lindegroup.com/autopkgr"
+    "web": "https://www.lindegroup.com/autopkgr",
+    "postflight": null
   }
 }

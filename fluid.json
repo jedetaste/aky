@@ -6,13 +6,14 @@
     "download": "https://fluidapp.com/dist/Fluid_2.1.2.zip",
     "sha256": "cf58c480f631d2adc050b423e65776e253f52989ade9c1aaf8d77b8ced63a653",
     "appcast": {
-        "url": "https://fluidapp.com/appcast/fluid2.rss",
-        "checkpoint": "72a98d7cadf93fe8aefdaa5100b642851a0a8ce920c079eed0d580bcd0b110b1"
+      "url": "https://fluidapp.com/appcast/fluid2.rss",
+      "checkpoint": "72a98d7cadf93fe8aefdaa5100b642851a0a8ce920c079eed0d580bcd0b110b1"
     },
     "version": "2.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://fluidapp.com/"
+    "web": "http://fluidapp.com/",
+    "postflight": null
   }
 }

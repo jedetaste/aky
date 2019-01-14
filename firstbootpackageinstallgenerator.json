@@ -6,13 +6,14 @@
     "download": "https://github.com/rtrouton/First_Boot_Package_Install_Generator/releases/download/1.7/First_Boot_Package_Install_Generator.zip",
     "sha256": "50a8d8cba495156f2e330b9176d9a9220a1719ea6038830f28db9a87db08db4a",
     "appcast": {
-        "url": "https://github.com/rtrouton/First_Boot_Package_Install_Generator/releases.atom",
-        "checkpoint": "123e5448ed2405596863b49003ddd2872ea956b666212158f653c4a196e1f7fd"
+      "url": "https://github.com/rtrouton/First_Boot_Package_Install_Generator/releases.atom",
+      "checkpoint": "123e5448ed2405596863b49003ddd2872ea956b666212158f653c4a196e1f7fd"
     },
     "version": "1.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/rtrouton/First_Boot_Package_Install_Generator"
+    "web": "https://github.com/rtrouton/First_Boot_Package_Install_Generator",
+    "postflight": null
   }
 }

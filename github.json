@@ -6,13 +6,14 @@
     "download": "https://desktop.githubusercontent.com/releases/1.5.1-b1e34b0f/GitHubDesktop.zip",
     "sha256": "391c8606cab05ea76fc54367185ea02f49afb68001c3c7f6b36ebac436efbd2c",
     "appcast": {
-        "url": "https://github.com/desktop/desktop/releases.atom",
-        "checkpoint": "565e1b7a23b9a151bc34f962a3608fe9f896a3e04f269724811fbec79be70aa8"
+      "url": "https://github.com/desktop/desktop/releases.atom",
+      "checkpoint": "565e1b7a23b9a151bc34f962a3608fe9f896a3e04f269724811fbec79be70aa8"
     },
     "version": "1.5.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://desktop.github.com/"
+    "web": "https://desktop.github.com/",
+    "postflight": null
   }
 }

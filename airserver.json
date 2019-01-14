@@ -6,13 +6,14 @@
     "download": "http://dl.airserver.com/mac/AirServer-7.1.6.dmg",
     "sha256": "fb0cc085ad911a9821db8d10a2eb2b41b3685e862bc2ad919e58f5b1c9f6d139",
     "appcast": {
-        "url": "https://www.airserver.com/downloads/mac/appcast.xml",
-        "checkpoint": "4d5827cd4cf488f6df7cecd3e37cc99a8f5ba5c7d3b16fdec97e27e366c584db"
+      "url": "https://www.airserver.com/downloads/mac/appcast.xml",
+      "checkpoint": "4d5827cd4cf488f6df7cecd3e37cc99a8f5ba5c7d3b16fdec97e27e366c584db"
     },
     "version": "7.1.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.airserver.com/Mac"
+    "web": "https://www.airserver.com/Mac",
+    "postflight": null
   }
 }

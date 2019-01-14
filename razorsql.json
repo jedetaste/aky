@@ -6,13 +6,14 @@
     "download": "http://downloads.razorsql.com/downloads/8_2_2/razorsql8_2_2_x64.dmg",
     "sha256": "09b65a58a98b69c1d8885435e60906d4c9866e7b65025425d2e8a6f6485b4712",
     "appcast": {
-        "url": "https://razorsql.com/updates.html",
-        "checkpoint": "191472500bd9fda842e65166dfdcf01aef5867925f81faaf4f43e4384b858980"
+      "url": "https://razorsql.com/updates.html",
+      "checkpoint": "191472500bd9fda842e65166dfdcf01aef5867925f81faaf4f43e4384b858980"
     },
     "version": "8.2.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://razorsql.com/download_mac.html"
+    "web": "https://razorsql.com/download_mac.html",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "http://xsedna.de/Sedna/abbu-icbu_files/abbuicbu.dmg",
     "sha256": "9a4c60534a6e4b9e9c26318d31b275155a1c94a23dec3dd1e707db306320fc0c",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.10.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://xsedna.de/Sedna/abbu-icbu.html"
+    "web": "http://xsedna.de/Sedna/abbu-icbu.html",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://frankfurt.kapeli.com/downloads/v4/Dash.zip",
     "sha256": "afe990100a08f098042905c8279330a1399802ae6a7e50faadee3cb4084e8258",
     "appcast": {
-        "url": "https://kapeli.com/Dash4.xml",
-        "checkpoint": "5abb37673a1f49b0aba97ed728465466c4fdabe50abe5d7fea8f6a02dcbe0b9a"
+      "url": "https://kapeli.com/Dash4.xml",
+      "checkpoint": "5abb37673a1f49b0aba97ed728465466c4fdabe50abe5d7fea8f6a02dcbe0b9a"
     },
     "version": "4.6.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://kapeli.com/dash"
+    "web": "https://kapeli.com/dash",
+    "postflight": null
   }
 }

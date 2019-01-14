@@ -6,13 +6,14 @@
     "download": "https://chkr-download.ifolor.net/update/MacDesigner/ifolorDesigner_3.5.1_b2509.zip",
     "sha256": "ca632e94d8f139c61f26e33998420cf35dd2be04f68c636f23b84494bff02deb",
     "appcast": {
-        "url": "https://chkr-download.ifolor.net/update/MacDesigner/ifolor_updates.xml",
-        "checkpoint": "813a3962d15dca2ab00af063a5f38ad221cd8ee0b076a6b625a0562b9cd1953f"
+      "url": "https://chkr-download.ifolor.net/update/MacDesigner/ifolor_updates.xml",
+      "checkpoint": "813a3962d15dca2ab00af063a5f38ad221cd8ee0b076a6b625a0562b9cd1953f"
     },
     "version": "3.5.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.ifolor.ch/"
+    "web": "https://www.ifolor.ch/",
+    "postflight": null
   }
 }

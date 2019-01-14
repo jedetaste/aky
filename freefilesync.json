@@ -6,13 +6,14 @@
     "download": "https://freefilesync.org/download/FreeFileSync_10.7_macOS.zip",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "10.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.freefilesync.org/"
+    "web": "https://www.freefilesync.org/",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://update.cyberduck.io/Cyberduck-6.8.3.29107.zip",
     "sha256": "f31de6182885231e3ec6477f316d40c63e682b0b84af88ed20ed20c16cfe2369",
     "appcast": {
-        "url": "https://version.cyberduck.io/changelog.rss",
-        "checkpoint": "c80cc444d6c7478340234d0f91f65355085a5b7f805baa54f5f62a82136d86b5"
+      "url": "https://version.cyberduck.io/changelog.rss",
+      "checkpoint": "c80cc444d6c7478340234d0f91f65355085a5b7f805baa54f5f62a82136d86b5"
     },
     "version": "6.8.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://cyberduck.io/"
+    "web": "https://cyberduck.io/",
+    "postflight": null
   }
 }

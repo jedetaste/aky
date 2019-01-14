@@ -6,13 +6,14 @@
     "download": "https://www.macxdvd.com/download/macx-video-converter-pro.dmg",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.macxdvd.com/mac-video-converter-pro/"
+    "web": "https://www.macxdvd.com/mac-video-converter-pro/",
+    "postflight": null
   }
 }

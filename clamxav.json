@@ -6,13 +6,14 @@
     "download": "https://cdn.clamxav.com/ClamXAVdownloads/ClamXAV_3.0.9_7713.zip",
     "sha256": "aa4159b6e5e6388b8e708a79670fcf5a039467ced99600725d8e352128ef96af",
     "appcast": {
-        "url": "https://www.clamxav.com/sparkle/appcast3.xml",
-        "checkpoint": "727704be503bf005356268efd80b40c3fdc0efeede432888b318f228d05edfd4"
+      "url": "https://www.clamxav.com/sparkle/appcast3.xml",
+      "checkpoint": "727704be503bf005356268efd80b40c3fdc0efeede432888b318f228d05edfd4"
     },
     "version": "3.0.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.clamxav.com/"
+    "web": "https://www.clamxav.com/",
+    "postflight": null
   }
 }

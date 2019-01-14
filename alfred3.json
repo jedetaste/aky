@@ -6,13 +6,14 @@
     "download": "https://cachefly.alfredapp.com/Alfred_3.7.1_946.dmg",
     "sha256": null,
     "appcast": {
-        "url": "https://www.alfredapp.com/app/update/general.xml",
-        "checkpoint": "9393b85bd0337d07d129db4bab6d654a27020de03baba898b327e557988d9203"
+      "url": "https://www.alfredapp.com/app/update/general.xml",
+      "checkpoint": "9393b85bd0337d07d129db4bab6d654a27020de03baba898b327e557988d9203"
     },
     "version": "3.7.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.alfredapp.com/"
+    "web": "https://www.alfredapp.com/",
+    "postflight": null
   }
 }

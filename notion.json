@@ -6,13 +6,14 @@
     "download": "https://desktop-release.notion-static.com/Notion-0.3.0.dmg",
     "sha256": "6cfde9d52086fe1888477fa226c0c8df16360759352ca7d5c4ee6603f3b37eba",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "0.3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.notion.so/"
+    "web": "https://www.notion.so/",
+    "postflight": null
   }
 }

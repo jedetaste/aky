@@ -6,13 +6,14 @@
     "download": "https://s3.amazonaws.com/kindleformac/52065/KindleForMac-52065.dmg",
     "sha256": "043c9ec235141455ba0b92d3c7529e3112b90e1431358cf3d801e3d893a435f9",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "52065",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.amazon.com/gp/digital/fiona/kcp-landing-page"
+    "web": "https://www.amazon.com/gp/digital/fiona/kcp-landing-page",
+    "postflight": null
   }
 }

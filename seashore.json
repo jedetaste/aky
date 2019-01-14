@@ -6,13 +6,14 @@
     "download": "https://github.com/robaho/seashore/releases/download/v2.1.8/seashore-bin-2.1.8.dmg",
     "sha256": "9b0531d900603f7476397e1cdca2cbb278d3cb6181021a15d2212d3703b6328a",
     "appcast": {
-        "url": "https://github.com/robaho/seashore/releases.atom",
-        "checkpoint": "d66687f2427356977381fb87bed01a2e7f3359e7f62840f92dc237ed65a226cf"
+      "url": "https://github.com/robaho/seashore/releases.atom",
+      "checkpoint": "d66687f2427356977381fb87bed01a2e7f3359e7f62840f92dc237ed65a226cf"
     },
     "version": "2.1.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/robaho/seashore"
+    "web": "https://github.com/robaho/seashore",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "http://www.ergonis.com/downloads/products/popcharx/PopCharX85-Install.dmg",
     "sha256": "52982841c36e6c0e909f89de8a7e9a6527466aa2dfc466e60e628d8545591482",
     "appcast": {
-        "url": "http://www.ergonis.com/products/popcharx/history.html",
-        "checkpoint": "7ab5994f870f3e39576de263d930a0b5c7b5e04802dab865c997ac741e9ff7f9"
+      "url": "http://www.ergonis.com/products/popcharx/history.html",
+      "checkpoint": "7ab5994f870f3e39576de263d930a0b5c7b5e04802dab865c997ac741e9ff7f9"
     },
     "version": "8.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.ergonis.com/products/popcharx/"
+    "web": "http://www.ergonis.com/products/popcharx/",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "http://xsedna.de/Sedna/ppc_files/delete_plist.dmg",
     "sha256": "96efd897ce87f3637a6e7ef389ffa75af24fabe7dfd8de4418b7dbf642760733",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://xsedna.de/Sedna/ppc.html"
+    "web": "http://xsedna.de/Sedna/ppc.html",
+    "postflight": null
   }
 }

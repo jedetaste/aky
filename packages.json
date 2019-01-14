@@ -6,13 +6,14 @@
     "download": "http://s.sudre.free.fr/Software/files/Packages.dmg",
     "sha256": "44682aff97b6c9b4a87ede9ade95fa3b3ec9b44affb6bbb6f5ea016df72a3dde",
     "appcast": {
-        "url": "http://s.sudre.free.fr/Software/documentation/RemoteVersion.plist",
-        "checkpoint": "dbbea79a6760cff95d1b46470b021d5ec50806170033df6a18ded28527d48659"
+      "url": "http://s.sudre.free.fr/Software/documentation/RemoteVersion.plist",
+      "checkpoint": "dbbea79a6760cff95d1b46470b021d5ec50806170033df6a18ded28527d48659"
     },
     "version": "1.2.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://s.sudre.free.fr/Software/Packages/about.html"
+    "web": "http://s.sudre.free.fr/Software/Packages/about.html",
+    "postflight": null
   }
 }

@@ -13,6 +13,7 @@
     "build": "1.2",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://canvasworkspace.brother.com/de"
+    "web": "https://canvasworkspace.brother.com/de",
+    "postflight": null
   }
 }

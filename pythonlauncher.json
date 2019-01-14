@@ -6,13 +6,14 @@
     "download": "https://www.python.org/ftp/python/3.7.1/python-3.7.1-macosx10.9.pkg",
     "sha256": "6bf3ad20ce4b2350c913836820c7765c12bf86baf67e27305abfc1deb186f874",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.7.1",
     "build": null,
     "dir": "/Applications/Python 3.7",
     "symlink": null,
-    "web": "https://www.python.org/"
+    "web": "https://www.python.org/",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://www.decisivetactics.com/products/printopia/dl/Printopia_3.0.13.zip",
     "sha256": "cac11d0ba2af9d33c7dcb7ecd42812c3ca4845f7f403c9c9d1b8a015829a90e1",
     "appcast": {
-        "url": "https://www.decisivetactics.com/products/printopia/release-notes",
-        "checkpoint": "2c4a433554bf2c3e67760ac71aaf8606f29abd150e18beecb79a0f89274ca548"
+      "url": "https://www.decisivetactics.com/products/printopia/release-notes",
+      "checkpoint": "2c4a433554bf2c3e67760ac71aaf8606f29abd150e18beecb79a0f89274ca548"
     },
     "version": "3.0.13",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.decisivetactics.com/products/printopia/"
+    "web": "https://www.decisivetactics.com/products/printopia/",
+    "postflight": null
   }
 }

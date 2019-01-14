@@ -6,13 +6,14 @@
     "download": "https://github.com/unetbootin/unetbootin/releases/download/661/unetbootin-mac-661.dmg",
     "sha256": "b028a512515d6d8019c53536ec55e824cc1a0d89eb1fae9609d0e9d4385ff4b5",
     "appcast": {
-        "url": "https://github.com/unetbootin/unetbootin/releases.atom",
-        "checkpoint": "d5ad9f2962f180e80c4e3459479a0d521a87169b7c4e402a4bc81076dd4ab676"
+      "url": "https://github.com/unetbootin/unetbootin/releases.atom",
+      "checkpoint": "d5ad9f2962f180e80c4e3459479a0d521a87169b7c4e402a4bc81076dd4ab676"
     },
     "version": null,
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://unetbootin.github.io/"
+    "web": "https://unetbootin.github.io/",
+    "postflight": null
   }
 }

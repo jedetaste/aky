@@ -6,13 +6,14 @@
     "download": "https://downloads.sourceforge.net/scribus/scribus/1.4.7/scribus-1.4.7.dmg",
     "sha256": "fc5fb1f34abd177586f3d9791801c4a166cd818f3c985960b95f1092dad8a9d4",
     "appcast": {
-        "url": "https://sourceforge.net/projects/scribus/rss?path=/scribus",
-        "checkpoint": "00c503c70c511091975a84619ba49eaa23549ae939021d63cf638fba2c92b309"
+      "url": "https://sourceforge.net/projects/scribus/rss?path=/scribus",
+      "checkpoint": "00c503c70c511091975a84619ba49eaa23549ae939021d63cf638fba2c92b309"
     },
     "version": "1.4.7.svn",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.scribus.net/"
+    "web": "https://www.scribus.net/",
+    "postflight": null
   }
 }

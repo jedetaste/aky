@@ -6,13 +6,14 @@
     "download": "https://www.freemacsoft.net/downloads/AppCleaner_3.5.zip",
     "sha256": "9a67033977622f8523c6d11315fd646b4b3b7b2675ec7c10b37b4d5f5602acb3",
     "appcast": {
-        "url": "https://freemacsoft.net/appcleaner/Updates.xml",
-        "checkpoint": "7134093f8e53bddfb144920d9c55f212317ac36ba4931fd8edb5ffaadcf1f9e5"
+      "url": "https://freemacsoft.net/appcleaner/Updates.xml",
+      "checkpoint": "7134093f8e53bddfb144920d9c55f212317ac36ba4931fd8edb5ffaadcf1f9e5"
     },
     "version": "3.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://freemacsoft.net/appcleaner/"
+    "web": "http://freemacsoft.net/appcleaner/",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "http://www.joshjacob.com/mac-development/TNEF3.7.dmg",
     "sha256": "fd8f0fa03b03fa0307a74694abed29e797b13e844d4d435c21f588fef5bb5d79",
     "appcast": {
-        "url": "http://www.joshjacob.com/mac-development/tnef.php",
-        "checkpoint": "63a3821ab0f09db05058611ad22a301e15f98cb1e1dbf76e99e4a7b5349d3346"
+      "url": "http://www.joshjacob.com/mac-development/tnef.php",
+      "checkpoint": "63a3821ab0f09db05058611ad22a301e15f98cb1e1dbf76e99e4a7b5349d3346"
     },
     "version": "3.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.joshjacob.com/mac-development/tnef.php"
+    "web": "http://www.joshjacob.com/mac-development/tnef.php",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://dl.google.com/dl/androidjumper/mtp/current/androidfiletransfer.dmg",
     "sha256": "9ac944cd72542d35b3e480257ed6e5eb9ff07f0cc5ffba349fbad33d523da529",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.0.11",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.android.com/filetransfer/"
+    "web": "https://www.android.com/filetransfer/",
+    "postflight": null
   }
 }

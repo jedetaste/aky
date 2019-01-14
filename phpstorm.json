@@ -6,13 +6,14 @@
     "download": "https://download.jetbrains.com/webide/PhpStorm-2018.3.3.dmg",
     "sha256": "ceb7c730632eae6c76dc3fcf577c8d08dbbd790ebd334694814370ecdc32fe78",
     "appcast": {
-        "url": "https://data.services.jetbrains.com/products/releases?code=PS&latest=true&type=release",
-        "checkpoint": "ce62f5cf33a19b023b1bdfd8d8194d00795d6a3d3f0138c79cd7bf24d26040f7"
+      "url": "https://data.services.jetbrains.com/products/releases?code=PS&latest=true&type=release",
+      "checkpoint": "ce62f5cf33a19b023b1bdfd8d8194d00795d6a3d3f0138c79cd7bf24d26040f7"
     },
     "version": "2018.3.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.jetbrains.com/phpstorm/"
+    "web": "https://www.jetbrains.com/phpstorm/",
+    "postflight": null
   }
 }

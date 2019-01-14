@@ -6,13 +6,14 @@
     "download": "https://cdn.getflow.com/darwin_x64/Flow.zip",
     "sha256": "59a268241ae2aaa727a66dae73fe8dd3961b6e9440b481dc2295e9291b5f634f",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "6.0.24",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.getflow.com/"
+    "web": "https://www.getflow.com/",
+    "postflight": null
   }
 }

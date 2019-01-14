@@ -6,13 +6,14 @@
     "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/64.0.2/mac/de/Firefox%2064.0.2.dmg",
     "sha256": "3c47e836b0806a7dfd2f899eb121bee37b0fb7479fe93316f275972663413d0d",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "64.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.mozilla.org/firefox/"
+    "web": "https://www.mozilla.org/firefox/",
+    "postflight": null
   }
 }

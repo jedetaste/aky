@@ -6,13 +6,14 @@
     "download": "https://tumult.com/hype/download/Hype.zip",
     "sha256": "bf7c50c3586db09eeb957900a156b4e0c14a53b5a92fdb6471a7a952649cc324",
     "appcast": {
-        "url": "https://tumult.com/hype/appcast_hype2.xml",
-        "checkpoint": "699abf7b4ea099adbf3e68383fac3fa7328de6a4c4293aa21434e0a15c6d84da"
+      "url": "https://tumult.com/hype/appcast_hype2.xml",
+      "checkpoint": "699abf7b4ea099adbf3e68383fac3fa7328de6a4c4293aa21434e0a15c6d84da"
     },
     "version": "3.6.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://tumult.com/hype/"
+    "web": "https://tumult.com/hype/",
+    "postflight": null
   }
 }

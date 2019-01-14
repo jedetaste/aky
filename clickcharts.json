@@ -6,13 +6,14 @@
     "download": "http://www.nchsoftware.com/chart/clickchartspmaci.zip",
     "sha256": "f5593f6ccaa252d5f83a80f9fdf4b638e27597cc65a80e35a71057f6b6570033",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.04",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.nchsoftware.com/"
+    "web": "http://www.nchsoftware.com/",
+    "postflight": null
   }
 }

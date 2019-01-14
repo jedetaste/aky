@@ -6,13 +6,14 @@
     "download": "https://downloads.sourceforge.net/sweethome3d/SweetHome3D/SweetHome3D-6.0/SweetHome3D-6.0-macosx.dmg",
     "sha256": "7dbc25e0e12e54ec4448fbcdb0a3ea60ca7b6842c00431ff041a65f569de277a",
     "appcast": {
-        "url": "https://sourceforge.net/projects/sweethome3d/rss?path=/SweetHome3D",
-        "checkpoint": "df17a55bdc38acedc6cc3012f413b1ffe1e59c81b1afd704e22de57eb9645e78"
+      "url": "https://sourceforge.net/projects/sweethome3d/rss?path=/SweetHome3D",
+      "checkpoint": "df17a55bdc38acedc6cc3012f413b1ffe1e59c81b1afd704e22de57eb9645e78"
     },
     "version": "6.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.sweethome3d.com/"
+    "web": "http://www.sweethome3d.com/",
+    "postflight": null
   }
 }

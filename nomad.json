@@ -6,13 +6,14 @@
     "download": "https://files.nomad.menu/NoMAD.zip",
     "sha256": "3aeb5d29daf900d05c4d0a864cfdce406a4658cefce76087e4e7d9c59a6bdb1d",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.1.4.933",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://nomad.menu/"
+    "web": "https://nomad.menu/",
+    "postflight": null
   }
 }

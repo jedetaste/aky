@@ -6,13 +6,14 @@
     "download": "https://github.com/Kitware/CMake/releases/download/v3.13.2/cmake-3.13.2-Darwin-x86_64.dmg",
     "sha256": "abcd60d7cdf87a3ccd1c43b2f47b78058b2aa56dec99600702b659f921b0d069",
     "appcast": {
-        "url": "https://github.com/Kitware/CMake/releases.atom",
-        "checkpoint": "4a71695646e485284b54612716f004ee2dd3186531420378417bb719cf09ac65"
+      "url": "https://github.com/Kitware/CMake/releases.atom",
+      "checkpoint": "4a71695646e485284b54612716f004ee2dd3186531420378417bb719cf09ac65"
     },
     "version": "3.13.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://cmake.org/"
+    "web": "https://cmake.org/",
+    "postflight": null
   }
 }

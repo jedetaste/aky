@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/xjbeta/Aria2D"
+    "web": "https://github.com/xjbeta/Aria2D",
+    "postflight": null
   }
 }

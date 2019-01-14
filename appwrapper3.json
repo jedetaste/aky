@@ -6,13 +6,14 @@
     "download": "http://www.ohanaware.com/appwrapper/appWrapper3.dmg",
     "sha256": "35d8da8aef341950cf0211f2b8069a846f8acafb9db6a3a73992e90edb329da5",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.8.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.ohanaware.com/appwrapper/"
+    "web": "http://www.ohanaware.com/appwrapper/",
+    "postflight": null
   }
 }

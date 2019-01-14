@@ -6,13 +6,14 @@
     "download": "https://dl.enpass.io/stable/mac/app/293/Enpass.zip",
     "sha256": "f436efa530c71b794c213492de821e9f2c831975abe84bb3a564bc505a08725c",
     "appcast": {
-        "url": "https://dl.sinew.in/mac/package/appcast.xml",
-        "checkpoint": "34763efb6cb2aba25d6b7cf2a6b987799e2f0316ca5ec2cceb77fbf338ab18a3"
+      "url": "https://dl.sinew.in/mac/package/appcast.xml",
+      "checkpoint": "34763efb6cb2aba25d6b7cf2a6b987799e2f0316ca5ec2cceb77fbf338ab18a3"
     },
     "version": "6.0.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.enpass.io/"
+    "web": "https://www.enpass.io/",
+    "postflight": null
   }
 }

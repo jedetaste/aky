@@ -6,13 +6,14 @@
     "download": "https://download.sublimetext.com/Sublime%20Text%20Build%203176.dmg",
     "sha256": "68cc4a12f30511b3e9fa45e6240f18b1963407a613d8933a57dec0fddf504aaa",
     "appcast": {
-        "url": "https://www.sublimetext.com/updates/#{version.major}/stable/appcast_osx.xml",
-        "checkpoint": "6dbaa25898e6de064615835ebc45c9d0966825263c46cb028e8ba7a79d26b001"
+      "url": "https://www.sublimetext.com/updates/#{version.major}/stable/appcast_osx.xml",
+      "checkpoint": "6dbaa25898e6de064615835ebc45c9d0966825263c46cb028e8ba7a79d26b001"
     },
     "version": null,
     "build": "3176",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.sublimetext.com/3"
+    "web": "https://www.sublimetext.com/3",
+    "postflight": null
   }
 }

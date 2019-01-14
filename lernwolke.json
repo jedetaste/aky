@@ -6,13 +6,14 @@
     "download": "https://download.lernwolke.ch/mac_os/Lernwolke_1.0.0.dmg.zip",
     "sha256": "db0563834158e0c185ca9f79981ff3803d98b01f983cfe0e55af5ac3702ddeea",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.0.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.lernwolke.ch/"
+    "web": "https://www.lernwolke.ch/",
+    "postflight": null
   }
 }

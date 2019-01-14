@@ -6,13 +6,14 @@
     "download": "https://github.com/jamfprofessionalservices/JamfMigrator/releases/download/current/jamf-migrator.zip",
     "sha256": "79c976152dad678969e678d56e83b7a397a7f7910425db7e25fbccb7bfdc0569",
     "appcast": {
-        "url": "https://github.com/jamfprofessionalservices/JamfMigrator/releases.atom",
-        "checkpoint": "b507ecb96827d222db9c0e94331cbb670f05b81ff8c50bfe9a261da32403eacc"
+      "url": "https://github.com/jamfprofessionalservices/JamfMigrator/releases.atom",
+      "checkpoint": "b507ecb96827d222db9c0e94331cbb670f05b81ff8c50bfe9a261da32403eacc"
     },
     "version": "3.2.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/jamfprofessionalservices/JamfMigrator"
+    "web": "https://github.com/jamfprofessionalservices/JamfMigrator",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://files.teamspeak-services.com/releases/client/3.2.3/TeamSpeak3-Client-macosx-3.2.3.dmg",
     "sha256": "a689ffbd54b14c1a3edf887731cb6b24676ea6d90249cabd7f6e378e1642dafe",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": null,
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.teamspeak.com/"
+    "web": "https://www.teamspeak.com/",
+    "postflight": null
   }
 }

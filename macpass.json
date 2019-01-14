@@ -6,13 +6,14 @@
     "download": "https://github.com/MacPass/MacPass/releases/download/0.7.3/MacPass-0.7.3.zip",
     "sha256": "1551b9db0e275827ab99e80a14980dcc1c1e20e47bdb65c0140e618407f150c2",
     "appcast": {
-        "url": "https://github.com/MacPass/MacPass/releases.atom",
-        "checkpoint": "940a03d6493e3dbab6a562e8bb0b6e1d4fc51e59b89baf63a6368a8e93afdccf"
+      "url": "https://github.com/MacPass/MacPass/releases.atom",
+      "checkpoint": "940a03d6493e3dbab6a562e8bb0b6e1d4fc51e59b89baf63a6368a8e93afdccf"
     },
     "version": "0.7.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://macpass.github.io/"
+    "web": "https://macpass.github.io/",
+    "postflight": null
   }
 }

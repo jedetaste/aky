@@ -6,13 +6,14 @@
     "download": "http://www.projectwizards.net/downloads/MerlinProject.zip",
     "sha256": "1770bc7c13f2d9f97e7d31629c5979d8da2bb2c4835a74f4fa7145c805c72247",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "5.0.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.projectwizards.net/en/products/merlin-project/what-is"
+    "web": "https://www.projectwizards.net/en/products/merlin-project/what-is",
+    "postflight": null
   }
 }

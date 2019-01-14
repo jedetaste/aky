@@ -6,13 +6,14 @@
     "download": "https://download.scdn.co/Spotify.dmg",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.0.96.181.gf6bc1b6b",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.spotify.com/"
+    "web": "https://www.spotify.com/",
+    "postflight": null
   }
 }

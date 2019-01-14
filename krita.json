@@ -6,13 +6,14 @@
     "download": "https://download.kde.org/stable/krita/4.1.7/krita-4.1.7.dmg",
     "sha256": "df3564744764bf39438c128277327d1f04c5d01a34213ab0a63a015646f5ba6c",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "4.1.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://krita.org/"
+    "web": "https://krita.org/",
+    "postflight": null
   }
 }

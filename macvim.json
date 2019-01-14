@@ -6,13 +6,14 @@
     "download": "https://github.com/macvim-dev/macvim/releases/download/snapshot-153/MacVim.dmg",
     "sha256": "e45f0b57c8333d5938d3e67ac58887598d8e387eb953ea4321e216b08e91dfc4",
     "appcast": {
-        "url": "https://github.com/macvim-dev/macvim/releases.atom",
-        "checkpoint": "0897b9ec695b9cd7e5454a2c64eac8a13b72cb4f72801c6e64d20f6c90fa4f5e"
+      "url": "https://github.com/macvim-dev/macvim/releases.atom",
+      "checkpoint": "0897b9ec695b9cd7e5454a2c64eac8a13b72cb4f72801c6e64d20f6c90fa4f5e"
     },
     "version": "8.1.577",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/macvim-dev/macvim"
+    "web": "https://github.com/macvim-dev/macvim",
+    "postflight": null
   }
 }

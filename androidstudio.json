@@ -6,13 +6,14 @@
     "download": "https://dl.google.com/dl/android/studio/install/3.2.1.0/android-studio-ide-181.5056338-mac.dmg",
     "sha256": "b8d2b7add6a7c776d16a8e48bd35c3e2bba18b4717131d7b9a00fa416ebe4480",
     "appcast": {
-        "url": "https://dl.google.com/android/studio/patches/updates.xml",
-        "checkpoint": "6824c15e7c295b249cfbb70f27dd9be959e48cbae152f4aec1948968246bf208"
+      "url": "https://dl.google.com/android/studio/patches/updates.xml",
+      "checkpoint": "6824c15e7c295b249cfbb70f27dd9be959e48cbae152f4aec1948968246bf208"
     },
     "version": "3.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://developer.android.com/studio/index.html"
+    "web": "https://developer.android.com/studio/index.html",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.17/FreeCAD_0.17-13541.9948ee4-OSX-x86_64-Qt5.dmg",
     "sha256": "48623a0dc48c93863ed5bdd76e19008e96c3c2492d3e49041e123b1d582dc383",
     "appcast": {
-        "url": "https://github.com/FreeCAD/FreeCAD/releases.atom",
-        "checkpoint": "c67e32e2455db5d49f6a718279b0517f6b2b2e7ea425751bb52a05a3c035ff76"
+      "url": "https://github.com/FreeCAD/FreeCAD/releases.atom",
+      "checkpoint": "c67e32e2455db5d49f6a718279b0517f6b2b2e7ea425751bb52a05a3c035ff76"
     },
     "version": null,
     "build": "0.17.10000",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.freecadweb.org/"
+    "web": "https://www.freecadweb.org/",
+    "postflight": null
   }
 }

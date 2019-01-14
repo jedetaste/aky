@@ -6,13 +6,14 @@
     "download": "https://www.adriangranados.com/downloads/wifiexplorer_2.5.2.zip",
     "sha256": "e83e0c9286beabb01190c67b79ad9cba0c482d1c5d5e721476cc3082928cc927",
     "appcast": {
-        "url": "https://www.adriangranados.com/appcasts/wifiexplorercast.xml",
-        "checkpoint": "0928c95719af28e62f36c93c740d7b679101f0f530e56d6bbf38bcccd2779755"
+      "url": "https://www.adriangranados.com/appcasts/wifiexplorercast.xml",
+      "checkpoint": "0928c95719af28e62f36c93c740d7b679101f0f530e56d6bbf38bcccd2779755"
     },
     "version": "2.5.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.adriangranados.com/apps/wifi-explorer"
+    "web": "https://www.adriangranados.com/apps/wifi-explorer",
+    "postflight": null
   }
 }

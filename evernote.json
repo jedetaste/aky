@@ -6,13 +6,14 @@
     "download": "https://cdn1.evernote.com/mac-smd/public/Evernote_RELEASE_7.8_457453.dmg",
     "sha256": "cba71dff3f051eaa4644aa2060ff7816affb348e86bb3edbf3bbf5849face8d7",
     "appcast": {
-        "url": "https://update.evernote.com/public/ENMacSMD/EvernoteMacUpdate.xml",
-        "checkpoint": "9e4fe47ea64d82d83ac3d26ddf691d4ac407b24fc1d477c78a748c64b462c003"
+      "url": "https://update.evernote.com/public/ENMacSMD/EvernoteMacUpdate.xml",
+      "checkpoint": "9e4fe47ea64d82d83ac3d26ddf691d4ac407b24fc1d477c78a748c64b462c003"
     },
     "version": "7.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://evernote.com/"
+    "web": "https://evernote.com/",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://download.sketchapp.com/sketch-52.6-67491.zip",
     "sha256": "45ecd62f0810c09744559a065d3f2f044b65bae359dd81201bed757b32cc20d8",
     "appcast": {
-        "url": "https://download.sketchapp.com/sketch-versions.xml",
-        "checkpoint": "e8eab9cd23ca999425040e10dbe0c7e6b0d99cb5e69c50eae0856b87b33b4699"
+      "url": "https://download.sketchapp.com/sketch-versions.xml",
+      "checkpoint": "e8eab9cd23ca999425040e10dbe0c7e6b0d99cb5e69c50eae0856b87b33b4699"
     },
     "version": "52.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.sketchapp.com/"
+    "web": "https://www.sketchapp.com/",
+    "postflight": null
   }
 }

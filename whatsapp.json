@@ -6,13 +6,14 @@
     "download": "https://web.whatsapp.com/desktop/mac/files/release-0.3.1847.zip",
     "sha256": "b8432b55476f6f367dcda1869512a004c0a32925e88e236de19f56f72854697a",
     "appcast": {
-        "url": "https://web.whatsapp.com/desktop/mac/releases?platform=darwin&arch=x64",
-        "checkpoint": "593312b319b35a5071e0146041e28e826a9608e74c6299c67d0fce4295aaf22f"
+      "url": "https://web.whatsapp.com/desktop/mac/releases?platform=darwin&arch=x64",
+      "checkpoint": "593312b319b35a5071e0146041e28e826a9608e74c6299c67d0fce4295aaf22f"
     },
     "version": "0.3.1847",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.whatsapp.com/"
+    "web": "https://www.whatsapp.com/",
+    "postflight": null
   }
 }

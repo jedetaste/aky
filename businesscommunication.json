@@ -6,13 +6,14 @@
     "download": "https://was1.join.swisscom.ch/dms/bc/pc/btbc-mac.dmg",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "22.6.2.47",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.swisscom.ch/en/business/sme/help/combi-offers/app-nutzen-sbcon.html"
+    "web": "https://www.swisscom.ch/en/business/sme/help/combi-offers/app-nutzen-sbcon.html",
+    "postflight": null
   }
 }

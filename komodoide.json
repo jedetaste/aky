@@ -6,13 +6,14 @@
     "download": "https://downloads.activestate.com/Komodo/releases/11.1.0/Komodo-IDE-11.1.0-91033-macosx-x86_64.dmg",
     "sha256": "b46304e7849a9c507d3e7602dd264be9961100aaf8ff3a6e7689cdeddeea1f49",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": null,
     "build": "11.1.0",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.activestate.com/komodo-ide/"
+    "web": "https://www.activestate.com/komodo-ide/",
+    "postflight": null
   }
 }

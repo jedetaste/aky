@@ -6,13 +6,14 @@
     "download": "https://downloads.plex.tv/plexmediaplayer/2.25.0.940-485e2ea4/PlexMediaPlayer-2.25.0.940-485e2ea4-macosx-x86_64.zip",
     "sha256": "0b39093f1cffd2dac990294caf7a0a983881456d01bdb6ec743b458b77567edb",
     "appcast": {
-        "url": "https://plex.tv/api/downloads/3.json",
-        "checkpoint": "35472a39858074e92a2f922b377fb0b83b94755126507f23190b9c1263d0ace2"
+      "url": "https://plex.tv/api/downloads/3.json",
+      "checkpoint": "35472a39858074e92a2f922b377fb0b83b94755126507f23190b9c1263d0ace2"
     },
     "version": "2.25.0.940-485e2ea4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.plex.tv/"
+    "web": "https://www.plex.tv/",
+    "postflight": null
   }
 }

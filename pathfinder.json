@@ -6,13 +6,14 @@
     "download": "https://get.cocoatech.com/PF8.dmg",
     "sha256": "796eca99cf4da52c342a34998a5465dfa1b59c520858039d3ad89e05c003795e",
     "appcast": {
-        "url": "https://get.cocoatech.com/releasecast.xml",
-        "checkpoint": "7d08250d58a711636239bce2095a6be1924ad52a1ca288e817b1efc059639e0a"
+      "url": "https://get.cocoatech.com/releasecast.xml",
+      "checkpoint": "7d08250d58a711636239bce2095a6be1924ad52a1ca288e817b1efc059639e0a"
     },
     "version": "8.3.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://cocoatech.com/"
+    "web": "https://cocoatech.com/",
+    "postflight": null
   }
 }

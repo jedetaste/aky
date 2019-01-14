@@ -13,6 +13,7 @@
     "build": "4.0.1",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://anykey.ch/download/"
+    "web": "https://anykey.ch/download/",
+    "postflight": null
   }
 }

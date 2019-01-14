@@ -6,13 +6,14 @@
     "download": "https://github.com/pencil2d/pencil/releases/download/v0.6.2/pencil2d-mac-0.6.2.zip",
     "sha256": "5661d6cbaadfc4542ce584966ae5075d44fbf00dd430b9d854210db9b9cf3fff",
     "appcast": {
-        "url": "https://github.com/pencil2d/pencil/releases.atom",
-        "checkpoint": "b59783c16af7958970b482b6cfbcf3f10f79bafc3eddfbc3b6c5ca9d380a6799"
+      "url": "https://github.com/pencil2d/pencil/releases.atom",
+      "checkpoint": "b59783c16af7958970b482b6cfbcf3f10f79bafc3eddfbc3b6c5ca9d380a6799"
     },
     "version": "0.6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.pencil2d.org/"
+    "web": "https://www.pencil2d.org/",
+    "postflight": null
   }
 }

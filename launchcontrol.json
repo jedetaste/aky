@@ -6,13 +6,14 @@
     "download": "http://www.soma-zone.com/download/files/LaunchControl-1.44.tar.bz2",
     "sha256": "bb1f42d577a3413e5e1bb5bb724c91f8a39785a877b5c8d3d2fda46a1e8accb9",
     "appcast": {
-        "url": "http://www.soma-zone.com/LaunchControl/a/appcast.xml",
-        "checkpoint": "50122441c5d8451fabaf4b6b2dde26859b8fd58f330dc5344fa947bfaf447822"
+      "url": "http://www.soma-zone.com/LaunchControl/a/appcast.xml",
+      "checkpoint": "50122441c5d8451fabaf4b6b2dde26859b8fd58f330dc5344fa947bfaf447822"
     },
     "version": "1.44",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.soma-zone.com/download/"
+    "web": "http://www.soma-zone.com/download/",
+    "postflight": null
   }
 }

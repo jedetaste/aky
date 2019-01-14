@@ -6,13 +6,14 @@
     "download": "https://ftp.osuosl.org/pub/musescore/releases/MuseScore-2.3.2/MuseScore-2.3.2.dmg",
     "sha256": "67eb15707c2aff816dce25f1b91c7381184fa3a4bd731c76a3c963bfb110a4fa",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": null,
     "build": "2.3.2",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://musescore.org/"
+    "web": "https://musescore.org/",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "http://www.busymac.com/download/BusyContacts.zip",
     "sha256": "91266016a10a33d59cc16b31d67fc211cf8e788f898be3b202cb4351175a6ca3",
     "appcast": {
-        "url": "https://www.busymac.com/busycontacts/releasenotes.html",
-        "checkpoint": "977ad57320813e89d1585a2d3e574785cbb2f4772d1d510db926f8fc276448b0"
+      "url": "https://www.busymac.com/busycontacts/releasenotes.html",
+      "checkpoint": "977ad57320813e89d1585a2d3e574785cbb2f4772d1d510db926f8fc276448b0"
     },
     "version": "1.3.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.busymac.com/busycontacts/index.html"
+    "web": "https://www.busymac.com/busycontacts/index.html",
+    "postflight": null
   }
 }

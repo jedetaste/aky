@@ -6,13 +6,14 @@
     "download": "https://osx.telegram.org/updates/Telegram-4.8-151476.app.zip",
     "sha256": "3fa89451bc3095c894aadc9ed1e3a58dafe091788c2544d5e4458947714e2ccf",
     "appcast": {
-        "url": "https://osx.telegram.org/updates/versions.xml",
-        "checkpoint": "02965438f55c5fefbc7cd7368d60de7efe8bd6cceac92f735f9f858e441b404c"
+      "url": "https://osx.telegram.org/updates/versions.xml",
+      "checkpoint": "02965438f55c5fefbc7cd7368d60de7efe8bd6cceac92f735f9f858e441b404c"
     },
     "version": "4.8",
     "build": "151476",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://macos.telegram.org/"
+    "web": "https://macos.telegram.org/",
+    "postflight": null
   }
 }

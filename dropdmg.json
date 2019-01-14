@@ -6,13 +6,14 @@
     "download": "https://c-command.com/downloads/DropDMG-3.5.5.dmg",
     "sha256": "04fbf7aa669b4bb33c8590febe89773d1f6ff63c6d6413e94487eacb13ea0489",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.5.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://c-command.com/dropdmg/"
+    "web": "https://c-command.com/dropdmg/",
+    "postflight": null
   }
 }

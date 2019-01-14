@@ -6,13 +6,14 @@
     "download": "https://www.lehreroffice.ch/lo/dateien/zusatz/lo_zusatz_macos.dmg",
     "sha256": "57bd12c220c8f7a46611fc5c8e2caa4eb999cc00476b27c6458b01d2c5976a64",
     "appcast": {
-        "url": "https://www.lehreroffice.ch/services/update/getcurrentversion.php?app=Zusatz",
-        "checkpoint": "54c1a730a59ef5d2cc75ba8a2fe6b9c88b3a69b091917f931ba96ea5cb08aa5e"
+      "url": "https://www.lehreroffice.ch/services/update/getcurrentversion.php?app=Zusatz",
+      "checkpoint": "54c1a730a59ef5d2cc75ba8a2fe6b9c88b3a69b091917f931ba96ea5cb08aa5e"
     },
     "version": "2018.17.1",
     "build": null,
     "dir": "/Applications/LehrerOffice",
     "symlink": null,
-    "web": "https://www.lehreroffice.ch/"
+    "web": "https://www.lehreroffice.ch/",
+    "postflight": null
   }
 }

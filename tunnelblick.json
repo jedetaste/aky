@@ -6,13 +6,14 @@
     "download": "https://github.com/Tunnelblick/Tunnelblick/releases/download/v3.7.8/Tunnelblick_3.7.8_build_5180.dmg",
     "sha256": "0918551e80b3f861eb075cae790f3834a81a163a2793d2414064a1451bda3370",
     "appcast": {
-        "url": "https://github.com/Tunnelblick/Tunnelblick/releases.atom",
-        "checkpoint": "9cc6f1950f087dc2a42983d2ace9791165dea319c67d556d1bf519a7694163b3"
+      "url": "https://github.com/Tunnelblick/Tunnelblick/releases.atom",
+      "checkpoint": "9cc6f1950f087dc2a42983d2ace9791165dea319c67d556d1bf519a7694163b3"
     },
     "version": null,
     "build": "5180",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.tunnelblick.net/"
+    "web": "https://www.tunnelblick.net/",
+    "postflight": null
   }
 }

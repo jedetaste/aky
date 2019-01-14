@@ -6,13 +6,14 @@
     "download": "https://download.documentfoundation.org/libreoffice/stable/6.1.4/mac/x86_64/LibreOffice_6.1.4_MacOS_x86-64.dmg",
     "sha256": "92bc95b55285e2a2df32ffb89123de0659dec79c3543e7edd7136a3d1ced2401",
     "appcast": {
-        "url": "https://download.documentfoundation.org/libreoffice/stable/",
-        "checkpoint": "84f96d485a1d43b7060308432e2fee2240b9d4f2148a671728ae40621221b597"
+      "url": "https://download.documentfoundation.org/libreoffice/stable/",
+      "checkpoint": "84f96d485a1d43b7060308432e2fee2240b9d4f2148a671728ae40621221b597"
     },
     "version": "6.1.4002",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.libreoffice.org/"
+    "web": "https://www.libreoffice.org/",
+    "postflight": null
   }
 }

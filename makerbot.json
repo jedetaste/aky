@@ -6,13 +6,14 @@
     "download": "https://s3.amazonaws.com/downloads-makerbot-com/installer/release/MakerBotDesktopInstaller.pkg",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "7.2.1+6156",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.makerbot.com/print/"
+    "web": "https://www.makerbot.com/print/",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://downloads.sourceforge.net/openofficeorg.mirror/Apache_OpenOffice_4.1.6_MacOS_x86-64_install_de.dmg",
     "sha256": "f8de4e8ea431960631ea89389ce85dff0a575c1b0afda30ba4a53128cb7412e5",
     "appcast": {
-        "url": "https://sourceforge.net/projects/openofficeorg.mirror/rss",
-        "checkpoint": "d535e58dc65fd3feaf62a851c2d5bdda7e20b54f1a51719d4b13e097a3b1f8b4"
+      "url": "https://sourceforge.net/projects/openofficeorg.mirror/rss",
+      "checkpoint": "d535e58dc65fd3feaf62a851c2d5bdda7e20b54f1a51719d4b13e097a3b1f8b4"
     },
     "version": "4.1.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.openoffice.org/"
+    "web": "https://www.openoffice.org/",
+    "postflight": null
   }
 }

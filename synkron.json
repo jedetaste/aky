@@ -6,13 +6,14 @@
     "download": "https://downloads.sourceforge.net/project/synkron/synkron/1.6.2/Synkron-1.6.2-macx64.zip",
     "sha256": "e02a6ef8b23fc496348ed98247683c37241d0c7052bea06aeec541eea9e6b415",
     "appcast": {
-        "url": "https://sourceforge.net/projects/synkron/rss",
-        "checkpoint": "2ae15c7eb0b428231dcc0b97cc36aec94ca48e5c3497400dd2848cfa7b8db575"
+      "url": "https://sourceforge.net/projects/synkron/rss",
+      "checkpoint": "2ae15c7eb0b428231dcc0b97cc36aec94ca48e5c3497400dd2848cfa7b8db575"
     },
     "version": null,
     "build": "1.6.2",
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://synkron.sourceforge.net/"
+    "web": "http://synkron.sourceforge.net/",
+    "postflight": null
   }
 }

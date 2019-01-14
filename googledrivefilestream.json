@@ -6,13 +6,14 @@
     "download": "https://dl.google.com/drive-file-stream/GoogleDriveFileStream.dmg",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "29.1.23",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.google.com/drive/"
+    "web": "https://www.google.com/drive/",
+    "postflight": null
   }
 }

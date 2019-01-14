@@ -6,13 +6,14 @@
     "download": "https://dl.devmate.com/com.globaldelight.Capto/1.2.10/1541678419/Capto-1.2.10.dmg",
     "sha256": "41a5c554791dd4432e9ede6923e2c40e7d0e2839fc2f970e69648a9c21a1f604",
     "appcast": {
-        "url": "https://updates.devmate.com/com.globaldelight.Capto.xml",
-        "checkpoint": "99f3641c89c90a8be137f8f85b0ce79f5d0cba01af9f4e6a98cdda48b0458ff9"
+      "url": "https://updates.devmate.com/com.globaldelight.Capto.xml",
+      "checkpoint": "99f3641c89c90a8be137f8f85b0ce79f5d0cba01af9f4e6a98cdda48b0458ff9"
     },
     "version": "1.2.10",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.globaldelight.com/capto/"
+    "web": "http://www.globaldelight.com/capto/",
+    "postflight": null
   }
 }

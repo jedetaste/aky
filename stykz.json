@@ -6,13 +6,14 @@
     "download": "http://www.stykz.net/downloads/mac/Stykz.dmg.zip",
     "sha256": null,
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.0.1",
     "build": null,
     "dir": "/Applications/Stykz",
     "symlink": null,
-    "web": "https://www.stykz.net/"
+    "web": "https://www.stykz.net/",
+    "postflight": null
   }
 }

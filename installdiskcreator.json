@@ -6,13 +6,14 @@
     "download": "https://macdaddy.io/InstallDiskCreator.zip",
     "sha256": "9cf1508723404b3e177a8a32f0082d7553e3ccacb26150763a96bbc1fb7eaee9",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://macdaddy.io/install-disk-creator/"
+    "web": "https://macdaddy.io/install-disk-creator/",
+    "postflight": null
   }
 }

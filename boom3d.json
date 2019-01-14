@@ -6,13 +6,14 @@
     "download": "https://dl.devmate.com/com.globaldelight.Boom3D/1.2.2/1547011343/Boom3D-1.2.2.dmg",
     "sha256": "cb960e82b5c5bbbb26eb113c3589feaeaa7e5d43e6b1773ea09518508801b0b0",
     "appcast": {
-        "url": "https://updates.devmate.com/com.globaldelight.Boom3D.xml",
-        "checkpoint": "7ef93f04016dbb93752ffb41e9ef1ceba44ed154d3e11e6db111a6c5bc84af2e"
+      "url": "https://updates.devmate.com/com.globaldelight.Boom3D.xml",
+      "checkpoint": "7ef93f04016dbb93752ffb41e9ef1ceba44ed154d3e11e6db111a6c5bc84af2e"
     },
     "version": "1.2.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.globaldelight.com/boom"
+    "web": "http://www.globaldelight.com/boom",
+    "postflight": null
   }
 }

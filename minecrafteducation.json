@@ -6,13 +6,14 @@
     "download": "https://meedownloads.azureedge.net/1-7-release-20181106/Minecraft_Education_Edition.dmg",
     "sha256": "0aa5477a9b04d08dc18fbc873ed06e5947e739b26d5d338bc914bad324974f4c",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.7.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://education.minecraft.net/"
+    "web": "https://education.minecraft.net/",
+    "postflight": null
   }
 }

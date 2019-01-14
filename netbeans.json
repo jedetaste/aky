@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications/NetBeans",
     "symlink": null,
-    "web": "https://netbeans.org/"
+    "web": "https://netbeans.org/",
+    "postflight": null
   }
 }

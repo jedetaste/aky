@@ -6,13 +6,14 @@
     "download": "https://az764295.vo.msecnd.net/stable/61122f88f0bf01e2ac16bdb9e1bc4571755f5bd8/VSCode-darwin-stable.zip",
     "sha256": "1891693265c631fc12f8c6a1cef9c638dde436ca695085fb77eae9a09916251f",
     "appcast": {
-        "url": "https://vscode-update.azurewebsites.net/api/update/darwin/stable/VERSION",
-        "checkpoint": "95da84d4f3f2fe06c24f297da7de3ac0e6fd5f7268fd2ba01e7085c3c48d5da1"
+      "url": "https://vscode-update.azurewebsites.net/api/update/darwin/stable/VERSION",
+      "checkpoint": "95da84d4f3f2fe06c24f297da7de3ac0e6fd5f7268fd2ba01e7085c3c48d5da1"
     },
     "version": "1.30.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://code.visualstudio.com/"
+    "web": "https://code.visualstudio.com/",
+    "postflight": null
   }
 }

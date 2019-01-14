@@ -6,13 +6,14 @@
     "download": "https://downloads.vivaldi.com/stable/Vivaldi.2.2.1388.37.dmg",
     "sha256": "27ef51dfb38c2a8822d337a821a3a493c5c846e4b5f336a0ffd71aeadd957e71",
     "appcast": {
-        "url": "https://update.vivaldi.com/update/1.0/public/mac/appcast.xml",
-        "checkpoint": "e1e167ae00840da0ed695a8f207a11ceba4ec62abb43f982145ab86865268e2e"
+      "url": "https://update.vivaldi.com/update/1.0/public/mac/appcast.xml",
+      "checkpoint": "e1e167ae00840da0ed695a8f207a11ceba4ec62abb43f982145ab86865268e2e"
     },
     "version": "2.2.1388.37",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://vivaldi.com/"
+    "web": "https://vivaldi.com/",
+    "postflight": null
   }
 }

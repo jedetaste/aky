@@ -6,13 +6,14 @@
     "download": "https://download.zotero.org/client/release/5.0.60/Zotero-5.0.60.dmg",
     "sha256": "8a62c4e73abeae1bb552c522fd51be31ce6f490d2657a8317faf1255e654c07e",
     "appcast": {
-        "url": "https://github.com/zotero/zotero/releases.atom",
-        "checkpoint": "a7e136d14317970fd9b01c427782e61036703a0e3d7263ea5690b4738a5a986e"
+      "url": "https://github.com/zotero/zotero/releases.atom",
+      "checkpoint": "a7e136d14317970fd9b01c427782e61036703a0e3d7263ea5690b4738a5a986e"
     },
     "version": "5.0.60",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.zotero.org/"
+    "web": "https://www.zotero.org/",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.1-OSX-Universal.dmg",
     "sha256": "598da54e99faa77e1427fcb8597bf89c34993a2d45d3b35dcb85fa27223915a8",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.19.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.mendeley.com/"
+    "web": "https://www.mendeley.com/",
+    "postflight": null
   }
 }

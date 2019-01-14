@@ -6,13 +6,14 @@
     "download": "https://sveinbjorn.org/files/software/sloth/sloth-2.6.zip",
     "sha256": "709eb4778bcde615f23e77d3914ced79670716619414dc768d10b15968a98acc",
     "appcast": {
-        "url": "https://sveinbjorn.org/files/appcasts/SlothAppcast.xml",
-        "checkpoint": "d895e0906d8a0a104fe865bb68763e469ce0488f0962004ad981b2f07f06b29f"
+      "url": "https://sveinbjorn.org/files/appcasts/SlothAppcast.xml",
+      "checkpoint": "d895e0906d8a0a104fe865bb68763e469ce0488f0962004ad981b2f07f06b29f"
     },
     "version": "2.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://sveinbjorn.org/sloth"
+    "web": "https://sveinbjorn.org/sloth",
+    "postflight": null
   }
 }

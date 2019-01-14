@@ -6,13 +6,14 @@
     "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2018-12/R/eclipse-cpp-2018-12-R-macosx-cocoa-x86_64.dmg&r=1",
     "sha256": "3d8e947d9c464c12d24cb9c1ccc2fe2e46e0227bb091129427f64224df2e9542",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "4.10.0",
     "build": "4.10.0.I20181206-0815",
     "dir": "/Applications/Eclipse CPP",
     "symlink": null,
-    "web": "https://eclipse.org/"
+    "web": "https://eclipse.org/",
+    "postflight": null
   }
 }

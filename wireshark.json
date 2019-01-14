@@ -6,13 +6,14 @@
     "download": "https://www.wireshark.org/download/osx/Wireshark%202.6.6%20Intel%2064.dmg",
     "sha256": "71920bf98e2867703759b0c98395480f88dee1c332efd3f2bc6a91eaec75b0a3",
     "appcast": {
-        "url": "https://www.wireshark.org/download/osx/",
-        "checkpoint": "96f3d1575053d2894c7140525dc2e279675eab5d006820a72d618a64e8e2ffd5"
+      "url": "https://www.wireshark.org/download/osx/",
+      "checkpoint": "96f3d1575053d2894c7140525dc2e279675eab5d006820a72d618a64e8e2ffd5"
     },
     "version": "2.6.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.wireshark.org/"
+    "web": "https://www.wireshark.org/",
+    "postflight": null
   }
 }

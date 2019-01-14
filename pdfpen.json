@@ -13,6 +13,7 @@
     "build": "1020.14",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://smilesoftware.com/PDFpen"
+    "web": "https://smilesoftware.com/PDFpen",
+    "postflight": null
   }
 }

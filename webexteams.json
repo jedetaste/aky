@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.webex.com/"
+    "web": "https://www.webex.com/",
+    "postflight": null
   }
 }

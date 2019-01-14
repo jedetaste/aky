@@ -6,13 +6,14 @@
     "download": "https://s3.amazonaws.com/DTWebsiteSupport/download/freeware/easyfind/4.9.3/EasyFind.app.zip",
     "sha256": "eb57b21fa28a84116072e80a4c19b0340d5879f407e9f16bf606760b19e647ed",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "4.9.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.devontechnologies.com/download/products.html"
+    "web": "https://www.devontechnologies.com/download/products.html",
+    "postflight": null
   }
 }

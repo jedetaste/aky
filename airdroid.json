@@ -6,13 +6,14 @@
     "download": "http://dl.airdroid.com/AirDroid_Desktop_Client_3.6.4.0.dmg",
     "sha256": "ff8326016e22f89016bbcec84991ff3152a0495ef12a520b6442802286e7d892",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.6.4.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.airdroid.com/"
+    "web": "https://www.airdroid.com/",
+    "postflight": null
   }
 }

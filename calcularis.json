@@ -6,13 +6,14 @@
     "download": "https://files.dybuster.com/downloads/download-calcularis-de/Calcularis-de.pkg",
     "sha256": "7f72176a9896d129e9d317494fb7f7525a6c281641a26005673cf6c3caf78b5a",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.0",
     "build": null,
     "dir": "/Applications/Calcularis",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Mathematik",
-    "web": "https://dybuster.com/calcularis"
+    "web": "https://dybuster.com/calcularis",
+    "postflight": null
   }
 }

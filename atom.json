@@ -6,13 +6,14 @@
     "download": "https://github.com/atom/atom/releases/download/v1.34.0/atom-mac.zip",
     "sha256": "9fd19bd6b6f2ceaae0e5e4004f617444ae226cb896f701a151018feb07d5857a",
     "appcast": {
-        "url": "https://github.com/atom/atom/releases.atom",
-        "checkpoint": "ff0eff0fc06c9d032c818611c165f57c1d23366d4f9c9d69332a3ec3e5b66677"
+      "url": "https://github.com/atom/atom/releases.atom",
+      "checkpoint": "ff0eff0fc06c9d032c818611c165f57c1d23366d4f9c9d69332a3ec3e5b66677"
     },
     "version": "1.34.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://atom.io/"
+    "web": "https://atom.io/",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://download-cdn.resilio.com/2.6.2/osx/Resilio-Sync.dmg",
     "sha256": "cac9f20c6e9e0553b139676687220343fab601220ed20bf11ac627d0f8a62087",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.resilio.com/"
+    "web": "https://www.resilio.com/",
+    "postflight": null
   }
 }

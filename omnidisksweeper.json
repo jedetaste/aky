@@ -6,13 +6,14 @@
     "download": "https://www.omnigroup.com/download/latest/OmniDiskSweeper",
     "sha256": "f06b150239e5c5ee27615b1e8bd6ec2c87c61c4cda575547f124ff84986b6f37",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.11",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.omnigroup.com/more/"
+    "web": "https://www.omnigroup.com/more/",
+    "postflight": null
   }
 }

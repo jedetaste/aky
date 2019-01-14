@@ -6,13 +6,14 @@
     "download": "https://www.tipp10.com/en/download/tipp10_mac_v2-1-0.dmg",
     "sha256": "023f9545b78a7ca35eea3b23597b6380a4f4d42cc75ace72dcadf645be9edb93",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": null,
     "build": "2.1.0",
     "dir": "/Applications",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Tastaturschreiben",
-    "web": "https://www.tipp10.com/"
+    "web": "https://www.tipp10.com/",
+    "postflight": null
   }
 }

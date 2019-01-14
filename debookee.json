@@ -6,13 +6,14 @@
     "download": "https://www.iwaxx.com/debookee/debookee.zip",
     "sha256": "e87cc30b09ac069acd3f41b6b73cfbb446afeb89024298d2a62d7f8cb9c8feed",
     "appcast": {
-        "url": "https://www.iwaxx.com/debookee/appcast.php",
-        "checkpoint": "3bc2446d85facdc87c1e5a2d7a1fa73ace24dce02d89076fa8f88f0ce509e08a"
+      "url": "https://www.iwaxx.com/debookee/appcast.php",
+      "checkpoint": "3bc2446d85facdc87c1e5a2d7a1fa73ace24dce02d89076fa8f88f0ce509e08a"
     },
     "version": "6.3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://debookee.com/"
+    "web": "https://debookee.com/",
+    "postflight": null
   }
 }

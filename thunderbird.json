@@ -6,13 +6,14 @@
     "download": "https://ftp.mozilla.org/pub/thunderbird/releases/60.4.0/mac/de/Thunderbird%2060.4.0.dmg",
     "sha256": "531bd1c72efc2709de8888820e0d0dc9b082902d552120b6bd8053912fc6af6a",
     "appcast": {
-        "url": "https://www.thunderbird.net/de/thunderbird/releases/",
-        "checkpoint": "cc8b88c1fb71f4630c3c435b378ab68b563391a2ccb0ff2e20be9d44f588598c"
+      "url": "https://www.thunderbird.net/de/thunderbird/releases/",
+      "checkpoint": "cc8b88c1fb71f4630c3c435b378ab68b563391a2ccb0ff2e20be9d44f588598c"
     },
     "version": "60.4.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.mozilla.org/thunderbird/"
+    "web": "https://www.mozilla.org/thunderbird/",
+    "postflight": null
   }
 }

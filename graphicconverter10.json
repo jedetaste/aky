@@ -6,13 +6,14 @@
     "download": "https://www.lemkesoft.info/files/graphicconverter/gc10_build3273.zip",
     "sha256": "2475427c01c220e65c504b86d0414cfca1f4e16db14981f58d96503d583d17bc",
     "appcast": {
-        "url": "https://www.lemkesoft.info/sparkle/graphicconverter/graphicconverter10.xml",
-        "checkpoint": "0e605a66f37c55fe3a163ed17443712a7c6a3a927878fa2ca087592069c9a431"
+      "url": "https://www.lemkesoft.info/sparkle/graphicconverter/graphicconverter10.xml",
+      "checkpoint": "0e605a66f37c55fe3a163ed17443712a7c6a3a927878fa2ca087592069c9a431"
     },
     "version": "10.6.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.lemkesoft.de/products/graphicconverter/"
+    "web": "http://www.lemkesoft.de/products/graphicconverter/",
+    "postflight": null
   }
 }

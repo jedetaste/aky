@@ -6,13 +6,14 @@
     "download": "https://download.nextcloud.com/desktop/releases/Mac/Installer/Nextcloud-2.5.1.20181204.pkg",
     "sha256": "503bbb2ff5a0aae78f272e694b03b2e9829c3c615baacd3bf024d5987bcda8f9",
     "appcast": {
-        "url": "https://github.com/nextcloud/client_theming/releases.atom",
-        "checkpoint": "c10bf15f256f51304ad61064817a2357c014c03c4d11cc5f324586e0244e68a3"
+      "url": "https://github.com/nextcloud/client_theming/releases.atom",
+      "checkpoint": "c10bf15f256f51304ad61064817a2357c014c03c4d11cc5f324586e0244e68a3"
     },
     "version": null,
     "build": "2.5.1.20181204",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://nextcloud.com/"
+    "web": "https://nextcloud.com/",
+    "postflight": null
   }
 }

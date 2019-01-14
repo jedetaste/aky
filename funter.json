@@ -6,13 +6,14 @@
     "download": "https://nektony.com/promo/funter/update/update_4.4(83).zip",
     "sha256": "a8d0182281e6e9fb4fb8d62e957ab600d3937da4e48f229a8ff4678f3be4f088",
     "appcast": {
-        "url": "https://nektony.com/promo/funter/update/update.xml",
-        "checkpoint": "6b1edd00299acac7cd289b2f2d43dbf3d674a83f8d8f769159cb68b66048e4b8"
+      "url": "https://nektony.com/promo/funter/update/update.xml",
+      "checkpoint": "6b1edd00299acac7cd289b2f2d43dbf3d674a83f8d8f769159cb68b66048e4b8"
     },
     "version": "4.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://nektony.com/products/funter"
+    "web": "https://nektony.com/products/funter",
+    "postflight": null
   }
 }

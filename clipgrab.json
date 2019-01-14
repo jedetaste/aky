@@ -6,13 +6,14 @@
     "download": "https://download.clipgrab.org/ClipGrab-3.7.2.dmg",
     "sha256": "fb9a6c2ad6ea68dba6f4e5d192a7c6e0c02ea9d4d09d6c9fc7683647db934614",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": null,
     "build": "3.7.2",
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://clipgrab.org/"
+    "web": "https://clipgrab.org/",
+    "postflight": null
   }
 }

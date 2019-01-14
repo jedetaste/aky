@@ -6,13 +6,14 @@
     "download": "https://github.com/google/restor/releases/download/1.8/restor-1.8.dmg",
     "sha256": "f711b57b544f3722d84d63f8d3038aeec2c6f6e45b44218f6f6bc398d75ee239",
     "appcast": {
-        "url": "https://github.com/google/restor/releases.atom",
-        "checkpoint": "cb86cc797990bec3b10bdf5da23992329be80d214a504b462de863fe1e3cc76c"
+      "url": "https://github.com/google/restor/releases.atom",
+      "checkpoint": "cb86cc797990bec3b10bdf5da23992329be80d214a504b462de863fe1e3cc76c"
     },
     "version": "1.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/google/restor"
+    "web": "https://github.com/google/restor",
+    "postflight": null
   }
 }

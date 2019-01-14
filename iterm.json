@@ -6,13 +6,14 @@
     "download": "https://iterm2.com/downloads/stable/iTerm2-3_2_6.zip",
     "sha256": "dbc44180c2de9c741fdd8f96750f3502d79aa1c53ed884538648bdb558abd884",
     "appcast": {
-        "url": "https://iterm2.com/appcasts/final.xml",
-        "checkpoint": "7cdcad9fd2d5a77bfbf610de4fd661725babd7fccab0adb5a6e49d9ad9f7e676"
+      "url": "https://iterm2.com/appcasts/final.xml",
+      "checkpoint": "7cdcad9fd2d5a77bfbf610de4fd661725babd7fccab0adb5a6e49d9ad9f7e676"
     },
     "version": "3.2.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.iterm2.com/"
+    "web": "https://www.iterm2.com/",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://s3.amazonaws.com/Airflow/Download/Airflow%202.3.12.zip",
     "sha256": "bfcd3f0e11afc35adc1910324adc28289769127c41ae32032d75449bcde0b844",
     "appcast": {
-        "url": "https://s3.amazonaws.com/Airflow/Updates/appcast-osx.xml",
-        "checkpoint": "3949eed39f0ce5eded1e6e8f25bab56d944c986c4ac240ffd4701f35b469f2bc"
+      "url": "https://s3.amazonaws.com/Airflow/Updates/appcast-osx.xml",
+      "checkpoint": "3949eed39f0ce5eded1e6e8f25bab56d944c986c4ac240ffd4701f35b469f2bc"
     },
     "version": "2.3.12",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://airflowapp.com/"
+    "web": "https://airflowapp.com/",
+    "postflight": null
   }
 }

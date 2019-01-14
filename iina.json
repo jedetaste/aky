@@ -6,13 +6,14 @@
     "download": "https://dl.iina.io/IINA.v1.0.0.dmg",
     "sha256": "1af6892fa41b95dd5c0d42be0cfb2dccd52522f716da0b8951a8e87f8e8d4f91",
     "appcast": {
-        "url": "https://www.iina.io/appcast.xml",
-        "checkpoint": "0236b2334b56fec5ee1950c7b4e4cbd3e09b9c9b887f58c3a59b658f27ef2f5f"
+      "url": "https://www.iina.io/appcast.xml",
+      "checkpoint": "0236b2334b56fec5ee1950c7b4e4cbd3e09b9c9b887f58c3a59b658f27ef2f5f"
     },
     "version": "1.0.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://lhc70000.github.io/iina/"
+    "web": "https://lhc70000.github.io/iina/",
+    "postflight": null
   }
 }

@@ -6,13 +6,14 @@
     "download": "https://github.com/Clipy/Clipy/releases/download/1.2.1/Clipy_1.2.1.dmg",
     "sha256": "dfbb66ce3135fbaa2d64eaeea99a63e63485e322c9746045a1098b1696a1ecd5",
     "appcast": {
-        "url": "https://github.com/Clipy/Clipy/releases.atom",
-        "checkpoint": "76ed6d7d0821b6bdbd57ada7956d2b2810ea22ae270a67d657899ab39c2d0cee"
+      "url": "https://github.com/Clipy/Clipy/releases.atom",
+      "checkpoint": "76ed6d7d0821b6bdbd57ada7956d2b2810ea22ae270a67d657899ab39c2d0cee"
     },
     "version": "1.2.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://clipy-app.com/"
+    "web": "https://clipy-app.com/",
+    "postflight": null
   }
 }

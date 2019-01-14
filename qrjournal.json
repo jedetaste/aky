@@ -6,13 +6,14 @@
     "download": "https://www.joshjacob.com/mac-development/QRJournal1.7.1.dmg",
     "sha256": "a6b83e99dceddaf5f8183abbcaa56fe93755f74f21457eea878cd3e68ac9144e",
     "appcast": {
-        "url": "http://www.joshjacob.com/mac-development/qrjournal.php#changelog",
-        "checkpoint": "6c153ce789657b5b9f9c45c79b62f6c4285a3bf46cdd2cb43267a3675e6badcd"
+      "url": "http://www.joshjacob.com/mac-development/qrjournal.php#changelog",
+      "checkpoint": "6c153ce789657b5b9f9c45c79b62f6c4285a3bf46cdd2cb43267a3675e6badcd"
     },
     "version": "1.7.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.joshjacob.com/mac-development/qrjournal.php"
+    "web": "http://www.joshjacob.com/mac-development/qrjournal.php",
+    "postflight": null
   }
 }
