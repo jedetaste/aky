@@ -14,6 +14,6 @@
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.virtualbox.org/",
-    "postflight": "for bin in VirtualBox VirtualBoxVM VBoxNetAdpCtl VBoxNetDHCP VBoxNetNAT VBoxHeadless; do /bin/chmod u+s '/Applications/VirtualBox.app/Contents/MacOS/${bin}'; done"
+    "postflight": "for bin in VBoxNetAdpCtl VBoxHeadless VirtualBoxVM VBoxNetDHCP VBoxNetNAT; do /bin/chmod u+s '/Applications/VirtualBox.app/Contents/MacOS/${bin}'; done"
   }
 }
