@@ -6,8 +6,8 @@
     "download": "http://scrivener.s3.amazonaws.com/Scapple.dmg",
     "sha256": "e502c85f31d4bf65fa06e7ac24d242991021475fa8d5a5e0506c77b7d4f9d56d",
     "appcast": {
-      "url": "https://www.literatureandlatte.com/downloads/scapple/scapple.xml",
-      "checkpoint": "0ce6107f339be3fa2477e3b9af97b01e990a7a83e896e6795b2e9ebf70951f03"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.3.2",
     "build": null,
