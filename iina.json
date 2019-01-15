@@ -3,17 +3,17 @@
     "id": "iina",
     "bundle": "IINA.app",
     "identifier": "com.colliderli.iina",
-    "download": "https://dl.iina.io/IINA.v1.0.0.dmg",
-    "sha256": "1af6892fa41b95dd5c0d42be0cfb2dccd52522f716da0b8951a8e87f8e8d4f91",
+    "download": "https://dl-portal.iina.io/IINA.v1.0.1.dmg",
+    "sha256": "d060069db88fe50e8184f6fba61e35dd6c06f8e043cf162f5fb88a4d036e1c23",
     "appcast": {
       "url": "https://www.iina.io/appcast.xml",
-      "checkpoint": "0236b2334b56fec5ee1950c7b4e4cbd3e09b9c9b887f58c3a59b658f27ef2f5f"
+      "checkpoint": "b57592e0da4622361ea87dc1f833239c35b7e1434eb3e2a922d90e18e9578adb"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://lhc70000.github.io/iina/",
+    "web": "https://iina.io/",
     "postflight": null
   }
 }
