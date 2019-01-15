@@ -3,14 +3,14 @@
     "id": "docker",
     "bundle": "Docker.app",
     "identifier": "com.docker.docker",
-    "download": "https://download.docker.com/mac/stable/29211/Docker.dmg",
-    "sha256": "5343fa169b9f7bc6f41f91e5797d148a21d2c0fc1d5c2da80d7d93ed6b3bd1ff",
+    "download": "https://download.docker.com/mac/stable/30215/Docker.dmg",
+    "sha256": "a06307d8da9c3778b183786cb87037ed3b7226d36ebc978fd40aa90851c0a04e",
     "appcast": {
       "url": "https://download.docker.com/mac/stable/appcast.xml",
-      "checkpoint": "2d5c24282175b1f41889525fe5168af506793fbef2970f32525e9a66b3600f02"
+      "checkpoint": "a7351b715852f74ca027d0da2eedc9d7236cb3fc90edf13a260bdc64b8feaabc"
     },
     "version": null,
-    "build": "29211",
+    "build": "30215",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.docker.com/community-edition",
