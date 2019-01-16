@@ -3,13 +3,13 @@
     "id": "seashore",
     "bundle": "Seashore.app",
     "identifier": "net.sourceforge.seashore",
-    "download": "https://github.com/robaho/seashore/releases/download/v2.1.9/seashore-bin-2.1.9.dmg",
-    "sha256": "9d8e2ed821845763a6fdb08aecda025de3bc2a660047130b0d25876d4014d542",
+    "download": "https://github.com/robaho/seashore/releases/download/v2.2.0/seashore-bin-2.2.0.dmg",
+    "sha256": "682821d05dd1f5fcf6c158ee5ce8b11e3970c4300bf93cd297c2c90b0c156cf5",
     "appcast": {
       "url": "https://github.com/robaho/seashore/releases.atom",
-      "checkpoint": "180c5c262b879056b4df9eadd7ab6e62c9abbc2c207c6620f888afa0a257c209"
+      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
-    "version": "2.1.9",
+    "version": "2.2.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
