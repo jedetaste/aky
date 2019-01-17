@@ -3,11 +3,11 @@
     "id": "devonthinkprooffice",
     "bundle": [ "DEVONthink Pro.app", "DEVONthink Pro Office.app" ],
     "identifier": "com.devon-technologies.thinkpro2",
-    "download": "https://s3.amazonaws.com/DTWebsiteSupport/download/devonthink/2.11.2/DEVONthink_Pro_Office.app.zip",
+    "download": "https://s3.amazonaws.com/DTWebsiteSupport/download/devonthink/2.11.2/DEVONthink_Pro_Office.dmg.zip",
     "sha256": "083ae8094656229c72ddf76278837832ff471ee9c8485351142522c4f9a3d224",
     "appcast": {
       "url": "https://www.devontechnologies.com/fileadmin/templates/filemaker/sparkle.php?product=300125739&format=xml",
-      "checkpoint": "8443f69ee92bd70b978b201f0228efedb972de4652c579bd7e460ad428a58ff5"
+      "checkpoint": "77cbaab6c4f77ac11ce1170f27b581a58714846f8b043304a0c9f48ca06717c8"
     },
     "version": "2.11.2",
     "build": null,
