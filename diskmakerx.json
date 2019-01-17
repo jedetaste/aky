@@ -1,10 +1,7 @@
 {
   "recipe": {
     "id": "diskmakerx",
-    "bundle": [
-      "DiskMaker X 8 for macOS Mojave.app",
-      "DiskMaker X.app"
-    ],
+    "bundle": [ "DiskMaker X 8 for macOS Mojave.app", "DiskMaker X.app" ],
     "identifier": "net.gete.diskmakerx",
     "download": "https://diskmakerx.com/downloads/DiskMaker_X_803.dmg",
     "sha256": "79b490dc829775450aafadeddd0afc58bdcef9c60fc82d9db1427c51b57e88a7",
