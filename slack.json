@@ -3,13 +3,13 @@
     "id": "slack",
     "bundle": "Slack.app",
     "identifier": "com.tinyspeck.slackmacgap",
-    "download": "https://downloads.slack-edge.com/mac_releases/Slack-3.3.3-macOS.zip",
-    "sha256": "8bcd7340c2ff52ee918e78a0705fe5f0f831fa1f8849ce6c374a60fa0d8279e5",
+    "download": "https://downloads.slack-edge.com/mac_releases/Slack-3.3.6.dmg",
+    "sha256": "36695abaf70e501dacd25cd9fa6f2a8a00e56baab2e3fa357baf75c1a8b88c52",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.3.3",
+    "version": "3.3.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
