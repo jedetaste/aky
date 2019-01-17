@@ -4,12 +4,12 @@
     "bundle": "Oxford Learners Bookshelf.app",
     "identifier": "com.oxfordlearnersbookshelf.ods",
     "download": "https://www.oxfordlearnersbookshelf.com/home/mac/download.html",
-    "sha256": "257d781347b1402950ef6a05a108e76f8a5ef49c6662e54cbf6776fd76612ce0",
+    "sha256": "bcf88378eecc201b3c7cf7f11ec991abd9f4e168cb11fd1ce0231618a26f1c0c",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.0.1",
+    "version": "5.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
