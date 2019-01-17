@@ -1,10 +1,7 @@
 {
   "recipe": {
     "id": "gimp",
-    "bundle": [
-      "GIMP-2.10.app",
-      "GIMP.app"
-    ],
+    "bundle": [ "GIMP-2.10.app", "GIMP.app" ],
     "identifier": "org.gnome.gimp",
     "download": "https://download.gimp.org/pub/gimp/v2.10/osx/gimp-2.10.8-x86_64-2.dmg",
     "sha256": "8ee527bfd5b4ac6a9b62dff3b0f0da6e4721b3dac208f29446cdeea6967d4f13",
