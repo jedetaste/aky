@@ -3,14 +3,14 @@
     "id": "vncviewer",
     "bundle": "VNC Viewer.app",
     "identifier": "com.realvnc.vncviewer",
-    "download": "https://www.realvnc.com/download/file/viewer.files/VNC-Viewer-6.18.907-MacOSX-x86_64.dmg",
-    "sha256": "7c37d9c2137bfe6a87019659a9f52cff0a008dd8881510381ecad2b258d30f73",
+    "download": "https://www.realvnc.com/download/file/viewer.files/VNC-Viewer-6.19.107-MacOSX-x86_64.dmg",
+    "sha256": "f17ce7e9aa21eeec88dfe9217800cc9cc2bba591b01df0ca9eec6244879cf9ee",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
     "version": null,
-    "build": "6.18.907.38355",
+    "build": "6.19.107.39927",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.realvnc.com/",
