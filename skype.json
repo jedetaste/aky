@@ -3,14 +3,14 @@
     "id": "skype",
     "bundle": "Skype.app",
     "identifier": "com.skype.skype",
-    "download": "https://download.skype.com/s4l/production/mac/Skype-8.34.0.78.zip",
-    "sha256": "47d1ec60d032d3712d76576b8709eeec28e10f85d1e4ac5d0ab9bc0f11d9db5c",
+    "download": "https://download.skype.com/s4l/production/mac/Skype-8.37.0.98.zip",
+    "sha256": "da3befcb65248bd9eacef269d4f9d369f1d55aaece9d8fe9f4e86db83604a761",
     "appcast": {
       "url": "https://get.skype.com/s4l-update?version=8.30.0.0&os=mac&ring=production&app=s4l",
       "checkpoint": "854fb08f0a73a3a3573fed2dcaf903eab638294792de6f58090bba4f07f48657"
     },
     "version": null,
-    "build": "8.34.0.78",
+    "build": "8.37.0.98",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.skype.com/",
