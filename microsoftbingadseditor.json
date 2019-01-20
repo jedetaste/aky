@@ -3,7 +3,7 @@
     "id": "microsoftbingadseditor",
     "bundle": "Microsoft Bing Ads Editor.app",
     "identifier": "Microsoft.AdvertisingDesktop.BingAdsEditor",
-    "download": "https://advertise.bingads.microsoft.com/solutions/tools/bing-ads-editor",
+    "download": "https://msbingadseditor.blob.core.windows.net/production-mac/a/MicrosoftBingAdsEditor.dmg",
     "sha256": null,
     "appcast": {
       "url": null,
@@ -13,7 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://advertise.bingads.microsoft.com/en-us/solutions/tools/bing-ads-editor",
+    "web": "https://advertise.bingads.microsoft.com/solutions/tools/bing-ads-editor",
     "postflight": null
   }
 }
