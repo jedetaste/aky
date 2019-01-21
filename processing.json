@@ -3,13 +3,13 @@
     "id": "processing",
     "bundle": "Processing.app",
     "identifier": "org.processing.app",
-    "download": "http://download.processing.org/processing-3.4-macosx.zip",
-    "sha256": "242c1cf35395b64c60cce3a1410d5274eac8f1d8865a6f295fba68c74d81e763",
+    "download": "http://download.processing.org/processing-3.5-macosx.zip",
+    "sha256": "3d2f4bb8ae05615abd626173ebb26edec19d025c6bbbdd72b96420713f6a88e1",
     "appcast": {
       "url": "https://github.com/processing/processing/releases.atom",
-      "checkpoint": "efe1d7ebc38db100be9d2db5160b7098e85ccdc545190e59e472d608819b7a02"
+      "checkpoint": "ce20b9e6fd2f770d06e41e37fe48ee9c8528129e124ebf1733ec0fa2af260fb8"
     },
-    "version": "3.4",
+    "version": "3.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
