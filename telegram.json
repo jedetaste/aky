@@ -3,14 +3,14 @@
     "id": "telegram",
     "bundle": "Telegram.app",
     "identifier": "ru.keepcoder.Telegram",
-    "download": "https://osx.telegram.org/updates/Telegram-4.8-151476.app.zip",
-    "sha256": "3fa89451bc3095c894aadc9ed1e3a58dafe091788c2544d5e4458947714e2ccf",
+    "download": "https://osx.telegram.org/updates/Telegram-4.9-155145.app.zip",
+    "sha256": "97be22c4b89afe8f73d865e1f91d0efcb4e7d5b6547521840a575a5f46eca825",
     "appcast": {
       "url": "https://osx.telegram.org/updates/versions.xml",
-      "checkpoint": "02965438f55c5fefbc7cd7368d60de7efe8bd6cceac92f735f9f858e441b404c"
+      "checkpoint": "6b2ad7ed32cf9ded96f535ce28dcfee7cad60c8619a940a9059c057da8498830"
     },
-    "version": "4.8",
-    "build": "151476",
+    "version": "4.9",
+    "build": "155145",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://macos.telegram.org/",
