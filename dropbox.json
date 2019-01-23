@@ -3,13 +3,13 @@
     "id": "dropbox",
     "bundle": "Dropbox.app",
     "identifier": "com.getdropbox.dropbox",
-    "download": "https://www.dropbox.com/download?plat=mac&full=1",
-    "sha256": null,
+    "download": "https://clientupdates.dropboxstatic.com/dbx-releng/client/Dropbox%2065.4.177.dmg",
+    "sha256": "6ab10e43af4087026b7d44ebf4767c6904ea5b109fc36f99ede540ef55a70d1a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "63.4.107",
+    "version": "65.4.177",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
