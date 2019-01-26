@@ -4,12 +4,12 @@
     "bundle": "Android File Transfer.app",
     "identifier": "com.google.android.mtpviewer",
     "download": "https://dl.google.com/dl/androidjumper/mtp/current/androidfiletransfer.dmg",
-    "sha256": "9ac944cd72542d35b3e480257ed6e5eb9ff07f0cc5ffba349fbad33d523da529",
+    "sha256": "b9249399a351e8146358ff1ddb546c68a63134b780be795ae64e0a4c2258bc61",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.0.11",
+    "version": "1.0.12",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
