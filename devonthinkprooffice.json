@@ -6,7 +6,7 @@
     "download": "https://s3.amazonaws.com/DTWebsiteSupport/download/devonthink/2.11.2/DEVONthink_Pro_Office.app.zip",
     "sha256": "083ae8094656229c72ddf76278837832ff471ee9c8485351142522c4f9a3d224",
     "appcast": {
-      "url": "https://www.devontechnologies.com/fileadmin/templates/filemaker/sparkle.php?product=300125739&format=xml",
+      "url": "https://www.devontechnologies.com/fileadmin/templates/filemaker/sparkle.php?product=300125739&format=html",
       "checkpoint": "72ae40603a75160a23f14f8e26afe3d6251c610f2e3bd574fa03ffb48f1542c0"
     },
     "version": "2.11.2",
