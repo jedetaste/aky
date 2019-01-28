@@ -3,7 +3,7 @@
     "id": "opera",
     "bundle": "Opera.app",
     "identifier": "com.operasoftware.Opera",
-    "download": "https://download3.operacdn.com/pub/opera/desktop/58.0.3135.47/mac/Opera_58.0.3135.47_Setup.dmg",
+    "download": "https://get.geo.opera.com/pub/opera/desktop/58.0.3135.47/mac/Opera_58.0.3135.47_Setup.dmg",
     "sha256": "7a49405d58b59e985c965cb72c945b5d6ce4f7e631d962cebc7825ee1e55ab0e",
     "appcast": {
       "url": null,
