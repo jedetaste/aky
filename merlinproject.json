@@ -6,8 +6,8 @@
     "download": "http://www.projectwizards.net/downloads/MerlinProject.zip",
     "sha256": "ccb278feb10ea9098ca18b98f64864712b7e3a24972d6133cd5df310de4ee658",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.projectwizards.net/en/support/release-notes/merlin-project-pwstore/xml",
+      "checkpoint": "6d7977d92e7d2b4bc6a5571f935b948fb444f98a587717ec7a340f695c0f6d54"
     },
     "version": "5.0.10",
     "build": null,
