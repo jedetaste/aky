@@ -6,8 +6,8 @@
     "download": "https://statics.teams.microsoft.com/production-osx/1.1.00.31953/Teams_osx.pkg",
     "sha256": "29d1755ba93e668ab04df2f0ebfbcb03eba5e180bc724aa881e91515b3237a8f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://teams.microsoft.com/downloads/DesktopUrl?env=production&plat=osx",
+      "checkpoint": "779725f8ca4d2e43090876529be106f8b3f0310e07c721d51c4e72f6f25261d2"
     },
     "version": "1.00.131953",
     "build": null,
