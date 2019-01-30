@@ -4,12 +4,12 @@
     "bundle": "Google Chrome.app",
     "identifier": "com.google.Chrome",
     "download": "https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg",
-    "sha256": "ddb68d2976adcc6f1bcf005ab21a395e5028352c76ff7e700e10e1e57f8cac95",
+    "sha256": "3748271fda93bc85ca1dafc75e310730a6460adbf7abab37d2136587119eae1f",
     "appcast": {
       "url": "https://omahaproxy.appspot.com/history?os=mac;channel=stable",
-      "checkpoint": "0e711bacd370c963723a9cc539d5c76a4a1bd479faeb2f05bb58586bf0ecd590"
+      "checkpoint": "45fdc244be84e4707fea87ca48ad9bf2c9d1b4942602d3a92f1884070bf2ca0a"
     },
-    "version": "71.0.3578.98",
+    "version": "72.0.3626.81",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
