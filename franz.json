@@ -3,13 +3,13 @@
     "id": "franz",
     "bundle": "Franz.app",
     "identifier": "com.meetfranz.franz",
-    "download": "https://github.com/meetfranz/franz/releases/download/v5.0.0-beta.23/Franz-5.0.0-beta.23-mac.zip",
-    "sha256": "9faa56dc83720c6a3f9f3aa3c38889439135e3d9a823a40176ddc249ea0e6b17",
+    "download": "https://github.com/meetfranz/franz/releases/download/v5.0.0-beta.24/Franz-5.0.0-beta.24-mac.zip",
+    "sha256": "20c7d48bf001c8451ae4730a58465aa288587043dfce2d2bf262a0ec0e3df900",
     "appcast": {
       "url": "https://github.com/meetfranz/franz/releases.atom",
-      "checkpoint": "4e74835039033245e588cb912efb3a1d1f2ee30afc1ec5428a4e0c8dd8ea5964"
+      "checkpoint": "1103c821715c188d82376bc3fb1b7fa959b411fa62e98bfa8d0edcc264f47c64"
     },
-    "version": "5.0.0-beta.23",
+    "version": "5.0.0-beta.24",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
