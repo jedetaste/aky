@@ -3,13 +3,13 @@
     "id": "transmit",
     "bundle": "Transmit.app",
     "identifier": "com.panic.Transmit",
-    "download": "https://download.panic.com/transmit/Transmit%205.2.2.zip",
-    "sha256": "95cbb246e160ed55fa1c5e33e1a764adec10e85116f925dec677604685a8d164",
+    "download": "https://download.panic.com/transmit/Transmit%205.2.3.zip",
+    "sha256": "38560b34de23a73ccf21c32f24dc92eba47928450e53b47739e74c1dd8a49809",
     "appcast": {
       "url": "https://library.panic.com/releasenotes/transmit5/",
-      "checkpoint": "91538a24c759072c07793b08260156c6dc5e6ba4b54b97ebe68f3cdc2b02bcf9"
+      "checkpoint": "bf73ec20703a18a98eed023674b43a44f9d3bfe46910453c2c608e4275568926"
     },
-    "version": "5.2.2",
+    "version": "5.2.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
