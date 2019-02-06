@@ -3,13 +3,13 @@
     "id": "pascom",
     "bundle": "pascom Client.app",
     "identifier": "net.pascom.pascomClient",
-    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-45.R93_9b6cae3.dmg",
-    "sha256": "ecdb66e7779ac5394c5b35ac9d5f2303610393756ca0fa8b2c6bb57fee4f50bc",
+    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-46.R152_f23040b.dmg",
+    "sha256": "d54b3417289981008c0946a0f3125c3bb0ce3cac057a41116d13d78e1af1b76a",
     "appcast": {
       "url": "https://www.pascom.net/doc/en/release-notes/",
-      "checkpoint": "bceb7f2e505edb7be8374e4bd3d3a8e1f327660b23c6b109951bbd8b38395f12"
+      "checkpoint": "9d7eaca7ef32652e5fbe96e6f93dea2bff39117bd86cfb054fb9e516478719f4"
     },
-    "version": "45.R93_9b6cae3",
+    "version": "46.R152_f23040b",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
