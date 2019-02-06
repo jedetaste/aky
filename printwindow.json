@@ -4,12 +4,12 @@
     "bundle": "Print Window.app",
     "identifier": "com.searchwaresolutions.PrintWindow",
     "download": "http://printwindowapp.com/software/printwindow.dmg",
-    "sha256": "3659ec41b7495cb4f35196b84a7809d462c48eac640283277c9746dc0c8b22ad",
+    "sha256": "4d677c837329b2585d085a7091b79b1b03f3ffd99bf2f87d8eb73282b18d9d01",
     "appcast": {
       "url": "http://printwindowapp.com/changelog/default.html",
-      "checkpoint": "3e67cb28310145cc8a3acb462dc4428b4dc0f5e303af99ab38851b23827d49bc"
+      "checkpoint": "f544963ce4d02a3062cdb520869126fa31cfab97cd1540f3ac12eea3ea4fe216"
     },
-    "version": "5.3.1",
+    "version": "5.4.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
