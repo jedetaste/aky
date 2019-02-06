@@ -3,11 +3,11 @@
     "id": "whatsapp",
     "bundle": "WhatsApp.app",
     "identifier": "WhatsApp",
-    "download": "https://scontent-frt3-2.xx.fbcdn.net/v/t39.16592-6/10000000_317883342187795_3712701281215709184_n.zip/release-0.3.1847.zip?_nc_cat=103&_nc_ht=scontent-frt3-2.xx&oh=2b6ec16fd03b125e4a53195e48fd9af4&oe=5CBF52A7",
+    "download": "https://web.whatsapp.com/desktop/mac/files/release-0.3.2041.zip",
     "sha256": "b8432b55476f6f367dcda1869512a004c0a32925e88e236de19f56f72854697a",
     "appcast": {
       "url": "https://web.whatsapp.com/desktop/mac/releases?platform=darwin&arch=x64",
-      "checkpoint": "cf8df64a7fe15483a7b2f5aec86f235fa9fcf5b30d304c5785d47b144873906a"
+      "checkpoint": "24dd3f388bd5967c77d6f4ec3b4fd08b6b9e191a7e8a1647a46c4bd6f4254afe"
     },
     "version": "0.3.1847",
     "build": null,
