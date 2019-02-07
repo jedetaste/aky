@@ -3,13 +3,13 @@
     "id": "razorsql",
     "bundle": "RazorSQL.app",
     "identifier": "com.razorsql.RazorSQL",
-    "download": "http://downloads.razorsql.com/downloads/8_2_3/razorsql8_2_3_x64.dmg",
-    "sha256": "ec215b28283f4ef7d542b3d6680a71c2be4bc38d036c93a43a0b85791ebe6380",
+    "download": "http://downloads.razorsql.com/downloads/8_2_4/razorsql8_2_4_x64.dmg",
+    "sha256": "86827cc562800f48e38d13fcb9994c952fbed1036a07dca4423af97fda8bf8a0",
     "appcast": {
       "url": "https://razorsql.com/updates.html",
-      "checkpoint": "e2f1b1b306bf826adb2e2382963356058677c9b3b34bca3eea51439065401a4b"
+      "checkpoint": "e8d5f923b900a6a921cf38158cb25d45f965dd7c14c94cf1ee7864902b1ebd07"
     },
-    "version": "8.2.3",
+    "version": "8.2.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
