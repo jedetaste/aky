@@ -3,13 +3,13 @@
     "id": "bettertouchtool",
     "bundle": "BetterTouchTool.app",
     "identifier": "com.hegenberg.BetterTouchTool",
-    "download": "https://bettertouchtool.net/releases/btt2.710.zip",
-    "sha256": "3e553400468a0c48448f867a5c885c5462d909255ddaddece2beecc70b88f36e",
+    "download": "https://bettertouchtool.net/releases/btt2.712.zip",
+    "sha256": "2d6fbf7e0820a9f0ae39d41aa310975cd6996a9d8015a7da4b6ff6dd70430950",
     "appcast": {
       "url": "https://bettertouchtool.net/releases/",
-      "checkpoint": "a5e809564e30f87dcccffcf18b30d49dfe46b3b67680dc62e9b9b0cbea023038"
+      "checkpoint": "0886e3bca52f869b6b439c127e009d56a1d8c755dedd92fbf0bebd24a2873d86"
     },
-    "version": "2.710",
+    "version": "2.712",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
