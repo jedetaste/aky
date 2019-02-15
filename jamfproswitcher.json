@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "jamfproswitcher",
+    "bundle": "Jamf Pro Switcher.app",
+    "identifier": "com.ninxsoft.jamfproswitcher",
+    "download": "https://github.com/ninxsoft/JamfProSwitcher/releases/download/1.0/Jamf.Pro.Switcher.1.0.dmg",
+    "sha256": "2ef6a9f8350ac6701000dc777dfbd4398a854836934bdcdf61014cbf8854db66",
+    "appcast": {
+      "url": "https://github.com/ninxsoft/JamfProSwitcher/releases.atom",
+      "checkpoint": "d9d92705497985f866a7c90f74293a905274e7466a343651a0684a9bb6b6ad24"
+    },
+    "version": "1.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/ninxsoft/JamfProSwitcher"
+  }
+}
