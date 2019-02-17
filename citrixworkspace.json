@@ -3,13 +3,13 @@
     "id": "citrixworkspace",
     "bundle": "Citrix Workspace.app",
     "identifier": "com.citrix.receiver.nomas",
-    "download": "http://downloadplugins.citrix.com.edgesuite.net/Mac/CitrixWorkspaceApp.dmg",
-    "sha256": null,
+    "download": "https://cdn-clients.anykeyit.ch/Static/CitrixWorkspaceApp.dmg",
+    "sha256": "44a2ac70e2e3897d5fcef456ce42c8b636398ffca12028283b0b9c88a19cb714",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "18.9.0",
+    "version": "19.1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
