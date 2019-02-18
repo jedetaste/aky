@@ -6,8 +6,8 @@
     "download": "https://downloads.nulana.com/remotix/Remotix.dmg",
     "sha256": "5ebbeaefe4be8c87d84aeaaa86cf05b87dc1fa60d15613031656976001459888",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://nulana.com/downloads/remotix/release-notes.html",
+      "checkpoint": "ac016b107bbb82b2d30c16b5f71fc332a1f2e02f810b77272941d3c519c2b1ba"
     },
     "version": "5.1.1",
     "build": null,
