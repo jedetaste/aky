@@ -3,13 +3,13 @@
     "id": "bookcollector",
     "bundle": "Book Collector.app",
     "identifier": "com.collectorz.com.Book-Collector",
-    "download": "http://installers.collectorz.com/book-mac/bookcollectorsetup1832.dmg",
-    "sha256": "c1cf00d8eb59647213df7f178dccd64acdd42678dfcb829b8bd778992dcd2716",
+    "download": "http://installers.collectorz.com/book-mac/bookcollectorsetup1901.dmg",
+    "sha256": "472d060e99133945fa1e8ca529af74066bb5385aee45bdaf4ec4e69b65737c86",
     "appcast": {
       "url": "https://www.collectorz.com/rss/macupdate.php?app=book&relmajor=18&relminor=3&build=2",
-      "checkpoint": "725c6b3298c0a5338abb415edcf88f51998f5d22fb47f598747a7284328bf583"
+      "checkpoint": "f9bdfc76cecc194640e61ea58dfebbc0fb62db295487237089cf65a4ba9c9430"
     },
-    "version": "18.3.2",
+    "version": "19.0.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
