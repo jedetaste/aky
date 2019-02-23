@@ -3,7 +3,7 @@
     "id": "freefilesync",
     "bundle": "FreeFileSync.app",
     "identifier": "Zenju.FreeFileSync",
-    "download": [ "https://freefilesync.org/download/FreeFileSync_10.9_macOS.zip", "fake_user_agent" ],
+    "download": "https://freefilesync.org/download/FreeFileSync_10.9_macOS.zip",
     "sha256": null,
     "appcast": {
       "url": null,
