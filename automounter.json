@@ -3,13 +3,13 @@
     "id": "automounter",
     "bundle": "AutoMounter.app",
     "identifier": "nz.co.pixeleyes.AutoMounter",
-    "download": "http://www.pixeleyes.co.nz/automounter/AutoMounter.zip",
-    "sha256": "63b8989d27047bccad2da3517394e2245b7cb0ddca05c56bb9faf1b4aa9019c5",
+    "download": "https://www.pixeleyes.co.nz/automounter/AutoMounter.zip",
+    "sha256": "d46fac0f83ea387209a3c2e7a0c746c61e7ba9bcdaaf7faec02e8ba1d25f7dbb",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.6",
+    "version": "1.6.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
