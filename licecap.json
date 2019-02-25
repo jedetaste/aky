@@ -3,14 +3,14 @@
     "id": "licecap",
     "bundle": "LICEcap.app",
     "identifier": "com.cockos.LICEcap",
-    "download": "https://www.cockos.com/licecap/licecap128.dmg",
-    "sha256": "130c8cd34b0048297433df9bce5dbc1b52e0e5b3d798c2cbc5be68773f3adbc6",
+    "download": "https://www.cockos.com/licecap/licecap129.dmg",
+    "sha256": "9d12df4946d3247483a1e050279b032320799ee96918f44628b92d862866250f",
     "appcast": {
       "url": "https://www.cockos.com/licecap/",
-      "checkpoint": "f826d5825562dde4a175abcd11f7a4da4a9dae42b57bdf5cd6fa7e8fe0bc7b48"
+      "checkpoint": "beeb76e83d3eea85cb41113e7a18a2f89424c6478e7a0878225cbf436c6538b1"
     },
     "version": null,
-    "build": "1.28",
+    "build": "1.29",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.cockos.com/licecap/"
