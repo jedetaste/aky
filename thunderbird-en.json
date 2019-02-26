@@ -3,13 +3,13 @@
     "id": "thunderbird-en",
     "bundle": "Thunderbird.app",
     "identifier": "org.mozilla.thunderbird",
-    "download": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/60.5.1/mac/en-US/Thunderbird%2060.5.1.dmg",
-    "sha256": "caf7930edb8ad8d1755b254383b5d38a59a219d31af38eca33c315de4e0aa270",
+    "download": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/60.5.2/mac/en-US/Thunderbird%2060.5.2.dmg",
+    "sha256": "c6327276ec7c3d9b06679dbabb347ed9977027faf64a3a2f698a0fe546a7d1dc",
     "appcast": {
       "url": "https://www.thunderbird.net/en-US/thunderbird/releases/",
-      "checkpoint": "2184757ee85b8718df13c92f4db3c28ad7fdd3452fb89f117c98f288332c5345"
+      "checkpoint": "f9792ce36e1aa1de7276479824e6438ce103a3e34abf55fd2e2a158232354ebe"
     },
-    "version": "60.5.1",
+    "version": "60.5.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
