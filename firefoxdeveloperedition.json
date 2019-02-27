@@ -4,13 +4,13 @@
     "bundle": "Firefox Developer Edition.app",
     "identifier": "org.mozilla.firefoxdeveloperedition",
     "download": "https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=osx&lang=de",
-    "sha256": "22e4f2e7675bd3d3f36290b6fb2ddff9c01b5c3d1885f227efcd0fb9efafebe1",
+    "sha256": "5d085e78fb8bfce25a634fc1e8d4b438ba21cbb88f644552cd727f69f7ff3ad0",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
     "version": null,
-    "build": "6619.2.21",
+    "build": "6619.2.25",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.mozilla.org/firefox/developer/"
