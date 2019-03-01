@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "asctimetables",
+    "bundle": "aSc TimeTables.app",
+    "identifier": "com.asctimetables",
+    "download": "http://www.asctimetables.com/download/asctimetables_2019_6_3.dmg",
+    "sha256": "25346a1217a34c9d161eff51379a7b716e354fc0b6fa6b58c4f0a919ac7e71ab",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2019.6.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.asctimetables.com/"
+  }
+}
