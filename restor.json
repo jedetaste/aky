@@ -3,13 +3,13 @@
     "id": "restor",
     "bundle": "Restor.app",
     "identifier": "com.google.corp.Restor",
-    "download": "https://github.com/google/restor/releases/download/1.8/restor-1.8.dmg",
-    "sha256": "f711b57b544f3722d84d63f8d3038aeec2c6f6e45b44218f6f6bc398d75ee239",
+    "download": "https://github.com/google/restor/releases/download/1.11/restor-1.11.dmg",
+    "sha256": "69839ddce8e2619b942923b73da144eb988878a247e2d1881acd050a0cfe5b57",
     "appcast": {
       "url": "https://github.com/google/restor/releases.atom",
-      "checkpoint": "8cd43e964ce83671d6b4aac4d995ed8b8e13d8327dd45fde8a2054c4ecc09f75"
+      "checkpoint": "985ac2a1b18a0ec8ec5dbe02addf0732bd295a720b8f030602dd4fe3eb5217bb"
     },
-    "version": "1.8",
+    "version": "1.11",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
