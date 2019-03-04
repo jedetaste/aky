@@ -3,13 +3,13 @@
     "id": "namemangler",
     "bundle": "Name Mangler.app",
     "identifier": "com.manytricks.NameMangler",
-    "download": "https://manytricks.com/download/_do_not_hotlink_/namemangler341.dmg",
-    "sha256": "040b98d0d0da0f4457b6186d9a3854165bf59dad3b45e61f5df6dbee4173c710",
+    "download": "https://manytricks.com/download/_do_not_hotlink_/namemangler350.dmg",
+    "sha256": "2f896e219820beade8e0f9bd9cd337cf3a59a35aaf1aabdec5a2a64ca9897943",
     "appcast": {
       "url": "https://manytricks.com/namemangler/appcast/",
-      "checkpoint": "cec08158f7365b5652114c7109899e696fdab37df37597a1406c62d659312129"
+      "checkpoint": "c1bbdaf09c7bb62b21cd3e5ff910b7d8a7ec833bcd0cdd730e0b48af56d14eee"
     },
-    "version": "3.4.1",
+    "version": "3.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
