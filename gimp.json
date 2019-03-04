@@ -4,7 +4,7 @@
     "bundle": [ "GIMP-2.10.app", "GIMP.app" ],
     "identifier": "org.gnome.gimp",
     "download": "https://download.gimp.org/mirror/pub/gimp/v2.10/osx/gimp-2.10.8-x86_64-1.dmg",
-    "sha256": "8ee527bfd5b4ac6a9b62dff3b0f0da6e4721b3dac208f29446cdeea6967d4f13",
+    "sha256": "b80a9b6d76ac5037386d8c51a1b4f58958bec99f6e2c117de1925a4105c5a1f4",
     "appcast": {
       "url": null,
       "checkpoint": null
