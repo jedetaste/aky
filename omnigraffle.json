@@ -3,13 +3,13 @@
     "id": "omnigraffle",
     "bundle": "OmniGraffle.app",
     "identifier": "com.omnigroup.OmniGraffle7",
-    "download": "https://downloads.omnigroup.com/software/MacOSX/10.13/OmniGraffle-7.9.4.dmg",
-    "sha256": "7b850a62507f25127fb9cd41a5bc658c8ca1c58398659e46a8bac499bbeaf106",
+    "download": "https://downloads.omnigroup.com/software/MacOSX/10.13/OmniGraffle-7.10.dmg",
+    "sha256": "6b29a3904f7bb2addcbd28e10f60492a85ab2d75c5077bc96fa11151a3a4c63c",
     "appcast": {
       "url": "https://update.omnigroup.com/appcast/com.omnigroup.OmniGraffle7",
-      "checkpoint": "fb5f18f1fb356137c16e2d83c66d9515be1c2dfec079449a7ef9262d8dcf1be7"
+      "checkpoint": "b8402a58d5906ef70e798f5455b675b8d1b1983b06a35c0ae2b275dc4d81c0d9"
     },
-    "version": "7.9.4",
+    "version": "7.10",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
