@@ -6,8 +6,8 @@
     "download": "https://downloads.sourceforge.net/freemind/freemind/1.0.1/FreeMind_1.0.1.dmg",
     "sha256": "0bd93317567f947e7fa3b3e8d2e0d908300642edc5e07f1929157469ffd14ea3",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://sourceforge.net/projects/freemind/rss?path=/freemind",
+      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "version": "1.0.1 (build: 0)",
     "build": null,
