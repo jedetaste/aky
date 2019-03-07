@@ -3,13 +3,13 @@
     "id": "scribus",
     "bundle": "Scribus.app",
     "identifier": "net.scribus",
-    "download": "https://downloads.sourceforge.net/scribus/scribus/1.4.7/scribus-1.4.7.dmg",
-    "sha256": "fc5fb1f34abd177586f3d9791801c4a166cd818f3c985960b95f1092dad8a9d4",
+    "download": "https://netcologne.dl.sourceforge.net/project/scribus/scribus/1.4.8/scribus-1.4.8.dmg",
+    "sha256": "9626c35ca5de5da59ac983efac3572318d327b3a921522c9f80a525b039a0af5",
     "appcast": {
       "url": "https://sourceforge.net/projects/scribus/rss?path=/scribus",
-      "checkpoint": "c3d4fc99f49f20d9a20a43a7c6629abdcbff9b523a5a6b85d9b321060db96ec2"
+      "checkpoint": "ee9fb2d5f25d667ab2e18e6977f847aa242c5074c60b1a96fffcabcd89dd8e66"
     },
-    "version": "1.4.7.svn",
+    "version": "1.4.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
