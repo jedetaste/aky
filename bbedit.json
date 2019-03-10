@@ -3,13 +3,13 @@
     "id": "bbedit",
     "bundle": "BBEdit.app",
     "identifier": "com.barebones.bbedit",
-    "download": "https://s3.amazonaws.com/BBSW-download/BBEdit_12.6.dmg",
-    "sha256": "6ff6f8d48429bec98e77eb782aeda9e059f10a82a5c106be6e4b271efc793962",
+    "download": "https://s3.amazonaws.com/BBSW-download/BBEdit_12.6.1.dmg",
+    "sha256": "5fb118d3416e4b404779de1472a6760f7cb085cedd33e220590be92c46a95540",
     "appcast": {
       "url": "https://versioncheck.barebones.com/BBEdit.xml",
-      "checkpoint": "fef67496e81f78c84aa14c72f23d107cde0e3f4496b22d16f8357138b17abe2b"
+      "checkpoint": "3c864a7bda21f9cadb7bbff586bf48514b54c38f824061fd041a25676cc2166d"
     },
-    "version": "12.6",
+    "version": "12.6.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
