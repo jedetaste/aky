@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "amethyst",
+    "bundle": "Amethyst.app",
+    "identifier": "com.amethyst.Amethyst",
+    "download": "https://github.com/ianyh/Amethyst/releases/download/v0.12.3/Amethyst.zip",
+    "sha256": "2af14157609d0c0d89e69d0fed03490bcc3d918f285e44aad6fd421ceb295206",
+    "appcast": {
+      "url": "https://ianyh.com/amethyst/appcast.xml",
+      "checkpoint": "5a7489b49d5cb83e14a755db492bd54638f6b4d333a81ff4abf0185f7a7934c2"
+    },
+    "version": "0.12.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://ianyh.com/amethyst/"
+  }
+}
