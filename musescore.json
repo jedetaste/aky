@@ -1,16 +1,16 @@
 {
   "recipe": {
     "id": "musescore",
-    "bundle": "MuseScore 2.app",
+    "bundle": "MuseScore 3.app",
     "identifier": "org.musescore.MuseScore",
-    "download": "https://download.musescore.com/releases/MuseScore-3.0.2/MuseScore-3.0.2.dmg",
-    "sha256": "4f31564d3795fe265d229bcebb33999dd41a198be2fca0c6275033019714576a",
+    "download": "https://download.musescore.com/releases/MuseScore-3.0.5/MuseScore-3.0.5.dmg",
+    "sha256": "be052c6f7fe782cc7a24cb319be9b9b6c5f8661aac328f36908ce97d50ecafac",
     "appcast": {
       "url": "https://sparkle.musescore.org/stable/3/macos/appcast.xml",
-      "checkpoint": "0255cc678b1f98d3d029b05f41cc8963fdef9f6c92e565cbd0e96e6e3d6ca7de"
+      "checkpoint": "62282748c95df84fcd699ea697c29008af5ed42cd994b3414f23464a4b21114e"
     },
     "version": null,
-    "build": "3.0.2",
+    "build": "3.0.5",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://musescore.org/"
