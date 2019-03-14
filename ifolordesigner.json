@@ -3,13 +3,13 @@
     "id": "ifolordesigner",
     "bundle": "ifolor Mac Designer.app",
     "identifier": "com.ifolor.ifolor-Mac-Designer",
-    "download": "http://chkr-download.ifolor.net/update/MacDesigner/ifolorDesigner_2.6.3_b1165.zip",
-    "sha256": "f9c082c6291786049ada0af3e9a7cc88b0069179f890b9c55d3b3b599737ab3b",
+    "download": "https://chkr-download.ifolor.net/update/MacDesigner/ifolorDesigner_3.6.4_b2560.zip",
+    "sha256": "82f9d924f18169afa3fdcb06b5632be4bf477dcd8b8b1133a85911187d2d145e",
     "appcast": {
       "url": "https://chkr-download.ifolor.net/update/MacDesigner/ifolor_updates.xml",
-      "checkpoint": "8c0cc80e350018c84f08fafe273039847f0ce60b6768a100f6dfc36af68303e6"
+      "checkpoint": "64d714fde1109b2c1ced686bd929e0e31d556374bb79279f7a263b44b4dfa70f"
     },
-    "version": "3.6.3",
+    "version": "3.6.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
