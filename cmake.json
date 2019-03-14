@@ -6,8 +6,8 @@
     "download": "https://www.cmake.org/files/v3.13/cmake-3.13.4-Darwin-x86_64.dmg",
     "sha256": "411c480b0f179054c26c4f854b2761b1fbbbe18c7c142f6554b0b363b4c21eaa",
     "appcast": {
-      "url": "https://github.com/Kitware/CMake/releases.atom",
-      "checkpoint": "6a0c4b7bf6f757481913f5087fb787812c40cedc9af017b778a544ccf65b61e3"
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.13.4",
     "build": null,
