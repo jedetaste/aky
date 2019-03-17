@@ -3,13 +3,13 @@
     "id": "arduino",
     "bundle": "Arduino.app",
     "identifier": "cc.arduino.Arduino",
-    "download": "https://downloads.arduino.cc/arduino-1.8.8-macosx.zip",
-    "sha256": "b1628a0ca7ee5c8d75ee98cfee3d29f61c03d180894ff12636abe3d30ef67258",
+    "download": "https://downloads.arduino.cc/arduino-1.8.9-macosx.zip",
+    "sha256": "7868dd8f6d350956b4d0c7e3d443f717209244a2dc3f374da115d5252a45bf56",
     "appcast": {
       "url": "https://www.arduino.cc/en/Main/ReleaseNotes",
-      "checkpoint": "9597b9c3ab003cfa10f22c039324366a27f04b05ed4ed79a5e0ca7a08cd59c5f"
+      "checkpoint": "75432d888b9839a47edeb0d66a550c43c4079276fb9f5055591b2d58c0407b24"
     },
-    "version": "1.8.8",
+    "version": "1.8.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
