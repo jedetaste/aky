@@ -3,13 +3,13 @@
     "id": "mountainduck",
     "bundle": "Mountain Duck.app",
     "identifier": "io.mountainduck",
-    "download": "https://dist.mountainduck.io/Mountain%20Duck-2.7.1.9840.zip",
-    "sha256": "fac3937d56ca3c093b24fc94958b162dc18205322a8624d0f2258007e3735b48",
+    "download": "https://dist.mountainduck.io/Mountain%20Duck-2.7.2.9873.zip",
+    "sha256": "24e68cd958de9932cd107fc14f192fa2c89ed926ba1b9cb3a93f433007644afb",
     "appcast": {
       "url": "https://version.mountainduck.io/changelog.rss",
-      "checkpoint": "d7416fce15cf76d14890892cf96218ca36948ead3eef630a958208e874a68f33"
+      "checkpoint": "b7ddb5c6e08ded0365c3fab440486f029012d1161a831441a75e559f9acd07b6"
     },
-    "version": "2.7.1",
+    "version": "2.7.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
