@@ -3,13 +3,13 @@
     "id": "gitkraken",
     "bundle": "GitKraken.app",
     "identifier": "com.axosoft.gitkraken",
-    "download": "https://release.gitkraken.com/darwin/GitKraken-v5.0.1.zip",
-    "sha256": "e6378ec8071807133b1d6af84f59d1e89eb95d67a7ee7146c4a875c025ffe3ad",
+    "download": "https://release.gitkraken.com/darwin/GitKraken-v5.0.2.zip",
+    "sha256": "cf9301f305b880b8c59acfbf31d302b50fec6835def4da138c26e00600d2fe06",
     "appcast": {
       "url": "https://support.gitkraken.com/release-notes/current/",
-      "checkpoint": "fbb590af62ce220efccc90cf66d15f5056e4534cfc11c24da19725eb149eb753"
+      "checkpoint": "48ef6dea7fe6a0b59853b3172e3d276e8057f53876b44fc040c8ccc714c49817"
     },
-    "version": "5.0.1",
+    "version": "5.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
