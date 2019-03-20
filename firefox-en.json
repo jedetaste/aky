@@ -3,13 +3,13 @@
     "id": "firefox-en",
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
-    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/65.0.2/mac/en-US/Firefox%2065.0.2.dmg",
-    "sha256": "8eeb1fdc8bea3465dc4a9914957185fdf15fd092ddf57694b7f3476d72d42826",
+    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/66.0/mac/en-US/Firefox%2066.0.dmg",
+    "sha256": "64e15f0e2a977ea9e1d3a14c674ebf84ee6234f896e719d6c57aeecd8785fa78",
     "appcast": {
       "url": "https://www.mozilla.org/en-US/firefox/releases/",
-      "checkpoint": "6e9d1f50b2d9b0c519eabf5b587b21950bae0eb548bc83053a586fd61bba4358"
+      "checkpoint": "ff0ba366b38bb6eb7a4839fb85871cd684ffad214b2ef63d258f13b5a505c94c"
     },
-    "version": "65.0.2",
+    "version": "66.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
