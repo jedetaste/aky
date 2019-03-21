@@ -3,14 +3,14 @@
     "id": "owncloud",
     "bundle": "owncloud.app",
     "identifier": "com.owncloud.desktopclient",
-    "download": "https://download.owncloud.com/desktop/stable/ownCloud-2.5.3.11290.pkg",
-    "sha256": "1d2439a47f13315a38fde0ef6df9de46503ef8c2225ef3f8e7d0671b1b695746",
+    "download": "https://download.owncloud.com/desktop/stable/ownCloud-2.5.4.11456.pkg",
+    "sha256": "29c39b71517de9ddce98557be998720dd63b9bcac7c685376ca46ccd2b603e80",
     "appcast": {
       "url": "https://github.com/owncloud/client/releases.atom",
-      "checkpoint": "96dda8bb6efce30853faa23d246606e6150c4c283539416ebbaf7362e5570576"
+      "checkpoint": "998b9abf4fb43ae6a87e5fd92e82c24e89f7e38519142ce8123022685f715484"
     },
     "version": null,
-    "build": "2.5.3.11290",
+    "build": "2.5.4.11456",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://owncloud.com/"
