@@ -6,8 +6,8 @@
     "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/66.0/mac/de/Firefox%2066.0.dmg",
     "sha256": "690c4f755b1857bcac2317608637f08447b1df4c58f6c4d71a78b35954b75357",
     "appcast": {
-      "url": "https://www.mozilla.org/en-US/firefox/releases/",
-      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "url": "https://www.macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://download.mozilla.org/%3Fproduct=firefox-latest-ssl%26os=osx",
+      "checkpoint": "58eab74a36093d0094746f99d1c85ad7fedf51f935774b411d1fec2ef010de5a"
     },
     "version": "66.0",
     "build": null,
