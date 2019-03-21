@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "coda",
+    "bundle": "Coda 2.app",
+    "identifier": "com.panic.Coda2",
+    "download": "https://download.panic.com/coda/Coda%202.7.zip",
+    "sha256": "c0fc9c49f4f3629c797aa3cca99475fbd95be6c538c141fc45c759f4e4dc8454",
+    "appcast": {
+      "url": "https://www.panic.com/updates/update.php?appName=Coda%202&appVersion=1",
+      "checkpoint": "a33293ea5cf2500a83d91441645fb9a4b2a3ab3dc16b2b165ecc095cf52cff53"
+    },
+    "version": "2.7",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://panic.com/coda/"
+  }
+}
