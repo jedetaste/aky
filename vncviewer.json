@@ -6,8 +6,8 @@
     "download": "https://www.realvnc.com/download/file/viewer.files/VNC-Viewer-6.19.107-MacOSX-x86_64.dmg",
     "sha256": "f17ce7e9aa21eeec88dfe9217800cc9cc2bba591b01df0ca9eec6244879cf9ee",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.realvnc.com/en/connect/download/viewer/macos/",
+      "checkpoint": "db610c1ca89974019340437b413a224559d496149ed22ab905146316bd26262d"
     },
     "version": null,
     "build": "6.19.107.39927",
