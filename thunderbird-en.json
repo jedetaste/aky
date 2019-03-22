@@ -6,8 +6,8 @@
     "download": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/60.6.0/mac/en-US/Thunderbird%2060.6.0.dmg",
     "sha256": "a93a91ed06188c32fa2fc346e2dc7ea60f99da2462e352edec046433dab553df",
     "appcast": {
-      "url": "https://www.thunderbird.net/en-US/thunderbird/releases/",
-      "checkpoint": "eade1f08bd7dc2de617039f9efb9bb4fade80b873302d755a085d592f56920f3"
+      "url": null,
+      "checkpoint": null
     },
     "version": "60.6.0",
     "build": null,
