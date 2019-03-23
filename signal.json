@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "signal",
+    "bundle": "Signal.app",
+    "identifier": "org.whispersystems.signal-desktop",
+    "download": "https://updates.signal.org/desktop/signal-desktop-mac-1.22.0.zip",
+    "sha256": "777496e4b23f1d088383dfc9694deb646313a2020bd5cd17ab93f68be31d5317",
+    "appcast": {
+      "url": "https://github.com/signalapp/Signal-Desktop/releases.atom",
+      "checkpoint": "37fecc836986ad66d81fdb93d82e3c9fd202070186f81ddfba7269e548c55190"
+    },
+    "version": "1.22.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://signal.org/"
+  }
+}
