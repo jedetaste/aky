@@ -3,14 +3,14 @@
     "id": "pdfpen",
     "bundle": "PDFpen.app",
     "identifier": "com.smileonmymac.PDFpen",
-    "download": "https://dl.smilesoftware.com/com.smileonmymac.PDFpen/1022.6/1551314434/PDFpen-1022.6.zip",
-    "sha256": "164ff02581ba8b94cd244d15cf748cba56af73990a8e66807cbae1a51eba8538",
+    "download": "https://dl.smilesoftware.com/com.smileonmymac.PDFpen/1023.3/1553249640/PDFpen-1023.3.zip",
+    "sha256": "bcc4dfdf0b77aedaf0a291eae5192d0e8fca30cf10c5640f75bf4f398b123fef",
     "appcast": {
       "url": "https://updates.smilesoftware.com/com.smileonmymac.PDFpen.xml",
-      "checkpoint": "fd17c9c9be12fdbfea41c098f0f9d5e625a7c7e59659407232e3efcec8f0c226"
+      "checkpoint": "2a71dce29e092b9771157ec0229825baab3678afdc0bd05433e542e153e417ec"
     },
     "version": null,
-    "build": "1022.6",
+    "build": "1023.3",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://smilesoftware.com/PDFpen"
