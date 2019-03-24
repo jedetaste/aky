@@ -6,8 +6,8 @@
     "download": "https://www.titanium-software.fr/download/1014/OnyX.dmg",
     "sha256": "b579e47445cf4f6554c3de81eb138633dd70cae7379d371b64d54efdac37126c",
     "appcast": {
-      "url": "https://www.titanium-software.fr/en/release_onyx.html",
-      "checkpoint": "db9ae13ef27011807516933caaa93591d2dc3d8fdbbf66b09ca53b043f95203c"
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.5.9",
     "build": null,
