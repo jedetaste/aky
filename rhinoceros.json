@@ -6,8 +6,8 @@
     "download": "http://files.mcneel.com/Releases/Rhino/5.0/Mac/Rhinoceros_5.5.3.dmg",
     "sha256": "6464801a959fd7528ba386c02d244add6abf457da4558059ebc66acd731ff327",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.rhino3d.com/download/rhino-for-mac/5/evaluation",
+      "checkpoint": "74f2ea819f4dc59568640149f1edb9f7ab9304483b8af549804f63abe9a8d8a6"
     },
     "version": "5.5.3",
     "build": null,
