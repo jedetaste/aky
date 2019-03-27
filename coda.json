@@ -3,13 +3,13 @@
     "id": "coda",
     "bundle": "Coda 2.app",
     "identifier": "com.panic.Coda2",
-    "download": "https://download.panic.com/coda/Coda%202.7.zip",
-    "sha256": "c0fc9c49f4f3629c797aa3cca99475fbd95be6c538c141fc45c759f4e4dc8454",
+    "download": "https://download.panic.com/coda/Coda%202.7.1.zip",
+    "sha256": "d4b15632dd7813ecc6e60fa98709705a8156193d77ac3496032683156092f0b3",
     "appcast": {
       "url": "https://www.panic.com/updates/update.php?appName=Coda%202&appVersion=1",
-      "checkpoint": "adcee3e43b9fc99fd0740ba1649efd1c5aac6814ba8ffb0224e559796568c10c"
+      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
-    "version": "2.7",
+    "version": "2.7.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
