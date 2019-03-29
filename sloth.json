@@ -3,13 +3,13 @@
     "id": "sloth",
     "bundle": "Sloth.app",
     "identifier": "org.sveinbjorn.Sloth",
-    "download": "https://sveinbjorn.org/files/software/sloth/sloth-2.7.zip",
-    "sha256": "fdcbfd025bd50910e62c63f6464ddf40d90b75caed1a4a95654a49cc1b0f2ef1",
+    "download": "https://sveinbjorn.org/files/software/sloth/sloth-2.8.zip",
+    "sha256": "b260203343f955eaae3e3765b0b702713866b980321b6ebcbc7c04a33c5bc073",
     "appcast": {
       "url": "https://sveinbjorn.org/files/appcasts/SlothAppcast.xml",
-      "checkpoint": "24558ae2e1a523b91dd6813872c2f35740ca5f50c26663724e5cb455382a9965"
+      "checkpoint": "c45bd2a1d11efece1747496644fd751db49532598d4a683b057cc81fe0d55e3f"
     },
-    "version": "2.7",
+    "version": "2.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
