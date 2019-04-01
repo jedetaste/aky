@@ -1,6 +1,6 @@
 {
   "recipe": {
-    "id": "nextcloud",
+    "id": "nextcloudlegacy",
     "bundle": "nextcloud.app",
     "identifier": "com.nextcloud.desktopclient",
     "download": "https://download.nextcloud.com/desktop/releases/Mac/Installer/Nextcloud-2.3.3.84.pkg",
