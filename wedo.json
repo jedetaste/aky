@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "wedo",
+    "bundle": "WeDo 2.0.app",
+    "identifier": "com.lego.education.wedomac",
+    "download": "https://le-www-live-s.legocdn.com/downloads/WeDo2/WeDo2_Full_1.8.2_Global_OSX.pkg",
+    "sha256": "dc40f70acdd39a0c1d79adb7f605e10dae95ec0abc07e0ef1b2b976dca6e9fa0",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.8.20",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://education.lego.com/de-de/product/wedo-2"
+  }
+}
