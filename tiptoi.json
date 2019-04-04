@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "tiptoi",
+    "bundle": "tiptoi® Manager.app",
+    "identifier": "com.ravensburger.tiptoimanager",
+    "download": "http://tiptoidata.s3-de.object.vdc.interoute.com/installer_flat/tiptoi_Manager_Installer.pkg",
+    "sha256": "0b761fddb48724176952ad8497d2f51312ce8395b9f0b1e05741beb06c988132",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://tiptoi.de/"
+  }
+}
