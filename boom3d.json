@@ -4,12 +4,12 @@
     "bundle": "Boom 3D.app",
     "identifier": "com.globaldelight.Boom3D",
     "download": "https://dl.devmate.com/com.globaldelight.Boom3D/Boom3D.dmg",
-    "sha256": "48352d742a05655ef03707d70a3d0cbc8a9087e910771df96c31de5b88a01323",
+    "sha256": "25d63ddcd0aeb2be085398f55aef7708de3716e9e6f81f730310785ce6b70c42",
     "appcast": {
       "url": "https://updates.devmate.com/com.globaldelight.Boom3D.xml",
-      "checkpoint": "e825ba912e5a803cebcad138d6760047e69d85a5f40b94a33193b97a59f66f1e"
+      "checkpoint": "580cc279685657d921ec9e409ebf444588ccee5ac9990d2de721a6b50470fcd4"
     },
-    "version": "1.2.5",
+    "version": "1.2.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
