@@ -2,14 +2,14 @@
   "recipe": {
     "id": "payloadfreepackagecreator",
     "bundle": "Payload-Free Package Creator.app",
-    "identifier": "com.apple.automator.Payload-Free Package Creator",
-    "download": "https://github.com/rtrouton/Payload-Free-Package-Creator/releases/download/2.2/Payload-Free_Package_Creator.pkg",
-    "sha256": "00932db4436a97f061feebc9694f2345ba00b2b5f7ccefa2c5644155236a1186",
+    "identifier": "com.apple.automator.Payload-FreePackageCreator",
+    "download": "https://github.com/rtrouton/Payload-Free-Package-Creator/releases/download/2.3/Payload-Free_Package_Creator.pkg",
+    "sha256": "11e3244bac2d550a1724f331eabf138f2de6b86af217bd38b6f468300259e626",
     "appcast": {
       "url": "https://github.com/rtrouton/Payload-Free-Package-Creator/releases.atom",
-      "checkpoint": "e5bb5b841b178f8c392e207d1cfe1909c18714c38d1f804070723fa23eff135b"
+      "checkpoint": "47a6cfe41d5c59fa0b94e3441dea5587b48ec23c87e880475e8c2c5b7bf8f302"
     },
-    "version": "2.2",
+    "version": "2.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
