@@ -3,13 +3,13 @@
     "id": "zotero",
     "bundle": "Zotero.app",
     "identifier": "org.zotero.zotero",
-    "download": "https://download.zotero.org/client/release/5.0.65/Zotero-5.0.65.dmg",
-    "sha256": "f397349a15088fb8fb5615d725777e7085c63cc968054ffaaabd09fd48ddf2ba",
+    "download": "https://download.zotero.org/client/release/5.0.66/Zotero-5.0.66.dmg",
+    "sha256": "78710da06bdf7cab53e568673760df0164e510d08d6e68f7b39cb39c3249942f",
     "appcast": {
       "url": "https://github.com/zotero/zotero/releases.atom",
-      "checkpoint": "d9f1af88a5897c3e5969609ae55ca34d5b429ad0a1b507f930b50541152643e3"
+      "checkpoint": "61d00be999e053ec719841ca96b2f6ed9d152254ee7552e0dd171850dec378ea"
     },
-    "version": "5.0.65",
+    "version": "5.0.66",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
