@@ -4,12 +4,12 @@
     "bundle": "MacX DVD Ripper Pro.app",
     "identifier": "com.macxdvd.macxvideoconverterpro",
     "download": "https://www.macxdvd.com/download/macx-dvd-ripper-pro.dmg",
-    "sha256": "7c9943d44362b95610159761d496ecc0936a732a2fb21604b7d783e3ec50a949",
+    "sha256": "3d06e14ab67f02aacfa5cb5fee9ac4259270b8529970cba8f5e5305d37744630",
     "appcast": {
-      "url": "https://www.macxdvd.com/mac-dvd-ripper-pro/upgrade/macx-dvd-ripper-pro",
-      "checkpoint": "738b1ad94fc665e8cebf85006fd46edbc5715f4b8c5c3573b88f2b552b7426c9"
+      "url": "http://www.macxdvd.com/mac-dvd-ripper-pro/upgrade/macx-dvd-ripper-pro",
+      "checkpoint": "0d4d519288d0044114427ec3d52debf633a845dc0968ec26469d05dbb2aa61fa"
     },
-    "version": "6.2.0",
+    "version": "6.2.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
