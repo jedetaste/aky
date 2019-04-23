@@ -3,13 +3,13 @@
     "id": "microsoftteams",
     "bundle": "Microsoft Teams.app",
     "identifier": "com.microsoft.teams",
-    "download": "https://statics.teams.microsoft.com/production-osx/1.2.00.6957/Teams_osx.pkg",
-    "sha256": "f9802f37da8827f04121c4ea5df5a890dd3d07525a126ec8b2b2ea387f2a6585",
+    "download": "https://statics.teams.microsoft.com/production-osx/1.2.00.8866/Teams_osx.pkg",
+    "sha256": "dad8665cf85a8a5f4ba4daafb9ce2a5220311f0668f5b5425c9f9d2a1be3331f",
     "appcast": {
       "url": "https://teams.microsoft.com/downloads/DesktopUrl?env=production&plat=osx",
-      "checkpoint": "37d547e4d1ca7c515f24f36001a4f3ad5fcd15a740d98317d2fe06b67e83b704"
+      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
-    "version": "1.00.206957",
+    "version": "1.00.208866",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
