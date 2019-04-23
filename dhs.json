@@ -3,13 +3,13 @@
     "id": "dhs",
     "bundle": "DHS.app",
     "identifier": "com.objective-see.DHS",
-    "download": "https://bitbucket.org/objective-see/deploy/downloads/DHS_1.3.1.zip",
-    "sha256": "3fc293da9f4730790e8c07833e0225fa6b57d2455bec53dd8e5b1e50de41c8d4",
+    "download": "https://bitbucket.org/objective-see/deploy/downloads/DHS_1.4.1.zip",
+    "sha256": "6d0ce00e0e111059e157bae26d4a913d7cb7c42cee6493b638c2c5019fe987fc",
     "appcast": {
       "url": "https://objective-see.com/products/changelogs/DHS.txt",
-      "checkpoint": "dda08450e437f44ba15911759bef6f7d4e376a0cbb0e70266c392b70daf8ae5a"
+      "checkpoint": "70b61c2b68ead9555c6e72c5eab75d88e6efa58c2cdea7a79c0436a72e46853b"
     },
-    "version": "1.3.1",
+    "version": "1.4.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
