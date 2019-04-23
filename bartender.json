@@ -3,13 +3,13 @@
     "id": "bartender",
     "bundle": "Bartender 3.app",
     "identifier": "com.surteesstudios.Bartender",
-    "download": "https://macbartender.com/B2/updates/3-0-47/Bartender%203.zip",
-    "sha256": "8c92401a39471edc1e151850901991e8d1d25c14c92e2fe3ca3d74791608cb6c",
+    "download": "https://www.macbartender.com/B2/updates/3-0-64/Bartender%203.zip",
+    "sha256": "40a65c09f41ff56cd95b247c94ebdeda78748253b86204d0e4617b3f3fd4e261",
     "appcast": {
       "url": "https://www.macbartender.com/B2/updates/Appcast.xml",
-      "checkpoint": "a3520323fd41787361c4e7d1552f534ccc7ae46fdda932e60a8abde3a3b9b3b8"
+      "checkpoint": "fd2f6da58e27e5a8f43b2b4cff28b510439987794f9e2437320cc8613e1e39c6"
     },
-    "version": "3.0.47",
+    "version": "3.0.64",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
