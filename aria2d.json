@@ -3,13 +3,13 @@
     "id": "aria2d",
     "bundle": "Aria2D.app",
     "identifier": "com.xjbeta.Aria2D",
-    "download": "https://dl.devmate.com/com.xjbeta.Aria2D/358/1544709925/Aria2D-358.zip",
-    "sha256": "428daaed8dc4843c876eff8449e1630d08e679afcdc8bac84209f018d8a6171c",
+    "download": "https://dl.devmate.com/com.xjbeta.Aria2D/415/1556113519/Aria2D-415.zip",
+    "sha256": "f031ae48b07e46f31df52251aa80f959151a6431697b80c4be2bc40def8fcb0a",
     "appcast": {
       "url": "https://updates.devmate.com/com.xjbeta.Aria2D.xml",
-      "checkpoint": "4577db52c59f9872443677c06946fc6ea562272e74d04487da5139bcb624666c"
+      "checkpoint": "7ba1290358dc20ef99b22fa8a1b6d212a9ece41ba991f4ddf62fb48e3983a66a"
     },
-    "version": "1.2.5",
+    "version": "1.3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
