@@ -3,13 +3,13 @@
     "id": "geogebraclassic",
     "bundle": "GeoGebra Classic 6.app",
     "identifier": "org.geogebra6.mac",
-    "download": "https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-533-0.zip",
-    "sha256": "09f16541e4dc7e751c0723d263de6e8c8802dfe66e3ac88b34c01d0158e667a9",
+    "download": "https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-535-0.zip",
+    "sha256": "2c6b117602865403cd734f5ddc2b4a3bf8b9619bd85eb8c2d6123ca350517c21",
     "appcast": {
       "url": "https://download.geogebra.org/installers/6.0/version.txt",
-      "checkpoint": "c5643f5afc6fb81a1ff7f6d2ba500a63526d7843e13f7969251b6e88c05481b0"
+      "checkpoint": "aac2e79e07fdb9a143c39f0a4ea85659128c30dfebdca8fdf77788d4f594182e"
     },
-    "version": "6.0.533",
+    "version": "6.0.535",
     "build": null,
     "dir": "/Applications",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Mathematik",
