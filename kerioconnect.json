@@ -3,14 +3,14 @@
     "id": "kerioconnect",
     "bundle": "Kerio Connect.app",
     "identifier": "com.Kerio-Connect",
-    "download": "http://kerio-dc-releases.kerio.com/kerio-connect-client-darwin64-9.2.9.13969.dmg",
-    "sha256": "fc07b01a4525777069b753abc56133c23be76d625c1a0b795f0df2a47ab3ef74",
+    "download": "http://kerio-dc-releases.kerio.com/kerio-connect-client-darwin64-9.2.9.14084.dmg",
+    "sha256": "70f0ca0a40fae5261d8296fff052f5279c76a88169e328d7e8b9abd7b473e808",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
     "version": null,
-    "build": "9.2.9.13969",
+    "build": "9.2.9.14084",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.kerio.de/products/kerio-connect"
