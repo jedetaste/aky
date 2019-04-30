@@ -6,8 +6,8 @@
     "download": "https://downloads.slack-edge.com/mac_releases/Slack-3.4.0.dmg",
     "sha256": "4c9d18ebdd1ec7276cb8cdd5153f95df62a8df90535c4c3d0dca06a91698762c",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://downloads.slack-edge.com/mac_releases/releases.json",
+      "checkpoint": "495182ba1d24b14ec936ed4a25dd5361c42c59b27626c4d811a7633da2d8bd20"
     },
     "version": "3.4.0",
     "build": null,
