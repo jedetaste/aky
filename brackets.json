@@ -3,13 +3,13 @@
     "id": "brackets",
     "bundle": "Brackets.app",
     "identifier": "io.brackets.appshell",
-    "download": "https://github.com/adobe/brackets/releases/download/release-1.13/Brackets.Release.1.13.dmg",
-    "sha256": "34d8960d78e7301febcc6b68b85970d119b7a904cdb9a0ecfc445348de1e4bd4",
+    "download": "https://github.com/adobe/brackets/releases/download/release-1.14/Brackets.Release.1.14.dmg",
+    "sha256": "d1545549863a79a3c4824f9a35866e78f2822664ddeeaeb3cf85a14b491a86cb",
     "appcast": {
       "url": "https://github.com/adobe/brackets/releases.atom",
-      "checkpoint": "b649df5103e6097c641bcd31dc553c1062ffb209e5ab16a5465664bcad921082"
+      "checkpoint": "73a7285c48c20c3b98b2e3e90b812aef02a0734b4f005e65a89f2053a465ba2f"
     },
-    "version": "1.13.0",
+    "version": "1.14.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
