@@ -4,12 +4,12 @@
     "bundle": "Chromium.app",
     "identifier": "org.chromium.Chromium",
     "download": "https://download-chromium.appspot.com/dl/Mac?type=snapshots",
-    "sha256": null,
+    "sha256": "ce6e6add263b745365edd7e7cd50d9a80dec290cb9ac4f1aa13883da3ceffdbd",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "75.0.3760.0",
+    "version": "76.0.3785.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
