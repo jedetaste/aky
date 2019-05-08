@@ -3,13 +3,13 @@
     "id": "pycharmce",
     "bundle": "PyCharm CE.app",
     "identifier": "com.jetbrains.pycharm",
-    "download": "https://download-cf.jetbrains.com/python/pycharm-community-2019.1.1.dmg",
-    "sha256": "d6049a7fe3e97a029d2b1b07b208145b2de5a46bdf928c4644699f0dfae5b2a6",
+    "download": "https://download-cf.jetbrains.com/python/pycharm-community-2019.1.2.dmg",
+    "sha256": "7ad5b613c8f079b8124526771331ffcd0bbd99568b9df951a51968bf33b802da",
     "appcast": {
       "url": "https://data.services.jetbrains.com/products/releases?code=PCC&latest=true&type=release",
-      "checkpoint": "592759849426258159baef2448d0f7407d4c3db2c0b8a3bec983e3ad2c939017"
+      "checkpoint": "d26498af1eece9220a8d2260c4c837dc0cbbca045162a05e7842f8c9be9889f2"
     },
-    "version": "2019.1.1",
+    "version": "2019.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
