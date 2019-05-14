@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "ciscowebexmeetings",
+    "bundle": "Cisco Webex Meetings.app",
+    "identifier": "com.cisco.Cisco Webex Meetings",
+    "download": "https://akamaicdn.webex.com/client/webexapp.dmg",
+    "sha256": "c1c9564fd8058cd3b959beb6e07568e0d81f2e8014d0c3a9d0c105625cccb14c",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "39.3.2.5",
+    "build": null,
+    "dir": "/Applications/Cisco",
+    "symlink": null,
+    "web": "https://www.webex.com/downloads.html"
+  }
+}
