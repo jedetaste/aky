@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "depnotify",
+    "bundle": "DEPNotify.app",
+    "identifier": "menu.nomad.DEPNotify",
+    "download": "https://s3.amazonaws.com/nomadbetas/DEPNotify-1.1.4.pkg",
+    "sha256": "7c07df9c132d447fab2dce3432f2bfe2839c027e91bce89a3e882037b1c58ef2",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.1.4",
+    "build": null,
+    "dir": "/Applications/Utilities",
+    "symlink": null,
+    "web": "https://gitlab.com/Mactroll/DEPNotify"
+  }
+}
