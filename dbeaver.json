@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "dbeaver",
+    "bundle": "DBeaver.app",
+    "identifier": "org.jkiss.dbeaver.core.product",
+    "download": "https://dbeaver.io/files/6.0.5/dbeaver-ce-6.0.5-installer.pkg",
+    "sha256": "35c7f0fddecd57b9d005b8341abf6dc9e0f22d7ebc2d4412cdb8a7ec0183406a",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "6.0.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://dbeaver.io/download/"
+  }
+}
