@@ -3,8 +3,8 @@
     "id": "joinme",
     "bundle": "join.me.app",
     "identifier": "com.logmein.join.me",
-    "download": "https://www.join.me/download.aspx?installer=pkg",
-    "sha256": null,
+    "download": "https://secure.join.me/Download.aspx?installer=mac&webdownload=true",
+    "sha256": "c9ecb765567c767c572f16f76d8763016e4465ecff6eeb1f4d87ad8dbbdc88bc",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,6 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.join.me/de/apps"
+    "web": "https://www.join.me/"
   }
 }
