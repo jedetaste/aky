@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "zeplin",
+    "bundle": "Zeplin.app",
+    "identifier": "io.zeplin.osx",
+    "download": "httphttps://zpl.io/download-mac",
+    "sha256": "b1b1572dfd31025f9ec57b71f8b674afc9cb7c43f3d461dfdc1d4e039ff0819c",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "672",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://zeplin.io"
+  }
+}
