@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "xlite",
+    "bundle": "X-Lite.app",
+    "identifier": "com.CounterPath_Corporation.X-Lite",
+    "download": "https://counterpath.s3.amazonaws.com/downloads/X-Lite_5.6.0_98892.dmg",
+    "sha256": "9a02712bc98c3e9c50564f45a22c4b1efdba0cea35763ff61d5c484a8f13f14c",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "5.6.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.counterpath.com/x-lite-download/"
+  }
+}
