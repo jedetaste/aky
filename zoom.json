@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "zoom",
+    "bundle": "zoom.us.app",
+    "identifier": "us.zoom.xos",
+    "download": "https://zoom.us/client/latest/Zoom.pkg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.4.52600.0508",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://zoom.us/download#client_4meeting"
+  }
+}
