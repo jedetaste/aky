@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "aircall",
+    "bundle": "Aircall.app",
+    "identifier": "io.aircall.phone",
+    "download": "https://s3-us-west-1.amazonaws.com/aircall-electron-releases/production/Aircall-2.1.5.dmg",
+    "sha256": "5f11e4ef7e4ea8019c1cf5e6f13950055086c30c48a5b8985a2ee617fbe72546",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.1.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://aircall.io/instructions"
+  }
+}
