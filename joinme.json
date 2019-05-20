@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "joinme",
+    "bundle": "join.me.app",
+    "identifier": "com.logmein.join.me",
+    "download": "https://www.join.me/download.aspx?installer=pkg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.16.0.13076",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.join.me/de/apps"
+  }
+}
