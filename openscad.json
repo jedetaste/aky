@@ -3,13 +3,13 @@
     "id": "openscad",
     "bundle": "OpenSCAD.app",
     "identifier": null,
-    "download": "http://files.openscad.org/OpenSCAD-2015.03-3.dmg",
-    "sha256": "1f2e8e52e04bbb6d3b2c8699d314d1ca28d2fcf68164eca7d0a20e248cee01a7",
+    "download": "https://files.openscad.org/OpenSCAD-2019.05.dmg",
+    "sha256": "df6f6f3d34ac0d07f533ec4ccf59082189fb37c0276c1b8df651291e2509420e",
     "appcast": {
       "url": "http://files.openscad.org/appcast.xml",
-      "checkpoint": "4ee107b01f038767dbc6e7e556893c1f75101b4c0d4c985b80eda711d0366052"
+      "checkpoint": "e1c316cdedb64ea3cdb1a98e8742f5d6894f507a48f30a641336e849072e547c"
     },
-    "version": "2015.03-3",
+    "version": "2019.05",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
