@@ -3,13 +3,13 @@
     "id": "viscosity",
     "bundle": "Viscosity.app",
     "identifier": "com.viscosityvpn.Viscosity",
-    "download": "https://swupdate.sparklabs.com/download/mac/release/viscosity/Viscosity%201.7.14.dmg",
-    "sha256": "71e0d6e63b86122fc771095cb0c4a6c99758c8a71f48f31651a03e64bc7705c5",
+    "download": "https://swupdate.sparklabs.com/download/mac/release/viscosity/Viscosity%201.7.15.dmg",
+    "sha256": "24d29a1375fe24e4cfcd44575d1475612445971601f7f6f309b899c6ff4bc3a4",
     "appcast": {
       "url": "https://swupdate.sparklabs.com/appcast/mac/release/viscosity/",
-      "checkpoint": "9ba7a62899179067817f4c886648e42e2944ed76ab90e02766a434fb4f7dfeb7"
+      "checkpoint": "9f230c21468472ebe9b5bad5dcb0e126ddcc1689d9f20f88356bf9d8602eb77b"
     },
-    "version": "1.7.14",
+    "version": "1.7.15",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
