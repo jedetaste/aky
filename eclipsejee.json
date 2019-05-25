@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "eclipsejee",
+    "bundle": "Eclipse.app",
+    "identifier": "org.eclipse.platform.ide",
+    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-03/R/eclipse-jee-2019-03-R-macosx-cocoa-x86_64.dmg&r=1",
+    "sha256": "88bd2f29fe46c667ac4e1fe4b64bccfcee884fc141122d07820ea12f97d8778e",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": null,
+    "build": "4.11.0.I20190307-0500",
+    "dir": "/Applications/Eclipse JEE",
+    "symlink": null,
+    "web": "https://eclipse.org/"
+  }
+}
