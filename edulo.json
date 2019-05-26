@@ -4,12 +4,12 @@
     "bundle": "Edulo.app",
     "identifier": "com.electron.edulo",
     "download": "https://management.edulo.com/Edulo.dmg",
-    "sha256": "1f9e6ce836562e12c74fc94716d4f4f7d8ad58d8c2030ac7a6f6224e2f719e0f",
+    "sha256": "0f87a61445a7ed01dafe8506774c7b3caaf5930e2304e07383f7d887c83dc10d",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.0.0",
+    "version": "1.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
