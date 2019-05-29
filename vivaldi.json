@@ -3,13 +3,13 @@
     "id": "vivaldi",
     "bundle": "Vivaldi.app",
     "identifier": "com.vivaldi.Vivaldi",
-    "download": "https://downloads.vivaldi.com/stable/Vivaldi.2.5.1525.43.dmg",
-    "sha256": "95f8e3fdacc5db9f8740cd1dfa7263ffc65509716e8c3418e9d1a9818345ef62",
+    "download": "https://downloads.vivaldi.com/stable/Vivaldi.2.5.1525.46.dmg",
+    "sha256": "73595088181f732e2be0e26ecb11cfb72fdc4cd090cdfcdfc7a80d49945903b6",
     "appcast": {
       "url": "https://update.vivaldi.com/update/1.0/public/mac/appcast.xml",
-      "checkpoint": "24e09e3917def501e70f11a37d7cc21db909556b22f9191ef7e9e7824d9b4978"
+      "checkpoint": "b08fdc6c980d794a40b9fe71e6d56f74b36e5eb99bb6d68f936fa33605985af7"
     },
-    "version": "2.5.1525.43",
+    "version": "2.5.1525.46",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
