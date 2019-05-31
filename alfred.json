@@ -2,7 +2,7 @@
   "recipe": {
     "id": "alfred",
     "bundle": "Alfred 4.app",
-    "identifier": "com.runningwithcrayons.Alfred-4",
+    "identifier": "com.runningwithcrayons.Alfred",
     "download": "https://cachefly.alfredapp.com/Alfred_4.0.1_1078.dmg",
     "sha256": "c77fe23d9cd2987b5f49d84cc2e5e50972c8c37f0df9c88f01ff29ac2881a5a3",
     "appcast": {
