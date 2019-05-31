@@ -3,13 +3,13 @@
     "id": "onedrive",
     "bundle": "OneDrive.app",
     "identifier": "com.microsoft.OneDrive",
-    "download": "https://oneclient.sfx.ms/Mac/Direct/19.033.0218.0011/OneDrive.pkg",
-    "sha256": "2751fb68148a12ee2879e3dc3fe7fd1d28103ddb68b10fde46136cdb22b097f1",
+    "download": "https://oneclient.sfx.ms/Mac/Direct/19.062.0331.0009/OneDrive.pkg",
+    "sha256": "52a2821acc5ee232fc47486d0747f5b3786b251cbfd1a14759564af00e348aaa",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "19.033.0218",
+    "version": "19.062.0331",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
