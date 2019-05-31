@@ -3,11 +3,11 @@
     "id": "zoom",
     "bundle": "zoom.us.app",
     "identifier": "us.zoom.xos",
-    "download": "https://d11yldzmag5yn.cloudfront.net/prod/4.4.53582.0519/Zoom.pkg",
+    "download": "https://www.zoom.us/client/4.4.53582.0519/zoomusInstaller.pkg",
     "sha256": "28b20c70d924b51a8a6c9c143de905e6f13399298faa6e1ba39d092a70d22693",
     "appcast": {
       "url": "https://support.zoom.us/hc/en-us/articles/201361963-New-Updates-for-Mac-OS",
-      "checkpoint": "72c467d6388babebc5d97f48a33e18c20ff7228a660bf2f00bdcdff252a4f052"
+      "checkpoint": "c4ece2693f6d64ac97f237dfc501e710f3916f437d27e80736fd00fae4cf8741"
     },
     "version": "4.4.53582.0519",
     "build": null,
