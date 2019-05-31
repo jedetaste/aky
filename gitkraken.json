@@ -6,8 +6,8 @@
     "download": "https://release.gitkraken.com/darwin/GitKraken-v5.0.4.zip",
     "sha256": "16bdd399bcd75ac4d48e639eecfd0b583efab0482882757e241987d85e0b9b41",
     "appcast": {
-      "url": "https://support.gitkraken.com/release-notes/current",
-      "checkpoint": "ec37d6d5f56e1640320ae1468eec84cda77ad1dc3a82aabfebbf3a26549aee2d"
+      "url": "https://support.gitkraken.com/release-notes/current/",
+      "checkpoint": "d1143fd7d1462f7550289cab4e6fb70de3915757a9b0a366acd02f839213ea74"
     },
     "version": "5.0.4",
     "build": null,
