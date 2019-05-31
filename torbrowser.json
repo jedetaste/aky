@@ -4,12 +4,12 @@
     "bundle": "Tor Browser.app",
     "identifier": "org.torproject.torbrowser",
     "download": "https://dist.torproject.org/torbrowser/8.5/TorBrowser-8.5-osx64_de.dmg",
-    "sha256": "14f278e4c565221b0822261e024b9282042903df631863b50e3b27211b1425b7",
+    "sha256": "5b3f3eb5c6c033f3d03e0d46db49b1d223eae48dac0266f4f0ee423d6b5d8867",
     "appcast": {
       "url": "https://dist.torproject.org/torbrowser/",
-      "checkpoint": "14f278e4c565221b0822261e024b9282042903df631863b50e3b27211b1425b7"
+      "checkpoint": "3ac93b642e7fe9c39d4d0dad1acd0e8fef0ecb1489c05a61be28f1785add5602"
     },
-    "version": "8.0.9",
+    "version": "8.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
