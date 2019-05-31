@@ -1,15 +1,15 @@
 {
   "recipe": {
     "id": "alfred",
-    "bundle": "Alfred 3.app",
-    "identifier": "com.runningwithcrayons.Alfred-3",
-    "download": "https://cachefly.alfredapp.com/Alfred_3.8.1_961.dmg",
-    "sha256": "9eb1c72910357775b6684f27b189533645f9d65fce57c7e4dad247042afb6621",
+    "bundle": "Alfred 4.app",
+    "identifier": "com.runningwithcrayons.Alfred-4",
+    "download": "https://cachefly.alfredapp.com/Alfred_4.0.1_1078.dmg",
+    "sha256": "c77fe23d9cd2987b5f49d84cc2e5e50972c8c37f0df9c88f01ff29ac2881a5a3",
     "appcast": {
       "url": "https://www.alfredapp.com/app/update/general.xml",
-      "checkpoint": "47cb0a89f50826859e0690f6c0cbb8489172f95e07dce1354f5119427b4ceccc"
+      "checkpoint": "8d7251ebbe225e2712554bc8719ca40271147134f4f40ce75937025c39dd8388"
     },
-    "version": "3.8.1",
+    "version": "4.0.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
