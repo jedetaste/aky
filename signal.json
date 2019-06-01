@@ -3,13 +3,13 @@
     "id": "signal",
     "bundle": "Signal.app",
     "identifier": "org.whispersystems.signal-desktop",
-    "download": "https://updates.signal.org/desktop/signal-desktop-mac-1.25.0.zip",
-    "sha256": "713439d8c9d0aff4419c7235462e89f10129f31016fc1456ee92b70e96a6c70b",
+    "download": "https://updates.signal.org/desktop/signal-desktop-mac-1.25.1.zip",
+    "sha256": "b8e2b2be6ae492d122ff69418308ac2449a209a3cafcfdda7412b00415362e22",
     "appcast": {
       "url": "https://github.com/signalapp/Signal-Desktop/releases.atom",
-      "checkpoint": "877cc591688006c079138cce483180a70d469d5c9f2db4b6d6e74c4e6f970823"
+      "checkpoint": "8b07f1a571eed0a01c7a5676fe108b9f1dcc5eaaf2812acad43b5b4afe84006b"
     },
-    "version": "1.25.0",
+    "version": "1.25.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
