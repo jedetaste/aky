@@ -3,14 +3,14 @@
     "id": "firefoxdeveloperedition-en",
     "bundle": "Firefox Developer Edition.app",
     "identifier": "org.mozilla.firefoxdeveloperedition",
-    "download": "https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=osx&lang=en-US",
-    "sha256": "95e094de80f57777d7b1672814480da30723e046e20fec6a5dc74964a353ffcb",
+    "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/68.0b6/mac/en-US/Firefox%2068.0b6.dmg",
+    "sha256": "f1d116491a55ec077c84eedb7f09093471a8e220fe693a3672684d6470bec101",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
     "version": null,
-    "build": "6819.5.27",
+    "build": "6819.5.29",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.mozilla.org/firefox/developer/"
