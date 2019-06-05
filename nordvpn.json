@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "nordvpn",
+    "bundle": "NordVPN.app",
+    "identifier": "com.nordvpn.osx",
+    "download": "https://downloads.nordcdn.com/apps/macos/generic/NordVPN-OpenVPN/latest/NordVPN.pkg",
+    "sha256": "a2222671edc07b50b33a10ad7933d17de93efc4fc80596d512fc08cd11c3b54f",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.12.9",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://nordvpn.com/"
+  }
+}
