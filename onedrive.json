@@ -6,8 +6,8 @@
     "download": "https://oneclient.sfx.ms/Mac/Direct/19.062.0331.0009/OneDrive.pkg",
     "sha256": "52a2821acc5ee232fc47486d0747f5b3786b251cbfd1a14759564af00e348aaa",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://go.microsoft.com/fwlink/?LinkId=823060",
+      "checkpoint": "1f8631cf0ccc35797d0ffceb28e213b18d782056ad996ccb27364895de87f25d"
     },
     "version": "19.062.0331",
     "build": null,
