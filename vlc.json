@@ -3,13 +3,13 @@
     "id": "vlc",
     "bundle": "VLC.app",
     "identifier": "org.videolan.vlc",
-    "download": "https://get.videolan.org/vlc/3.0.6/macosx/vlc-3.0.6.dmg",
-    "sha256": "0c807a2e352fd6fe7e591fe01a7a53794b7d817e1e1eda3f673df06f26db27d5",
+    "download": "https://get.videolan.org/vlc/3.0.7/macosx/vlc-3.0.7.dmg",
+    "sha256": "30c445de9031f7229291810d9b8ff07dbadd673e75ff80e7a1b512a75204454f",
     "appcast": {
       "url": "https://update.videolan.org/vlc/sparkle/vlc-intel64.xml",
       "checkpoint": "d7e5b2e74bbd376e56e488363278a8295340fa0e650d0e2d2aa4e2b07b602eb3"
     },
-    "version": "3.0.6",
+    "version": "3.0.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
