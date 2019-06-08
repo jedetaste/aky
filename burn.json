@@ -3,8 +3,8 @@
     "id": "burn",
     "bundle": "Burn.app",
     "identifier": "com.kiwifruitware.Burn",
-    "download": "https://netcologne.dl.sourceforge.net/project/burn-osx/Burn/2.5.1/burn251.zip",
-    "sha256": "e82d2b7ef6a99e5a139706ff4e360659830d618ab8743e4b55ec80cdcdc97596",
+    "download": "https://downloads.sourceforge.net/burn-osx/Burn/2.5.1/burn251-64bit.zip",
+    "sha256": "496b460f09177580c5a3400448c0e399954105147baf1e6fff3fa14dc58031f7",
     "appcast": {
       "url": "https://sourceforge.net/projects/burn-osx/rss?path=/Burn",
       "checkpoint": "beba57bd08a2204b74e12d2ef99768cfef0cbd9c605dee8befd527ec2d994510"
