@@ -3,7 +3,7 @@
     "id": "jamfproswitcher",
     "bundle": "Jamf Pro Switcher.app",
     "identifier": "com.ninxsoft.jamfproswitcher",
-    "download": "https://github.com/ninxsoft/JamfProSwitcher/releases/download/1.0/Jamf.Pro.Switcher.1.0.dmg",
+    "download": "https://github.com/ninxsoft/JamfProSwitcher/releases/download/v1.0/JamfProSwitcher-1.0.dmg",
     "sha256": "2ef6a9f8350ac6701000dc777dfbd4398a854836934bdcdf61014cbf8854db66",
     "appcast": {
       "url": "https://github.com/ninxsoft/JamfProSwitcher/releases.atom",
