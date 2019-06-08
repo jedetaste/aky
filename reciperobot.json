@@ -4,7 +4,7 @@
     "bundle": "Recipe Robot.app",
     "identifier": "com.elliotjordan.recipe-robot",
     "download": "https://github.com/homebysix/recipe-robot/releases/download/v1.1.2/RecipeRobot-1.1.2.dmg",
-    "sha256": "8d31c4fdaffca24547ad4ac1c22a2e23964cc9ed946fd91c270345a3d81fc604",
+    "sha256": "b16dabc86fd1276fce0dbd2073e525ec86e57c423d7014f89098ceab2551c5b0",
     "appcast": {
       "url": "https://github.com/homebysix/recipe-robot/releases.atom",
       "checkpoint": "bb7b4b4bb7dec9308ab40cda0e940592317c43deda773429ccaa95feb855595f"
