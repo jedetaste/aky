@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "scratch",
+    "bundle": "Scratch Desktop.app",
+    "identifier": "edu.mit.scratch.scratch-desktop",
+    "download": "https://downloads.scratch.mit.edu/desktop/Scratch%20Desktop-3.3.0.dmg",
+    "sha256": "e1cfa639dd796f0ac3c0cd4743c90396a10a80c82ca0f3cfc08ea514ebe3d5bf",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.3.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://scratch.mit.edu/download"
+  }
+}
