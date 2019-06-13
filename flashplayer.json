@@ -6,8 +6,8 @@
     "download": "https://fpdownload.adobe.com/pub/flashplayer/updaters/32/flashplayer_32_sa.dmg",
     "sha256": "1a5a09aa128babf0009806d3b9c1ce42633073539099d7a6dee80403ee58f972",
     "appcast": {
-      "url": "https://fpdownload.adobe.com/pub/flashplayer/update/current/xml/version_en_mac_pl.xml",
-      "checkpoint": "b4dd480ad1897683cf2d2c5678ce21889e742d2a88c6e12c028bad85a4acccfc"
+      "url": null,
+      "checkpoint": null
     },
     "version": "32.0.0.192",
     "build": null,
