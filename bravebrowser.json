@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "bravebrowser",
+    "bundle": "Brave Browser.app",
+    "identifier": "com.brave.Browser",
+    "download": "https://github.com/brave/brave-browser/releases/download/v0.65.118/Brave-Browser.dmg",
+    "sha256": "2b038abe5929d80131c984470a268f8280b74db62ff66adc906f4cbd50e88875",
+    "appcast": {
+      "url": "https://updates.bravesoftware.com/sparkle/Brave-Browser/stable/appcast.xml",
+      "checkpoint": "653e8e770bb38c489761c148896a80224ed8bb405b5c6b61216cf6464c5c80ce"
+    },
+    "version": null,
+    "build": "65.118",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://brave.com/"
+  }
+}
