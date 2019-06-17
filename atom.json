@@ -3,13 +3,13 @@
     "id": "atom",
     "bundle": "Atom.app",
     "identifier": "com.github.atom",
-    "download": "https://github.com/atom/atom/releases/download/v1.38.0/atom-mac.zip",
-    "sha256": "20b160cce51aa8e94ea3f03f99e08ff278d5c2b8ef85f35062e7713b26806163",
+    "download": "https://github.com/atom/atom/releases/download/v1.38.1/atom-mac.zip",
+    "sha256": "c33645cb4fa275ada3b71841496e3a7841c56e92536f14f9739c5a498e8c162f",
     "appcast": {
       "url": "https://github.com/atom/atom/releases.atom",
-      "checkpoint": "2fb3e693ef28f7c651f210aaa9f4ce36461246a6232dc8918a06ff1e3d15bf99"
+      "checkpoint": "6a381966767e0280e96a9c1895fbc56ed55ecb4e83c372af11c7ccca6ecdd3b2"
     },
-    "version": "1.38.0",
+    "version": "1.38.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
