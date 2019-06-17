@@ -3,7 +3,7 @@
     "id": "scribus",
     "bundle": "Scribus.app",
     "identifier": "net.scribus",
-    "download": "https://netcologne.dl.sourceforge.net/project/scribus/scribus/1.4.8/scribus-1.4.8.dmg",
+    "download": "https://downloads.sourceforge.net/scribus/scribus/1.4.8/scribus-1.4.8.dmg",
     "sha256": "9626c35ca5de5da59ac983efac3572318d327b3a921522c9f80a525b039a0af5",
     "appcast": {
       "url": "https://sourceforge.net/projects/scribus/rss?path=/scribus",
