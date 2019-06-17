@@ -3,13 +3,13 @@
     "id": "gimp",
     "bundle": [ "GIMP-2.10.app", "GIMP.app" ],
     "identifier": "org.gnome.gimp",
-    "download": "https://download.gimp.org/pub/gimp/v2.10/osx/gimp-2.10.10-x86_64.dmg",
-    "sha256": "343beabe02de11b1988c13d1157a732fbb6edf32f7f10b3654c780a75b729bed",
+    "download": "https://download.gimp.org/pub/gimp/v2.10/osx/gimp-2.10.12-x86_64.dmg",
+    "sha256": "8b964ad3dbbe31d0fa48fb834aa4c17fc0eb81becbc4595a57b04e3d4fc6efeb",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.10.10",
+    "version": "2.10.12",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
