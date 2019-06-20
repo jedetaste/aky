@@ -6,8 +6,8 @@
     "download": "https://dist.torproject.org/torbrowser/8.5.1/TorBrowser-8.5.1-osx64_en-US.dmg",
     "sha256": "1e39adad795936ec8186e91278c5e7ce8ea3cfe6be54a6acbb70951c1a5ff01d",
     "appcast": {
-      "url": "https://dist.torproject.org/torbrowser/",
-      "checkpoint": "11d10e14e7830d2d7ce9a85cf20aeb3f8278c4e3b54219cb31c0f84888352e43"
+      "url": null,
+      "checkpoint": null
     },
     "version": "8.5.1",
     "build": null,
