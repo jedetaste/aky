@@ -4,12 +4,12 @@
     "bundle": "Merlin Project 5.app",
     "identifier": "net.projectwizards.merlinproject",
     "download": "https://www.projectwizards.net/downloads/MerlinProject.zip",
-    "sha256": "89a7c7ad15e0dc4b0501d372c3a96a263a39928c478650f5b03fd9e27afca902",
+    "sha256": "be02d779b7a08e2839b0c763ac29b70825e883e407adac8670e2e5be2825c8f1",
     "appcast": {
       "url": "https://www.projectwizards.net/en/support/release-notes/merlin-project-pwstore/xml",
-      "checkpoint": "ea81a23dd98d63bb0d9e2921b598c4f53b871d6dc0b33e236b5dd5d57b711aaa"
+      "checkpoint": "37e257bb60d3414a7c094f7ce0457598b09d075d4f74b2cf4274d7d347d58471"
     },
-    "version": "5.1.6",
+    "version": "5.1.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
