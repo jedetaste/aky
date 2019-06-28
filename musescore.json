@@ -3,14 +3,14 @@
     "id": "musescore",
     "bundle": "MuseScore 3.app",
     "identifier": "org.musescore.MuseScore",
-    "download": "https://github.com/musescore/MuseScore/releases/download/v3.2/Musescore-3.2.0.dmg",
-    "sha256": "118b9a814a7014931686995bcd46e4246611905939bbdd00a6c5471152d93445",
+    "download": "https://github.com/musescore/MuseScore/releases/download/v3.2.1/Musescore-3.2.1.zip",
+    "sha256": "d9d6314cf64975629112d447cda714622b8b8e4a065ad49c672c9751d990346e",
     "appcast": {
       "url": "https://sparkle.musescore.org/stable/3/macos/appcast.xml",
-      "checkpoint": "4877a63cc9dc9a8f164d0b50130883406a1cdf03cfddfdddc8f866bba17a0bd4"
+      "checkpoint": "5c1e761ed0e5b919389e406181b9cde289fed438823347a4fe06934a4ebc6f8e"
     },
     "version": null,
-    "build": "3.2.0",
+    "build": "3.2.1",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://musescore.org/"
