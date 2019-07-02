@@ -3,13 +3,13 @@
     "id": "touche",
     "bundle": "Touché.app",
     "identifier": "com.red-sweater.touche",
-    "download": "https://red-sweater.com/touche/Touch%C3%A91.1.3.zip",
-    "sha256": "787494f695f33b2f1eb9ccfc522f7bbc5bc8aae72d393e1948b29e0b6b4a3ddd",
+    "download": "https://red-sweater.com/touche/Touche1.1.4.zip",
+    "sha256": "275a2885214befd088fe20707f306d3ad1743cf8181334ed4ef976391fff6c7f",
     "appcast": {
       "url": "https://red-sweater.com/touche/appcast.php",
-      "checkpoint": "15e941b8505a80f53abad2144a4d4032f1ef76f679ccc50f956ffebe18f97c10"
+      "checkpoint": "1ec530e1da7bf72d7cc2fa7d98552903149b44ea533c83170c01de337d8ca3b2"
     },
-    "version": "1.1.3",
+    "version": "1.1.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
