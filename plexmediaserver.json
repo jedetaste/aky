@@ -3,13 +3,13 @@
     "id": "plexmediaserver",
     "bundle": "Plex Media Server.app",
     "identifier": "com.plexapp.plexmediaserver",
-    "download": "https://downloads.plex.tv/plex-media-server-new/1.16.0.1226-7eb2c8f6f/macos/PlexMediaServer-1.16.0.1226-7eb2c8f6f-x86_64.dmg",
-    "sha256": "ba4d3a34aeb85e287258a07e87608cb2117aec74b257993a30c87f723b1e553a",
+    "download": "https://downloads.plex.tv/plex-media-server-new/1.16.1.1291-158e5b199/macos/PlexMediaServer-1.16.1.1291-158e5b199-x86_64.dmg",
+    "sha256": "cdcc13d67ca242b167aa853fa49ae68248e6fe0cc91e3e9e9c51c85ec9e6aa6c",
     "appcast": {
       "url": "https://plex.tv/api/downloads/5.json",
-      "checkpoint": "d5dc834a0aee9c9bc0305596ac57a2f2c421fc3f895bccb7b4b148ffa80a53ef"
+      "checkpoint": "b6b24fafd679d8e069dbfd084927124e845ea3186ed9dfa2cf9fe5e38d837158"
     },
-    "version": "1.16.0",
+    "version": "1.16.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
