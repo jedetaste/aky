@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "thymiosuite",
+    "bundle": "ThymioSuite.app",
+    "identifier": "org.mobsya.ThymioLauncher",
+    "download": "https://www.thymio.org/thymio-software/ThymioSuite-beta2.dmg",
+    "sha256": "659599c71e5736d520a45e3db9d8c6a1324aefa905047a0a8b3efd906da40ce9",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.0.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.thymio.org/thymio-suite/"
+  }
+}
