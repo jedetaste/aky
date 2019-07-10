@@ -3,13 +3,13 @@
     "id": "zoom",
     "bundle": "zoom.us.app",
     "identifier": "us.zoom.xos",
-    "download": "https://www.zoom.us/client/4.4.53909.0617/zoomusInstaller.pkg",
-    "sha256": "28f45c74dd1161994865e08fba7b0e83166e00225fe09b599df849612136033c",
+    "download": "https://www.zoom.us/client/4.4.53932.0709/zoomusInstaller.pkg",
+    "sha256": "806ae2938dda9d5ff9dd1250561346ff29eab015a7bd03add44257b0a611b3a9",
     "appcast": {
       "url": "https://support.zoom.us/hc/en-us/articles/201361963-New-Updates-for-Mac-OS",
-      "checkpoint": "04118e2f592c24133e0266a81f08ffd35d8a9e156b90fbaf78eb4152ded48dac"
+      "checkpoint": "5a14cd270f65415c28e063c3802d9bab5dbc84ac469bc529225007949097fc85"
     },
-    "version": "4.4.53909.0617",
+    "version": "4.4.53932.0709",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
