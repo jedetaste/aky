@@ -3,13 +3,13 @@
     "id": "rhinoceros",
     "bundle": "Rhinoceros.app",
     "identifier": "com.mcneel.rhinoceros",
-    "download": "http://files.mcneel.com/Releases/Rhino/5.0/Mac/Rhinoceros_5.5.3.dmg",
-    "sha256": "6464801a959fd7528ba386c02d244add6abf457da4558059ebc66acd731ff327",
+    "download": "https://files.mcneel.com/Releases/Rhino/5.0/Mac/Rhinoceros_5.5.4.dmg",
+    "sha256": "385af9460b669a8e34296f1194c04f274e11b8e2aea3dd234498a0c729f00e73",
     "appcast": {
       "url": "https://files.mcneel.com/rhino/5.0/mac/5CcommercialUpdates.xml",
-      "checkpoint": "22bba46188b8760f6948f7c8ff1210410d921e9b19fb7f23e09e586410a05510"
+      "checkpoint": "4d1a028103269cb9d498e69bdba96e783e67b4554e6ccda3fd420e1a5e234957"
     },
-    "version": "5.5.3",
+    "version": "5.5.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
