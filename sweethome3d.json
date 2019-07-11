@@ -3,13 +3,13 @@
     "id": "sweethome3d",
     "bundle": "Sweet Home 3D.app",
     "identifier": "com.eteks.sweethome3d.SweetHome3D",
-    "download": "https://downloads.sourceforge.net/sweethome3d/SweetHome3D/SweetHome3D-6.1.2/SweetHome3D-6.1.2-macosx.dmg",
-    "sha256": "32dd2d8c9d5358c09eca89f59b06e0238373127b0d4f86d54a079e41703fb9ad",
+    "download": "https://downloads.sourceforge.net/sweethome3d/SweetHome3D/SweetHome3D-6.2/SweetHome3D-6.2-macosx.dmg",
+    "sha256": "8a3f1267c4c690c931979e9dca7f0e7739333750256e7f9fbda940f9555a6b8a",
     "appcast": {
       "url": "https://sourceforge.net/projects/sweethome3d/rss?path=/SweetHome3D",
-      "checkpoint": "0daf6b2beb291d9537e1ee534d57184599e02d91b0e263cd8559fa6d0d1d89d2"
+      "checkpoint": "297d032ff805f7a7acfbd2978be0f93cb87bcff95e6a12ad6abc26c60cab5061"
     },
-    "version": "6.1.2",
+    "version": "6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
