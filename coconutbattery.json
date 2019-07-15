@@ -3,13 +3,13 @@
     "id": "coconutbattery",
     "bundle": "coconutBattery.app",
     "identifier": "com.coconut-flavour.coconutBattery",
-    "download": "https://www.coconut-flavour.com/downloads/coconutBattery_3.7.2.zip",
-    "sha256": "3b625ec12c193091615e001a6a9ee879bcb9231deb0df7302a7c6d3006730e6a",
+    "download": "https://coconut-flavour.com/downloads/coconutBattery_3.8.zip",
+    "sha256": "9380f6dbd777e1a38d4736122e3426ceb7b5acac5489df4dfeebe6026a6b9a03",
     "appcast": {
-      "url": "https://coconut-flavour.com/updates/coconutBattery.xml",
-      "checkpoint": "cb18c46e3c96a2fc33ffe0aed009aea2ffebd4f85021d8b6a6b48b1e5a9bbf00"
+        "url": "https://coconut-flavour.com/updates/coconutBattery.xml",
+      "checkpoint": "7acfd100b75103a04449ab794b9b25e776107e863ce5bc285c12690687efcc17"
     },
-    "version": "3.7.2",
+    "version": "3.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
