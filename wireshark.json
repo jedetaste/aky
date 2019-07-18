@@ -3,13 +3,13 @@
     "id": "wireshark",
     "bundle": "Wireshark.app",
     "identifier": "org.wireshark.Wireshark",
-    "download": "https://www.wireshark.org/download/osx/Wireshark%203.0.1%20Intel%2064.dmg",
-    "sha256": "78bd0568251d95f42f3ea60cfc4d2e8e14bb76745c10cafec418f5fa0943cf64",
+    "download": "https://1.eu.dl.wireshark.org/osx/Wireshark%203.0.3%20Intel%2064.dmg",
+    "sha256": "71d0196e7368715958598c8286f5219eb24fad08acf1cfe9186ef19d29e04ae9",
     "appcast": {
       "url": "https://www.wireshark.org/download/osx/",
-      "checkpoint": "97c51f152d63ab98b104b550bfab25f8f2a627e50042d335ba3e67c11f6d4c2f"
+      "checkpoint": "02d74c94bfeb53b57625b939e525f35bb2785efb1b211a62eb84646b8ffc1d11"
     },
-    "version": "3.0.2",
+    "version": "3.0.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
