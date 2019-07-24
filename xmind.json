@@ -3,14 +3,14 @@
     "id": "xmind",
     "bundle": "XMind.app",
     "identifier": "org.xmind.cathy.application",
-    "download": "http://dl2.xmind.net/xmind-downloads/xmind-8-update8-macosx.dmg",
-    "sha256": "95cc8d8950e8b10fa60a831cc5b3e33da17932336320f0f803cfae94cc1f814e",
+    "download": "https://dl3.xmind.net/XMind-ZEN-Update-2019-for-macOS-9.2.1-201906120058.dmg",
+    "sha256": "a9ab7496256a2dfc9b96cc2d26dca41a93b566e8e47e674ac7539a3510d982a7",
     "appcast": {
       "url": "https://www.xmind.net/download/xmind8/",
-      "checkpoint": "b94db193c28584b35ceba1acaf7b6ff2d11af5ff8311101787c46d9e3624840a"
+      "checkpoint": "ca1609fb3ad4122b9e1c73f69f67130cdfa62c2802e480471acba61639e58839"
     },
     "version": null,
-    "build": "3.7.8.201807240049",
+    "build": "9.2.1-201906120058",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.xmind.net/"
