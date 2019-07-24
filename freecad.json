@@ -3,14 +3,14 @@
     "id": "freecad",
     "bundle": "FreeCAD.app",
     "identifier": null,
-    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.18.2/FreeCAD_0.18-16117-OSX-x86_64-conda-Qt5-Py3.dmg",
-    "sha256": "8ca8085379eaf4903fafa808c313e4b9659be846454597d27fd54184f71a8369",
+    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.18.3/FreeCAD_0.18-16131-OSX-x86_64-conda-Qt5-Py3.dmg",
+    "sha256": "c9a0765940b2d8051f9e2544410be551f5892a1430e170324117f70b8fb655f4",
     "appcast": {
       "url": "https://github.com/FreeCAD/FreeCAD/releases.atom",
-      "checkpoint": "131c31dcbddef37e0b1c68adcb2c7b565d12d4251f33663db3324ca058774e30"
+      "checkpoint": "e4d1b00e975bbb759d864dcc663e3fd5bbc0cff0cff81356062af3478515ab39"
     },
     "version": null,
-    "build": "0.18-16117",
+    "build": "0.18-16131",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.freecadweb.org/"
