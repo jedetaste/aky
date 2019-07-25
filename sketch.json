@@ -3,13 +3,13 @@
     "id": "sketch",
     "bundle": "Sketch.app",
     "identifier": "com.bohemiancoding.sketch3",
-    "download": "https://download.sketchapp.com/sketch-56-81588.zip",
-    "sha256": "6a336694ba5a6e25a5a9bee845899b00f71fff3732c7a450ce3a30b66ac398cd",
+    "download": "https://download.sketchapp.com/sketch-56.2-81672.zip",
+    "sha256": "ed7544934296f055dd34ded1bfdc8f8ca0a4b70100293ac6e916e4173fde6d92",
     "appcast": {
       "url": "https://download.sketchapp.com/sketch-versions.xml",
-      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "checkpoint": "9f186fa20a4b37ac27b79b70064d47cc862a3536f1abb02982c30daca20f7370"
     },
-    "version": "56",
+    "version": "56.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
