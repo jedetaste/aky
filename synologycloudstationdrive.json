@@ -6,8 +6,8 @@
     "download": "https://global.download.synology.com/download/Tools/CloudStationDrive/4.3.1-4437/Mac/Installer/synology-cloud-station-drive-4437.dmg",
     "sha256": "e3c890d6e959c61012fd6a1f709181e21054efb584fa79ce4c9c940e33993093",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.synology.com/de-de/releaseNote/NoteStationClient",
+      "checkpoint": "411fbf91064f16d1ba337a68ad59f2747db36b19551b1dac3c6d4646e5ef771b"
     },
     "version": "4.3.1",
     "build": null,
