@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "eaglefiler",
+    "bundle": "EagleFiler.app",
+    "identifier": "com.c-command.EagleFiler",
+    "download": "https://c-command.com/downloads/EagleFiler-1.8.8.dmg",
+    "sha256": "959150aa38a6c3f63cec43840bf9190f97645702f26efd3b14d17bd46bb7ba63",
+    "appcast": {
+      "url": "https://c-command.com/eaglefiler/help/version-history",
+      "checkpoint": "d98c246a8be13fb0c74e0c51e6b5553bf86a49704a885a64d19f595063a19107"
+    },
+    "version": "1.8.8",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://c-command.com/eaglefiler/"
+  }
+}
