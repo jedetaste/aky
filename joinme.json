@@ -3,7 +3,7 @@
     "id": "joinme",
     "bundle": "join.me.app",
     "identifier": "com.logmein.join.me",
-    "download": "https://www.join.me/download.aspx?installer=pkg",
+    "download": "https://secure.join.me/Download.aspx?installer=mac&webdownload=true",
     "sha256": null,
     "appcast": {
       "url": null,
