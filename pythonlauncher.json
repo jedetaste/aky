@@ -3,13 +3,13 @@
     "id": "pythonlauncher",
     "bundle": "Python Launcher.app",
     "identifier": "org.python.PythonLauncher",
-    "download": "https://www.python.org/ftp/python/3.7.3/python-3.7.3-macosx10.9.pkg",
-    "sha256": "ecca0dd496cf06a0c0bc739e1a2fcec68c86eb79580fe4524c49c6f22246dd3d",
+    "download": "https://www.python.org/ftp/python/3.7.4/python-3.7.4-macosx10.9.pkg",
+    "sha256": "9c7771bc539c619e47aed34074d07d67abb80013610754a561bbc40d70eefe5b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.7.3",
+    "version": "3.7.4",
     "build": null,
     "dir": "/Applications/Python 3.7",
     "symlink": null,
