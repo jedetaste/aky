@@ -3,13 +3,13 @@
     "id": "onedrive",
     "bundle": "OneDrive.app",
     "identifier": "com.microsoft.OneDrive",
-    "download": "https://oneclient.sfx.ms/Mac/Direct/19.103.0527.0003/OneDrive.pkg",
-    "sha256": "c84a03d3a7de1a49d86462ccac609282c2fb51a09524a71254822105067d0c98",
+    "download": "https://oneclient.sfx.ms/Mac/Direct/19.123.0624.0005/OneDrive.pkg",
+    "sha256": "b6a97130e448e642b2482a889eb5d322fd714443181bf614616c5185eef944fb",
     "appcast": {
       "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://go.microsoft.com/fwlink/?LinkId=823060",
-      "checkpoint": "1f4e38a260b9d562036237250fcb9b4b6998f0d505132432cc9268524bf2dbd2"
+      "checkpoint": "6278efc55fbd3e12e071b469e63750afa60fa93a76e1df6c035bd58d91710f55"
     },
-    "version": "19.103.0527",
+    "version": "19.123.0624",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
