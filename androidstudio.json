@@ -3,13 +3,13 @@
     "id": "androidstudio",
     "bundle": "Android Studio.app",
     "identifier": "com.google.android.studio",
-    "download": "https://dl.google.com/dl/android/studio/install/3.4.2.0/android-studio-ide-183.5692245-mac.dmg",
-    "sha256": "8e3592438bf7c489eeb00f802b2727241ddafa77451d32a9b82ee76ec3437356",
+    "download": "https://dl.google.com/dl/android/studio/install/3.5.0.21/android-studio-ide-191.5791312-mac.dmg",
+    "sha256": "be3a0b809f4c3e6c588d4c3019f0a9062882ffab8440942bd23ebce7effa4989",
     "appcast": {
       "url": "https://dl.google.com/android/studio/patches/updates.xml",
-      "checkpoint": "0904213cf1d3719a7353da523dbf6b7a138e9908941471ebe12f39b136da14bd"
+      "checkpoint": "15d935531c87229a017cbb3705c5208a13c13bf0302bd477fb2ef345df1ecfe5"
     },
-    "version": "3.4.2",
+    "version": "3.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
