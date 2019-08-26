@@ -3,13 +3,13 @@
     "id": "microsoftremotedesktop",
     "bundle": "Microsoft Remote Desktop.app",
     "identifier": "com.microsoft.rdc.macos",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Desktop_10.2.9_installer.pkg",
-    "sha256": "ffed37daf89803c40f59e61a539d4e0a347ac2dee7070a523b44cf69bb9221cd",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Desktop_10.2.13_installer.pkg",
+    "sha256": "25dbab99e53192c1e65e0eed8a9ece248bc1d4613d6c36af64fcb34104370c57",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "10.2.9",
+    "version": "10.2.13",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
