@@ -3,13 +3,13 @@
     "id": "anki",
     "bundle": "Anki.app",
     "identifier": "net.ankiweb.dtop",
-    "download": "https://apps.ankiweb.net/downloads/current/anki-2.1.14-mac.dmg",
-    "sha256": "1d2d7fdcfcd26288805250f8c08b19a6e53463165aff834d4740f3560ed63f76",
+    "download": "https://apps.ankiweb.net/downloads/current/anki-2.1.15-mac.dmg",
+    "sha256": "0e4a38930984aee1ff8f6bdf7c81b2a08c78d159592fd304a1e173270de19a50",
     "appcast": {
       "url": "https://apps.ankiweb.net/docs/changes.html",
-      "checkpoint": "9a64456789fa15344d3b230d6ebbf6d902adceb1047a843240b8319b8cf92a2e"
+      "checkpoint": "c418a61ce0322d73c10f2d9d6148bbe405af03c47abab9d5c4b477d860871afe"
     },
-    "version": "2.1.14",
+    "version": "2.1.15",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
