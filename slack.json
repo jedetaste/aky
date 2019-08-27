@@ -3,11 +3,11 @@
     "id": "slack",
     "bundle": "Slack.app",
     "identifier": "com.tinyspeck.slackmacgap",
-    "download": "https://downloads.slack-edge.com/mac_releases/Slack-4.0.2-macOS.dmg",
-    "sha256": "a1d86629b6a400c4b62cc58e1c397b81a38621f0ed25ac42cda855b89e4077e1",
+    "download": "https://downloads.slack-edge.com/mac_releases/Slack-4.0.2-macOS.zip",
+    "sha256": "6919cf2c3431f9eb47c5be95997f8847f896d677f5e1fb80d4c4ce28193ab34e",
     "appcast": {
-      "url": "https://downloads.slack-edge.com/mac_releases/releases.json",
-      "checkpoint": "be868fbb96b2a5b7995e278f3037186e63b617af2a90d8d008a2696ed3cf97cf"
+      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://slack.com/ssb/download-osx",
+      "checkpoint": "32d6bf3e39e3c800bb9197d943778f08c944c4cac2932b3dccb474cffc1e4f7b"
     },
     "version": "4.0.2",
     "build": null,
