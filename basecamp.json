@@ -4,12 +4,12 @@
     "bundle": "Basecamp 3.app",
     "identifier": "com.basecamp.basecamp3",
     "download": "https://bc3-desktop.s3.amazonaws.com/mac/basecamp3.dmg",
-    "sha256": "9465d9c2752e1edcd5063b7b7cbd16a9060d63e58bdc8ff5ecbbb7e6062db7bb",
+    "sha256": "9e6f8257942eb0e284048781473f3af7c0bb8cb5fc991ec3ec226fc045216763",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.11.1",
+    "version": "2.0.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
