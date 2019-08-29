@@ -4,12 +4,12 @@
     "bundle": "MakerBot Print.app",
     "identifier": "com.makerbot.MakerBot Print",
     "download": "https://s3.amazonaws.com/downloads-makerbot-com/installer/release/MakerBotPrintInstaller.pkg",
-    "sha256": "95283d716b29c7699664aa91d89c84f61c398b05e8141625c8ff7785b6b28d61",
+    "sha256": "93fb6b92d866b90def01488c4e4a54c1fefe1f8f73cd28c6bf5d0b21f4241cb4",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "8.2.0",
+    "version": "8.3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
