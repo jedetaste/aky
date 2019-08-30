@@ -3,7 +3,7 @@
     "id": "thunderbird-en",
     "bundle": "Thunderbird.app",
     "identifier": "org.mozilla.thunderbird",
-    "download": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/60.8.0/mac/en-US/Thunderbird%2060.8.0.dmg",
+    "download": "https://ftp.mozilla.org/pub/thunderbird/releases/60.8.0/mac/en-US/Thunderbird%2060.8.0.dmg",
     "sha256": "2b58d6e8fe73df5b95110c56df72dd8c20961254cbb76ace42bb126557fa3bdd",
     "appcast": {
       "url": null,
