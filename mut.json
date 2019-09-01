@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "themut",
+    "bundle": "MUT.app",
+    "identifier": "com.jssmut.jssmut",
+    "download": "http://m-lev.com/uploads/TheMUT_5_0_5.dmg",
+    "sha256": "03824a46952468555a8d6cdfe98184d2d48b2d65548444a9275ef31fd9ca6902",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "5.0.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://jssmut.weebly.com/"
+  }
+}
