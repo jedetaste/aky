@@ -3,13 +3,13 @@
     "id": "zoom",
     "bundle": "zoom.us.app",
     "identifier": "us.zoom.xos",
-    "download": "https://www.zoom.us/client/4.5.3261.0825/zoomusInstaller.pkg",
-    "sha256": "5b6f44e43860e4a7c10473d475da717dcb47f67f0b3a4e18cf23c0fcc2f56a98",
+    "download": "https://www.zoom.us/client/4.5.3284.0829/zoomusInstaller.pkg",
+    "sha256": "6e14f629762173e1657750885060e2c81036e899d2ec4b1ec607ddd2d91fdba0",
     "appcast": {
       "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://zoom.us/client/latest/Zoom.pkg",
-      "checkpoint": "9472be1fa15a5c6c51335aacdd2a941755de92b573bcd06601808a0b107a28d0"
+      "checkpoint": "cbc647ab09f07a43638044465e6921a8f85b47fb9acf623ea7833ba8d069d157"
     },
-    "version": "4.5.3261.0825",
+    "version": "4.5.3284.0829",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
