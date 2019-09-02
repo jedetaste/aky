@@ -3,14 +3,14 @@
     "id": "4kvideodownloader",
     "bundle": "4K Video Downloader.app",
     "identifier": "com.openmedia.4kvideodownloader",
-    "download": "https://dl.4kdownload.com/app/4kvideodownloader_4.8.2.dmg",
-    "sha256": "74991a4c0bd0ff0bd1f90119c16132bc8e113cddd8eafc722c260c9f80337e5f",
+    "download": "https://dl.4kdownload.com/app/4kvideodownloader_4.9.0.dmg",
+    "sha256": "4c3fed2388b2d5bc50f34bdee6fbbf002c14d877c9e24d8aa1cd99c4d9fda483",
     "appcast": {
       "url": "https://www.4kdownload.com/download",
-      "checkpoint": "ec57c0ee0e4edc62c86b7223d4c0e3c72105794890490f662a25084d51b53c78"
+      "checkpoint": "99f1ad1b897f2650dfc668cbeaf480b833306ee420d0bdf055ce92f408a9b1b8"
     },
     "version": null,
-    "build": "4.8.2",
+    "build": "4.9.0",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.4kdownload.com/products/product-videodownloader"
