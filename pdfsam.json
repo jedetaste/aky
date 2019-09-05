@@ -3,13 +3,13 @@
     "id": "pdfsam",
     "bundle": "PDFsam Basic.app",
     "identifier": "org.pdfsam.basic",
-    "download": "https://github.com/torakiki/pdfsam/releases/download/v4.0.3/pdfsam-4.0.3.dmg",
-    "sha256": "c96d058f625fc181830adad47e901cb739a71c11a7dc82e759973753511f6212",
+    "download": "https://github.com/torakiki/pdfsam/releases/download/v4.0.4/pdfsam-4.0.4.dmg",
+    "sha256": "4aea1fe056a51dc9137546a4cb2304c033959c3ed5fc7656ba42bd3cd94c3a6a",
     "appcast": {
       "url": "https://github.com/torakiki/pdfsam/releases.atom",
-      "checkpoint": "62c74149114132df6e9805f4c7f2a5142449cdbe1f9276933aa7c724683af3b1"
+      "checkpoint": "be463e75c581be04d58325900034cdf7289e387204279081948c965874166e54"
     },
-    "version": "4.0.3",
+    "version": "4.0.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
