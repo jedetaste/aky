@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "deepl",
+    "bundle": "DeepL.app",
+    "identifier": "com.linguee.DeepLCopyTranslator",
+    "download": "https://download.deepl.com/macos/DeepL.dmg",
+    "sha256": "5a5f21493176c7502ad1f440d1cf86f50e45aed11f63ddd91ede3867b63f83a6",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.0.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.deepl.com/app"
+  }
+}
