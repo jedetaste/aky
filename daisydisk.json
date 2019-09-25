@@ -6,8 +6,8 @@
     "download": "https://daisydiskapp.com/downloads/DaisyDisk.zip",
     "sha256": "f70cacb60dccf465219dc551086a0672d3db6b003c42302bdfff11319c08cd4a",
     "appcast": {
-      "url": "https://daisydiskapp.com/downloads/appcastReleaseNotes.php?appEdition=Standard&osVersion=10.14",
-      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "url": "https://daisydiskapp.com/downloads/appcastReleaseNotes.php?appEdition=Standard&osVersion=10.13",
+      "checkpoint": "4863aa1cb484258bd6e7ce6ae0a8b92432fb2ddab2a5f5a3a861d8989085db29"
     },
     "version": "4.8",
     "build": null,
