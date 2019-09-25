@@ -3,14 +3,14 @@
     "id": "fsmonitor",
     "bundle": "FSMonitor.app",
     "identifier": "com.tristan.FSMonitor",
-    "download": "https://tristan-software.ch/FSMonitor/Archives/FSMonitor_116.zip",
-    "sha256": "b82c0fd1719775f27ad7e452c1b14449434ae48df824a1c34bbe5e2a365b023e",
+    "download": "https://tristan-software.ch/FSMonitor/Archives/FSMonitor_1.1.1(130).zip",
+    "sha256": "001086f17c407e7d029e6bc78c91434855b2421c9c580f15ff23a5477e73052c",
     "appcast": {
       "url": "https://fsmonitor.com/FSMonitor/Archives/appcast.xml",
       "checkpoint": "84dec089295878b944910a12be34b2a868858f50da5d6c066478541ec9f652c8"
     },
-    "version": null,
-    "build": "116",
+    "version": "1.1.1",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
     "web": "https://fsmonitor.com/"
