@@ -3,13 +3,13 @@
     "id": "launchbar",
     "bundle": "LaunchBar.app",
     "identifier": "at.obdev.LaunchBar",
-    "download": "https://www.obdev.at/downloads/launchbar/LaunchBar-6.11.1.dmg",
-    "sha256": "de761526614a14885cfb096c2e3b4d5440f45b73110fadce0e949c5ea6ef3fb8",
+    "download": "https://www.obdev.at/downloads/launchbar/LaunchBar-6.12.dmg",
+    "sha256": "04309c78523eb0fd4b27ca73c09b43f256935bc974b18bfff2d927bf84464199",
     "appcast": {
       "url": "https://sw-update.obdev.at/update-feeds/launchbar-6.plist",
-      "checkpoint": "7197a3ba9c70c8207abeecf9bdb48be16367f3cb514628622e7d84f1e88712c3"
+      "checkpoint": "a6c5e42fd65979b6afc7344b6e956fac712a7c6ea9bceca535b06586732c2ef1"
     },
-    "version": "6.11.1",
+    "version": "6.12",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
