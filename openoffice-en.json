@@ -3,13 +3,13 @@
     "id": "openoffice-en",
     "bundle": "OpenOffice.app",
     "identifier": "org.openoffice.script",
-    "download": "https://downloads.sourceforge.net/openofficeorg.mirror/Apache_OpenOffice_4.1.6_MacOS_x86-64_install_en-US.dmg",
-    "sha256": "9953baaf77fb31195c0873bbe6583de79bab3197381dc8769a8fec784c422664",
+    "download": "https://downloads.sourceforge.net/openofficeorg.mirror/Apache_OpenOffice_4.1.7_MacOS_x86-64_install_en-US.dmg",
+    "sha256": "615d6fa38ef78e99e30f515ce3f61fd9e228408a425c91afc5e587d662e18f99",
     "appcast": {
       "url": "https://sourceforge.net/projects/openofficeorg.mirror/rss",
-      "checkpoint": "d535e58dc65fd3feaf62a851c2d5bdda7e20b54f1a51719d4b13e097a3b1f8b4"
+      "checkpoint": "27ea646608b62dcdb04f40bedeaa8fc2a8ffcbe4cb33786495b6908376a48acd"
     },
-    "version": "4.1.6",
+    "version": "4.1.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
