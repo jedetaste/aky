@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "devonthink",
+    "bundle": "DEVONthink 3.app",
+    "identifier": "com.devon-technologies.think3",
+    "download": "https://s3.amazonaws.com/DTWebsiteSupport/download/devonthink/3.0/DEVONthink_3.dmg.zip",
+    "sha256": "b525e33a3352dae6e9a4e8b1b32588752906c6a915fe528f240cb0b1d1e2d3fa",
+    "appcast": {
+      "url": "https://api.devontechnologies.com/1/apps/sparkle/sparkle.php?id=217255",
+      "checkpoint": "94fff3268384375e15e3120b10fd3d18ac8f971c43d916f796edcf124c1ac3ea"
+    },
+    "version": "3.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.devontechnologies.com/apps/devonthink/"
+  }
+}
