@@ -2,14 +2,14 @@
   "recipe": {
     "id": "lingonx",
     "bundle": "Lingon X.app",
-    "identifier": "com.peterborgapps.LingonX6",
+    "identifier": "com.peterborgapps.LingonX7",
     "download": "https://www.peterborgapps.com/downloads/LingonX7.zip",
-    "sha256": "d034009c681a06750f825304d64ffa17555d084cea09625dd9fe8d57ec0eea01",
+    "sha256": "aec57253a69d1a86a7e85f4ac0a01983ec1a8f68b309cc070547ed4369155e74",
     "appcast": {
       "url": "https://www.peterborgapps.com/updates/lingonx7.plist",
-      "checkpoint": "c91ed1549fd1169bc7063c5db3c0be84f4efceb273cc00fec5dd90d231aec374"
+      "checkpoint": "535ab44a9b9f3899573ccd1dbb2cbf7573b47851ce7df8856fdd41c31356ec82"
     },
-    "version": "7.4.1",
+    "version": "7.4.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
