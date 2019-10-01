@@ -3,13 +3,13 @@
     "id": "pppcutility",
     "bundle": "PPPC Utility.app",
     "identifier": "com.jamf.opensource.pppcutility",
-    "download": "https://github.com/jamf/PPPC-Utility/releases/download/1.1.0/PPPC-Utility.zip",
-    "sha256": "5ad56ab7ef16287be2637f049c904af2f7204f0d1aef02a42d4406e3b0226127",
+    "download": "https://github.com/jamf/PPPC-Utility/releases/download/1.1.1/PPPC-Utility.zip",
+    "sha256": "13d9fbff144e05b5bd010d5e6d51d1afa2642183968fef447ab9a4c2e29e1b8a",
     "appcast": {
       "url": "https://github.com/jamf/PPPC-Utility/releases.atom",
-      "checkpoint": "a9f231a98d1ca6ddb9a0ed8a6eb10a47095dd3fbc77453686c3e9a81c9ece2fb"
+      "checkpoint": "78b4167230e29ddaa53e725659e3183fee470056ff68ba2776a7b9a744beb191"
     },
-    "version": "1.1.0",
+    "version": "1.1.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
