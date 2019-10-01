@@ -3,13 +3,13 @@
     "id": "install4j",
     "bundle": "install4j.app",
     "identifier": "com.install4j.5102-5576-1921-0620.2",
-    "download": "https://download-gcdn.ej-technologies.com/install4j/install4j_macos_8_0_1.dmg",
-    "sha256": "a9b5df5817737078fe604fbcee5a3451e02de1a9f73c7d47ab4de42e30226d39",
+    "download": "https://download-gcdn.ej-technologies.com/install4j/install4j_macos_8_0_2.dmg",
+    "sha256": "581d3544df28079a548c34135eba5103f73fdf25ef362a2496cad98186c7d68d",
     "appcast": {
       "url": "https://www.ej-technologies.com/download/install4j/changelog.html",
-      "checkpoint": "800a9dbea408700bcd68f7038c4b9bcec89d0919732b5621184a0774b5d52fb7"
+      "checkpoint": "15d2748733c29f3cd5216287ad4c101963089f9c8de1fbe6564c2b8a60a02333"
     },
-    "version": "8.0.1",
+    "version": "8.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
