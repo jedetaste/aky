@@ -3,16 +3,16 @@
     "id": "deepl",
     "bundle": "DeepL.app",
     "identifier": "com.linguee.DeepLCopyTranslator",
-    "download": "https://download.deepl.com/macos/DeepL.dmg",
-    "sha256": "5a5f21493176c7502ad1f440d1cf86f50e45aed11f63ddd91ede3867b63f83a6",
+    "download": "https://www.deepl.com/macos/download/LpsA0EG5frbfX8p5/DeepL110.zip",
+    "sha256": "c0029a2cfea33adc25cf567100fb9f2e358c90eb2c146faf25dd580fe178de02",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.0.1",
+    "version": "1.1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.deepl.com/app"
+    "web": "https://www.deepl.com/"
   }
 }
