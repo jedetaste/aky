@@ -3,13 +3,13 @@
     "id": "onlyoffice",
     "bundle": "ONLYOFFICE.app",
     "identifier": "asc.onlyoffice.ONLYOFFICE",
-    "download": "https://download.onlyoffice.com/install/desktop/editors/mac/updates/onlyoffice/ONLYOFFICE-5.3.5.zip",
-    "sha256": "b7c74e054eb2b429a4c6a9bdf225ce5d49960f8180ae19c0f8901e9e84c7929e",
+    "download": "https://download.onlyoffice.com/install/desktop/editors/mac/updates/onlyoffice/ONLYOFFICE-5.4.1.zip",
+    "sha256": "3e5a961dfe9f1828d6b159e4b0fc1dbd52739c562bd3715a2ff5218ded57faf6",
     "appcast": {
       "url": "http://download.onlyoffice.com/install/desktop/editors/mac/onlyoffice.xml",
-      "checkpoint": "c3556a2c2b407d81f0a659c911becd3f925ba210d25dc554630cf9a1cbe65925"
+      "checkpoint": "21019e90b452342d0edd50b1b61377879a52ef42010c6afd071144fd4e59d665"
     },
-    "version": "5.3.5",
+    "version": "5.4.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
