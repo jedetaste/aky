@@ -3,13 +3,13 @@
     "id": "eaglefiler",
     "bundle": "EagleFiler.app",
     "identifier": "com.c-command.EagleFiler",
-    "download": "https://c-command.com/downloads/EagleFiler-1.8.9.dmg",
-    "sha256": "7a41fc264fcd1a498c4426f1fc4445da2731ac3a593ad8230e466dbbab7527fb",
+    "download": "https://c-command.com/downloads/EagleFiler-1.8.10.dmg",
+    "sha256": "67990c22dbfca831630ecf2c227280d9ef0219cad0cc6544f6a42960664b03b6",
     "appcast": {
       "url": "https://c-command.com/eaglefiler/help/version-history",
-      "checkpoint": "fcc0e6bb11c1865084b526f2d76f30b5279f3c0227f3e4ef056d6e5c3d64d3b1"
+      "checkpoint": "1c00c95a66f51684abd52923dc4044956f402b04f918b483dc7a2266340af6f8"
     },
-    "version": "1.8.9",
+    "version": "1.8.10",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
