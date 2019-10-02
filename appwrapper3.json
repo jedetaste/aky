@@ -4,12 +4,12 @@
     "bundle": "App Wrapper 3.app",
     "identifier": "com.ohanaware.appWrapper3",
     "download": "http://www.ohanaware.com/appwrapper/appWrapper3.dmg",
-    "sha256": "03e1fd430064742cb0a82c0b99c51c81dded1fca1dd29185a702c8ae00951aa0",
+    "sha256": "448e6cdd739d87b3e106d0505995e0feca2b31750d4b20b57a4c1691daef60d1",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.9.1",
+    "version": "3.10",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
