@@ -3,11 +3,11 @@
     "id": "unetbootin",
     "bundle": "unetbootin.app",
     "identifier": "com.yourcompany.unetbootin",
-    "download": "https://github.com/unetbootin/unetbootin/releases/download/661/unetbootin-mac-661.dmg",
-    "sha256": "b028a512515d6d8019c53536ec55e824cc1a0d89eb1fae9609d0e9d4385ff4b5",
+    "download": "https://github.com/unetbootin/unetbootin/releases/download/675/unetbootin-mac-675.dmg",
+    "sha256": "31fd1789a2f351ea66aa4be68f440904e7ae3ceee531256537b20ed9c5606947",
     "appcast": {
       "url": "https://github.com/unetbootin/unetbootin/releases.atom",
-      "checkpoint": "d5ad9f2962f180e80c4e3459479a0d521a87169b7c4e402a4bc81076dd4ab676"
+      "checkpoint": "7025db4220b5203ee48b54215b7b8c23ca3fa3b09bf01f5690b9e932c868d372"
     },
     "version": null,
     "build": null,
