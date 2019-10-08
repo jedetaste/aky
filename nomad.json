@@ -4,12 +4,12 @@
     "bundle": "NoMAD.app",
     "identifier": "com.trusourcelabs.NoMAD",
     "download": "https://files.nomad.menu/NoMAD.zip",
-    "sha256": "3aeb5d29daf900d05c4d0a864cfdce406a4658cefce76087e4e7d9c59a6bdb1d",
+    "sha256": "ee7b1ea4bb58fca2e82526815f4c4f61f9798791f78531811017c41b4942d9bb",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.1.4.933",
+    "version": "1.2.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
