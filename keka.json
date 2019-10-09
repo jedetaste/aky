@@ -3,13 +3,13 @@
     "id": "keka",
     "bundle": "Keka.app",
     "identifier": "com.aone.keka",
-    "download": "https://github.com/aonez/Keka/releases/download/v1.1.19/Keka-1.1.19.dmg",
-    "sha256": "26480029ed8c87ace6dce74c6bd7fa05cb41168ee07e0e6d1b4a541c7937d7aa",
+    "download": "https://github.com/aonez/Keka/releases/download/v1.1.20/Keka-1.1.20.dmg",
+    "sha256": "46d246d95df92722a898d9de230cd3e717a13a04cf6029f8ffd2fc8343408098",
     "appcast": {
-      "url": "https://github.com/aonez/Keka/releases.atom",
-      "checkpoint": "fb5de2d388a2ac971ed06a9578f59ccca642dd985eca5716513ad965d1fcb909"
+        "url": "https://github.com/aonez/Keka/releases.atom",
+      "checkpoint": "e0439dcb52f828fe318264864148f13fae724bce0031c03f7b79c495bffb8578"
     },
-    "version": "1.1.19",
+    "version": "1.1.20",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
