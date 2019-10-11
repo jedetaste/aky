@@ -3,13 +3,13 @@
     "id": "draw",
     "bundle": "draw.io.app",
     "identifier": "com.jgraph.drawio.desktop",
-    "download": "https://github.com/jgraph/drawio-desktop/releases/download/v11.3.0/draw.io-11.3.0.dmg",
-    "sha256": "48dd5817411c96a409b416224a0d7b7c2425823d136ee53c91e68e0fb664cd8e",
+    "download": "https://github.com/jgraph/drawio-desktop/releases/download/v12.1.0/draw.io-12.1.0.dmg",
+    "sha256": "51682a637f8701d6b3597b0fcc06e4173454536b4fb98873fc95cb03dab0d59d",
     "appcast": {
       "url": "https://github.com/jgraph/drawio-desktop/releases.atom",
-      "checkpoint": "18b11666d230c16ef2ddb4f4cb210477b8e1fab523d96e8936eac304ed29e756"
+      "checkpoint": "f497af5e0ecfc5f3d9e1271d4a6cf9529a1788c73bb15ddbc97f4322a122285e"
     },
-    "version": "11.3.0",
+    "version": "12.1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
