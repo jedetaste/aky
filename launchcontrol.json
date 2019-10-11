@@ -3,13 +3,13 @@
     "id": "launchcontrol",
     "bundle": "LaunchControl.app",
     "identifier": "com.soma-zone.LaunchControl",
-    "download": "https://www.soma-zone.com/download/files/LaunchControl-1.48.tar.bz2",
-    "sha256": "170ec769c28a305653376fcfe26c9e97b6e2e7e65b3a6f34aaa3eaaed3371d3b",
+    "download": "https://www.soma-zone.com/download/files/LaunchControl-1.48.1.tar.bz2",
+    "sha256": "8304c1ed3fb82e1720da44744207595e7aa46610fc12d75293461d30661f6bcb",
     "appcast": {
       "url": "https://www.soma-zone.com/LaunchControl/a/appcast.xml",
-      "checkpoint": "2968f622a77b2c1cfd3a867baa59b69008238cabe82ce7c3993df0b9750555ca"
+      "checkpoint": "58f665f335788e0caae4d4c81bcebb5dfa0d98951ad6c1f35346c27ebd7955de"
     },
-    "version": "1.48",
+    "version": "1.48.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
