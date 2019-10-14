@@ -4,12 +4,12 @@
     "bundle": "Google Drive File Stream.app",
     "identifier": "com.google.drivefs",
     "download": "https://dl.google.com/drive-file-stream/GoogleDriveFileStream.dmg",
-    "sha256": "3cbf762bf3808001b9b28f710797e4ebae74a176f445742bfab3d9e8e5e88e77",
+    "sha256": "4a8d0501e67406989e15f5b0f496403e32489d7a6a9287716fb5a7fa46af634f",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "33.0",
+    "version": "34.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
