@@ -1,15 +1,15 @@
 {
   "recipe": {
     "id": "abetterfinderrename",
-    "bundle": "A Better Finder Rename 10.app",
-    "identifier": "net.publicspace.abfr10",
-    "download": "https://www.publicspace.net/download/ABFRX10.dmg",
-    "sha256": "ff5df736ef8fb214b3c1c8181d9b74a86d1c9cbca4252d96bd74b2fa9cf66eba",
+    "bundle": " A Better Finder Rename 11.app",
+    "identifier": "net.publicspace.abfr11",
+    "download": "https://www.publicspace.net/download/ABFRX11.dmg",
+    "sha256": "5a57ba4784e0c752b3d1f52f23c61560936020576bea7ec2d8a78a5b69c156bc",
     "appcast": {
-      "url": "http://www.publicspace.net/app/signed_abfr10.xml",
-      "checkpoint": "16a9c7f3ff5f6b5699a87d315e1be7dd7d0de2aff0cd3380fcb64b05a3d0338f"
+      "url": "http://www.publicspace.net/app/signed_abfr11.xml",
+      "checkpoint": "dc23bf108b9a8da522ded925c14aabaeafcfe87beadb61f15263e9700232d878"
     },
-    "version": "10.45",
+    "version": "11.00",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
