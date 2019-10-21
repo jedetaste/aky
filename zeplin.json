@@ -4,12 +4,12 @@
     "bundle": "Zeplin.app",
     "identifier": "io.zeplin.osx",
     "download": "https://api.zeplin.io/urls/download-mac",
-    "sha256": "6c243af7123e5b19de4be350cf41df2f27722baafd54a64402e81c3a43e6180a",
+    "sha256": "f8ca773eece8496098bd087590c8c0749691ae299a84aaae48c73ab7817ef30f",
     "appcast": {
       "url": "https://rink.hockeyapp.net/api/2/apps/8926efffe734b6d303d09f41d90c34fc",
-      "checkpoint": "03a8ca131d409edf90db3c2c69c630343ef4289986b3cfe552404e7d00b900f3"
+      "checkpoint": "eaaade543ed7ce80dd794fffc766cac751b44788f6479869edef79f69054ced1"
     },
-    "version": "2.7",
+    "version": "2.7.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
