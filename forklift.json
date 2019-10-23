@@ -3,13 +3,13 @@
     "id": "forklift",
     "bundle": "ForkLift.app",
     "identifier": "com.binarynights.ForkLift-3",
-    "download": "https://download.binarynights.com/ForkLift3.3.4.zip",
-    "sha256": "e69fc7f6436e6f86e1cf0a56c415a6e80bbff792c7bf94786c0d3dd3d13651fc",
+    "download": "https://download.binarynights.com/ForkLift3.3.5.zip",
+    "sha256": "5ee2fcb7ca72c2acefd54443e5863329e489b020c4c5adb5f1dc1743afe2a74a",
     "appcast": {
       "url": "https://updates.binarynights.com/ForkLift3/update.xml",
-      "checkpoint": "a5d71be5f3f9b73ffd3ff1514f70fe347c5ad136351cabda75a48fac0f9fe706"
+      "checkpoint": "d595de2da06dfb84a36b38404484713fe815b44b86e5c67d970ff297ea6d55dd"
     },
-    "version": "3.3.4",
+    "version": "3.3.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
