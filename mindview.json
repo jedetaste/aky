@@ -4,12 +4,12 @@
     "bundle": "MindView.app",
     "identifier": "com.matchware.MindView7",
     "download": "http://cdn.matchware.com/demos/mindview7mac_en.dmg",
-    "sha256": "d12bab4d9825cc04aa675f56d6792833a634db15b0e88aebe1232faeeb756c2a",
+    "sha256": "39d7ab9d862d83b8717256696d0f406d1b9ca5242e1099d62b3eb2e2b6cbd953",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "7.2.1",
+    "version": "7.2.2",
     "build": null,
     "dir": "/Applications/MindView 7",
     "symlink": null,
