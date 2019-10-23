@@ -4,12 +4,12 @@
     "bundle": "Packages.app",
     "identifier": "fr.whitebox.Packages",
     "download": "http://s.sudre.free.fr/Software/files/Packages.dmg",
-    "sha256": "a24225be6981228f16f17140af2af91c0d27cac82c879de98e6ca788a4591f18",
+    "sha256": "7775fcc5ff38ae2ea2257278f5ed0a43e2580278d3626ed9fee5d827ebee36b4",
     "appcast": {
       "url": "http://s.sudre.free.fr/Software/documentation/RemoteVersion.plist",
-      "checkpoint": "ad8291130c9b0115ac48d03f0b236989af19058f5aecb8b2ac21d6baf90b46a5"
+      "checkpoint": "645fdebde2f471a5bb0794cdab5484e5c5ef61b49f416eceffb96c292fd83003"
     },
-    "version": "1.2.6",
+    "version": "1.2.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
