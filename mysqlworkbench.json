@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "mysqlworkbench",
+    "bundle": "MySQLWorkbench.app",
+    "identifier": "com.oracle.workbench.MySQLWorkbench",
+    "download": "https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.18-macos-x86_64.dmg",
+    "sha256": "965f85163d1723be26c1f0c74c5b1cd908fac79e02c00fa371c217c9a3bf09ae",
+    "appcast": {
+      "url": "https://dev.mysql.com/downloads/workbench/",
+      "checkpoint": "9089cc519f80312304e9d1aa034274f22df78352bf1534326b3b501f2867a2f8"
+    },
+    "version": "8.0.18.CE",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.mysql.com/products/workbench/"
+  }
+}
