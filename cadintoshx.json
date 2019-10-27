@@ -3,13 +3,13 @@
     "id": "cadintoshx",
     "bundle": "CADintosh X.app",
     "identifier": "com.lemkesoft.cadintosh",
-    "download": "https://www.lemkesoft.info/files/cadintosh/cad8.dmg",
-    "sha256": "ab639c9eca391ed9fa74962ee100227ee5ac2cbced2dec2720e5741ccdd43b34",
+    "download": "https://www.lemkesoft.info/files/cadintosh/cad8_build444.zip",
+    "sha256": "2232c3eeca084e1894e839ff3c2bfac4a7418337d35461e9b3d4cc595372640b",
     "appcast": {
       "url": "https://www.lemkesoft.info/sparkle/cadintosh/cadintosh.xml",
-      "checkpoint": "f276079bbaf3b8ab008b37b1ef472ae2c921676556d571baef9a724c37db0529"
+      "checkpoint": "f7b11acd3d22f623d663141d09697ef002e0564ba9ecd0238a179d341f8e4c7f"
     },
-    "version": "8.4.4",
+    "version": "8.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
