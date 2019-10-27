@@ -3,11 +3,11 @@
     "id": "xmind",
     "bundle": "XMind.app",
     "identifier": "org.xmind.cathy.application",
-    "download": "http://dl2.xmind.net/xmind-downloads/xmind-8-update8-macosx.dmg",
+    "download": "https://www.xmind.net/xmind/downloads/xmind-8-update8-macosx.dmg",
     "sha256": "95cc8d8950e8b10fa60a831cc5b3e33da17932336320f0f803cfae94cc1f814e",
     "appcast": {
       "url": "https://www.xmind.net/download/xmind8/",
-      "checkpoint": "8bbc3490a59f405b73a502debfc250b80181f68e5094b374a015708262f62c71"
+      "checkpoint": "1d26848e5d58ba0bec2189448e4c701951b9a95f352c8548d8680d54fdf12b99"
     },
     "version": null,
     "build": "3.7.8.201807240049",
