@@ -4,10 +4,10 @@
     "bundle": "Reflector Teacher.app",
     "identifier": "com.squirrels.Reflector-Teacher",
     "download": "https://airsquirrels-downloads.s3.amazonaws.com/ReflectorTeacher/Mac/ReflectorTeacher-3.2.1.dmg",
-    "sha256": "f0ae5780462722c6ae0bc754c5efad774e0e8fb08a5d8ac2098d0d9589ecb411",
+    "sha256": "cf01ba1b12c9f8605f0686f805e2d872ae864deab1d217319d21f2f080e3ad0d",
     "appcast": {
       "url": "https://updates.airsquirrels.com/ReflectorTeacher/Mac/ReflectorTeacher.xml",
-      "checkpoint": "aa0106d2357ad7ace482c822ab5c90859433b79dbd8904004803b9b6a8d2ec02"
+      "checkpoint": "4fccf26923a5d0f825334264dcd137853436b04b8b4bed6160de66bf2900f063"
     },
     "version": "3.2.1",
     "build": null,
