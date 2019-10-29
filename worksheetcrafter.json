@@ -3,13 +3,13 @@
     "id": "worksheetcrafter",
     "bundle": "WorksheetCrafter.app",
     "identifier": "com.SchoolCraft.WorksheetCrafter",
-    "download": "https://www.hidrive.strato.com/wget/UfgKDFl7",
-    "sha256": "7d8492b8b436d78bcfedea54406c3cb43ed9d05ab3a7b6f38a1db08509da1379",
+    "download": "http://develop.getschoolcraft.com/download/2019.3/WorksheetCrafter.pkg",
+    "sha256": "9f580c9b49a96ed11784f1bb79ff3098222236b7ddd4a88f545a839775b51397",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2019.2.5.22",
+    "version": "2019.3.3.17",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
