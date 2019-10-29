@@ -4,12 +4,12 @@
     "bundle": "A Better Finder Rename 11.app",
     "identifier": "net.publicspace.abfr11",
     "download": "https://www.publicspace.net/download/ABFRX11.dmg",
-    "sha256": null,
+    "sha256": "efad159cf5ef143be74503053569da6f7df1f58f4b2007fda32d379cb4b75bfe",
     "appcast": {
       "url": "https://www.publicspace.net/app/signed_abfr11.xml",
-      "checkpoint": "4fbb87997388223a505b6979529a0a73f93159be63ccb9e595e5add4dd924cdb"
+      "checkpoint": "2c7f3e09606181fa4927fe4141fb9d241918892c71cb970aef8e4f935d304d49"
     },
-    "version": "11.02",
+    "version": "11.03",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
