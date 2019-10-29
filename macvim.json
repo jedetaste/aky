@@ -3,13 +3,13 @@
     "id": "macvim",
     "bundle": "MacVim.app",
     "identifier": "org.vim.MacVim",
-    "download": "https://github.com/macvim-dev/macvim/releases/download/snapshot-159/MacVim.dmg",
-    "sha256": "2f9e9c66c7d6f76dfb88c0291a47963201e498fab40814d6702eb0c12f9007c8",
+    "download": "https://github.com/macvim-dev/macvim/releases/download/snapshot-160/MacVim.dmg",
+    "sha256": "a9405b7cc8f1199772dd8ec25b096520818572f293fa6d9cbf2a0af1eadc14a2",
     "appcast": {
       "url": "https://github.com/macvim-dev/macvim/releases.atom",
-      "checkpoint": "286d83549cd4ba410d7e5adefe86d374336eef9aa971da84c164c40834cea33c"
+      "checkpoint": "fc727930a09d8575dfff9959031f4d253262833e8519c43596ac5c7c07266a3b"
     },
-    "version": "8.1.2168",
+    "version": "8.1.2224",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
