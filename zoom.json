@@ -7,10 +7,10 @@
     "sha256": "e395d6a8d431c48272581e8baa9b63b97569a276dc4b104ee28b95545023f76e",
     "appcast": {
       "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://zoom.us/client/latest/Zoom.pkg",
-      "checkpoint": "57728116271202faf4f694033c00541f9c83c4f3ccea52565cc47463f195e73f"
+      "checkpoint": "78c19678651f942a041add768e82bc80c387a907357d427b0eba794534f41a34"
     },
-    "version": "4.5.5666.1020",
-    "build": null,
+    "version": null,
+    "build": "4.5.5666.1020",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.zoom.us/"
