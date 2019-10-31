@@ -3,14 +3,14 @@
     "id": "firefoxdeveloperedition",
     "bundle": "Firefox Developer Edition.app",
     "identifier": "org.mozilla.firefoxdeveloperedition",
-    "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/70.0b3/mac/de/Firefox%2070.0b3.dmg",
-    "sha256": "864fd7333f8c7d8585f5f8e7688c467771658f9d584d731697493d824f7e543d",
+    "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/71.0b5/mac/de/Firefox%2071.0b5.dmg",
+    "sha256": "415c177d064b8bbb3cdd5a2565330a179a7d8611664626e7684263fd66e72cc1",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
     "version": null,
-    "build": "7019.9.2",
+    "build": "7119.10.28",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.mozilla.org/firefox/developer/"
