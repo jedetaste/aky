@@ -1,15 +1,18 @@
 {
   "recipe": {
     "id": "gimp",
-    "bundle": [ "GIMP-2.10.app", "GIMP.app" ],
+    "bundle": [
+      "GIMP-2.10.app",
+      "GIMP.app"
+    ],
     "identifier": "org.gnome.gimp",
-    "download": "https://download.gimp.org/pub/gimp/v2.10/osx/gimp-2.10.12-x86_64.dmg",
-    "sha256": "8b964ad3dbbe31d0fa48fb834aa4c17fc0eb81becbc4595a57b04e3d4fc6efeb",
+    "download": "https://download.gimp.org/pub/gimp/v2.10/osx/gimp-2.10.14-x86_64.dmg",
+    "sha256": "60631e39a1042c38cc281bc3213a76be109fb909b9671fb03c55cf5cf31ea632",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://download.gimp.org/pub/gimp/stable/osx/",
+      "checkpoint": "e705ac32741ba579b8e792b91c79c1269fd5f2d54b125a5ddee37cc84f6f58de"
     },
-    "version": "2.10.12",
+    "version": "2.10.14",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
