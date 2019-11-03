@@ -4,13 +4,13 @@
     "bundle": "Elmedia Player.app",
     "identifier": "com.Eltima.ElmediaPlayer",
     "download": "https://cdn.eltima.com/download/elmediaplayer.dmg",
-    "sha256": "0dfa3fa1b0925297e5a1bb88c655fc81fab2acbd1f655c5c8c5f099652023ba5",
+    "sha256": "ef46a8244ada4dcdad511421791f3af6e43243f28c9f760cc658ab3221539948",
     "appcast": {
       "url": "https://cdn.eltima.com/download/elmediaplayer-update/elmediaplayer.xml",
-      "checkpoint": "79804db837009e4da9ebcac114bdcfb0c134306d074cc3cb3de33688db7343a0"
+      "checkpoint": "258ab4f100cacd5a7d6dcc678c970ba6de18f0ed6c4663da91971d364d4c638b"
     },
-    "version": "7.6",
-    "build": "1831",
+    "version": "7.7",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
     "web": "https://mac.eltima.com/media-player.html"
