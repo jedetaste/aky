@@ -6,8 +6,8 @@
     "download": "http://download.qnap.com/Surveillance/Utility/QVR%20Client-2-1-4-2016-05-25.dmg",
     "sha256": "beb776192f4cee4feba2929048898e2d884e836294fb62af3e1de6defab99818",
     "appcast": {
-      "url": "https://www.qnapsecurity.com/n/en/product_x_down/product_down.php?hf=0&II=270&cat_choose=2",
-      "checkpoint": "ee08e462a91d18fda0eca32c422434ee5c94e005ed8f91fd19b377bf2f3ab81f"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.1.4",
     "build": null,
