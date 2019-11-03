@@ -3,13 +3,13 @@
     "id": "pacifist",
     "bundle": "Pacifist.app",
     "identifier": "com.charlessoft.pacifist",
-    "download": "https://www.charlessoft.com/pacifist_download/Pacifist_3.6.1.dmg",
-    "sha256": "a884c8c0d16ca159bf7f90064247d7c00f4ebbd54ac86028bb57c0cbf666cf2a",
+    "download": "https://www.charlessoft.com/pacifist_download/Pacifist_3.6.2.dmg",
+    "sha256": "e8bd4595462e2cb6f900705ef69fdc9f044aea1e2759e347c3e9667c757fd6af",
     "appcast": {
       "url": "https://www.charlessoft.com/cgi-bin/pacifist_sparkle.cgi",
-      "checkpoint": "0f88a3573b91ca0d1887742e83502bd450866d48ea149846ada2a92c4297b931"
+      "checkpoint": "9b2dcbcf328a96b648b391021c0b78a62ff37770e94f57466831965646d54692"
     },
-    "version": "3.6.1",
+    "version": "3.6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
