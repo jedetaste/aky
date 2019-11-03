@@ -1,13 +1,16 @@
 {
   "recipe": {
     "id": "diskmakerx",
-    "bundle": [ "DiskMaker X 9 for macOS Catalina.app", "DiskMaker X.app" ],
+    "bundle": [
+      "DiskMaker X 9 for macOS Catalina.app",
+      "DiskMaker X.app"
+    ],
     "identifier": "net.gete.diskmakerx",
-    "download": "hhttp://diskmakerx.com/downloads/DiskMaker_X_90b1.dmg",
+    "download": "https://diskmakerx.com/downloads/DiskMaker_X_90b1.dmg",
     "sha256": "9946b75cafed3f9e71cbe09c45cac7db66a4a17a2bb61c76f6e006822d077d52",
     "appcast": {
       "url": "https://diskmakerx.com/feed/",
-      "checkpoint": "b4d8d4538237df5351505cfaa13f888dfd0126a1a511b05d8698e26d5410b91f"
+      "checkpoint": "f41d1b533b76b6262b76de940667e4b88eae5a1e6e9bac762e55575f88e99bb9"
     },
     "version": "9.0b1",
     "build": null,
