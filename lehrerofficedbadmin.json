@@ -4,12 +4,12 @@
     "bundle": "LehrerOffice-DBAdmin.app",
     "identifier": "ch.rothsoft.sqlserver.cubesql.dbadmin",
     "download": "https://www.lehreroffice.ch/lo/dateien/db/lo_dbadmin_macos.dmg",
-    "sha256": "c69e4def2b0d6a9f3cbc97f82c4c736f95413c78f16efdb293138f47ab21ee53",
+    "sha256": "2a83e764daf93f2d9044f05cc6959a9dcca49f1062c6af0133c39da8e13cab79",
     "appcast": {
       "url": "https://www.lehreroffice.ch/services/update/getcurrentversion.php?app=DBAdmin",
-      "checkpoint": "0802b1495c932d3064abb20e1d9e6cb70514aa82fb612881f9a2d441b68f94f7"
+      "checkpoint": "3d0a572f25bcd822b446d6341c6acdb9550681592af99c76a67a0e25634c5350"
     },
-    "version": "2019.2.0",
+    "version": "2019.3.0",
     "build": null,
     "dir": "/Applications/LehrerOffice",
     "symlink": null,
