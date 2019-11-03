@@ -1,7 +1,10 @@
 {
   "recipe": {
     "id": "hype",
-    "bundle": [ "Hype4.app", "Hype.app" ],
+    "bundle": [
+      "Hype4.app",
+      "Hype.app"
+    ],
     "identifier": "com.tumult.Hype4",
     "download": "https://tumult.com/hype/download/Hype.zip",
     "sha256": "2140558aa292e73ad5465f0b2962e37da7d36db56912f6ab5af6e5f9506e3d5f",
