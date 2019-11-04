@@ -3,7 +3,7 @@
     "id": "pascom",
     "bundle": "pascom Client.app",
     "identifier": "net.pascom.pascomClient",
-    "download": "https://download.pascom.net/release-archive/client/stable/pascom Client-56.R659_2299eab.dmg",
+    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-56.R659_2299eab.dmg",
     "sha256": "e70b19a40b1e4174a04cd62e6f3686433997b776bd5659977d0479c67fdf614a",
     "appcast": {
       "url": "https://my.pascom.net/update/client/stable?_=1559037394513",
