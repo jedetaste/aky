@@ -4,12 +4,12 @@
     "bundle": "ICQ.app",
     "identifier": "com.icq.macicq",
     "download": "https://mra.mail.ru/icq_mac3_update/icq.dmg",
-    "sha256": "8b9d44c8c8af735e20306ec7617aae6b26fe324fe554fd6a432dd1791ac2afeb",
+    "sha256": "0cd6532b87c38b082711891f8f1908f51c3031d6606ab9bc59c3f08e43ab9254",
     "appcast": {
       "url": "https://mra.mail.ru/icq_mac3_update/icq_update.xml",
-      "checkpoint": "f8dee1993461cafcb487cbdc4b845a852284188d211f808e240b2933b8965e05"
+      "checkpoint": "61347abfd911bd966a75ff60da3064f5f92183117991c31719dfc4960b39ff55"
     },
-    "version": "3.0.23938",
+    "version": "3.0.24385",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
