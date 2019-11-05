@@ -1,15 +1,15 @@
 {
   "recipe": {
     "id": "merlinproject",
-    "bundle": "Merlin Project 5.app",
+    "bundle": "Merlin Project 6.app",
     "identifier": "net.projectwizards.merlinproject",
     "download": "https://www.projectwizards.net/downloads/MerlinProject.zip",
-    "sha256": "d5bb512d8d0a7bb0480e2bbc151e2c7d429f79a9382e00e19f8dfd9ca5007971",
+    "sha256": "be9357a558c451f5f2dc6820d43fd69de44986cb2c3d2e89fb84d14aa51f88ef",
     "appcast": {
       "url": "https://www.projectwizards.net/en/support/release-notes/merlin-project-pwstore/xml",
-      "checkpoint": "0e2ec90cf1fe3c76126db408a394d4b19082887fa4d2fdf41587ee0847d8bd67"
+      "checkpoint": "f733b7cafd104608d77987dc36ebcbba9490036e2fb9a7e75ef2247ec76b9c21"
     },
-    "version": "5.1.14",
+    "version": "6.0.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
