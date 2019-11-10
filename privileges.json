@@ -3,13 +3,13 @@
     "id": "privileges",
     "bundle": "Privileges.app",
     "identifier": "corp.sap.privileges",
-    "download": "https://github.com/SAP/macOS-enterprise-privileges/releases/download/1.0.3/Privileges.zip",
-    "sha256": "81e9d9a94b6575b68b5261b8428d79248b472a776d0cd80fc80393fa39881e17",
+    "download": "https://github.com/SAP/macOS-enterprise-privileges/releases/download/1.0.5/Privileges.zip",
+    "sha256": "9f2a6aa889a9041d66243660fc79690c9d1aaf9d88fb1f19098618ea1e5c36ef",
     "appcast": {
       "url": "https://github.com/SAP/mac-enterprise-privileges/releases.atom",
       "checkpoint": "ddaee5b4124a490b815d6ea12e6d9601470898fe22d6ee3db9312350462d295f"
     },
-    "version": "1.0.3",
+    "version": "1.0.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
