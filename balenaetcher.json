@@ -3,13 +3,13 @@
     "id": "balenaetcher",
     "bundle": "balenaEtcher.app",
     "identifier": "io.balena.etcher",
-    "download": "https://github.com/balena-io/etcher/releases/download/v1.5.62/balenaEtcher-1.5.62.dmg",
-    "sha256": "1211caa552371974f4b6d587004a603b6f9ec29c608f904fd6893781c03da521",
+    "download": "https://github.com/balena-io/etcher/releases/download/v1.5.63/balenaEtcher-1.5.63.dmg",
+    "sha256": "59f98032491f131210609257571cfe490cac980a97b306f745c40fe69b7e3bde",
     "appcast": {
       "url": "https://github.com/balena-io/etcher/releases.atom",
-      "checkpoint": "d4c9b78d7ab676e4e05df1ad385c5fcc2d99d7815455c32874db7a2d0244e2cf"
+      "checkpoint": "b78cf08ee71c78e53fcf69a849e0bea8072877b1b9ddabbc5f7f6467ba74e3fc"
     },
-    "version": "1.5.62",
+    "version": "1.5.63",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
