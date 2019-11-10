@@ -3,13 +3,13 @@
     "id": "archi",
     "bundle": "Archi.app",
     "identifier": "com.archimatetool.editor",
-    "download": "https://www.archimatetool.com/downloads/451/Archi-Mac-4.5.1.zip",
-    "sha256": "32c705fec35a3ff8384bb13da93545fbb1104f78488309c6a4851c0f963d68c3",
+    "download": "https://www.archimatetool.com/downloads/460/Archi-Mac-4.6.0.zip",
+    "sha256": "2cc75122d6e1fb9ce9cf99488aeb041c07cec0df237e9bd496f6f8dc4cf66cbc",
     "appcast": {
       "url": "https://github.com/archimatetool/archi/releases.atom",
-      "checkpoint": "3719ec33f049ab1ad889e039b01478049ccd61e8c08378571f7c4353154106bb"
+      "checkpoint": "3247d5c81634f75f2babe13804fa110ebeae5e193869d4e9596476ff6fa46348"
     },
-    "version": "4.5.1",
+    "version": "4.6.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
