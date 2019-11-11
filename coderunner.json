@@ -3,13 +3,13 @@
     "id": "coderunner",
     "bundle": "CodeRunner.app",
     "identifier": "com.krill.CodeRunner",
-    "download": "https://dktfof1z89xc1.cloudfront.net/CodeRunner-3.0.1.zip",
-    "sha256": "31976c2551102eb07c3c20b578664a0697a92299c53a4956bc7353c7440a81fa",
+    "download": "https://coderunnerapp.com/download/update/CodeRunner-3.1.zip",
+    "sha256": "c85ee95a52af5986a0279a8191feff3f0c7d9f86b0f8030779b48b6a33541bee",
     "appcast": {
       "url": "https://coderunnerapp.com/appcast.xml",
-      "checkpoint": "e1264a413292c7ed313bc4c676c8a3f6427bd9a14cca62623fffbe4508367e09"
+      "checkpoint": "ea1b5448ac166c5e64ccf08509f7c470ab6469bb409511e6651a3ea47132494e"
     },
-    "version": "3.0.1",
+    "version": "3.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
