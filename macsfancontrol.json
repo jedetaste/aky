@@ -3,13 +3,13 @@
     "id": "macsfancontrol",
     "bundle": "Macs Fan Control.app",
     "identifier": "com.crystalidea.MacsFanControl",
-    "download": "https://github.com/crystalidea/macs-fan-control/releases/download/v1.5/macsfancontrol.zip",
-    "sha256": "7dd2ae5141a977d972310674d6ad12836ba0a8785cf563100bff7115608887e8",
+    "download": "https://github.com/crystalidea/macs-fan-control/releases/download/v1.5.1/macsfancontrol.zip",
+    "sha256": "ac93dc9020e31d199caa550f3ab7b892afd6ddd5d94b3a0794f0cd44d9e5bd7c",
     "appcast": {
       "url": "https://github.com/crystalidea/macs-fan-control/releases.atom",
       "checkpoint": "7e7c02c7fcd19ad6cf52710978fca5ae56b7d5752dc99935da3e8c26f498b9bc"
     },
-    "version": "1.5.0.3",
+    "version": "1.5.1.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
