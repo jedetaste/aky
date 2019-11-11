@@ -4,10 +4,10 @@
     "bundle": "Remotix.app",
     "identifier": "com.nulana.remotixmacwild",
     "download": "https://downloads.nulana.com/remotix/Remotix.dmg",
-    "sha256": "d7e187b0a3c131a9ee0724003cbd0b198c381c332bb26aa9a53e02366b92f660",
+    "sha256": "73cd5617cc996d6df327630549608888c2bbaba03dc5595286408894de3ca8e5",
     "appcast": {
       "url": "https://nulana.com/downloads/remotix/release-notes.html",
-      "checkpoint": "72640c449e0623bf0b3f9e7002dc7fce9ac806a8f83ca9b89122791e0cc02f23"
+      "checkpoint": "31f7dbcb6ace5ace32c7cd3f8b7c3a7e3b772b12a59a6dd940cd124eb95ce7d4"
     },
     "version": "6.0",
     "build": null,
