@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "crashplan",
+    "bundle": "CrashPlan.app",
+    "identifier": "com.backup42.desktop",
+    "download": "https://backup1.anykeyit.ch:4285/client/installers/Code42CrashPlan_6.8.8_1525200006688_12_Mac.dmg",
+    "sha256": "ff15c77f7d4bf8ff79b972b54e5fc1c41afe998554d75bd0920d83148a2c42f7",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "6.8.8",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.code42.com"
+  }
+}
