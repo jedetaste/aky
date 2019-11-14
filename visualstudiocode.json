@@ -7,7 +7,7 @@
     "sha256": "8142a55ab7662cb7b5d87385d219d5e483e24c90e0e306fffa2d11342fdebdfb",
     "appcast": {
       "url": "https://vscode-update.azurewebsites.net/api/update/darwin/stable/VERSION",
-      "checkpoint": "7608da2ca75e783eb24aa371187c1e8a66c239fff24bc9deeb9d513b73f879b5"
+      "checkpoint": "cf9a17bf751a8e963586705b4450cc31166cc48cf600ad842113fa42f23c23fa"
     },
     "version": "1.40.0",
     "build": null,
