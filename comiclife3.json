@@ -4,12 +4,12 @@
     "bundle": "Comic Life 3.app",
     "identifier": "com.plasq.comiclife3",
     "download": "http://downloads.plasq.com/comiclife3.zip",
-    "sha256": "fc8a14b3ac5476576c55eb0349393f4415f548624bc814d2040b61cf951afac7",
+    "sha256": "0d549be721b11874e417ec2e557deaeb2f8d1987f8041e6c88f11e4a5bd283c7",
     "appcast": {
       "url": "https://s3.amazonaws.com/updater.plasq.com/comiclife3-appcast.xml",
-      "checkpoint": "eb3ef4b4dea87389d548f85e4e027d242cfa98ab6a74d11f1a54a905ee70159f"
+      "checkpoint": "59bc316864366b9ec021f23ec6d9cfd30af1d8178757c25a95039675753fec5d"
     },
-    "version": "3.5.11",
+    "version": "3.5.12",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
