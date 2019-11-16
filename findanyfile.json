@@ -6,8 +6,8 @@
     "download": "https://s3.amazonaws.com/files.tempel.org/FindAnyFile_2.1.1.zip",
     "sha256": "5e444bcb16f89bbb44ded8da6f84d494d081ef07d8949ac2287ac80d1cc2a585",
     "appcast": {
-      "url": "https://apps.tempel.org/FindAnyFile/appcast.xml",
-      "checkpoint": "6df2ec1c34b0c1abff75cf935c290c0cd3db76da7927d5a3462085d4388ae5e2"
+      "url": "http://findanyfile.app/appcast2.php",
+      "checkpoint": "72315cc682ccdc8bc39e60c9eaf76ae12ae6df940ad068f696e665593ffa7cb5"
     },
     "version": "2.1.1",
     "build": null,
