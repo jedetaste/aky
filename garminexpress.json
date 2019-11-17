@@ -4,12 +4,12 @@
     "bundle": "Garmin Express.app",
     "identifier": "com.garmin.renu.client",
     "download": "https://download.garmin.com/omt/express/GarminExpress.dmg",
-    "sha256": "af3e83b05041d2ce03afe5da0e5cb15b6382faa3aad4af0b2cadd458c330e5b4",
+    "sha256": "ca4483090582a13a116649d2c5b80453c05e371b6754b496f1198f139e708d26",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "6.19.0.0",
+    "version": "6.19.1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
