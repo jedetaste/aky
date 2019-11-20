@@ -3,13 +3,13 @@
     "id": "flux",
     "bundle": "Flux.app",
     "identifier": "org.herf.Flux",
-    "download": "https://justgetflux.com/mac/Flux39.987.zip",
-    "sha256": "eea57d27d059a50bfc74525f78469e11495c6b8e93c5adfefdce1897015359ec",
+    "download": "https://justgetflux.com/mac/Flux40.0.zip",
+    "sha256": "0035cc1bf8878111028b47de32c76130c4ab5324d0fc244625b27155973c4384",
     "appcast": {
       "url": "https://justgetflux.com/mac/macflux.xml",
-      "checkpoint": "ba94b32078eee093dc367980a560d22e51b6c8fb0bd343de6f9acd34b0e7a462"
+      "checkpoint": "7528dab26aaa9f262d548e52156214eb89b666fd81fa1b4bfde2150feae9ed42"
     },
-    "version": "39.987",
+    "version": "40.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
