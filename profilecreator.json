@@ -3,11 +3,11 @@
     "id": "profilecreator",
     "bundle": "ProfileCreator.app",
     "identifier": "com.github.erikberglund.ProfileCreator",
-    "download": "https://github.com/ProfileCreator/ProfileCreator/releases/download/v0.3.2/ProfileCreator_v0.3.2-201907171032-beta.zip",
-    "sha256": "dbe368f5db0c14b7b62df98acd0bc7356ab5bbf6407b71704a96654a83f695e0",
+    "download": "https://github.com/erikberglund/ProfileCreator/releases/download/v0.3.2/ProfileCreator_v0.3.2-201907171032-beta.dmg",
+    "sha256": "a4a1b45bfaa6bc83aac7ef532981aaa0c807cd17fbfb1f157980144e5d309aea",
     "appcast": {
       "url": "https://github.com/erikberglund/ProfileCreator/releases.atom",
-      "checkpoint": "c70e67d549e6c13f2834532313aa740cea9b482229c165aaa2cb5bf9b3e4d05a"
+      "checkpoint": "e5a7bbdeacfff553afc489aae3c7c030dc20db98fc4728680559ffa666a381de"
     },
     "version": "0.3.2",
     "build": null,
