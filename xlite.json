@@ -3,13 +3,13 @@
     "id": "xlite",
     "bundle": "X-Lite.app",
     "identifier": "com.CounterPath_Corporation.X-Lite",
-    "download": "https://counterpath.s3.amazonaws.com/downloads/X-Lite_5.7.1_100933.dmg",
-    "sha256": "34f3986467553bb10f93da626f9f474fa46a4564fd9f492eac44a2a3e71b3f18",
+    "download": "https://counterpath.s3.amazonaws.com/downloads/X-Lite_5.8.1_102009.dmg",
+    "sha256": "046573027c8823844fa4b9392ef245026950dba5aa084fdb44095241c0ef674c",
     "appcast": {
       "url": "https://www.macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://www.counterpath.com/XLiteForMac",
-      "checkpoint": "5bddee4ca9e5fcaa58b9667821578c906fdcffeb21b32350248feeb136f9fa4d"
+      "checkpoint": "43648ca08f412f3592530c107d0a89a0906f421cc4c1ae8d261f331fe88aafa0"
     },
-    "version": "5.8.0",
+    "version": "5.8.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
