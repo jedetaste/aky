@@ -6,13 +6,13 @@
       "DiskMaker X.app"
     ],
     "identifier": "net.gete.diskmakerx",
-    "download": "https://diskmakerx.com/downloads/DiskMaker_X_90b1.dmg",
-    "sha256": "9946b75cafed3f9e71cbe09c45cac7db66a4a17a2bb61c76f6e006822d077d52",
+    "download": "https://diskmakerx.com/downloads/DiskMaker_X_9.dmg",
+    "sha256": "96845cd375543401b822fb4e17d2ecc300fcb621f56afcdad613ae11c9afddce",
     "appcast": {
       "url": "https://diskmakerx.com/feed/",
-      "checkpoint": "f41d1b533b76b6262b76de940667e4b88eae5a1e6e9bac762e55575f88e99bb9"
+      "checkpoint": "7c7ec7f2bf192545ff3e40508a87f7fd7527da1c149c201feffdc085648ae541"
     },
-    "version": "9.0b1",
+    "version": "9.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
