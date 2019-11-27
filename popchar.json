@@ -4,7 +4,7 @@
     "bundle": "PopChar.app",
     "identifier": "com.macility.popchar3",
     "download": "https://www.ergonis.com/downloads/products/popcharx/PopCharX87-Install.dmg",
-    "sha256": "5d21f19329b98cd2faa4e956344a750da2bcff219754c06be890d0caf9025a37",
+    "sha256": null,
     "appcast": {
       "url": "https://update.ergonis.com/vck/popcharx.xml",
       "checkpoint": "a8fc5dfc3d1ebd99e70b6165ce742fcd5b121c72bc4f4aa97a0cea197f30683d"
