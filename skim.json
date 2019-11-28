@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "skim",
+    "bundle": "Skim.app",
+    "identifier": "net.sourceforge.skim-app.skim",
+    "download": "https://downloads.sourceforge.net/skim-app/Skim/Skim-1.5.5/Skim-1.5.5.dmg",
+    "sha256": "533c8e8409f84db1ce5fabde43de92d1a5dae338a835dbec2fb21229e7a8a4a2",
+    "appcast": {
+      "url": "https://skim-app.sourceforge.io/skim.xml",
+      "checkpoint": "a26ee020a21fc3b0ed9ea614343fc48d196338770f1e3eb060b853ab49cfe14d"
+    },
+    "version": "1.5.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://skim-app.sourceforge.io/"
+  }
+}
