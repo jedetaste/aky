@@ -1,17 +1,17 @@
 {
   "recipe": {
     "id": "blender",
-    "bundle": "blender.app",
+    "bundle": "Blender.app",
     "identifier": "org.blenderfoundation.blender",
-    "download": "https://download.blender.org/release/Blender2.79/blender-2.79b-macOS-10.6.dmg",
-    "sha256": "800ee21d1dcea82334625675ca44452b61373e14c097d7488771b276a9c1c4ae",
+    "download": "https://download.blender.org/release/Blender2.81/blender-2.81-macOS.dmg",
+    "sha256": "6eb4148e85cf9f610aea1f2366f08a3ae37e5a782d66763ba59aeed99e2971b1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://download.blender.org/release/",
+      "checkpoint": "c85639e3f640e5a65f38b9ed1b087a0dc6a1a6794ba4f7192973903d140013bc"
     },
-    "version": "2.79b",
+    "version": "2.81",
     "build": null,
-    "dir": "/Applications/blender",
+    "dir": "/Applications",
     "symlink": null,
     "web": "https://www.blender.org/"
   }
