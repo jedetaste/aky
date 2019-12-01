@@ -3,11 +3,11 @@
     "id": "diskwave",
     "bundle": "DiskWave.app",
     "identifier": "ph.barthe.DiskWave",
-    "download": "https://diskwave.barthe.ph/download/DiskWave_0.4-3.dmg",
-    "sha256": "733ac81464bf66928e6e6eb59bb7f2c15e32ff38694c42a0fa7808a1a4a7a295",
+    "download": "https://diskwave.barthe.ph/download/DiskWave_0.4.dmg",
+    "sha256": "976324e46e4ca4d54240de13cf2c6f0db9afdb703b0e6ef78e2b5b5d36d63e75",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://diskwave.barthe.ph/changelog.html",
+      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "version": "0.4.0",
     "build": null,
