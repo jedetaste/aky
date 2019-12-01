@@ -3,11 +3,11 @@
     "id": "intellijidea",
     "bundle": "IntelliJ IDEA.app",
     "identifier": "com.jetbrains.intellij",
-    "download": "https://download-cf.jetbrains.com/idea/ideaIU-2019.3.dmg",
+    "download": "https://download.jetbrains.com/idea/ideaIU-2019.3.dmg",
     "sha256": "d50d8e9d42da5fd842eba45389ed5a7bc9cbd4fe5718603008820fa38400f357",
     "appcast": {
       "url": "https://data.services.jetbrains.com/products/releases?code=IIU&latest=true&type=release",
-      "checkpoint": "d59e7ab8c5c5bbfc7505ac27391896a669c5199d9bb90e7e55d30a850ca4a4c3"
+      "checkpoint": "fb122e1753951aab7f24d74323a60a0cf60fb165649874c2d2a76e7501f965b1"
     },
     "version": "2019.3",
     "build": null,
