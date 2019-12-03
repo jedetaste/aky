@@ -7,9 +7,9 @@
     "sha256": "575a77233a76f848bde16d36183f3301cfe148c05c70a3cd946d29d71c9476c1",
     "appcast": {
       "url": "https://download.teamviewer.com/download/update/macupdates.xml?id=0&lang=en&version=14.7.1965&os=macos&osversion=10.15.1&type=1&channel=1",
-      "checkpoint": "936141e8ee96da3d3128260d5606be8d04874eca4bc5ed1ed81a5cf5229a0220"
+      "checkpoint": "dc57877aa8a3b4eda1640ce0fe039d7074915de708058b59da51181abd1be43c"
     },
-    "version": "15.0.8397",
+    "version": "15.0.24",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
