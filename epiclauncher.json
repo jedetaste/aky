@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "epiclauncher",
+    "bundle": "Epic Games Launcher.app",
+    "identifier": "com.epicgames.EpicGamesLauncher",
+    "download": "https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Mac/EpicInstaller-10.7.0.dmg",
+    "sha256": "0b82a5103df5026de9ef5ed683c04977053c02a40fce41f404e9119889a845fd",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "10.7.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.epicgames.com/store/de/"
+  }
+}
