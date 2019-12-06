@@ -1,15 +1,15 @@
 {
   "recipe": {
     "id": "snagit",
-    "bundle": "Snagit 2019.app",
-    "identifier": "com.TechSmith.Snagit2019",
-    "download": "http://download.techsmith.com/snagitmac/deu/Snagit.dmg",
+    "bundle": "Snagit 2020.app",
+    "identifier": "com.TechSmith.Snagit2020",
+    "download": "https://download.techsmith.com/snagitmac/releases/Snagit.dmg",
     "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2019.1.5",
+    "version": "2020.0.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
