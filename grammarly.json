@@ -4,13 +4,13 @@
     "bundle": "Grammarly.app",
     "identifier": "com.grammarly.DesktopEditor",
     "download": "https://download-editor.grammarly.com/osx/Grammarly.dmg",
-    "sha256": "9017471c150ca089be1b8a23d89aa2c693cb0a42d1df5f963aac0590b5ac73df",
+    "sha256": "801c39a64668cb88d6e836d385af7f59197203d6e99cb4c9cfc927f0c9fe939c",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
     "version": null,
-    "build": "1.5.57",
+    "build": "1.5.58",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.grammarly.com/"
