@@ -6,8 +6,8 @@
     "download": "https://downloads.arduino.cc/arduino-1.8.10-macosx.zip",
     "sha256": "086faa08935a4d1056cdc6608feb0979abfbf1ec97775fa2b1809053615e5f65",
     "appcast": {
-      "url": "https://www.arduino.cc/en/Main/ReleaseNotes",
-      "checkpoint": "e2555941acbbadd7f1a153d22e604ad70af231a0bad4293e69b57bd8ab24e65c"
+      "url": "https://github.com/arduino/Arduino/releases.atom",
+      "checkpoint": "1444fdb6bb65553b6d6514b9a07ab845ced5a7a6538a98caa2d8b1998cd46bb9"
     },
     "version": "1.8.10",
     "build": null,
