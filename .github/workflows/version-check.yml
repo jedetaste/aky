@@ -29,8 +29,6 @@ jobs:
 
           else
 
-            echo
-
             mkdir "/tmp/akydownload"
 
             cd "/tmp/akydownload" && aria2c "${download}" >/dev/null 2>&1
@@ -39,11 +37,7 @@ jobs:
 
             computed_checksum=$(shasum -a 256 -p "${get_download}" | cut -d' ' -f1)
 
-            if [ "${checksum}" == "${computed_checksum}" ]; then
-              echo "${id} probably outdated"
-            elif [ "${checksum}" == "null" ]; then
-              echo "${id} probably outdated"
-            elif [ "${checksum}" != "${computed_checksum}" ]; then
+            if [ "${checksum}" != "${computed_checksum}" ]; then
               echo "${id} probably outdated"
             fi
 
