@@ -12,14 +12,43 @@ jobs:
     - name: Run a multi-line script
       run: |
         for json in $GITHUB_WORKSPACE/*.json; do
+
           id=$(jq -r '.[].id' "${json}")
           checksum=$(jq -r '.[].sha256' "${json}")
           download=$(jq -r '.[].download' "${json}")
           appcast_url=$(jq -r '.[].appcast.url' "${json}")
           appcast_checkpoint=$(jq -r '.[].appcast.checkpoint' "${json}")
-          echo "${id}"
-          echo "${checksum}"
-          echo "${download}"
-          echo "${appcast_url}"
-          echo "${appcast_checkpoint}"
+
+          if [ "${appcast_url}" != "null" ]; then
+
+            computed_appcast_checkpoint=$(curl --compressed -s -L -H 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36' "${download}" | sed 's|<pubDate>[^<]*</pubDate>||g' | shasum --algorithm "256" | cut -d' ' -f1)
+
+            if [ "${appcast_checkpoint}" != "${computed_appcast_checkpoint}" ]; then
+              echo "${id} probably outdated"
+            fi
+
+          else
+
+            echo
+
+            mkdir "/tmp/akydownload"
+
+            cd "/tmp/akydownload" && aria2c "${download}" >/dev/null 2>&1
+
+            get_download="$(find "/tmp/akydownload" -name "*.*")"
+
+            computed_checksum=$(shasum -a 256 -p "${get_download}" | cut -d' ' -f1)
+
+            if [ "${checksum}" == "${computed_checksum}" ]; then
+              echo "${id} probably outdated"
+            elif [ "${checksum}" == "null" ]; then
+              echo "${id} probably outdated"
+            elif [ "${checksum}" != "${computed_checksum}" ]; then
+              echo "${id} probably outdated"
+            fi
+
+            rm -rf "/tmp/akydownload"
+
+          fi
+
         done
