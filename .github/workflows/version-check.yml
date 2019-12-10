@@ -11,5 +11,15 @@ jobs:
     - uses: actions/checkout@v1
     - name: Run a multi-line script
       run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+        for json in $GITHUB_WORKSPACE/*.json; do
+          id=$(jq -r '.[].id' "${json}")
+          checksum=$(jq -r '.[].sha256' "${json}")
+          download=$(jq -r '.[].download' "${json}")
+          appcast_url=$(jq -r '.[].appcast.url' "${json}")
+          appcast_checkpoint=$(jq -r '.[].appcast.checkpoint' "${json}")
+          echo "${id}"
+          echo "${checksum}"
+          echo "${download}"
+          echo "${appcast_url}"
+          echo "${appcast_checkpoint}"
+        done
