@@ -4,7 +4,7 @@
     "bundle": "Adobe Flash Player Install Manager.app",
     "identifier": "com.adobe.flashplayer.installmanager",
     "download": "https://fpdownload.adobe.com/get/flashplayer/pdc/32.0.0.303/install_flash_player_osx.dmg",
-    "sha256": null,
+    "sha256": "4a10e13a7e5c0a5081fcbc62e54835a20979defbd7f57ab76737a7fe81cb4960",
     "appcast": {
       "url": "https://fpdownload.adobe.com/pub/flashplayer/update/current/xml/version_en_mac_pl.xml",
       "checkpoint": "9eaeb636b05e6c8591b376c25d7217a9f387af546b398639f621e5e067289121"
