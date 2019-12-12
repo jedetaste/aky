@@ -3,13 +3,13 @@
     "id": "virtualbox",
     "bundle": "VirtualBox.app",
     "identifier": "org.virtualbox.app.VirtualBox",
-    "download": "https://download.virtualbox.org/virtualbox/6.0.14/VirtualBox-6.0.14-133895-OSX.dmg",
-    "sha256": "ea3ebf2457908495128178f9b6676a77b120fa7878fd626d2baf0a8c45921370",
+    "download": "https://download.virtualbox.org/virtualbox/6.1.0/VirtualBox-6.1.0-135406-OSX.dmg",
+    "sha256": "77af2fef56d8e6cebf74e5999c97c03a7817a9557ea960c3c6db89f5007215db",
     "appcast": {
       "url": "https://download.virtualbox.org/virtualbox/LATEST.TXT",
-      "checkpoint": "689cfa59d92ca883e1d8b70614bcfa76ffa1fdc4ba5d81707aee279bfb4f785b"
+      "checkpoint": "0fd114b03452dc32b26bcb9f1094cb19bf4e3a477cd04cfe91f4a87e19fac5c1"
     },
-    "version": "6.0.14",
+    "version": "6.1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
