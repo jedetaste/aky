@@ -3,14 +3,14 @@
     "id": "opera",
     "bundle": "Opera.app",
     "identifier": "com.operasoftware.Opera",
-    "download": "https://get.geo.opera.com/pub/opera/desktop/65.0.3467.69/mac/Opera_65.0.3467.69_Setup.dmg",
-    "sha256": "ddc97946ca14f49035dff46b4e47765d698aeaffbc5ec74558917bc7fba558a0",
+    "download": "https://get.geo.opera.com/pub/opera/desktop/65.0.3467.72/mac/Opera_65.0.3467.72_Setup.dmg",
+    "sha256": "73e916ae16fb99049ad45a947974e7a0fab4be467a4a375022101dcab4bb7550",
     "appcast": {
       "url": "https://ftp.opera.com/pub/opera/desktop/",
-      "checkpoint": "d08de33ebced66b6bcf18cf7aaeaa796def7de2a98172de74a7c4310f84434b6"
+      "checkpoint": "d1993d05b2db65e17df311a53ea80ff0d86bd304839470be19caef11a5d0c3dc"
     },
     "version": null,
-    "build": "65.0.3467.69",
+    "build": "65.0.3467.72",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.opera.com/"
