@@ -3,13 +3,13 @@
     "id": "stellarium",
     "bundle": "Stellarium.app",
     "identifier": "org.stellarium.Stellarium",
-    "download": "https://github.com/Stellarium/stellarium/releases/download/v0.19.2/Stellarium-0.19.2.dmg",
-    "sha256": "e64f8c73aa9db7734db1b419cc002ccbfa6650e4af6f6a1625fd2874ece474cb",
+    "download": "https://updates.signal.org/desktop/signal-desktop-mac-1.29.3.dmg",
+    "sha256": "8e2a2a394854b4b252f741db23d5301fd52bded4587f3919f60f41d827535270",
     "appcast": {
       "url": "https://github.com/Stellarium/stellarium/releases.atom",
-      "checkpoint": "e32152f0582256f4daab81a6379346db686685f8ac0cf0375ab6dd2eedb198cf"
+      "checkpoint": "d9cdb603b892fd9634fd2c53cdb4638f3c140dfae52b2c7d204dbf7fae7e4de9"
     },
-    "version": "0.19.2",
+    "version": "1.29.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
