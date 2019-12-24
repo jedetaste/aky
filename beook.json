@@ -4,12 +4,12 @@
     "bundle": "beook.app",
     "identifier": "beook",
     "download": "https://beook.ch/downloads/setup/mac64/beook_mac64_install_6.2.0.pkg",
-    "sha256": "87cfed902178655886c2b2d1839af6b6dd85b8356c2ee7758037041421cc0720",
+    "sha256": "b38d84a1a8bb2293bfb8506e40ad5bca6e8692c8d1bf2a8f1e102fa086d78be4",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "6.0",
+    "version": "6.2.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
