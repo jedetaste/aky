@@ -6,8 +6,8 @@
     "download": "https://chkr-download.ifolor.net/update/MacDesigner/ifolorDesigner_3.6.9_b2707.zip",
     "sha256": "c123baab262ad1500653c20a7561a5b1dee1764e64edb1e65f824fe5eb534eb2",
     "appcast": {
-      "url": "https://chkr-download.ifolor.net/update/MacDesigner/ifolor_updates.xml",
-      "checkpoint": "dc1d54dab6ec8c00f70137927504e4f222c8395f10760b6beecfcfa94e08249f"
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.6.9",
     "build": null,
