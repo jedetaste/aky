@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "solstice",
+    "bundle": "SolsticeClientMacWeb.app",
+    "identifier": "com.mersive.solstice.clientinstaller",
+    "download": "https://www.mersive.com/downloads/SolsticeClientMacWeb.zip",
+    "sha256": "d33d68be4ed439ecf2944a97d3921a30a2ff8c21d9f9bcfa851e87800ffccbe9",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.3.15966",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.mersive.com/products/solstice/"
+  }
+}
