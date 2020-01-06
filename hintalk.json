@@ -3,13 +3,13 @@
     "id": "hintalk",
     "bundle": "HIN Talk.app",
     "identifier": "de.vnc-uxf-portal.app",
-    "download": "https://basepackages.vnc.biz/electron/HIN%20Talk-2.20.1-1985.dmg",
-    "sha256": "158e2aeecc3652112b389fb6c198ecbfe40515d2f3716fb8fe64d4ef67da4020",
+    "download": "https://basepackages.vnc.biz/electron/HIN%20Talk-2.20.1-2006.dmg",
+    "sha256": "04c5c19f0de6d09ae7a7234ed8ed71a7b6f3e8b92195e9de9248442cfdc7d9eb",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.20.1-1985",
+    "version": "2.20.1-2006",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
