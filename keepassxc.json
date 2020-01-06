@@ -3,13 +3,13 @@
     "id": "keepassxc",
     "bundle": "KeePassXC.app",
     "identifier": "org.keepassx.keepassxc",
-    "download": "https://github.com/keepassxreboot/keepassxc/releases/download/2.5.0/KeePassXC-2.5.0.dmg",
-    "sha256": "d6da012cca981d21925d4fa9fff6b2aa74d77ece8de89ef55ca999ee7d5eaa38",
+    "download": "https://github.com/keepassxreboot/keepassxc/releases/download/2.5.2/KeePassXC-2.5.2.dmg",
+    "sha256": "9755d3f16b98db6f8d25e02a445a0b7f4aae822e514105cec02df4c25b53f993",
     "appcast": {
       "url": "https://github.com/keepassxreboot/keepassxc/releases.atom",
-      "checkpoint": "5b49db6926ef17abb5206095cccb1b7341a9adbcc202e01c40f0dd5fbed1d2d7"
+      "checkpoint": "b7fc03a05aa700e834cec8180c262ed642ec4aeb75dcc13176c9651a2cf99bfa"
     },
-    "version": "2.5.0",
+    "version": "2.5.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
