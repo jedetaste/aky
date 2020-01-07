@@ -1,0 +1,21 @@
+{
+  "recipe": {
+    "id": "camtasia",
+    "bundle": [
+      "Camtasia 2019.app",
+      "Camtasia.app"
+    ],
+    "identifier": "com.techsmith.camtasia2019",
+    "download": "https://download.techsmith.com/camtasiamac/releases/Camtasia.dmg",
+    "sha256": "f9ece1937f9ddb85d37f0b6e8f5fd831375b68d20e8b0fe55095b8f5dc218ee9",
+    "appcast": {
+      "url": "https://support.techsmith.com/hc/en-us/articles/115006624748-Camtasia-Mac-Version-History",
+      "checkpoint": "c777395df0d75c833358bda65e55d7a5b84386d6d732ea1237ccf63c9f560a33"
+    },
+    "version": "2019.0.6",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.techsmith.com/camtasia.html"
+  }
+}
