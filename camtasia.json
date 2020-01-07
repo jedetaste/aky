@@ -1,10 +1,7 @@
 {
   "recipe": {
     "id": "camtasia",
-    "bundle": [
-      "Camtasia 2019.app",
-      "Camtasia.app"
-    ],
+    "bundle": "Camtasia 2019.app",
     "identifier": "com.techsmith.camtasia2019",
     "download": "https://download.techsmith.com/camtasiamac/releases/Camtasia.dmg",
     "sha256": "f9ece1937f9ddb85d37f0b6e8f5fd831375b68d20e8b0fe55095b8f5dc218ee9",
