@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "calibre",
+    "bundle": "calibre.app",
+    "identifier": "net.kovidgoyal.calibre",
+    "download": "https://download.calibre-ebook.com/4.7.0/calibre-4.7.0.dmg",
+    "sha256": "64e743774207a8724de1cb369e2f9fa7c7528c2d8e96ae3412e0c3c6a75fd29c",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.7.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://calibre-ebook.com/"
+  }
+}
