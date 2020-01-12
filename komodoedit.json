@@ -6,8 +6,8 @@
     "download": "https://downloads.activestate.com/Komodo/releases/11.1.1/Komodo-Edit-11.1.1-18206-macosx-x86_64.dmg",
     "sha256": "3ee0bfe5494b4eb785cbeb7efff68a39db7cd6e57a43b975a614ed36fd17277a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.activestate.com/komodo-ide/downloads/edit",
+      "checkpoint": "d18ad88e10c1a6a9f0c23817a82e01b86d6f9b4686e3b24b14b3cd91b32be859"
     },
     "version": null,
     "build": "11.1.1",
