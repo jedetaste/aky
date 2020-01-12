@@ -3,13 +3,13 @@
     "id": "googlechat",
     "bundle": "Chat.app",
     "identifier": "com.google.chat",
-    "download": "https://dl.google.com/chat/18.11.171/InstallHangoutsChat.dmg",
-    "sha256": "06e9fe5cdedc8ead3c01f0009d3b046c4a3b3672cb103f98389fc5d2d39d4708",
+    "download": "https://dl.google.com/chat/19.9.101/InstallHangoutsChat.dmg",
+    "sha256": "a02ab1c58b8af0b2bd3e0cbb6b16a14979befd4be32458823ea188f3565bea32",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://dl.google.com/chat/latest/InstallHangoutsChat.dmg",
+      "checkpoint": "98f21864ae6fa636001e6e4a5140cc79108a3c1ce728a105e53b3d3bdda04218"
     },
-    "version": "18.11.171",
+    "version": "19.9.101",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
