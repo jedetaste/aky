@@ -6,8 +6,8 @@
     "download": "https://dist.torproject.org/torbrowser/9.0.4/TorBrowser-9.0.4-osx64_de.dmg",
     "sha256": "74e40b1ab3c31bb31b5502d6b7f1cb06d1fb855b6a690bc8155f5b87770870ab",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://dist.torproject.org/torbrowser/",
+      "checkpoint": "b8655b3b966e0a94fedf3becb8804372915716aada78fb2f0f8ac3c64c965c43"
     },
     "version": "9.0.4",
     "build": null,
