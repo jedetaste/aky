@@ -3,13 +3,13 @@
     "id": "themut",
     "bundle": "The MUT.app",
     "identifier": "com.jssmut.jssmut",
-    "download": "http://m-lev.com/uploads/TheMUT_4_1_0.dmg",
-    "sha256": "4fcad3b6b24b76fe322b9e3b3a210abcc843a9bf2b54ca3eab4b21abd5104223",
+    "download": "http://m-lev.com/uploads/TheMUT_4_3_0.dmg",
+    "sha256": "e32d2ec31143bdd045275946ac6d1824b8a5e3d4bdf10db48210c25cdec05f68",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://github.com/mike-levenick/mut/releases.atom",
+      "checkpoint": "bd76db3c891820981466c35fc2d9cdd3551475b7b82f7d1745a6034477d5e2f0"
     },
-    "version": "4.1.0",
+    "version": "4.3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
