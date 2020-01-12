@@ -3,13 +3,13 @@
     "id": "cmake",
     "bundle": "CMake.app",
     "identifier": "org.cmake.cmake",
-    "download": "https://github.com/Kitware/CMake/releases/download/v3.14.0/cmake-3.14.0-Darwin-x86_64.dmg",
-    "sha256": "97f34f3ce6657a65c5232bfc1ecea41c8e7bf084d35ce5a43c58f02b97143771",
+    "download": "https://www.cmake.org/files/v3.16/cmake-3.16.2-Darwin-x86_64.dmg",
+    "sha256": "fbf7b6341b097828cf9d3a5a29e9b9279dda8688be4e2bc497ccba472f820d8b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://cmake.org/files/LatestRelease/",
+      "checkpoint": "b768c708afb4b7a7515b79ed9f89a1d39491042bd4449ea47d54b7a21a9d6b3b"
     },
-    "version": "3.14.0",
+    "version": "3.16.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
