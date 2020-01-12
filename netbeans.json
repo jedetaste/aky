@@ -6,13 +6,13 @@
       "NetBeans.app"
     ],
     "identifier": "org.netbeans.ide.baseide.8.2",
-    "download": "https://download.netbeans.org/netbeans/8.2/final/bundles/netbeans-8.2-macosx.dmg",
-    "sha256": "ddcf37e91d960cca6b6a37c95eabf2c6f15330ed708bfd79be796de00da20e5e",
+    "download": "https://www-eu.apache.org/dist/netbeans/netbeans/11.2/Apache-NetBeans-11.2-bin-macosx.dmg",
+    "sha256": "6e5209458601f8afa9f195cb979b7c68400407d9a0b367c7a80162cb78c2cb26",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www-eu.apache.org/dist/netbeans/netbeans/",
+      "checkpoint": "02384db28a4416293772d6870dd7de35358d88221174defac413a6d7a56995b5"
     },
-    "version": "8.2",
+    "version": "11.2",
     "build": null,
     "dir": "/Applications/NetBeans",
     "symlink": null,
