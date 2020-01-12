@@ -4,10 +4,10 @@
     "bundle": "Stykz.app",
     "identifier": "com.sonsofthundersoftware.stykz",
     "download": "http://www.stykz.net/downloads/mac/Stykz.dmg.zip",
-    "sha256": null,
+    "sha256": "5e48b2115f7d3406e5f218045813184f9dc65db39b973fa8ad71ecbf7b86cede",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.stykz.net/support/releasenotes.php",
+      "checkpoint": "a4a25cc9b750d84971646b87aef8a8c2cd56507bdd602a544f11f0111c515bc8"
     },
     "version": "1.0.1",
     "build": null,
