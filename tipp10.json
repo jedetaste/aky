@@ -6,8 +6,8 @@
     "download": "https://www.tipp10.com/en/download/tipp10_mac_v2-1-0.dmg",
     "sha256": "023f9545b78a7ca35eea3b23597b6380a4f4d42cc75ace72dcadf645be9edb93",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.tipp10.com/en/download/",
+      "checkpoint": "658ca95d70d891605d60e0daf03c90bcd7f97abfad59448f5dbc5eb2abec1f0c"
     },
     "version": null,
     "build": "2.1.0",
