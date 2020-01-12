@@ -3,13 +3,13 @@
     "id": "littlebitscodekitapp",
     "bundle": "littleBits Code Kit App.app",
     "identifier": "cc.littlebits.codekit",
-    "download": "http://codekitupdate.littlebits.cc/download/mac/littleBits%20Code%20Kit%20App-1.0.8.dmg",
-    "sha256": "344d68aac6273773791eadb90c1572b6963777fd5b5e99a6acc99159e55a7de4",
+    "download": "https://s3.amazonaws.com/codekitupdate.littlebits.cc/download/mac/littleBits+Code+Kit+App-1.1.0.dmg",
+    "sha256": "d83aea9bba5c163deb756f2201b13d5e9766dc7740d5ecc88ac11d1f3a79fdb4",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.0.8",
+    "version": "1.1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
