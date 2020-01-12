@@ -6,8 +6,8 @@
     "download": "https://ftp.mozilla.org/pub/thunderbird/releases/68.3.1/mac/de/Thunderbird%2068.3.1.dmg",
     "sha256": "7947da3966a3af6100d75c36b22dd21ecc004afdab8ec4de078e291ad96af32d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.thunderbird.net/en-US/thunderbird/releases/",
+      "checkpoint": "ffba3a86ff4bba9d3089d638011fd42602dd1ad121a869740116b73eda0fedaf"
     },
     "version": "68.3.1",
     "build": null,
