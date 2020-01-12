@@ -1,13 +1,13 @@
 {
   "recipe": {
-    "id": "themut",
+    "id": "mut",
     "bundle": "MUT.app",
     "identifier": "com.jssmut.jssmut",
     "download": "http://m-lev.com/uploads/TheMUT_5_0_5.dmg",
     "sha256": "03824a46952468555a8d6cdfe98184d2d48b2d65548444a9275ef31fd9ca6902",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://github.com/mike-levenick/mut/releases.atom",
+      "checkpoint": "bd76db3c891820981466c35fc2d9cdd3551475b7b82f7d1745a6034477d5e2f0"
     },
     "version": "5.0.5",
     "build": null,
