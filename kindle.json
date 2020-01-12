@@ -3,13 +3,13 @@
     "id": "kindle",
     "bundle": "Kindle.app",
     "identifier": "com.amazon.Kindle",
-    "download": "https://s3.amazonaws.com/kindleformac/52065/KindleForMac-52065.dmg",
-    "sha256": "043c9ec235141455ba0b92d3c7529e3112b90e1431358cf3d801e3d893a435f9",
+    "download": "https://kindleformac.s3.amazonaws.com/55093/KindleForMac-55093.dmg",
+    "sha256": "580957ca56b1e77b7952f41970836481f37ada3071eaee3552265069b89ef757",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://www.amazon.com/kindlemacdownload/ref=klp_hz_mac",
+      "checkpoint": "92dae98ae4044de440e30c36fccf6c19b453f452613e296ae3df73e4b19d9104"
     },
-    "version": "52065",
+    "version": "55093",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
