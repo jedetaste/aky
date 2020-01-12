@@ -3,14 +3,14 @@
     "id": "eclipsejee",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-03/R/eclipse-jee-2019-03-R-macosx-cocoa-x86_64.dmg&r=1",
-    "sha256": "88bd2f29fe46c667ac4e1fe4b64bccfcee884fc141122d07820ea12f97d8778e",
+    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-12/R/eclipse-jee-2019-12-R-macosx-cocoa-x86_64.dmg&r=1",
+    "sha256": "f42fdc31db424292f139c3306e13fa1e3d49fa453761071d13d87c0ce12683c7",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": null,
-    "build": "4.11.0.I20190307-0500",
+    "version": "4.14.0",
+    "build": null,
     "dir": "/Applications/Eclipse JEE",
     "symlink": null,
     "web": "https://eclipse.org/"
