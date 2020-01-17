@@ -1,16 +1,16 @@
 {
   "recipe": {
     "id": "komodoedit",
-    "bundle": "Komodo Edit 10.app",
+    "bundle": "Komodo Edit 12.app",
     "identifier": "com.activestate.KomodoEdit",
-    "download": "https://downloads.activestate.com/Komodo/releases/11.1.1/Komodo-Edit-11.1.1-18206-macosx-x86_64.dmg",
-    "sha256": "3ee0bfe5494b4eb785cbeb7efff68a39db7cd6e57a43b975a614ed36fd17277a",
+    "download": "https://downloads.activestate.com/Komodo/releases/12.0.0/Komodo-Edit-12.0.0-18431-macosx-x86_64.dmg",
+    "sha256": "0c92a66d92da265aa2890cbd6a1add11203b431b7a5b346700cf4cf1242f782a",
     "appcast": {
       "url": "https://www.activestate.com/komodo-ide/downloads/edit",
-      "checkpoint": "1e08787f409e800c306538f61c8f91c982c2c26bdc8e265f5c0d7b608c897715"
+      "checkpoint": "1abfc2e56fcfb49e8f2e552b57adfa396dac122ab2210c7f7f54653fdba26d39"
     },
     "version": null,
-    "build": "11.1.1",
+    "build": "12.0.0",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.activestate.com/komodo-edit/"
