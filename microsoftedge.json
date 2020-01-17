@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "microsoftedge",
+    "bundle": "Microsoft Edge.app",
+    "identifier": "com.microsoft.edgemac",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/MicrosoftEdge-79.0.309.65.pkg",
+    "sha256": "67b1e8e036c575782b1c9188dd48fa94d9eabcb81947c8632fd4acac7b01644b",
+    "appcast": {
+      "url": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409EDGE01-chk.xml",
+      "checkpoint": "1010399131c95bf69375eff016fb07965a06784d21e14e9293bee4a0d2cc3f35"
+    },
+    "version": "79.0.309.65",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.microsoft.com/edge"
+  }
+}
