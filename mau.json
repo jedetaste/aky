@@ -3,14 +3,14 @@
     "id": "mau",
     "bundle": "Microsoft AutoUpdate.app",
     "identifier": "com.microsoft.autoupdate2",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.18.19120802_Updater.pkg",
-    "sha256": "11d051503067db9819c84c8d1ebe29435a781d29c6b1fe3173db03dc88f1b4c3",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.19.20011301_Updater.pkg",
+    "sha256": "74ad5a1224dd07d8f242651aca667c646a897d765ebe73bf9a2a79ec424e5c5a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
     "version": null,
-    "build": "4.18.19120802",
+    "build": "4.19.20011301",
     "dir": "/Library/Application Support/Microsoft/MAU2.0",
     "symlink": null,
     "web": "https://products.office.com/mac/microsoft-office-for-mac/"
