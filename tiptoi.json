@@ -4,12 +4,12 @@
     "bundle": "tiptoi® Manager.app",
     "identifier": "com.ravensburger.tiptoimanager",
     "download": "http://tiptoidata.s3-de.object.vdc.interoute.com/installer_flat/tiptoi_Manager_Installer.pkg",
-    "sha256": "6f3d1a109cffb49c2942243a2ec1101561970fbeb57166f45b00972ce7e72c65",
+    "sha256": "4ad98c244f321f7e4171d1ccdabc3bf39db6f996ecb0e4cdb26a214fd0a85a41",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.1.2",
+    "version": "4.1.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
