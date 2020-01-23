@@ -3,13 +3,13 @@
     "id": "firefoxesr",
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
-    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/68.4.1esr/mac/de/Firefox%2068.4.1esr.dmg",
-    "sha256": "8207d609be66f24af62dfdbfb87d819fa3553bb32a044c0d107c311a85704e0a",
+    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/68.4.2esr/mac/de/Firefox%2068.4.2esr.dmg",
+    "sha256": "721e45d47126717229941e2f7ccb0926fe4a893960566af2506526c48fdba03f",
     "appcast": {
       "url": "https://www.corecode.io/cgi-bin/check_urls/check_url_redirect.cgi?url=https://download.mozilla.org/%3Fproduct=firefox-esr-latest-ssl%26os=osx",
-      "checkpoint": "71d193bccbbf211a4d9421e0912d3d3cf1d7e4b24da10816b107ef393c72db3b"
+      "checkpoint": "856b2a764d02d6604b087cf27448f2d147f9088cc7e90bf793b49b5412a57700"
     },
-    "version": "68.4.1",
+    "version": "68.4.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
