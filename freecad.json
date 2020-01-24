@@ -4,7 +4,7 @@
     "bundle": "FreeCAD.app",
     "identifier": null,
     "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.18.4/FreeCAD_0.18-16146-OSX-x86_64-conda-Qt5-Py3.dmg",
-    "sha256": "190dacd5716e6d50771135dec4824bac291503b9ec7628c260cc1cb62a05b49a",
+    "sha256": null,
     "appcast": {
       "url": "https://github.com/FreeCAD/FreeCAD/releases.atom",
       "checkpoint": "ec12b108ea1cad118f5c9dd62f7c0da70d5b1afbe57501b60fef917122facdd9"
