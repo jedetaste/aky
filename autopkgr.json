@@ -3,13 +3,13 @@
     "id": "autopkgr",
     "bundle": "AutoPkgr.app",
     "identifier": "com.lindegroup.AutoPkgr",
-    "download": "https://github.com/lindegroup/autopkgr/releases/download/v1.5.1/AutoPkgr-1.5.1.dmg",
-    "sha256": "11c3ce33822f25053731bb084b6cb0d688461306a43b3782f045bdf5745c0904",
+    "download": "https://github.com/lindegroup/autopkgr/releases/download/v1.5.2/AutoPkgr-1.5.2.dmg",
+    "sha256": "db443d0e21d6379a060abb59bced973adbad497a36da1d9e1892bb26ebad0f4e",
     "appcast": {
       "url": "https://github.com/lindegroup/autopkgr/releases.atom",
-      "checkpoint": "acb24ac26ed74e0ba5e0b046559ab9f993ba58102eeb2394c8467895c6e4c276"
+      "checkpoint": "a6b2d7c3d197e98ecc71f98c79297d7ba143c8eb2d049dc4b64622ace210c316"
     },
-    "version": "1.5.1",
+    "version": "1.5.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
