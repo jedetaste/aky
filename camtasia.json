@@ -4,12 +4,12 @@
     "bundle": "Camtasia 2019.app",
     "identifier": "com.techsmith.camtasia2019",
     "download": "https://download.techsmith.com/camtasiamac/releases/Camtasia.dmg",
-    "sha256": "f9ece1937f9ddb85d37f0b6e8f5fd831375b68d20e8b0fe55095b8f5dc218ee9",
+    "sha256": "275b0da35435da67983cad6984b734278a7f51c6276e5fd4f2034b163563f6fa",
     "appcast": {
       "url": "https://support.techsmith.com/hc/en-us/articles/115006624748-Camtasia-Mac-Version-History",
-      "checkpoint": "722f7f2700a34bfdb0e597c1a685dcff2a1111e21fb0b256af0c438313f0aed9"
+      "checkpoint": "264c9849e63635ea6b5366275850363581f7cd1409eafcba465b936d4373ae27"
     },
-    "version": "2019.0.6",
+    "version": "2019.0.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
