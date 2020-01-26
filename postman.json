@@ -3,13 +3,13 @@
     "id": "postman",
     "bundle": "Postman.app",
     "identifier": "com.postmanlabs.mac",
-    "download": "https://dl.pstmn.io/download/version/7.16.0/osx64",
-    "sha256": "b2bcacf906d1ab8b7e86be8c51f1e96b798f1a09a0b7ae70c55662e0c78d3444",
+    "download": "https://dl.pstmn.io/download/version/7.16.1/osx64",
+    "sha256": "c4ff0a0bbb907d8bdbb4d79b1b02850c8cb1c821434b21943bbd53ce099ac1eb",
     "appcast": {
       "url": "https://macupdater.net/cgi-bin/check_urls/check_url_filename.cgi?url=https://dl.pstmn.io/download/latest/osx",
-      "checkpoint": "6d2983e13bce184bce4e2b07889c53026661d5b246f9b0390c7b9dd43999af6a"
+      "checkpoint": "dce7a213176529cf766f10e05f0ec54c1abbf72b3885509f523974d3a4fb448d"
     },
-    "version": "7.16.0",
+    "version": "7.16.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
