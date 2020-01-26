@@ -3,13 +3,13 @@
     "id": "mysqlworkbench",
     "bundle": "MySQLWorkbench.app",
     "identifier": "com.oracle.workbench.MySQLWorkbench",
-    "download": "https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.18-macos-x86_64.dmg",
-    "sha256": "965f85163d1723be26c1f0c74c5b1cd908fac79e02c00fa371c217c9a3bf09ae",
+    "download": "https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.19-macos-x86_64.dmg",
+    "sha256": "04dc687fb98b6f312ae0046cdaf414ec566d9044aa77097bbe91a2f79e940401",
     "appcast": {
       "url": "https://dev.mysql.com/downloads/workbench/",
-      "checkpoint": "9cea542082e3bcffb34830767089dfd6caab8ecd51c247cf9dfb80001e682be1"
+      "checkpoint": "f4b7130b7ce1113cf1c566ae9216bf723b5b6c29806cacf2b52a66c4873872ea"
     },
-    "version": "8.0.18.CE",
+    "version": "8.0.19.CE",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
