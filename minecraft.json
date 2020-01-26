@@ -4,12 +4,12 @@
     "bundle": "Minecraft.app",
     "identifier": "com.mojang.minecraftlauncher",
     "download": "https://launcher.mojang.com/download/Minecraft.dmg",
-    "sha256": "aace122ee93ede44919a1dab29cdae83cca9804ac5e037c18e000d33504d0752",
+    "sha256": "49f5dfee21f0b06aedc82e4c50a1bbdecbfd1b28a39e0998499127cafde0e671",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "598",
+    "version": "654",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
