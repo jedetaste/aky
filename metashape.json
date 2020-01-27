@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "metashape",
+    "bundle": "Metashape.app",
+    "identifier": "com.agisoft.metashape.standard",
+    "download": "http://download.agisoft.com/metashape_1_6_1.dmg",
+    "sha256": "9c442e8afbc298510de1927a31179fb0fb3e98140f6847f9319c6df66d94c3fd",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": null,
+    "build": "1.6.1",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.agisoft.com/"
+  }
+}
