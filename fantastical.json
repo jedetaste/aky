@@ -1,15 +1,15 @@
 {
   "recipe": {
     "id": "fantastical",
-    "bundle": "Fantastical 2.app",
+    "bundle": "Fantastical.app",
     "identifier": "com.flexibits.fantastical2.mac",
-    "download": "http://cdn.flexibits.com/Fantastical_2.5.15.zip",
-    "sha256": "3c2cc82594308dc77fb238eed5907e457cb240871d1ef69b526484bf01679041",
+    "download": "http://cdn.flexibits.com/Fantastical_3.0.1.zip",
+    "sha256": "abe9f84cca1e2cf14a856ac49df8d4267263e934d24e9b04478e7a4be503d50e",
     "appcast": {
       "url": "https://flexibits.com/fantastical/appcast2.php",
-      "checkpoint": "114661d82d0c481123875380b1e4df55acb38762ca60b8bd2088962f76e64c35"
+      "checkpoint": "de32d99064af1350ecde8f0efc0c1b0ba71139ddf0a9ab368b73d26663639f8e"
     },
-    "version": "2.5.15",
+    "version": "3.0.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
