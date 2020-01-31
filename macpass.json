@@ -3,13 +3,13 @@
     "id": "macpass",
     "bundle": "MacPass.app",
     "identifier": "com.hicknhacksoftware.MacPass",
-    "download": "https://github.com/MacPass/MacPass/releases/download/0.7.10/MacPass-0.7.10.zip",
-    "sha256": "3c1b18b58c3a9f9365e03a3faff9b4b2d35a3198205a495fba694d01104ac96c",
+    "download": "https://github.com/MacPass/MacPass/releases/download/0.7.11/MacPass-0.7.11.zip",
+    "sha256": "1ad6eda44db56efe2d83dc2eee658eead6a34cc885cd0d92c457abe1c46d9f23",
     "appcast": {
       "url": "https://github.com/MacPass/MacPass/releases.atom",
-      "checkpoint": "550018596da49081f9c85f1691f45b0b2dff3f53208ca1cff5740d1bb66e798d"
+      "checkpoint": "ce7d0c77983f8eb4314de2b35386c450cc09b38be473f492650e38b5224369fb"
     },
-    "version": "0.7.10",
+    "version": "0.7.11",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
