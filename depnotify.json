@@ -3,13 +3,13 @@
     "id": "depnotify",
     "bundle": "DEPNotify.app",
     "identifier": "menu.nomad.DEPNotify",
-    "download": "https://s3.amazonaws.com/nomadbetas/DEPNotify-1.1.4.pkg",
-    "sha256": "7c07df9c132d447fab2dce3432f2bfe2839c027e91bce89a3e882037b1c58ef2",
+    "download": "https://files.nomad.menu/DEPNotify.pkg",
+    "sha256": "d969b3f5f617424de526a45f5b8badf1d7cbfef8974691beecb3729103003ba0",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.1.4",
+    "version": "1.1.5",
     "build": null,
     "dir": "/Applications/Utilities",
     "symlink": null,
