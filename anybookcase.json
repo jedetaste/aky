@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "anybookcase",
+    "bundle": "AnyBookCase.app",
+    "identifier": "com.franklin.AnyBookCase",
+    "download": "https://anybookreader.de/download/617/",
+    "sha256": "331e741620c3f40706ccf1f159b4f52edd1fa9274129d1953985e84acdb549be",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://anybookreader.de/produkte/anybook-case-software/"
+  }
+}
