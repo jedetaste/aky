@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "circuit",
+    "bundle": "Circuit.app",
+    "identifier": "com.unify.circuit",
+    "download": "https://eu.yourcircuit.com/desktop/releases/mac/Circuit.dmg",
+    "sha256": "2608b7510e2cb10c59c98a6fb44a7ad40a77d212682c3a367cb20c29983f370b",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.2.7802",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.circuit.com/"
+  }
+}
