@@ -3,13 +3,13 @@
     "id": "adobereaderdc",
     "bundle": "Adobe Acrobat Reader DC.app",
     "identifier": "com.adobe.Reader",
-    "download": "https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/1902120058/AcroRdrDC_1902120058_MUI.dmg",
-    "sha256": "7e7b5a8f399a56a6674b64f14424f5e775d5f311650d4d16e68b6a78e236040c",
+    "download": "https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2000620034/AcroRdrDC_2000620034_MUI.dmg",
+    "sha256": "73b9e34c4f257cf5184e20f2b7d718ca8f3ff4c0ad2697b94ea3384c4647c207",
     "appcast": {
       "url": "https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html",
-      "checkpoint": "b16dc8aa46248fe8f316395da3b44d9145123fab689389e7a2fde2c4118157eb"
+      "checkpoint": "a05382d43a9e8980f9fd46659516b45975575bbdec05b6ef4216a1f507ca1c0e"
     },
-    "version": "19.021.20058",
+    "version": "20.006.20034",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
