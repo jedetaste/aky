@@ -6,8 +6,8 @@
     "download": "http://download.agisoft.com/metashape_1_6_1.dmg",
     "sha256": null,
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.agisoft.com/downloads/installer/",
+      "checkpoint": "9ccb73e12543a3094158fb71f87fa130eb0db9eeb384590786952fc4bbc59e97"
     },
     "version": "1.6.1",
     "build": null,
