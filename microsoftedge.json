@@ -6,8 +6,8 @@
     "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/MicrosoftEdge-80.0.361.50.pkg",
     "sha256": "86713909bab904b5ab8cb1d28adc9d96940d7d6022716765130ceb4d2388542d",
     "appcast": {
-      "url": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409EDGE01-chk.xml",
-      "checkpoint": "64c6c0fd2dc34415c46e17ceee204fff273dc62d93c02244a34d5c369ca497c5"
+      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://go.microsoft.com/fwlink/?linkid=2069148",
+      "checkpoint": "c7e20fb781c50d600db7f6449943887d0f8bbdad989fe00193850707d1ea4e86"
     },
     "version": "80.0.361.50",
     "build": null,
