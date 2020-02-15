@@ -3,14 +3,14 @@
     "id": "komodoedit",
     "bundle": "Komodo Edit 12.app",
     "identifier": "com.activestate.KomodoEdit",
-    "download": "https://downloads.activestate.com/Komodo/releases/12.0.0/Komodo-Edit-12.0.0-18431-macosx-x86_64.dmg",
-    "sha256": "0c92a66d92da265aa2890cbd6a1add11203b431b7a5b346700cf4cf1242f782a",
+    "download": "https://downloads.activestate.com/Komodo/releases/12.0.1/Komodo-Edit-12.0.1-18441-macosx-x86_64.dmg",
+    "sha256": "68811e8c5d28a3a2ec9a390a36b8b07c81c0ff1f129c02f1349e106490fae6e3",
     "appcast": {
       "url": "https://www.activestate.com/komodo-ide/downloads/edit",
-      "checkpoint": "38ef902723b0635093f23ac694a682adcfd5541cb6386c696702651b1970f889"
+      "checkpoint": "0d4c208b794191ee202edde1ff942f62180c9c9192e26718a3ff0484a74bf98f"
     },
     "version": null,
-    "build": "12.0.0",
+    "build": "12.0.1",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.activestate.com/komodo-edit/"
