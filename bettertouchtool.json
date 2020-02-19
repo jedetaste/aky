@@ -3,13 +3,13 @@
     "id": "bettertouchtool",
     "bundle": "BetterTouchTool.app",
     "identifier": "com.hegenberg.BetterTouchTool",
-    "download": "https://bettertouchtool.net/releases/btt3.332-1524.zip",
-    "sha256": "34ee7cfeebab45b7e487a2e5815cc58b76977b924296f19dcc44bccea5436695",
+    "download": "https://bettertouchtool.net/releases/btt3.333-1541.zip",
+    "sha256": "c8ceac82ce122b36bd16ca87397ed02e3b4caf027d1ba015068cff6f08e3f5df",
     "appcast": {
       "url": "https://www.corecode.io/macupdater/appcasts/bettertouchtool.txt",
-      "checkpoint": "618461987ac3cff0633428dce8fcb954200001fef7c961fa54379bebb5b4d787"
+      "checkpoint": "44453dadc7ffed0e0c5bd9e79ff8b868f436781b1b8c76b1c182e2e868f1369c"
     },
-    "version": "3.332",
+    "version": "3.333",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
