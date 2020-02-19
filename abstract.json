@@ -3,14 +3,14 @@
     "id": "abstract",
     "bundle": "Abstract.app",
     "identifier": "com.elasticprojects.abstract-desktop",
-    "download": "https://downloads.goabstract.com/Abstract-89.0.0.zip",
-    "sha256": "0aa68543d308cecff6ccae57db0934f6e8dc22d759083bdc2ea74ade7999521a",
+    "download": "https://downloads.goabstract.com/Abstract-89.0.0.dmg",
+    "sha256": "ebbf8886d320e75b7229d6d62b9da58536e8a9f6868eb9ae6aa5966aa1fa2608",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.goabstract.com/release-notes/",
+      "checkpoint": "fce19f71b2b6ebc9ca464ecbc14d7c46e768dc695d840b0a6cc9440fb4f5a06b"
     },
-    "version": "89.0.0.64552",
-    "build": "89.0.0.64552",
+    "version": "89.0.0",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
     "web": "https://abstract.com"
