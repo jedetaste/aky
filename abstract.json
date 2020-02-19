@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "abstract",
+    "bundle": "Abstract.app",
+    "identifier": "com.elasticprojects.abstract-desktop",
+    "download": "https://downloads.goabstract.com/Abstract-89.0.0.zip",
+    "sha256": "0aa68543d308cecff6ccae57db0934f6e8dc22d759083bdc2ea74ade7999521a",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "89.0.0.64552",
+    "build": "89.0.0.64552",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://abstract.com"
+  }
+}
