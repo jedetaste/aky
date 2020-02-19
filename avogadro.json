@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "avogadro",
+    "bundle": "Avogadro2.app",
+    "identifier": "cc.avogadro",
+    "download": "https://downloads.sourceforge.net/avogadro/avogadro2/Avogadro2-1.90.0-Darwin.dmg",
+    "sha256": "71392555d2d38a486ea58d4a522304b59855fa8c3f71d88316bf3828f7a064da",
+    "appcast": {
+      "url": "https://sourceforge.net/projects/avogadro/rss",
+      "checkpoint": "86812f0880364b4a27a9f91cc64088181e6264e9793b4b5331a7317db60338cb"
+    },
+    "version": null,
+    "build": "1.90.0",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}
