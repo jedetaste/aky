@@ -3,14 +3,14 @@
     "id": "nextcloud",
     "bundle": "nextcloud.app",
     "identifier": "com.nextcloud.desktopclient",
-    "download": "https://download.nextcloud.com/desktop/releases/Mac/Installer/Nextcloud-2.6.2.20191224.pkg",
-    "sha256": "dc92a94370963d8ee74693a02b761fac8dd040e4c35c308c3df63eedcaf7ca1b",
+    "download": "https://download.nextcloud.com/desktop/releases/Mac/Installer/Nextcloud-2.6.3.20200217.pkg",
+    "sha256": "baee483ef22ad6aec13aeea19d550f3a89f008dda48749f7feaf621b1a3d457f",
     "appcast": {
       "url": "https://download.nextcloud.com/desktop/releases/Mac/Installer/",
       "checkpoint": "7bf2f35705f8006d1413cec2e9c48a39656cc0825df6a34fd44d8368b24dd271"
     },
     "version": null,
-    "build": "2.6.2.20191224",
+    "build": "2.6.3.20200217",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://nextcloud.com/"
