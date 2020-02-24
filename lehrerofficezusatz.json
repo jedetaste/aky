@@ -4,12 +4,12 @@
     "bundle": "LehrerOffice Zusatz.app",
     "identifier": "ch.rothsoft.lehreroffice.sv",
     "download": "https://download.lehrerofficeweb.ch/dateien/zusatz/lo_zusatz_macos.zip",
-    "sha256": "94ddb2a3b6e6a1f17b7e385f42679b0f6c607bf0a5668099640fcc68fa7fb7fb",
+    "sha256": "2524b8526bb1af57cbf336e6703e48261c7b3ba16050a44c5687727bcb4d842c",
     "appcast": {
       "url": "https://www.lehreroffice.ch/services/update/getcurrentversion.php?app=Zusatz",
-      "checkpoint": "20a3b08488baf8499acf4cea063b1da25d77808b7d79d7a75010ff22d920ea97"
+      "checkpoint": "948504f2b22b1bc7d83cc3c05a8828cdd9f3809c4f1572785675831f5c083f15"
     },
-    "version": "2019.13.5",
+    "version": "2020.1.0",
     "build": null,
     "dir": "/Applications/LehrerOffice",
     "symlink": null,
