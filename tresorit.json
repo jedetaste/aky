@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "tresorit",
+    "bundle": "Tresorit.app",
+    "identifier": "com.tresorit.mac",
+    "download": "https://installerstorage.blob.core.windows.net/public/install/Tresorit.dmg",
+    "sha256": "11a4536b0b03cb64bc8487a8400283460c6582db37176cba73aa7fa1a240dbb0",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.5.1674.985",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://tresorit.com/"
+  }
+}
