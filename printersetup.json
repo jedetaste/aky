@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "printersetup",
+    "bundle": "PrinterSetup.app",
+    "identifier": "se.mikaellofgren.PrinterSetup",
+    "download": "https://github.com/mikaellofgren/PrinterSetup/releases/download/1.02/PrinterSetup.app.zip",
+    "sha256": "2bfd083e4692031a7c3dff9360d21e3c249952f684d6e2711f2ce2dfd5e15635",
+    "appcast": {
+      "url": "https://github.com/mikaellofgren/PrinterSetup/releases.atom",
+      "checkpoint": "bcf8b9052f712187a531cfa717f4c3483c00d25a3d100f57586f0305811b2dc7"
+    },
+    "version": "1.02",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/mikaellofgren/PrinterSetup"
+  }
+}
