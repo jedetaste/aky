@@ -3,14 +3,14 @@
     "id": "clipgrab",
     "bundle": "ClipGrab.app",
     "identifier": "de.clipgrab.ClipGrab",
-    "download": "https://download.clipgrab.org/ClipGrab-3.8.10.dmg",
-    "sha256": "2a5af505c4a061938ce8b380fcbc61abf3935265a14e6c2f191cd6c2c9c3428f",
+    "download": "https://download.clipgrab.org/ClipGrab-3.8.11.dmg",
+    "sha256": "a06e8e3897ec1366349a613245f6e8f48d73bbb2f222c2cb27ac704e3bd5c3d3",
     "appcast": {
       "url": "https://clipgrab.org/",
-      "checkpoint": "5ebf83850a7327f9fb872b76cec6ca672f7d9c019ca44665f8e3a86af3dc085b"
+      "checkpoint": "8f71b3433797bf96b7345d71d8a9d274d88e5df10c82d1ad442e35a269481230"
     },
     "version": null,
-    "build": "3.8.10",
+    "build": "3.8.11",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://clipgrab.org/"
