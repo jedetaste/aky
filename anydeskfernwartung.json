@@ -3,14 +3,14 @@
     "id": "anydeskfernwartung",
     "bundle": "AnyDesk.app",
     "identifier": "com.philandro.anydesk",
-    "download": "https://cdn-cloud.anykeyit.ch/downloads/anydeskfernwartung-4.0.1.pkg.zip",
-    "sha256": "b77e7cfbdc5f6b8fe0947e5091b574ee12b95b64c86b07b4ad00e51eaee9a030",
+    "download": "https://get.anydesk.com/eR5PfSuw/AnyDesk.dmg",
+    "sha256": "b1adcfbb3eae6892262632744dabd9e5b582fa1d6f0de4bdbc5457cd3cc62153",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.0.1",
-    "build": "4.0.1",
+    "version": "5.4.5",
+    "build": "5.4.5",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://anykey.ch/download/"
