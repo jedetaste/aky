@@ -4,12 +4,12 @@
     "bundle": "abbu icbu.app",
     "identifier": "de.sedna.abbuicbuapp",
     "download": "http://xsedna.de/Sedna/abbu-icbu_files/abbuicbu.dmg",
-    "sha256": "2aec6437cc7f870b3ba5a6d217d97c8fa08c3796371b61f6144878bdb2353a19",
+    "sha256": "e2462d8b9878b0f567e69487a4b3ebdab1f4d789f8724cf6c4c35998d4faea29",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.0",
+    "version": "2.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
