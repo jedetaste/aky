@@ -3,13 +3,13 @@
     "id": "reciperobot",
     "bundle": "Recipe Robot.app",
     "identifier": "com.elliotjordan.recipe-robot",
-    "download": "https://github.com/homebysix/recipe-robot/releases/download/v1.1.2/RecipeRobot-1.1.2.dmg",
-    "sha256": "b16dabc86fd1276fce0dbd2073e525ec86e57c423d7014f89098ceab2551c5b0",
+    "download": "https://github.com/homebysix/recipe-robot/releases/download/v1.2.1/RecipeRobot-1.2.1.dmg",
+    "sha256": "09974abe3e38770422e07878ee7ef294683e5e5a37267ddb70f5184b3dd11870",
     "appcast": {
       "url": "https://github.com/homebysix/recipe-robot/releases.atom",
-      "checkpoint": "8a88a439c732ae645a6e32219859ca7149e5aaabe3dde609093e720f7db971dc"
+      "checkpoint": "1b454ba77c399aeedaf2577ea035f63f9410de17cc3d7a8f20a215288e549203"
     },
-    "version": "1.1.2",
+    "version": "1.2.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
