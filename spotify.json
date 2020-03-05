@@ -4,12 +4,12 @@
     "bundle": "Spotify.app",
     "identifier": "com.spotify.client",
     "download": "https://download.scdn.co/Spotify.dmg",
-    "sha256": "fcd8cbcb4c954c2043b6c4f9183eb2c4a6045d08ddd03500d9b3fea476b5f655",
+    "sha256": "c10fc084bf63468b2655f1e6aff34cc1b8d9b74e9eb601e0e958792921df2677",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.1.25.559.g85cf5e4c",
+    "version": "1.1.27.472.gf6574b97",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
