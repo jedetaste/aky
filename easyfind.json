@@ -3,13 +3,13 @@
     "id": "easyfind",
     "bundle": "EasyFind.app",
     "identifier": "org.grunenberg.EasyFind",
-    "download": "https://s3.amazonaws.com/DTWebsiteSupport/download/freeware/easyfind/4.9.3/EasyFind.app.zip",
-    "sha256": "eb57b21fa28a84116072e80a4c19b0340d5879f407e9f16bf606760b19e647ed",
+    "download": "https://download.devontechnologies.com/download/freeware/easyfind/5.0/EasyFind.app.zip",
+    "sha256": "a389fc3c35a7d5111960c4ce5e631ad3b99ed1dd5534299b577a68cbd06bc327",
     "appcast": {
       "url": "https://www.devontechnologies.com/apps/freeware",
-      "checkpoint": "6b09ae09c4af75e1beb57b24b3955f69db37f556419773d86dfe4645a70b0f79"
+      "checkpoint": "3696501955cd4774509e13f984f24f75e08bfa97357c1e563f845158a357a844"
     },
-    "version": "4.9.3",
+    "version": "5.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
