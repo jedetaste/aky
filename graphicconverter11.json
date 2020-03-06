@@ -3,13 +3,13 @@
     "id": "graphicconverter11",
     "bundle": "GraphicConverter 11.app",
     "identifier": "com.lemkesoft.graphicconverter11",
-    "download": "https://www.lemkesoft.info/files/graphicconverter/gc11_build4216.zip",
-    "sha256": "3280965384b2616556840f9dae826c85b0df7157bc6a875cc0d0d2e13f7c2df0",
+    "download": "https://www.lemkesoft.info/files/graphicconverter/gc11_build4293.zip",
+    "sha256": "aa8a48d5e7075473499def1774b94270f5eae9ec0aa5765080da791f70d9b652",
     "appcast": {
       "url": "https://www.lemkesoft.info/sparkle/graphicconverter/graphicconverter11.xml",
-      "checkpoint": "2a3eb09af8247c8526776835dd02b142a08148d535a1aa2cefbca8b5e59060f7"
+      "checkpoint": "fc29e2ca2099a024c85712666e317491b62a77c867538c8d888dffa5ddb01caa"
     },
-    "version": "11.1.2",
+    "version": "11.1.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
