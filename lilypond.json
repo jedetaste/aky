@@ -3,13 +3,13 @@
     "id": "lilypond",
     "bundle": "LilyPond.app",
     "identifier": "org.lilypond.lilypond",
-    "download": "http://lilypond.org/downloads/binaries/darwin-x86/lilypond-2.18.2-1.darwin-x86.tar.bz2",
-    "sha256": "0009bf234db6a598e30940ae9a5cef50ffe939992c9bf0c7959ecd9c0d179c80",
+    "download": "http://lilypond.org/downloads/binaries/darwin-x86/lilypond-2.20.0-1.darwin-x86.tar.bz2",
+    "sha256": "1680ca85ff7bdb942a39bff323956357fbb0e6ab17edf9c0e145d52b6c0dc231",
     "appcast": {
       "url": "http://lilypond.org/macos-x.html",
-      "checkpoint": "e99ef351e4c41f4fbddeb2b7e53a82533f4c55ac8382dc2efce68ef902de5183"
+      "checkpoint": "a09786b70756fc4cfc35648df2142d039d8248978b698eb744ba89faa090e661"
     },
-    "version": "2.18.2-1",
+    "version": "2.20.0-1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
