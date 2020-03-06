@@ -6,8 +6,8 @@
     "download": "https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2000620034/AcroRdrDC_2000620034_MUI.dmg",
     "sha256": "73b9e34c4f257cf5184e20f2b7d718ca8f3ff4c0ad2697b94ea3384c4647c207",
     "appcast": {
-      "url": "https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html",
-      "checkpoint": "57d88db228cef184c6a5b4dbf6e113c406c2133b8541c28dc377673e834cac23"
+      "url": null,
+      "checkpoint": null
     },
     "version": "20.006.20034",
     "build": null,
