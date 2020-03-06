@@ -3,11 +3,11 @@
     "id": "greenfoot",
     "bundle": "Greenfoot.app",
     "identifier": "org.greenfoot",
-    "download": "https://www.greenfoot.org/download/files/Greenfoot-mac-361n.zip",
-    "sha256": "45d6bb217065e8ab4d8489592524136a7791b4a4a05aa712e5c1fbbfae5d632d",
+    "download": "https://www.greenfoot.org/download/files/Greenfoot-mac-361.zip",
+    "sha256": "9afbc077f6454d83749224cc62b5192eae96edf4d7d6beaee880712bb17e8646",
     "appcast": {
       "url": "https://www.greenfoot.org/download",
-      "checkpoint": "cc53e5d8dde2cc0ef7926c9bade74c4768f0df8e4bcfe271e362793d357027d3"
+      "checkpoint": "82c62514e2abe7076ee4873aba788695278067d46c29f4429cfa2561967c528a"
     },
     "version": "3.6.1",
     "build": null,
