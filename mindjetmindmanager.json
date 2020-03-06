@@ -3,13 +3,13 @@
     "id": "mindjetmindmanager",
     "bundle": "Mindjet MindManager.app",
     "identifier": "com.mindjet.mindmanager.12",
-    "download": "https://download.mindjet.com/Mac/Mindjet_MindManager_Mac_12.0.161.dmg",
-    "sha256": "8fe9b6d77cf4627f9397f11ca8520a7944f3db4de7983414f6f69ce8fac1ccc4",
+    "download": "https://download.mindjet.com/Mindjet_MindManager_Mac_12.1.190.dmg",
+    "sha256": "06a68a50fda70bf9d270a9a02ad69441e359b4a0eb63b8217610f08e1998048a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://www.mindjet.com/latest-release-notes-mac-english",
+      "checkpoint": "f5194b1f5efebc6fbc5d3b00e8cefd12270887e9303e02b3b8fabcb79837ac0f"
     },
-    "version": "12.0.161",
+    "version": "12.1.190",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
