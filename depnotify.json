@@ -6,8 +6,8 @@
     "download": "https://files.nomad.menu/DEPNotify.pkg",
     "sha256": "d969b3f5f617424de526a45f5b8badf1d7cbfef8974691beecb3729103003ba0",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://gitlab.com/Mactroll/DEPNotify/-/tags?format=atom",
+      "checkpoint": "59fdaa3889a7da5c8c129345a0db6f8fd5b4992ea66d75eb139a698bf2373ce5"
     },
     "version": "1.1.5",
     "build": null,
