@@ -7,10 +7,10 @@
     "sha256": "a06e8e3897ec1366349a613245f6e8f48d73bbb2f222c2cb27ac704e3bd5c3d3",
     "appcast": {
       "url": "https://clipgrab.org/",
-      "checkpoint": "8f71b3433797bf96b7345d71d8a9d274d88e5df10c82d1ad442e35a269481230"
+      "checkpoint": "738a130bc4601f98a9efb22aa44f0557024d012eec80809df6723ec3c79642bc"
     },
-    "version": null,
-    "build": "3.8.11",
+    "version": "3.8.11",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
     "web": "https://clipgrab.org/"
