@@ -3,13 +3,13 @@
     "id": "minecrafteducation",
     "bundle": "minecraftpe.app",
     "identifier": "com.microsoft.minecraftpe",
-    "download": "https://meedownloads.azureedge.net/1-7-release-20181106/Minecraft_Education_Edition.dmg",
-    "sha256": "0aa5477a9b04d08dc18fbc873ed06e5947e739b26d5d338bc914bad324974f4c",
+    "download": "https://meedownloads.azureedge.net/retailbuilds/MacOS/Minecraft_Education_Edition.dmg",
+    "sha256": "3e7b6460298c5a05aefbed892fa040bbda141ae48c48fc344c7f7689c21b852a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://minecrafteducation.zendesk.com/hc/en-us/articles/360001447967-What-s-New-in-Minecraft-Education-Edition",
+      "checkpoint": "36e204b3263af615d9e4e2ac040f19784aba002c1b253803a2faf85954809e36"
     },
-    "version": "1.7.1",
+    "version": "1.12.60",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
