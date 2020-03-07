@@ -6,13 +6,13 @@
       "NetBeans.app"
     ],
     "identifier": "org.netbeans.ide.baseide.11.2",
-    "download": "https://www-eu.apache.org/dist/netbeans/netbeans/11.2/Apache-NetBeans-11.2-bin-macosx.dmg",
-    "sha256": "6e5209458601f8afa9f195cb979b7c68400407d9a0b367c7a80162cb78c2cb26",
+    "download": "https://www-eu.apache.org/dist/netbeans/netbeans/11.3/Apache-NetBeans-11.3-bin-macosx.dmg",
+    "sha256": "5a00202c8366111d5c3187c0fe8057411673fbc8a4f8b167d0b59ddf66cc9902",
     "appcast": {
       "url": "https://www-eu.apache.org/dist/netbeans/netbeans/",
-      "checkpoint": "a4b0b01f46a3e76f9c4febf6da229e3ae6c8d07d23bd45e82e252026e0f5b4a6"
+      "checkpoint": "7ea303f101a04b1e892481116c72e13fde4ff69d2f36dea51d4a5fe90958f933"
     },
-    "version": "11.2",
+    "version": "11.3",
     "build": null,
     "dir": "/Applications/NetBeans",
     "symlink": null,
