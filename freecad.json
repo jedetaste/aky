@@ -7,10 +7,10 @@
     "sha256": null,
     "appcast": {
       "url": "https://github.com/FreeCAD/FreeCAD/releases.atom",
-      "checkpoint": "11171b61071847c2f26615918b4e6e35a05fc2cd068c5bfcdf8a0fdfcda2b6e0"
+      "checkpoint": "a2174afaac8cb9fd22aa4198bb6114e53c3a40369447c3e2e0b79804008b0816"
     },
     "version": null,
-    "build": "0.18-16146",
+    "build": "0.18.4-16146",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.freecadweb.org/"
