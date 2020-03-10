@@ -3,13 +3,13 @@
     "id": "firefox",
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
-    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/73.0.1/mac/de/Firefox%2073.0.1.dmg",
-    "sha256": "6c043c80dcb7a3ad2dfa62421203fcfc99701df05874e70b38f0cb5cf08c5760",
+    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/74.0/mac/de/Firefox%2074.0.dmg",
+    "sha256": "0eebee775e9c4ccebac00912fd8a146d5bf60a3ec6a212eca1dcf7b765c173ad",
     "appcast": {
       "url": "https://www.macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://download.mozilla.org/%3Fproduct=firefox-latest-ssl%26os=osx",
-      "checkpoint": "428a34cc14b0f0c2993c4362142202525fa17adb25d874308f8db07b0024657c"
+      "checkpoint": "5735aabe86c997decbffff930dc8e8d946d2dea53de6bed4476d3326879b8686"
     },
-    "version": "73.0.1",
+    "version": "74.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
