@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "adobecreativecloudcleanertool",
+    "bundle": "Adobe Creative Cloud Cleaner Tool.app",
+    "identifier": "com.Adobe.Installers.AdobeCreativeCloudCleanerTool",
+    "download": "https://swupmf.adobe.com/webfeed/CleanerTool/mac/AdobeCreativeCloudCleanerTool.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.3.0.91",
+    "build": "4.3.0.91",
+    "dir": "/Applications/Utilities",
+    "symlink": null,
+    "web": "https://helpx.adobe.com/ch_de/creative-cloud/kb/cc-cleaner-tool-installation-problems.html#AlleoderausgewählteProdukteentfernennurEnterpriseBenutzer"
+  }
+}
