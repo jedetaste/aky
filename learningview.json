@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "learningview",
+    "bundle": "LearningView.app",
+    "identifier": "com.electron.learningview",
+    "download": "https://learningview.org/app/LearningView.dmg",
+    "sha256": "fa09af522a1890dd685f958efea772892f4b61d214ad6fd6bae73c078901ce76",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.0.0",
+    "build": "1.0.0",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "http://learningview.org"
+  }
+}
