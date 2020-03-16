@@ -3,13 +3,13 @@
     "id": "freeplane",
     "bundle": "Freeplane.app",
     "identifier": "org.freeplane.core",
-    "download": "https://downloads.sourceforge.net/freeplane/freeplane%20stable/freeplane_app_jre-1.7.13.dmg",
-    "sha256": "b7b7f0e98cebbb7fd595ab0129de2111e85868aac28c455bee429daaaba86f1e",
+    "download": "https://downloads.sourceforge.net/freeplane/freeplane%20stable/freeplane_app_jre-1.7.0.dmg",
+    "sha256": "639b3e0e0bc60f3b6e180a0a29f8a0fa6fc02b55332dde2c7d2647f91a618a86",
     "appcast": {
       "url": "https://sourceforge.net/projects/freeplane/rss?path=/freeplane%20stable",
-      "checkpoint": "4147db370110a605b1f2af21c1abf2fb5dab5ae7c15f7ce7bad620d93eff355f"
+      "checkpoint": "f9fd92f4a4967ad0f3aed75e7fdc90972c38ade5c006eb586c58400e0abeeadc"
     },
-    "version": "1.7.13",
+    "version": "1.8.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
