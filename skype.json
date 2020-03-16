@@ -3,7 +3,7 @@
     "id": "skype",
     "bundle": "Skype.app",
     "identifier": "com.skype.skype",
-    "download": "https://download.skype.com/s4l/download/mac/Skype-8.57.0.116.dmg",
+    "download": "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.57.0.116.dmg",
     "sha256": "bed0ed5d4b3181db22f353cf188e738a0ccd2cb61e4c32eeffe0c5b101051760",
     "appcast": {
       "url": "https://get.skype.com/s4l-update?version&os=mac&ring=production&app=s4l",
