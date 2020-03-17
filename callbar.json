@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "callbar",
+    "bundle": "Callbar.app",
+    "identifier": "callbar",
+    "download": "https://downloadcallbar.talkdesk.com/Callbar-1.29.14-electron.dmg",
+    "sha256": "b166abb2700b4868b3e324743091bafb0e417ee6dfcdd1ac52b9767aeb89ad0c",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.29.14-electron",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.talkdesk.com"
+  }
+}
