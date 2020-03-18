@@ -3,13 +3,13 @@
     "id": "omnioutliner",
     "bundle": "OmniOutliner.app",
     "identifier": "com.omnigroup.OmniOutliner5",
-    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniOutliner-5.5.2.dmg",
-    "sha256": "d48e2cc5ae8da2baa61939393569330a7fc715d52583f1410ee958fc3d276951",
+    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniOutliner-5.6.dmg",
+    "sha256": "7e64171e4e7f39aafd7acfbc304fe97e392182fdb26a214002f41aaf5e1382bd",
     "appcast": {
       "url": "https://update.omnigroup.com/appcast/com.omnigroup.OmniOutliner5",
-      "checkpoint": "89669b451940d422f3501a79956057f75f3860ed6aad7ea0ab5272b3d8e9954f"
+      "checkpoint": "a65a90512b79955f210bc9a838267ccda21023757ed7dfe240b71ac549db2c53"
     },
-    "version": "5.5.2",
+    "version": "5.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
