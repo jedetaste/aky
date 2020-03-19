@@ -3,13 +3,13 @@
     "id": "bravebrowser",
     "bundle": "Brave Browser.app",
     "identifier": "com.brave.Browser",
-    "download": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/104.96/Brave-Browser.dmg",
-    "sha256": "d4493d1be958f74cf8c7dde59b56495bec4b36cf88a0b3504292ea7fcd92d4a3",
+    "download": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/105.112/Brave-Browser.dmg",
+    "sha256": "b576bf2c8fe89804f04e7403da6c619257f60974d83d8473ab15b9c5cdb71dc1",
     "appcast": {
       "url": "https://updates.bravesoftware.com/sparkle/Brave-Browser/stable/appcast.xml",
-      "checkpoint": "0c901658fb61bd354a7e26091b431142700a2bba52072015c40a3c65d0583385"
+      "checkpoint": "97f04811c5c6b2e8f3312a82660301d0769508ba38a617222bef954459c6c40d"
     },
-    "version": "80.1.4.96",
+    "version": "80.1.5.112",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
