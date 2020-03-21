@@ -3,13 +3,13 @@
     "id": "alfred",
     "bundle": "Alfred 4.app",
     "identifier": "com.runningwithcrayons.Alfred",
-    "download": "https://cachefly.alfredapp.com/Alfred_4.0.8_1135.dmg",
-    "sha256": "f26c60496d5272ad52be6fe2d9dbee80bd2a282bb3144a0713ffd40b7447d438",
+    "download": "https://cachefly.alfredapp.com/Alfred_4.0.9_1144.dmg",
+    "sha256": "951dcffa20c84eb1f17ade16df67aae7eebb9a145dd48e0de32c17f1d3497a1e",
     "appcast": {
       "url": "https://www.alfredapp.com/app/update4/general.xml",
-      "checkpoint": "6fbaf9b1342e3dd25db92ec1f5e08cc841f7aefd62af82b12010d3a162a62579"
+      "checkpoint": "163d3582260f51d61df51ab887697e0d4638d882fdb033ff8cb5d650f1e83762"
     },
-    "version": "4.0.8",
+    "version": "4.0.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
