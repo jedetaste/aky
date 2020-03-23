@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "anydesk",
+    "bundle": "AnyDesk.app",
+    "identifier": "com.philandro.anydesk",
+    "download": "https://download.anydesk.com/anydesk.dmg",
+    "sha256": "ff39d34efb4e2c4ce65dfa1e034a8e11a1eca2d57895d3606e2fb178144218c0",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "5.4.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://anydesk.com/remote-desktop"
+  }
+}
