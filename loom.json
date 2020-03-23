@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "loom",
+    "bundle": "Loom.app",
+    "identifier": "com.loom.desktop",
+    "download": "https://cdn.loom.com/desktop-packages/Loom-0.30.11.dmg",
+    "sha256": "01502be694e204e21ec072ada39e92a09dcd1ac3dd5353dffed8e017123a8a0f",
+    "appcast": {
+      "url": "https://s3-us-west-2.amazonaws.com/loom.desktop.packages/loom-inc-production/desktop-packages/latest-mac.yml",
+      "checkpoint": "0137a0bbd4b7eed080f9f358188966b2771ef22604f4f821a5ea5d6fb089aed4"
+    },
+    "version": "0.30.11",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.loom.com/"
+  }
+}
