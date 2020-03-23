@@ -3,7 +3,7 @@
     "id": "freeplane",
     "bundle": "Freeplane.app",
     "identifier": "org.freeplane.core",
-    "download": "https://downloads.sourceforge.net/freeplane/freeplane%20stable/freeplane_app_jre-1.7.0.dmg",
+    "download": "https://downloads.sourceforge.net/freeplane/freeplane%20stable/Freeplane-1.8.0.dmg",
     "sha256": "639b3e0e0bc60f3b6e180a0a29f8a0fa6fc02b55332dde2c7d2647f91a618a86",
     "appcast": {
       "url": "https://sourceforge.net/projects/freeplane/rss?path=/freeplane%20stable",
