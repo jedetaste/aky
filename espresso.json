@@ -3,13 +3,13 @@
     "id": "espresso",
     "bundle": "Espresso.app",
     "identifier": "com.macrabbit.Espresso",
-    "download": "https://espressoapp.com/updates/archives/Espresso-5.2.2.zip",
-    "sha256": "6df0b4fa71269ed2ac8ba5d0698e1f516a9cc40fa002f98a4ae48731235755c3",
+    "download": "https://downloads.kangacode.com/Espresso/Espresso_5.4.1.zip",
+    "sha256": "c28b93b6728869d47d2c277839079c1a1bbd88497d9ae0649800a50f51776072",
     "appcast": {
-      "url": "https://update.macrabbit.com/espresso/5.2.2.xml",
-      "checkpoint": "d50b9852ce176350c41f3a8b9bc01132659f8b18b9ccec1cdea6e98d28176daf"
+      "url": "https://espressoapp.com/updates/",
+      "checkpoint": "c1f1384cd7c9297d8f39d9a7e78ef461427793e0fe946e8f8607c9219b85a162"
     },
-    "version": "5.2.2",
+    "version": "5.4.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
