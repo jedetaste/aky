@@ -3,13 +3,13 @@
     "id": "amethyst",
     "bundle": "Amethyst.app",
     "identifier": "com.amethyst.Amethyst",
-    "download": "https://github.com/ianyh/Amethyst/releases/download/v0.15.1/Amethyst.zip",
-    "sha256": "442480ebd9ca4b584f0d844b7858eccf9f1b1a98db4a0169420dc5ba25f35a07",
+    "download": "https://github.com/ianyh/Amethyst/releases/download/v0.15.2/Amethyst.zip",
+    "sha256": "9c71b6e8a011de1d0632b53e8eead010fb80e0e8bd46afd738b329c6edecf8f2",
     "appcast": {
       "url": "https://github.com/ianyh/Amethyst/releases.atom",
       "checkpoint": "e9ac6b60b594d830b8e248e8442a49c41bec522d6966613735c84142eff81d2d"
     },
-    "version": "0.15.1",
+    "version": "0.15.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
