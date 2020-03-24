@@ -3,13 +3,13 @@
     "id": "omnifocus",
     "bundle": "OmniFocus.app",
     "identifier": "com.omnigroup.OmniFocus3",
-    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniFocus-3.6.dmg",
-    "sha256": "2e7821056b96e894750fc0a81e5e092799bbd304961871b2cfdcb7b0646539ba",
+    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniFocus-3.6.2.dmg",
+    "sha256": "78d05839be61331369bc68a28d682f3727867c378698a4fbfc2221b9fd01d465",
     "appcast": {
       "url": "https://update.omnigroup.com/appcast/com.omnigroup.OmniFocus3",
-      "checkpoint": "03b95c38bb97729efb9851a08eb0a25716e39b80d47722cbc59cce87a6191b12"
+      "checkpoint": "9de4dc0f4b273b018bcd78a88a6e276ce24a097e96577f91a90ef7b6d76b8bf2"
     },
-    "version": "3.6",
+    "version": "3.6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
