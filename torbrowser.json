@@ -3,13 +3,13 @@
     "id": "torbrowser",
     "bundle": "Tor Browser.app",
     "identifier": "org.torproject.torbrowser",
-    "download": "https://dist.torproject.org/torbrowser/9.0.5/TorBrowser-9.0.5-osx64_de.dmg",
-    "sha256": "3ff8dab7aa61a3eba9dbee1851de0322053200187617cbaefd3e672cd439d5b9",
+    "download": "https://dist.torproject.org/torbrowser/9.0.6/TorBrowser-9.0.6-osx64_de.dmg",
+    "sha256": "9dc488e733732cbe679800a2c16ae69a11f06f924b60f5de4c25ae136bb8fb7a",
     "appcast": {
       "url": "https://dist.torproject.org/torbrowser/",
-      "checkpoint": "cfed334327e1f22810ba0c07bd503d92f0313b2028abed9ea9f0334f01a20e11"
+      "checkpoint": "fbf7cf5f10f72adb08696b0eb09979efd1d26de074a9fb6e1190d803bd26e2a2"
     },
-    "version": "9.0.5",
+    "version": "9.0.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
