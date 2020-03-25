@@ -3,13 +3,13 @@
     "id": "blender",
     "bundle": "Blender.app",
     "identifier": "org.blenderfoundation.blender",
-    "download": "https://download.blender.org/release/Blender2.82/blender-2.82-macOS.dmg",
-    "sha256": "509b4235e589bc7a5794f484ba6c1ca9807c18d4e87e4f22576b4cc0be4bc383",
+    "download": "https://download.blender.org/release/Blender2.82/blender-2.82a-macOS.dmg",
+    "sha256": "17fde8bffa655e65bcc116d68c0afb58489d7694b1b66246a7a6f10ffadf1ca9",
     "appcast": {
       "url": "https://download.blender.org/release/",
-      "checkpoint": "3e9137354a76980e06799e369c4cc89bd110ec87b0e6c535942391c06ada9bcd"
+      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
-    "version": "2.82",
+    "version": "2.82a",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
