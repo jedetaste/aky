@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "pdfelement",
+    "bundle": "PDFelement.app",
+    "identifier": "com.wondershare.PDFelement",
+    "download": "http://download.wondershare.com/cbs_down/mac-pdfelement_full5237.dmg",
+    "sha256": "b482f172508ce80be9b467e968997f47a766ad2ac61c8e67d11c5ec160eb61af",
+    "appcast": {
+      "url": "https://cbs.wondershare.com/go.php?m=upgrade_info&pid=5237",
+      "checkpoint": "dbd0247fd0eb379d215861c1e29957d008336258a6c80c75298b1608841bb1f0"
+    },
+    "version": "7.5.9",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://pdf.wondershare.com/"
+  }
+}
