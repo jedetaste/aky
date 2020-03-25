@@ -4,12 +4,12 @@
     "bundle": "Tresorit.app",
     "identifier": "com.tresorit.mac",
     "download": "https://installerstorage.blob.core.windows.net/public/install/Tresorit.dmg",
-    "sha256": "75516abe091a226ecdc5717e29ca58190506ab7a16d6fe27e04df8d18f7aa768",
+    "sha256": "decab04143372b02237393f5cea9c64a20c7b154c1a87ab7ae8e519feb14f855",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.5.1707.990",
+    "version": "3.5.1721.990",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
