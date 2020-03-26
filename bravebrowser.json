@@ -3,7 +3,7 @@
     "id": "bravebrowser",
     "bundle": "Brave Browser.app",
     "identifier": "com.brave.Browser",
-    "download": "ttps://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/105.115/Brave-Browser.dmg",
+    "download": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/105.115/Brave-Browser.dmg",
     "sha256": "d9d25a3c5634357a38efd6483ad38096e44f48a4084ee0329013471281cc6d3f",
     "appcast": {
       "url": "https://updates.bravesoftware.com/sparkle/Brave-Browser/stable/appcast.xml",
