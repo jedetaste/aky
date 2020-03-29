@@ -3,13 +3,13 @@
     "id": "eclipsejava",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-12/R/eclipse-java-2019-12-R-macosx-cocoa-x86_64.dmg&r=1",
-    "sha256": "c6eecdebfea42fc3801c842d107be28cf45ce894c9aa618bcdb60e08093c911b",
+    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-03/R/eclipse-java-2020-03-R-macosx-cocoa-x86_64.dmg&r=1",
+    "sha256": "262c29ea38134360089232d8276fb479e3a9f70a5b1a6ffdf6463bc2aeac00f3",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.14.0",
+    "version": "4.15.0",
     "build": null,
     "dir": "/Applications/Eclipse Java",
     "symlink": null,
