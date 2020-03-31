@@ -7,7 +7,7 @@
     "sha256": "4dc48f1ef867194a57dd34a262b7fd0826e9e32fcc4c22feab14eb006760ad07",
     "appcast": {
       "url": "https://rest.enpass.io/enpass/alert/?format=json&language=en%7Cen&os=osx%7C10.14&package=in.sinew.Enpass-Desktop.App&version=0.0.0",
-      "checkpoint": "3bebbba5efd31d8503b3fcc856b87a6ca1cea983730df3ae5e6f503b92627724"
+      "checkpoint": "0ad2232fdefdb0629707a14b4dbb10c2a251dfbcb0fd2a094377bc2eee988ab1"
     },
     "version": "6.4.1",
     "build": null,
