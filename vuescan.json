@@ -4,12 +4,12 @@
     "bundle": "VueScan.app",
     "identifier": "com.hamrick.vuescan",
     "download": "https://www.hamrick.com/files/vuex6497.dmg",
-    "sha256": "93ce4e3b4b0dbf40dc8167d46503e012548752a2048be4b0c164bf5182261ed3",
+    "sha256": "c72100c89d88f125ebca7e4ac721ad3531364299bb2ec024adb79f047764ff37",
     "appcast": {
       "url": "https://www.hamrick.com/alternate-versions.html",
-      "checkpoint": "cb907572d311817085088b7e00f8fdb60f671bceafeb0b56639e00fdf1196b9a"
+      "checkpoint": "ee7a3d4ca253e3464c54643edb50ccad9cd00e2ed962d04119ce38b53a9f5f48"
     },
-    "version": "9.7.25",
+    "version": "9.7.26",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
