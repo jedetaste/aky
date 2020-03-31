@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "ev3classroom",
+    "bundle": "EV3 Classroom.app",
+    "identifier": "com.lego.ev3",
+    "download": "https://le-www-live-s.legocdn.com/downloads/LME-Scratch/LME-Scratch_Full-setup_1.0.0_en-US_MacOS.dmg",
+    "sha256": "73d3dac4b932cf6ba39d64766c9f4146c2ae2c6746b2b7085409f78d66e04b14",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.0.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.lego.com/en-us/mindstorms"
+  }
+}
