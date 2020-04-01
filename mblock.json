@@ -4,10 +4,10 @@
     "bundle": "mblock.app",
     "identifier": "cc.mblock",
     "download": "https://dl.makeblock.com/mblock5/darwin/V5.2.0.pkg",
-    "sha256": "28b0b050627e0a6d675e56aecd4b52f246c1dd69364411609799e44e2f9f775b",
+    "sha256": "8a90d4e341b73adff1ff6db704426b6c343e5d2786f8183f5c52ec0240103abf",
     "appcast": {
       "url": "https://www.mblock.cc/mblock-software/",
-      "checkpoint": "4968d7edc43839c78cd92c4905d72ee8a989caa83a4fee2df489d69841af5125"
+      "checkpoint": "d7b1d75ca6bcf15083a895dd8221ea3ca24a5a57ca00006b45797c2c3a58ba8f"
     },
     "version": "5.2.0",
     "build": null,
