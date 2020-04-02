@@ -3,13 +3,13 @@
     "id": "vmwarehorizonclient",
     "bundle": "VMware Horizon Client.app",
     "identifier": "com.vmware.horizon",
-    "download": "https://download3.vmware.com/software/view/viewclients/CART20FQ4/VMware-Horizon-Client-5.3.0-15225262.dmg",
-    "sha256": "4517df1db381b3e326e00d5e3c69248489cd5994e587defe08440826ac1ce35e",
+    "download": "https://download3.vmware.com/software/view/viewclients/CART21FQ1/VMware-Horizon-Client-5.4.2-15910566.dmg",
+    "sha256": "2d5668402ef372656b487e8e868a8a5a139ec4b8ff88b10d15772231f0988c26",
     "appcast": {
       "url": "https://docs.vmware.com/en/VMware-Horizon-Client-for-Mac/",
       "checkpoint": "fd2c139d705a0a851dbf39c9cf80c4ade34bdc98716984ce6c31ea0dd25c560f"
     },
-    "version": "5.3.0",
+    "version": "5.4.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
