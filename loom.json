@@ -4,7 +4,7 @@
     "bundle": "Loom.app",
     "identifier": "com.loom.desktop",
     "download": "https://cdn.loom.com/desktop-packages/Loom-0.33.4.dmg",
-    "sha256": "f0b1a74cdda06b8d0fbfec72a604ddd7c075dd1ce34b86987c43da56a493f44b",
+    "sha256": "cfeac08ea5468a9d392e852c8b664dd2a54db8841c9a0f45d943357a82a23ea1",
     "appcast": {
       "url": "https://s3-us-west-2.amazonaws.com/loom.desktop.packages/loom-inc-production/desktop-packages/latest-mac.yml",
       "checkpoint": "6d4dea090ff2fc910a3e48d44763b36c21562514932a8f2cf47bd7a80902eb49"
