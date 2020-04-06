@@ -4,12 +4,12 @@
     "bundle": "AnyDesk.app",
     "identifier": "com.philandro.anydesk",
     "download": "https://download.anydesk.com/anydesk.dmg",
-    "sha256": "ff39d34efb4e2c4ce65dfa1e034a8e11a1eca2d57895d3606e2fb178144218c0",
+    "sha256": "24024757203521d1361ac33106c96dc06c3e63d95184152bce7a8893df8a0d38",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.4.5",
+    "version": "5.4.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
