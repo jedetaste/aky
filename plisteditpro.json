@@ -4,12 +4,12 @@
     "bundle": "PlistEdit Pro.app",
     "identifier": "com.fatcatsoftware.pledpro",
     "download": "https://www.fatcatsoftware.com/plisteditpro/PlistEditPro.zip",
-    "sha256": "7211bd42186e92e6c122f564a608a91108e6373848d4e52a7cd1c31974d6fd15",
+    "sha256": "5db33711689cc911a33af8f5140e27436df392e13f0fece3de0ba11ac4e0f839",
     "appcast": {
       "url": "https://www.fatcatsoftware.com/plisteditpro/plisteditpro_appcast.xml",
-      "checkpoint": "3200166671de69c8791f8daf6cb84467363c9fc1bf1603a3816d6bfb9107daa9"
+      "checkpoint": "ff4cb412bce81c8bb35d0d957d5a92fc2108562544cff8ff05d1f4f8af1504c3"
     },
-    "version": "1.9.1",
+    "version": "1.9.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
