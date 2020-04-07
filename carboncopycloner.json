@@ -6,8 +6,8 @@
     "download": "https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-5.1.16.5965.zip",
     "sha256": "9914457ddf7022144e5ffa5edee5dcccbe0d2d7e88e85a17fd78473bb59ee8a6",
     "appcast": {
-      "url": "https://bombich.com/software/updates/ccc.php?os_major=10&os_minor=14&os_bugfix=0&ccc=5925&beta=0",
-      "checkpoint": "df92864194e277ee7637b2511e614b2d1766617b4f96541cbb00ec8ec4edcbab"
+      "url": "https://bombich.com/software/updates/ccc.php?os_major=10&os_minor=14&os_bugfix=0&ccc=5965&beta=0",
+      "checkpoint": "ac28328174988b2e07d3dc703716d988a4e6ed6f602b2f5dd70e90ff6fe5c02e"
     },
     "version": "5.1.16.5965",
     "build": null,
