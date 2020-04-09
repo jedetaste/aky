@@ -4,12 +4,12 @@
     "bundle": "Elmedia Player.app",
     "identifier": "com.Eltima.ElmediaPlayer",
     "download": "https://cdn.eltima.com/download/elmediaplayer.dmg",
-    "sha256": "4d0e6f95aa1d0b35ba6aa2c218422bb928e878575099c5fd83488bc1f967615f",
+    "sha256": "9b82acead385584f44b85843ca01eed2ad03a5ffe1a5c24cd36052d8ddbc734b",
     "appcast": {
       "url": "https://cdn.eltima.com/download/elmediaplayer-update/elmediaplayer.xml",
-      "checkpoint": "68b7b56d49c4cb0c89c1a643f10c8da2ab5f7f9d74351b14b9b2edab3cfa6b08"
+      "checkpoint": "3d98d6decc310dd4bd4ffad6062db22f3cb61353491fb12735c85f0930b61d9c"
     },
-    "version": "7.9",
+    "version": "7.10",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
