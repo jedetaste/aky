@@ -4,10 +4,10 @@
     "bundle": "WhatsApp.app",
     "identifier": "WhatsApp",
     "download": "https://web.whatsapp.com/desktop/mac/files/release-0.4.2088.zip",
-    "sha256": "30548c93324f386e15d95efe5c908085bf4baf178c1f46fc105bb1087ce9e3f2",
+    "sha256": "8a4f5aad337ed94b08bc87e9b9ebff168b703be3dcd3de0469274c9d3241c326",
     "appcast": {
       "url": "https://web.whatsapp.com/desktop/mac/releases?platform=darwin&arch=x64",
-      "checkpoint": "067bb803f6d68af22b2e200eda5211c1e4c7810117d128bd50c9a0801426735e"
+      "checkpoint": "8491ad99fb525cb58eec046e4498f36fab0b350c4c2671311f2fb54865ebd78b"
     },
     "version": "0.4.2088",
     "build": null,
