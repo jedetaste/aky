@@ -3,13 +3,13 @@
     "id": "bookwidgets",
     "bundle": "BookWidgets.app",
     "identifier": "com.kidimedia.ibookwidgets",
-    "download": "https://storage.googleapis.com/bookwidgets-eu--downloads/releases/BookWidgetsInstall-v592.dmg",
-    "sha256": "b37eb8f1551ab3da006e7ae5d7d3a4f357d1b61514079db6f7909bee0cf46215",
+    "download": "https://storage.googleapis.com/bookwidgets-eu--downloads/releases/BookWidgetsInstall-v603.dmg",
+    "sha256": "504f6f0435b80083700e5b7b3d01018510482d1156f55b3e61d15dba27b8b857",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.9.2",
+    "version": "6.0.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
