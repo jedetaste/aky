@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "astropad",
+    "bundle": "Astropad.app",
+    "identifier": "com.astro-hq.AstropadMac",
+    "download": "https://downloads.astropad.com/standard/Astropad-3.3.0.dmg",
+    "sha256": "c72f14f1969477a28dd7de5380dca5a0510d09bb1e64ff04c7f6d6b3c72a7ea1",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.3.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://astropad.com"
+  }
+}
