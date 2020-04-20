@@ -3,13 +3,13 @@
     "id": "pascom",
     "bundle": "pascom Client.app",
     "identifier": "net.pascom.pascomClient",
-    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-61.R919_602ea7e.dmg",
-    "sha256": "3f0d63b51eabbae3045a7c7fb89599428a0c1beca68c80a8513245b9671c1414",
+    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-62.R1061_3cad033.dmg",
+    "sha256": "e60605349fdaea1dc85e400e784d88defb00f00d71cf26107fff362f1231f8c7",
     "appcast": {
       "url": "https://my.pascom.net/update/client/stable?_=1559037394513",
-      "checkpoint": "62da22f8362f8aa1fd3ad6736cd30690a514c96e5c4002c7d78e3c0f21fd897c"
+      "checkpoint": "b276b560919385385b9a498f757ff8b6f68869e9d585fe23ed448296b93a2cc3"
     },
-    "version": "61.R919_602ea7e",
+    "version": "62.R1061_3cad033",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
