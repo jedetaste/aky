@@ -3,13 +3,13 @@
     "id": "airserver",
     "bundle": "AirServer.app",
     "identifier": "com.pratikkumar.airserver-mac",
-    "download": "https://dl.airserver.com/mac/AirServer-7.2.0.dmg",
-    "sha256": "f86786283455979b45c12b7a848f09243d74e2b3ff10dbce907ec8e73099f855",
+    "download": "https://dl.airserver.com/mac/AirServer-7.2.5.dmg",
+    "sha256": "75f9d31bb093cf191f6d954a2aaf2f754add058dc69d9fbc958dfab2e78269b6",
     "appcast": {
       "url": "https://www.airserver.com/downloads/mac/appcast.xml",
-      "checkpoint": "85fa7245516efd62ff8ee9e18bb7fb7029bdf76262d07d748a1cd112746f0f7c"
+      "checkpoint": "08d629775dcd50b8261e6faee8090c9a51e29708a3057d4061e1383bcce22dd9"
     },
-    "version": "7.2.0",
+    "version": "7.2.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
