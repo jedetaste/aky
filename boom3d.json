@@ -3,13 +3,13 @@
     "id": "boom3d",
     "bundle": "Boom 3D.app",
     "identifier": "com.globaldelight.Boom3D",
-    "download": "https://dl.devmate.com/com.globaldelight.Boom3D/1.3.3/1571300754/Boom3D-1.3.3.dmg",
-    "sha256": "d65bd4bd1c146b8c9bd061f35c4e64b8e1d29c6796f6db0bc42a8b9e2f16741a",
+    "download": "https://d3jbf8nvvpx3fh.cloudfront.net/Boom3D/Update/v1.3.6/Boom_3D_Update.dmg",
+    "sha256": "f3ba9b6c05dc2db2ab347f46b08f7470e49ff684729a1cb90c1172191a65b17f",
     "appcast": {
-      "url": "https://updates.devmate.com/com.globaldelight.Boom3D.xml",
-      "checkpoint": "89383c8fb6184fc70ac16ff1d896dd93ad839b6cdb04a8f40412cf1ee4cd9bda"
+      "url": "https://www.macupdater.net/cgi-bin/extract_text/send_post_request_data.cgi?url=https://apiboom3.globaldelight.net/v1/native/queryupdate/&data={%22AppIdentifier%22:%22com.globaldelight.Boom3D%22,%22ApplicationVersion%22:%221.3.3%22,%22AppVersion%22:%22101.3.3018%22,%22ApplicationId%22:%22com.globaldelight.Boom3D%22,%22RequestType%22:0,%22AppName%22:%22Boom%203D%22}",
+      "checkpoint": "668cde08d8b0f7d3fb1bf0ce1b610f00594bf743e26c30e74e19d6f472fa2772"
     },
-    "version": "1.3.3",
+    "version": "1.3.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
