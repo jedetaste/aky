@@ -3,11 +3,11 @@
     "id": "skype",
     "bundle": "Skype.app",
     "identifier": "com.skype.skype",
-    "download": "https://download.skype.com/s4l/production/mac/Skype-8.59.0.77.zip",
-    "sha256": "47303a9582256bdfe7cd6aaba2c5c662e755a697ea696fa0fdcae40b46aca3b7",
+    "download": "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.59.0.77.dmg",
+    "sha256": "c6cb1ce6fc29533f2bdc2a9e494d91068ce7b18590126dc9af4c1fb20dae3068",
     "appcast": {
-      "url": "https://get.skype.com/s4l-update?version&os=mac&ring=production&app=s4l",
-      "checkpoint": "bbbb5621493e3a090a920676c90c50d69c811d0c8dae544c46a03a4b75ccfd8a"
+      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://go.skype.com/mac.download",
+      "checkpoint": "af4da677594a181d0acb3a3292a56f31dfbe4bfecda9737829f0914368f89fe6"
     },
     "version": null,
     "build": "8.59.0.77",
