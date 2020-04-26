@@ -6,8 +6,8 @@
     "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/68.7.0esr/mac/en-US/Firefox%2068.7.0esr.dmg",
     "sha256": "f55cfd62ba7f4795a2354160efe842d7aced9def75bbd4ad65afd00399042e74",
     "appcast": {
-      "url": "https://www.corecode.io/cgi-bin/check_urls/check_url_redirect.cgi?url=https://download.mozilla.org/%3Fproduct=firefox-esr-latest-ssl%26os=osx",
-      "checkpoint": "0914e2d584e15cc91b9584be6f0e50f8c8171c5b7cc1722be7a7595d9a381831"
+      "url": "https://www.macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://download.mozilla.org/%3Fproduct=firefox-esr-latest-ssl%26os=osx",
+      "checkpoint": "9b84b6f2b652735a07a453e4b9ca3fc728aaf476b63891796534e0c9cba6b9b1"
     },
     "version": "68.7.0",
     "build": null,
