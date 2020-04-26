@@ -3,13 +3,13 @@
     "id": "inkscape",
     "bundle": "Inkscape.app",
     "identifier": "org.inkscape.Inkscape",
-    "download": "https://media.inkscape.org/dl/resources/file/Inkscape-1.0beta2.dmg",
-    "sha256": "0ca755bad5b21e4cfdc6f0c442a09a5f374cfd806648e043d5965017bf427e01",
+    "download": "https://media.inkscape.org/dl/resources/file/Inkscape-1.0.0rc1.dmg",
+    "sha256": "c8b1e7e274512a8f7e63a2687376e132d3967b2adbd7163c2d69535e2688957e",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.0.0beta2 (2b71d25)",
+    "version": ".0.0rc1 (09960d6)",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
