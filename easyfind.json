@@ -6,8 +6,8 @@
     "download": "https://download.devontechnologies.com/download/freeware/easyfind/5.0/EasyFind.app.zip",
     "sha256": "a389fc3c35a7d5111960c4ce5e631ad3b99ed1dd5534299b577a68cbd06bc327",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.devontechnologies.com/apps/freeware",
+      "checkpoint": "b864f1ca0bf78eaccce6a4df0f8f787f03b00ae06e6de2da29ac25fc92a39b7f"
     },
     "version": "5.0",
     "build": null,
