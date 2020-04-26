@@ -9,8 +9,8 @@
     "download": "https://download.gimp.org/pub/gimp/v2.10/osx/gimp-2.10.14-x86_64.dmg",
     "sha256": "60631e39a1042c38cc281bc3213a76be109fb909b9671fb03c55cf5cf31ea632",
     "appcast": {
-      "url": "https://download.gimp.org/pub/gimp/stable/osx/",
-      "checkpoint": "f7f965825df46f97bf740068b11401b7d078d1641e512e94c924ea273a74448f"
+      "url": "https://download.gimp.org/pub/gimp/v2.10/osx/",
+      "checkpoint": "3b7e6a22a4105fa00a40b32d53f9b10fe4bf63243213059c7da73029405d6982"
     },
     "version": "2.10.14",
     "build": null,
