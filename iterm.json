@@ -3,13 +3,13 @@
     "id": "iterm",
     "bundle": "iTerm.app",
     "identifier": "com.googlecode.iterm2",
-    "download": "https://iterm2.com/downloads/stable/iTerm2-3_3_8.zip",
-    "sha256": "6e6755d857c8f30bd0efcd60719a78a8cf4142a91e28fd89377ad5a37cc36a68",
+    "download": "https://iterm2.com/downloads/stable/iTerm2-3_3_9.zip",
+    "sha256": "4aff009d2695f9921708f9927af1578be37d12ecab28aaca27646f02842ebede",
     "appcast": {
       "url": "https://iterm2.com/appcasts/final.xml",
       "checkpoint": "9a591ca7be1e3d09568568b6e7d6aaab8ae324b0ba1bd0a09de6d28bcebcaf2c"
     },
-    "version": "3.3.8",
+    "version": "3.3.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
