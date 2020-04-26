@@ -3,13 +3,13 @@
     "id": "mactracker",
     "bundle": "Mactracker.app",
     "identifier": "com.mactrackerapp.Mactracker",
-    "download": "https://www.mactracker.ca/downloads/Mactracker_7.8.2.zip",
-    "sha256": "6da436e8e9ee2fb90be46536029e586b7aa7df763c02c0427e441446c09e17cd",
+    "download": "https://www.mactracker.ca/downloads/Mactracker_7.9.zip",
+    "sha256": "b65e18344cca843a74b48804808cded0eee9a7ba2116386bcd34cf0469ede81e",
     "appcast": {
       "url": "https://update.mactracker.ca/appcast-b.xml",
       "checkpoint": "b4a78b87b306458f5e238087284145586467ba4becd3961d366e0ce29827f208"
     },
-    "version": "7.8.2",
+    "version": "7.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
