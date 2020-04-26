@@ -3,13 +3,13 @@
     "id": "sonicpi",
     "bundle": "Sonic Pi.app",
     "identifier": "net.sonic-pi.Sonic Pi",
-    "download": "https://sonic-pi.net/files/releases/v3.2.1/sonic-pi-for-mac-v3.2.1.zip",
-    "sha256": "17e32ea392b3f324022bbdab8ecdb7d7f159b06e922ca65cf26ed41090c349cd",
+    "download": "https://sonic-pi.net/files/releases/v3.2.2/sonic-pi-for-mac-v3.2.2.zip",
+    "sha256": "52828a3132ed8657a30a64f995dfe72b32f0a3b718886c3ac7e6d41d846ab441",
     "appcast": {
       "url": "https://github.com/samaaron/sonic-pi/releases.atom",
       "checkpoint": "5fd53ea8483a57590367083748f8fb6487bcfa70bccc65338d6ab4313048ba93"
     },
-    "version": "3.2.1",
+    "version": "3.2.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
