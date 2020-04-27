@@ -6,8 +6,8 @@
     "download": "http://s.sudre.free.fr/Software/files/Packages.dmg",
     "sha256": "70ac111417728c17b1f27d5520afd87c33f899f12de8ace0f703e3e1c500b28e",
     "appcast": {
-      "url": "http://s.sudre.free.fr/Software/documentation/RemoteVersion.plist",
-      "checkpoint": "63eddfd3e248b07ea39451e334f2bb2c59b9f07108ea7f3b553dff3f6a91da35"
+      "url": "http://s.sudre.free.fr/Software/Packages/about.html",
+      "checkpoint": "1b76d59aed8799a4ff60a15e697da6404f85f3c40624b35b8f17f9535d356936"
     },
     "version": "1.2.9",
     "build": null,
