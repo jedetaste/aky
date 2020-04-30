@@ -3,13 +3,13 @@
     "id": "cmake",
     "bundle": "CMake.app",
     "identifier": "org.cmake.cmake",
-    "download": "https://www.cmake.org/files/v3.17/cmake-3.17.1-Darwin-x86_64.dmg",
-    "sha256": "7c2846f2d5bf7e4338c93bf30a01f6f3870b44acb3d2b7e1f53e87a7f979f18b",
+    "download": "https://www.cmake.org/files/v3.17/cmake-3.17.2-Darwin-x86_64.dmg",
+    "sha256": "deb1735cb6a3a3b6fb498f5f2053dbfc333f36628a6d0ee6d16d3fdc6065145b",
     "appcast": {
       "url": "https://cmake.org/files/LatestRelease/",
       "checkpoint": "c828acf87f88e25abe1d53e50b58b94befc4edad1228108669afbae377c7ba48"
     },
-    "version": "3.17.1",
+    "version": "3.17.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
