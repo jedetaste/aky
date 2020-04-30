@@ -3,14 +3,14 @@
     "id": "rhinoceros",
     "bundle": "Rhinoceros.app",
     "identifier": "com.mcneel.rhinoceros",
-    "download": "https://files.mcneel.com/rhino/6/mac/releases/rhino_6.24.20079.23332.dmg",
-    "sha256": "199c6047a7a35926b3776237e3acfcb1f53ff9e6a2ada0e421e58077a782e88c",
+    "download": "https://files.mcneel.com/rhino/6/mac/releases/rhino_6.25.20114.03572.dmg",
+    "sha256": "32155191878621b7877439a3d349303a7e2fc793434e21efd0dd0151dad0db1f",
     "appcast": {
       "url": "https://files.mcneel.com/rhino/6/mac/updates/commercialUpdates.xml",
       "checkpoint": "99fb7c33eaa3fd6f0d2aab6678a54715815070212174a920f3f250eb6c82e250"
     },
     "version": null,
-    "build": "6.24.20079.23332",
+    "build": "6.25.20114.03572",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.rhino3d.com/"
