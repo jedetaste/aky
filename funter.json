@@ -3,13 +3,13 @@
     "id": "funter",
     "bundle": "Funter.app",
     "identifier": "com.nektony.funter",
-    "download": "https://nektony.com/promo/funter/update/update_4.6(93).zip",
-    "sha256": "77e2623933607ce21067434e90e3ca4cc794161ce6b3ee2ea141380cca52527b",
+    "download": "https://nektony.com/promo/funter/update/update_4.6.1(94).zip",
+    "sha256": "a9637ed819c73a9eb6aac7465597426a33268453f1bef5b8ba94463fda38f0eb",
     "appcast": {
       "url": "https://nektony.com/promo/funter/update/update.xml",
-      "checkpoint": "01455eae7703d8ee83ec9a8af10c2522ba94e09294cd0615d143e9c121a3de43"
+      "checkpoint": "d66181064c80b42cd01522fa92f694a4137902c59086f6a37971af62b9bb7fc4"
     },
-    "version": "4.6",
+    "version": "4.6.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
