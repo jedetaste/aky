@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "mactex",
+    "bundle": "TeXShop.app",
+    "identifier": "fr.chachatelier.pierre.LaTeXiT",
+    "download": "http://mirror.ctan.org/systems/mac/mactex/mactex-20200407.pkg",
+    "sha256": "a33af89de36c7c84a76050c9704d50d23892e9c2070f04f6a53e1c6d5a332f67",
+    "appcast": {
+      "url": "https://www.tug.org/mactex/downloading.html",
+      "checkpoint": "ee3300bb47dd9ba0d5e7d6e9c5e59ff7a0e083c4512e7dc6b68ead93e00cbed0"
+    },
+    "version": "2.14.5",
+    "build": null,
+    "dir": "/Applications/TeX",
+    "symlink": null,
+    "web": "https://www.tug.org/mactex/"
+  }
+}
