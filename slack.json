@@ -7,9 +7,9 @@
     "sha256": "aca64a48d601e440f31297630cc6ccbabbaa8f66cb9a690542b78b3eb2aff095",
     "appcast": {
       "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://slack.com/ssb/download-osx",
-      "checkpoint": "61982d81caf4d2544f0d3b24185c93cb9f8208887448c81cb7a3adfd8ab564f4"
+      "checkpoint": "3b0729a0b3b782837263769e4ec01ad08e1f8511a201390ad11cdd2181f93462"
     },
-    "version": "4.4.2",
+    "version": "4.5.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
