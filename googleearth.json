@@ -4,13 +4,13 @@
     "bundle": "Google Earth Pro.app",
     "identifier": "com.Google.GoogleEarthPro",
     "download": "https://dl.google.com/earth/client/advanced/current/GoogleEarthProMac-Intel.dmg",
-    "sha256": "be3e67eb81e14febad41f173abc7ba514d188a50105606d0e3d30e9b8b66b87a",
+    "sha256": "79006bd4ce7237051822c5034a259216252443e815006f8a2a3804420205c8ee",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
     "version": null,
-    "build": "7.3.3.7673",
+    "build": "7.3.3.7692",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.google.com/earth/"
