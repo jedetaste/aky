@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "rectangle",
+    "bundle": "Rectangle.app",
+    "identifier": "com.knollsoft.Rectangle",
+    "download": "https://rectangleapp.com/downloads/Rectangle0.26.dmg",
+    "sha256": "ac811ef13f84cf07c4071adcf74d5d11d702c52bc183ac09cf260680681839a5",
+    "appcast": {
+      "url": "https://www.rectangleapp.com/downloads/updates.xml",
+      "checkpoint": "41f7790186a4510224632cacb0f03becff97bee357be92a38b90c4301eb4d77e"
+    },
+    "version": "0.26",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://rectangleapp.com/"
+  }
+}
