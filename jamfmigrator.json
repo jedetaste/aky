@@ -4,12 +4,12 @@
     "bundle": "jamf-migrator.app",
     "identifier": "com.jamf.jamf-migrator",
     "download": "https://github.com/jamf/JamfMigrator/releases/download/current/jamf-migrator.zip",
-    "sha256": "a7fb2930b41d52a49cc9a509e0fd9aea4ce6e5d0c3c2f9d3b1e3aa4880d9f1a6",
+    "sha256": "0c5d532cadc609bbffea6f857b0729f50d81bc2abb1b4e7ce644009bbbe40fb5",
     "appcast": {
       "url": "https://github.com/jamf/JamfMigrator/releases.atom",
       "checkpoint": "a308ef776f7e791439cfe7cd8a0192c26b15463ff36d1847ccc856a50268f95a"
     },
-    "version": "5.2.2",
+    "version": "5.2.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
