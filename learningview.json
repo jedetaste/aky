@@ -4,12 +4,12 @@
     "bundle": "LearningView.app",
     "identifier": "com.electron.learningview",
     "download": "https://learningview.org/app/LearningView.dmg",
-    "sha256": "fa09af522a1890dd685f958efea772892f4b61d214ad6fd6bae73c078901ce76",
+    "sha256": "34007c780f2ebcc0127737fe7bddfaa7ecb74915ebee9abc8849a4d6254b9472",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.0.0",
+    "version": "1.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
