@@ -3,13 +3,13 @@
     "id": "microsoftedge",
     "bundle": "Microsoft Edge.app",
     "identifier": "com.microsoft.edgemac",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/MicrosoftEdge-81.0.416.68.pkg",
-    "sha256": "bfac4ef0032f4e84aac5e01c5d041247eb24829acec4fc45b9a06dd41bf6e1f7",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/MicrosoftEdge-81.0.416.72.pkg",
+    "sha256": "83c9dfb63ec533632af2d9747ee73b8926937f2e5e025877fc10e15e0aacc375",
     "appcast": {
       "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://go.microsoft.com/fwlink/?linkid=2069148",
-      "checkpoint": "af87e0de62c23ab82f30de6f228009bce051f69d01167a0e91cedc6057420927"
+      "checkpoint": "25a7e4c95dbdf9a1bab69e0c6ceae11beb807b55f877f3642fe3487456bff837"
     },
-    "version": "81.0.416.68",
+    "version": "81.0.416.72",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
