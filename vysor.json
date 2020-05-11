@@ -3,13 +3,13 @@
     "id": "vysor",
     "bundle": "Vysor.app",
     "identifier": "com.electron.vysor",
-    "download": "https://github.com/koush/vysor.io/releases/download/v3.0.67/Vysor-mac-3.0.67.zip",
-    "sha256": "7c1fb3685dba6422d80f473d19a4fba84e4e15c0f8e983bbde274d310f44f27c",
+    "download": "https://github.com/koush/vysor.io/releases/download/v3.0.84/Vysor-mac-3.0.84.zip",
+    "sha256": "c800f5efe30605e81933efe6e7c81c39a0f726250619e4f55bf0b8414e452099",
     "appcast": {
       "url": "https://github.com/koush/vysor.io/releases.atom",
-      "checkpoint": "55016cee56634697a46643e0a9d05f77472ae3722e0cb9e7e68bf7f1cc1cd5a7"
+      "checkpoint": "7c4b2caad51c921d41d42fa4d3420748d0a9f203a55d4f40b1aaabd6347721f9"
     },
-    "version": "3.0.67",
+    "version": "3.0.84",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
