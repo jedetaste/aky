@@ -3,13 +3,13 @@
     "id": "resiliosync",
     "bundle": "Resilio Sync.app",
     "identifier": "com.resilio.Sync",
-    "download": "https://download-cdn.resilio.com/2.6.4/osx/Resilio-Sync.dmg",
-    "sha256": "bc1d762720073de706e28124bd35c6804a430c464ae955826b358d240b819e0e",
+    "download": "https://download-cdn.resilio.com/2.7.0/osx/Resilio-Sync.dmg",
+    "sha256": "ea7b33283c6993c1d6f2ed3e75ba5743bf014b3a19351f5cfeb6dddd8f8cb842",
     "appcast": {
       "url": "https://help.resilio.com/hc/en-us/articles/206216855-Sync-2-x-change-log",
-      "checkpoint": "6698e0ee6998737fc941d0099f6b2c9cd0b4e2599bd5df98dd8550bf1f814425"
+      "checkpoint": "b625e4ab93520c450beccb0afa813edaf7877a9f812da1ea22cf1ece16d08c84"
     },
-    "version": "2.6.4",
+    "version": "2.7.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
