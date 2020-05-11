@@ -3,13 +3,13 @@
     "id": "appzapper",
     "bundle": "AppZapper.app",
     "identifier": "com.appzapper.appzapper2",
-    "download": "https://appzapper.com/downloads/appzapper202.zip",
-    "sha256": "bc05e7b2290ffdbfba23fcb445d57237eef258fea679aff902aa135ee302d297",
+    "download": "https://appzapper.com/downloads/appzapper203.zip",
+    "sha256": "bb541a89fd513c4fa95eeefe46ebac6b985ac6498a46da4e4622089a15ef6bcd",
     "appcast": {
-      "url": "https://www.appzapper.com/az2appcast.xml",
-      "checkpoint": "b91ae47cbd23159ada1e03357647dc3140cd35ef509dfa44ed13e369aad07e88"
+      "url": "https://www.appzapper.com/",
+      "checkpoint": "761971c613d08ff1319b47b4995ddb12d1e2bf3d9ebf7faf3beb997c10beee3c"
     },
-    "version": "2.0.2",
+    "version": "2.0.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
