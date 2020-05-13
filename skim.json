@@ -3,13 +3,13 @@
     "id": "skim",
     "bundle": "Skim.app",
     "identifier": "net.sourceforge.skim-app.skim",
-    "download": "https://downloads.sourceforge.net/skim-app/Skim/Skim-1.5.8/Skim-1.5.8.dmg",
-    "sha256": "50ddbf004e318b5b50dadbf86ea38233b08036d69c0ef8cc05e63f5fe97bb3c5",
+    "download": "https://downloads.sourceforge.net/skim-app/Skim/Skim-1.5.9/Skim-1.5.9.dmg",
+    "sha256": "c68f49315727d81fefdaf365843131d46ced66584fd8b2dde2e82427fb0e5aaa",
     "appcast": {
       "url": "https://skim-app.sourceforge.io/skim.xml",
-      "checkpoint": "0347354b62b0d54a319dcba2bfeaa8214276e410cf65cc4b35d24978050a856c"
+      "checkpoint": "62d7c61616c0eee7c59e0eab9115c7d54163157524b7d780362f9d8db2f99115"
     },
-    "version": "1.5.8",
+    "version": "1.5.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
