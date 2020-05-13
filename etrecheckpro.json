@@ -4,12 +4,12 @@
     "bundle": "EtreCheckPro.app",
     "identifier": "com.etresoft.EtreCheck4",
     "download": "https://cdn.etrecheck.com/EtreCheckPro.zip",
-    "sha256": "d0051af64b593a78ee0dbdd08b59cd45636a17f1aa802b473b9643ba979a7e26",
+    "sha256": "83f26e1e4f9a25610ccbd2dbf18789234c6a3bf484f666efd7f4d5298e921b28",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "6.2.5",
+    "version": "6.2.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
