@@ -7,7 +7,7 @@
     "sha256": "f5d1855ec1bd3434fecd21e0661ee68f3ac4461b66141b076c6272977cc89992",
     "appcast": {
       "url": "https://s3-us-west-2.amazonaws.com/loom.desktop.packages/loom-inc-production/desktop-packages/latest-mac.yml",
-      "checkpoint": "c5d251dfc100d13a884f877419423957809cc3083efa9b423f99986e4ff60d17"
+      "checkpoint": "f8cadf39d2af2867e32c9dae374bb115f994961208634067e1214c10eb2eadbd"
     },
     "version": "0.36.5",
     "build": null,
