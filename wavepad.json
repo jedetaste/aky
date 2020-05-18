@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "wavepad",
+    "bundle": "WavePad.app",
+    "identifier": "com.nchsoftware.wavepad",
+    "download": "https://www.nch.com.au/components/wavepadmaci.zip",
+    "sha256": "a47dc1c3b583026d507396854a3e0ee3ea3de9ccbf5bd0d475cf6115baa95537",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "10.48",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.nch.com.au/wavepad/"
+  }
+}
