@@ -4,12 +4,12 @@
     "bundle": "PDFelement.app",
     "identifier": "com.wondershare.PDFelement",
     "download": "http://download.wondershare.com/cbs_down/mac-pdfelement_full5237.dmg",
-    "sha256": "7dfd2dcb244ebde050ccaa18b5ee7408b3c64644c2e5992ae685955dd2c4455e",
+    "sha256": "7ff04cf7c66bcce22fc91bb2cd92224cb72e0a3de9b75eb71938273e350ed5da",
     "appcast": {
       "url": "https://cbs.wondershare.com/go.php?m=upgrade_info&pid=5237",
-      "checkpoint": "38b88cb7dab65f831562ac493c26fa47235e2be168213f6ca72f04b0d8c80548"
+      "checkpoint": "ec4616f1ef7fd83cf56710fb504c0e5a3248dbbce76e78d2f756384813e66e81"
     },
-    "version": "7.6.1",
+    "version": "7.6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
