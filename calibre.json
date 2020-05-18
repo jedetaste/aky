@@ -3,13 +3,13 @@
     "id": "calibre",
     "bundle": "calibre.app",
     "identifier": "net.kovidgoyal.calibre",
-    "download": "https://github.com/kovidgoyal/calibre/releases/download/v4.15.0/calibre-4.15.0.dmg",
-    "sha256": "335d84d46c3f01dec853516c73974756a92b177e7926c2776c612fb08d098aeb",
+    "download": "https://github.com/kovidgoyal/calibre/releases/download/v4.16.0/calibre-4.16.0.dmg",
+    "sha256": "e2f801919b1d23bf07c791781a0daf50678f1ead8772673d44fb1aa16a91e8f8",
     "appcast": {
       "url": "https://github.com/kovidgoyal/calibre/releases.atom",
-      "checkpoint": "b8c2d4b3d1d27b6a634d3fb1c2ed42ea77761174828fb1392e6dfc255f384a10"
+      "checkpoint": "759ff553bbfb8842edd86995bc28d3c0df6d5385fac941dc6426dfac1158ad92"
     },
-    "version": "4.15.0",
+    "version": "4.16.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
