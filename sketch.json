@@ -4,10 +4,10 @@
     "bundle": "Sketch.app",
     "identifier": "com.bohemiancoding.sketch3",
     "download": "https://download.sketchapp.com/sketch-65.1-95501.zip",
-    "sha256": "952568a02c43e5c5d9b3de568074b791602518bd6be6ccf8024d964b5ec3ffe0",
+    "sha256": "afc08bc54cc2770db8db76b3391a957faa87a65803e1c96e23ba2f4c199f747c",
     "appcast": {
       "url": "https://download.sketchapp.com/sketch-versions.xml",
-      "checkpoint": "7d6bf912f38272289e467f9300aaa074b75dc369ea1b7371cfc0df558c3155cd"
+      "checkpoint": "f3925eba1a6db25e7a78315e12d0daace22fefe01104d260e034c6b83a8fd045"
     },
     "version": "65.1",
     "build": null,
