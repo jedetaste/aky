@@ -6,8 +6,8 @@
     "download": "https://d3l6g06uqih57x.cloudfront.net/Captomac/webstore/Capto.dmg",
     "sha256": "af7fdda852eb242ee3358d2f06b758d1241de524887067658129be1eec735040",
     "appcast": {
-      "url": "https://updates.devmate.com/com.globaldelight.Capto.xml",
-      "checkpoint": "821e79d09937c9a6c11783f9be96c84691a9f9f43d6b9d774e1e3a80c7ed8fa5"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.2.15",
     "build": null,
