@@ -3,13 +3,13 @@
     "id": "mendeleydesktop",
     "bundle": "Mendeley Desktop.app",
     "identifier": "com.mendeley.desktop",
-    "download": "https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.6-OSX-Universal.dmg",
-    "sha256": "3977ac55e78a528b3e78342cd1891f2fafa7e2b55789d1b46089ba3184fba596",
+    "download": "https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.4-OSX-Universal.dmg",
+    "sha256": "bd9584152eb0bd375ce98b874981a44d87435d0e7b5a411734d9db63f48f7260",
     "appcast": {
       "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://www.mendeley.com/autoupdates/installer/Mac-x64/stable-incoming",
       "checkpoint": "1d6770beb81b2a66c3313e71d546f43cc3adc82f255ed0518794a7da8b59d18d"
     },
-    "version": "1.19.6",
+    "version": "1.19.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
