@@ -6,8 +6,8 @@
     "download": "https://www.jamovi.org/downloads/jamovi-1.1.9.0-macos.dmg",
     "sha256": "edc430dd3c3be63b2e7a4ea42a09c2c7cb3d34d747f0e8b4742c37c08c00af44",
     "appcast": {
-      "url": "https://www.macupdater.net/cgi-bin/extract_text/extract_text_split_easy.cgi?url=https://www.jamovi.org/download.html&splitter_1=macos.dmg&index_1=0&splitter_2=download-button&index_2=-1",
-      "checkpoint": "d1f032e4ec23bd6fa002b7d63d2829856e590302535d8e7804aa126d68921c08"
+      "url": "https://www.jamovi.org/download.html",
+      "checkpoint": "202444a385ea1a424e24fe2b41f5e19220a268febd7b358a5f3610a73a642ee5"
     },
     "version": "1.1.9.0",
     "build": null,
