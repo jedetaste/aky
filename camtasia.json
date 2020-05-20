@@ -4,12 +4,12 @@
     "bundle": "Camtasia 2020.app",
     "identifier": "com.techsmith.camtasia2020",
     "download": "https://download.techsmith.com/camtasiamac/releases/Camtasia.dmg",
-    "sha256": "8c526e3357ab43cc07d3961d4466a6f032754a0cd87697e12021148fd4c1bc02",
+    "sha256": "1c317e2c0b5aded72228b6df3c992e6692e9e026791166e50f23dca22562c175",
     "appcast": {
       "url": "https://support.techsmith.com/hc/en-us/articles/115006624748-Camtasia-Mac-Version-History",
-      "checkpoint": "af47a1b099285e22599304849041aa64aa6acf061159b424a635bc0f813e3f13"
+      "checkpoint": "657bced9e71d569d218ac0efb45beb00dc15a88fd9b52df2fff028caaa35241d"
     },
-    "version": "2020.0.1",
+    "version": "2020.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
