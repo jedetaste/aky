@@ -6,8 +6,8 @@
     "download": "https://downloads.astropad.com/standard/Astropad-3.4.0.dmg",
     "sha256": "bc90d1888452a08d48e52b5ef298bcc4e5ab67fc29fef5aa8b8a95ffbea23f02",
     "appcast": {
-      "url": "https://astropad.com/downloads/sparkle.xml",
-      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "url": "https://s3.amazonaws.com/astropad.com/downloads/sparkle.xml",
+      "checkpoint": "16c58e5064e60ad712e5d2c9e732cde2c40f480c2d75967926c572599b4d91d7"
     },
     "version": "3.4.0",
     "build": null,
