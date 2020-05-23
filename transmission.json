@@ -3,13 +3,13 @@
     "id": "transmission",
     "bundle": "Transmission.app",
     "identifier": "org.m0k.transmission",
-    "download": "https://github.com/transmission/transmission-releases/raw/master/Transmission-2.94.dmg",
-    "sha256": "2cae915ae0e37fc5983406ca7fbd53a054a7153d3bfd7a6cef117a8a28d8a78a",
+    "download": "https://github.com/transmission/transmission-releases/raw/master/Transmission-3.00.dmg",
+    "sha256": "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
     "appcast": {
       "url": "https://github.com/transmission/transmission/releases.atom",
-      "checkpoint": "b767113fe6b62221034f9d89e521d573fbac7f4dc2783857e00b984794fead28"
+      "checkpoint": "f14e44477abc421e737271f624e4c2465c1a7c0cc74606cdb48fdb71a91755ad"
     },
-    "version": "2.94",
+    "version": "3.00",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
