@@ -3,13 +3,13 @@
     "id": "thunderbird",
     "bundle": "Thunderbird.app",
     "identifier": "org.mozilla.thunderbird",
-    "download": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/68.8.0/mac/de/Thunderbird%2068.8.0.dmg",
-    "sha256": "2b12408e2855dfd94765171e89a2b027aac9b695d4ea77304a2e460f689fdbff",
+    "download": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/68.8.1/mac/de/Thunderbird%2068.8.1.dmg",
+    "sha256": "385baf61db121d3c6a26d55f2772f6e4c51b26f3cdf9722c163689eb1383784e",
     "appcast": {
       "url": "https://www.thunderbird.net/en-US/thunderbird/releases/",
-      "checkpoint": "0f094466d57ca61624477ec0e7375898b524173a6dda26e5cc4e523128d14a16"
+      "checkpoint": "68b8da8145a92fdac5a7d3048c62bffcc8edfd4db27c7e43e68463062464d8e9"
     },
-    "version": "68.8.0",
+    "version": "68.8.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
