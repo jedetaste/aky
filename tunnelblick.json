@@ -3,14 +3,14 @@
     "id": "tunnelblick",
     "bundle": "Tunnelblick.app",
     "identifier": "net.tunnelblick.tunnelblick",
-    "download": "https://github.com/Tunnelblick/Tunnelblick/releases/download/v3.8.2/Tunnelblick_3.8.2_build_5480.dmg",
-    "sha256": "46a68c4b836ad0b9e76647d1d5878664a43f28213125b80803d58c56b0496aff",
+    "download": "https://github.com/Tunnelblick/Tunnelblick/releases/download/v3.8.2a/Tunnelblick_3.8.2a_build_5481.dmg",
+    "sha256": "b4069f7b8c80b530c2e5b66e21feb63f6b31b11660f5109ba5202c60c728decd",
     "appcast": {
       "url": "https://github.com/Tunnelblick/Tunnelblick/releases.atom",
-      "checkpoint": "2d61b1b59ffe17d0f2f007de39f1190f0769e2f60808eae720c3a4421256bcb5"
+      "checkpoint": "961fcf7f36d884396889d13c527659d117fb058e378cda954f4027e91d7e02ee"
     },
     "version": null,
-    "build": "5480",
+    "build": "5481",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://www.tunnelblick.net/"
