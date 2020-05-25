@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "ciscoproximity",
+    "bundle": "Cisco Proximity.app",
+    "identifier": "com.cisco.experimental.Proximity",
+    "download": "hhttps://proximity.cisco.com/mac/Proximity.dmg",
+    "sha256": "82959daa34e50462da90c786bc888fb6aa16e5bbff583964742a440990d35a5c",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "desktop-3.0.8",
+    "build": "desktop-3.0.8",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://proximity.cisco.com"
+  }
+}
