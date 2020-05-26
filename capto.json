@@ -4,12 +4,12 @@
     "bundle": "Capto.app",
     "identifier": "com.globaldelight.Capto",
     "download": "https://d3l6g06uqih57x.cloudfront.net/Captomac/webstore/Capto.dmg",
-    "sha256": "af7fdda852eb242ee3358d2f06b758d1241de524887067658129be1eec735040",
+    "sha256": "e2b89df15cd018957ed7de50442d8bf16a501be21c5bb3db29a29388cb362677",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.2.15",
+    "version": "1.2.17",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
