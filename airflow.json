@@ -3,13 +3,13 @@
     "id": "airflow",
     "bundle": "Airflow.app",
     "identifier": "com.bitcavehq.Airflow",
-    "download": "https://cdn.downloads.iocave.net/Airflow/Airflow%203.1.0u1.zip",
-    "sha256": "22f3ba35cbae9f812af6285b0274e0861d351205dcc283bc79dbf2b1992b0c91",
+    "download": "https://cdn.downloads.iocave.net/Airflow/Airflow%203.1.0.zip",
+    "sha256": "579ec8c5c6f769dd5b0bfda8fe5a49d0103f70bcfd2a16d99d9eacff2bff76c7",
     "appcast": {
       "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://airflowapp.com/download/latest?mac",
       "checkpoint": "0acf00220b8ecdb20ab211563ce644974bde373ba5b584a66c3a23c18faf70c2"
     },
-    "version": "3.1.0u1",
+    "version": "3.1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
