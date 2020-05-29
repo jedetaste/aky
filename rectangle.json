@@ -3,11 +3,11 @@
     "id": "rectangle",
     "bundle": "Rectangle.app",
     "identifier": "com.knollsoft.Rectangle",
-    "download": "https://rectangleapp.com/downloads/Rectangle0.30.dmg",
+    "download": "https://github.com/rxhanson/Rectangle/releases/download/v0.30/Rectangle0.30.dmg",
     "sha256": "e0606ff22ca1bdbbb70034a29007c5ced60dfcd8d9294e3846edc4b07b52fe49",
     "appcast": {
       "url": "https://www.rectangleapp.com/downloads/updates.xml",
-      "checkpoint": "19957dd3adb5d0752557a80aa41eb12dcdb2e0e2a692a52af1829bfa7e06a29d"
+      "checkpoint": "3a9b534bd71fbceaf788417ce3c1072e18f740b7f92f248e6f6cad19da3a6ed3"
     },
     "version": "0.30",
     "build": null,
