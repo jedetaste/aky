@@ -3,13 +3,13 @@
     "id": "carboncopycloner",
     "bundle": "Carbon Copy Cloner.app",
     "identifier": "com.bombich.ccc",
-    "download": "https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-5.1.17.5985.zip",
-    "sha256": "77ae226fa02ff651aee1e09e7c9815e3744bc89560ceb60fe27443e43501c9af",
+    "download": "https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-5.1.18.6004.zip",
+    "sha256": "dce543e86f8b4dc47439780aa4de66ffaf8ce25359a0b0631651528ed45726b2",
     "appcast": {
-      "url": "https://bombich.com/software/updates/ccc.php?os_major=10&os_minor=14&os_bugfix=0&ccc=5965&beta=0",
-      "checkpoint": "9563f809b72f552fcc44f3c62ed4d39ed5a1d3f45df19764fa48d1629331de61"
+      "url": "https://bombich.com/software/updates/ccc.php?os_major=10&os_minor=14&os_bugfix=0&ccc=6004&beta=0",
+      "checkpoint": "370b8a5079e0dfcac51afe158e012ed85a24768626c9615f233f0bd4b2ec8934"
     },
-    "version": "5.1.17",
+    "version": "5.1.18",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
