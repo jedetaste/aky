@@ -3,16 +3,16 @@
     "id": "abstract",
     "bundle": "Abstract.app",
     "identifier": "com.elasticprojects.abstract-desktop",
-    "download": "https://downloads.goabstract.com/mac/Abstract-92.0.0.dmg",
-    "sha256": "7c0e1987ec7dbb14ede5d5ad07bc486abfd6f1ab9363a2769ab17936690c4ade",
+    "download": "https://downloads.goabstract.com/mac/Abstract-92.1.0.dmg",
+    "sha256": "5e3f2ffd2e9e5dc9b76c688a2d0950b5268a0dbbb45edef5be372eaef1f98d31",
     "appcast": {
       "url": "https://www.goabstract.com/release-notes/",
-      "checkpoint": "0092da0471e8db6210690823ec239ef1a3ee362f1919edb89f0f01015d023901"
+      "checkpoint": "2838c7024f3f6235455d0f79d7bfe6091e64c60be93e041417619f63fc2db423"
     },
-    "version": "92.0.0",
+    "version": "92.1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.abstract.com/"
+    "web": "https://www.goabstract.com/"
   }
 }
