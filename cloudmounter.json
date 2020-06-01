@@ -4,13 +4,13 @@
     "bundle": "CloudMounter.app",
     "identifier": "com.eltima.cloudmounter",
     "download": "https://cdn.eltima.com/download/cloudmounter.dmg",
-    "sha256": "b231bce984fbdcd183cfde6573a11e4c56e11015c4e1e08e387e7320d04d889c",
+    "sha256": "b9b90d9e634c63377b080f1b242c912213ad0f502f614951dcbe867d05fb010e",
     "appcast": {
       "url": "https://cdn.eltima.com/download/cloudmounter-update/settings.xml",
-      "checkpoint": "53a77585deb943632fe0252fd1cae20d27f9a4c8702fa79b4298ca897f65e6ea"
+      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "version": null,
-    "build": "585",
+    "build": "611",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://mac.eltima.com/mount-cloud-drive.html"
