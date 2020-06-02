@@ -3,16 +3,16 @@
     "id": "skypebusiness",
     "bundle": "Skype for Business.app",
     "identifier": "com.microsoft.SkypeForBusiness",
-    "download": "https://download.microsoft.com/download/D/0/5/D055DA17-C7B8-4257-89A1-78E7BBE3833F/SkypeForBusinessInstaller-16.28.0.175.pkg",
-    "sha256": "99f249cdfccae2a81144de91eb14304d0b7d8bc6488ae646ca9670c2a00c092a",
+    "download": "https://download.microsoft.com/download/D/0/5/D055DA17-C7B8-4257-89A1-78E7BBE3833F/SkypeForBusinessInstaller-16.28.0.192.pkg",
+    "sha256": "0f82ee3369b6f79c56ca7d0234a28c622506ba37310ea3039671e359582bf302",
     "appcast": {
       "url": "https://www.microsoft.com/download/details.aspx?id=54108",
-      "checkpoint": "4e9a4fb37693ef9aa35cda0ce23fd893e1b8f2fe44edeaa523f9deb16be84666"
+      "checkpoint": "6a11efb2a460da79ad465dc5dc2a7fd3b0100010784268aec3518e9a35f7b456"
     },
-    "version": "16.28.175",
+    "version": "16.28.192",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.microsoft.com/en-us/download/details.aspx?id=54108"
+    "web": "https://www.microsoft.com/download/details.aspx?id=54108"
   }
 }
