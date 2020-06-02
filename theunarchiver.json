@@ -3,13 +3,13 @@
     "id": "theunarchiver",
     "bundle": "The Unarchiver.app",
     "identifier": "com.macpaw.site.theunarchiver",
-    "download": "https://dl.devmate.com/com.macpaw.site.theunarchiver/128/1586456379/TheUnarchiver-128.zip",
-    "sha256": "ae329bbdb8b180a9337a5d5a4bf1b81f29a944b134f41265b74cd25c8380cb00",
+    "download": "https://dl.devmate.com/com.macpaw.site.theunarchiver/129/1590582775/TheUnarchiver-129.zip",
+    "sha256": "0c586d9f95d23cead58c7b314f74b6158f7917673e1163034267030d4a65d32f",
     "appcast": {
       "url": "https://updates.devmate.com/com.macpaw.site.theunarchiver.xml",
-      "checkpoint": "af7a80526b5b51738f7eb712bd79fead407bae9723bdd6a17d6de6eead511887"
+      "checkpoint": "091c0432e05cb362ccb6c92741d3f66e3e4ad53fe6aa874dd2b06167d7987f44"
     },
-    "version": "4.2.1",
+    "version": "4.2.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
