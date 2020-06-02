@@ -4,12 +4,12 @@
     "bundle": "Path Finder.app",
     "identifier": "com.cocoatech.PathFinder",
     "download": "https://get.cocoatech.com/PF9.dmg",
-    "sha256": "d29fa7d647471338c2d6a9d6fc891e849e730881688dc02eda0db572f616e382",
+    "sha256": "1617cc569b436c7a15f4033594fef3e8f736e52624cbc4fca2fd4b97bff270f5",
     "appcast": {
       "url": "https://get.cocoatech.com/releasecast.xml",
-      "checkpoint": "902f6788ff06846df168ad34d55f3d03a1daf292a44b4d04c7f40f98f8064ba3"
+      "checkpoint": "f19f2205864fcedac79af6f8a529673e52f18b14672a67a95300f96fb0f50c6c"
     },
-    "version": "9.3.3",
+    "version": "9.3.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
