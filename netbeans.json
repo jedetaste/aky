@@ -10,12 +10,12 @@
     "sha256": "5a00202c8366111d5c3187c0fe8057411673fbc8a4f8b167d0b59ddf66cc9902",
     "appcast": {
       "url": "https://www-eu.apache.org/dist/netbeans/netbeans/",
-      "checkpoint": "0a2ef1f60a9b7382d706867bd487e99e2ac980dcc2497fedcb05a2544648f5b9"
+      "checkpoint": "dc603fbcdce77754ca87ce492c7789cc51893e19651bd1d541a3850d78e07afb"
     },
     "version": "11.3",
     "build": null,
     "dir": "/Applications/NetBeans",
     "symlink": null,
-    "web": "https://netbeans.org/"
+    "web": "https://netbeans.apache.org/download/index.html"
   }
 }
