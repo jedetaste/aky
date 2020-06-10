@@ -3,13 +3,13 @@
     "id": "whatsapp",
     "bundle": "WhatsApp.app",
     "identifier": "WhatsApp",
-    "download": "https://web.whatsapp.com/desktop/mac/files/release-2.2021.4.zip",
-    "sha256": "edeb562a7f3646739d2fbe07819338c3322f044fe2261fe95fbc99150f829a22",
+    "download": "https://web.whatsapp.com/desktop/mac/files/release-2.2023.2.zip",
+    "sha256": "dd2ec87838399c53803bb4441a02e646fb198fd9d8259b6bc588386304695ad1",
     "appcast": {
       "url": "https://web.whatsapp.com/desktop/mac/releases?platform=darwin&arch=x64",
       "checkpoint": "8c4807b594a9bd051e92aa91133522c441919adfe6f318a0d9f9c793ae1cb52a"
     },
-    "version": "2.2021.4",
+    "version": "2.2023.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
