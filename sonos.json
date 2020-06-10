@@ -1,15 +1,15 @@
 {
   "recipe": {
-    "id": "sonos",
+    "id": "Sonos",
     "bundle": "Sonos.app",
-    "identifier": "com.sonos.macController",
-    "download": "https://update.sonos.com/software/mac/mdcr/SonosDesktopController111.dmg",
-    "sha256": "f93830f89073598eccf92c7c3d9e064330252e8e7152cdcb75094a4890ec13e8",
+    "identifier": "com.sonos.macController2",
+    "download": "https://update-software.sonos.com/software/mac/mdcr/SonosDesktopController120.dmg",
+    "sha256": "7dcab807a75f9faef5941f96eff3e823771187e9f6fea3892d2674f192c0a02f",
     "appcast": {
       "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://www.sonos.com/en/redir/controller_software_mac",
-      "checkpoint": "5a8db701a99373ae6a5302353b31c84d84ce13477d1e8a505f88fb73a5287963"
+      "checkpoint": "14c8195f7f50d9883800ddee7a93a6d489dba92b33c8d700b930c963727f549c"
     },
-    "version": "11.1",
+    "version": "12.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
