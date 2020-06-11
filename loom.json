@@ -3,13 +3,13 @@
     "id": "loom",
     "bundle": "Loom.app",
     "identifier": "com.loom.desktop",
-    "download": "https://cdn.loom.com/desktop-packages/Loom-0.38.0.dmg",
-    "sha256": "46e0b3c4cc3a97e172d1abe08087817425486230b4ee1b06764f078d7c1eb5aa",
+    "download": "https://cdn.loom.com/desktop-packages/Loom-0.38.1.dmg",
+    "sha256": "04d71737720e0c2b67a4b718874860687f75f10e8d9a91ae30ee6bb4b55d77ca",
     "appcast": {
       "url": "https://s3-us-west-2.amazonaws.com/loom.desktop.packages/loom-inc-production/desktop-packages/latest-mac.yml",
       "checkpoint": "f5db576565d2b4a1eeeceb23b949442fd77a68e4d02102feb6607b462d307904"
     },
-    "version": "0.38.0",
+    "version": "0.38.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
