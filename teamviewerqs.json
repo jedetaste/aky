@@ -6,8 +6,8 @@
     "download": "https://dl.teamviewer.com/download/version_15x/TeamViewerQS.dmg",
     "sha256": "08baf10febce1c84d29eca5e07964f53a1b34cc0bb07d25bb30fb2baa7b8faf5",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "",
+      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "version": "15.6.7",
     "build": null,

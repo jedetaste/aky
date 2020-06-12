@@ -4,10 +4,10 @@
     "bundle": "Snagit 2020.app",
     "identifier": "com.TechSmith.Snagit2020",
     "download": "https://download.techsmith.com/snagitmac/releases/Snagit.dmg",
-    "sha256": "860e3e22091b884be49b0f51fae6f8b0e5d692b8d8123dbb579c27ba0d7190ce",
+    "sha256": ":no_check",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "",
+      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "version": "2020.1.3",
     "build": null,

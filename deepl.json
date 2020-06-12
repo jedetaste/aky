@@ -6,8 +6,8 @@
     "download": "https://www.deepl.com/macos/download/LpsA0EG5frbfX8p5/DeepL1.7.1.zip",
     "sha256": "5b291f3294ecfa1a596c420505a2e4d7c460f54e8f49b97fb0cff7ba69918b86",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "",
+      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "version": "1.7.1",
     "build": null,
