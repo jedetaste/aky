@@ -6,8 +6,8 @@
     "download": "https://download.techsmith.com/snagitmac/releases/Snagit.dmg",
     "sha256": ":no_check",
     "appcast": {
-      "url": "",
-      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2020.1.3",
     "build": null,
