@@ -3,13 +3,13 @@
     "id": "handbrake",
     "bundle": "HandBrake.app",
     "identifier": "fr.handbrake.HandBrake",
-    "download": "https://github.com/HandBrake/HandBrake/releases/download/1.3.2/HandBrake-1.3.2.dmg",
-    "sha256": "f3680d583a1c1ebe0e0a5316ee22d224d48cb3c5be14af29b14ab9071744184f",
+    "download": "https://github.com/HandBrake/HandBrake/releases/download/1.3.3/HandBrake-1.3.3.dmg",
+    "sha256": "500cb924de7a3cc3a95cac4e69f303fc0623d3524fe59ac4ee4160ff43d56af6",
     "appcast": {
       "url": "https://github.com/HandBrake/HandBrake/releases.atom",
-      "checkpoint": "08bafe0d83aa0615300e3d747ab4a03e871e3ad3f5fb27fb4e007d5a681f304e"
+      "checkpoint": "6008c790cf6daa6ee305fa39d260959e56d8c335c8489d7b200e2985a9784aa4"
     },
-    "version": "1.3.2",
+    "version": "1.3.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
