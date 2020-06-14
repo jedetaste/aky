@@ -3,11 +3,11 @@
     "id": "notion",
     "bundle": "Notion.app",
     "identifier": "notion.id",
-    "download": "https://desktop-release.notion-static.com/Notion-2.0.7.dmg",
-    "sha256": "48915df088d544c7dc41767c14d9c165a5b867668270cd985875354af8b65166",
+    "download": "https://www.notion.so/desktop/mac/download",
+    "sha256": null,
     "appcast": {
-      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://www.notion.so/desktop/mac/download&user_agent=MacOS",
-      "checkpoint": "88f198beb9621f2202ee4440d14aadd249d830d1d40a131b5c95ac50271a8ded"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.0.7",
     "build": null,
