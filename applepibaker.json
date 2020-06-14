@@ -6,8 +6,8 @@
     "download": "https://www.tweaking4all.com/downloads/raspberrypi/ApplePi-Baker-v2.2.3.dmg",
     "sha256": "5b6c89392a2bae26ad235d647bba7f857e82a34f2e9a4d8d6e33cf4396d94775",
     "appcast": {
-      "url": "",
-      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.2.3",
     "build": null,
