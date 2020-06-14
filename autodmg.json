@@ -4,12 +4,12 @@
     "bundle": "AutoDMG.app",
     "identifier": "se.gu.it.AutoDMG",
     "download": "https://github.com/MagerValp/AutoDMG/releases/download/v1.9/AutoDMG-1.9.dmg",
-    "sha256": "92c10590ef5569797f1879f3b123e0a1f5a0434654a9cc6f6dbb517e779e6a79",
+    "sha256": null,
     "appcast": {
-      "url": "https://github.com/MagerValp/AutoDMG/releases.atom",
-      "checkpoint": "ce72b4df0bbc436f136e9eeeb28fed771f9dd725b7360d431c44a32278e171cc"
+      "url": null,
+      "checkpoint": null
     },
-    "version": "1.9",
+    "version": "578",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
