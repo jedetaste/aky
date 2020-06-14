@@ -3,11 +3,11 @@
     "id": "arduino",
     "bundle": "Arduino.app",
     "identifier": "cc.arduino.Arduino",
-    "download": "https://downloads.arduino.cc/arduino-1.8.12-macosx.zip",
-    "sha256": "00832eb03db6e90c16637a8c3f2210adbce017d80f71a44f01035d147c693e7a",
+    "download": "http://downloads.arduino.cc/arduino-1.8.12-macosx.zip",
+    "sha256": null,
     "appcast": {
-      "url": "https://github.com/arduino/Arduino/releases.atom",
-      "checkpoint": "e6489acc960addcf05742f8e30e423b464228b210bab142d5d388d8984337a54"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.8.12",
     "build": null,
