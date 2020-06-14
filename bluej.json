@@ -3,11 +3,11 @@
     "id": "bluej",
     "bundle": "BlueJ.app",
     "identifier": "org.bluej.BlueJ",
-    "download": "https://www.bluej.org/download/files/BlueJ-mac-422.zip",
-    "sha256": "37ae5c8c575ac3ee88f6890a7555ae38662f339622528987986a6ae335310311",
+    "download": "http://bluej.org/download/files/BlueJ-mac-422n.zip",
+    "sha256": null,
     "appcast": {
-      "url": "https://www.bluej.org",
-      "checkpoint": "bd6a719e64150ea06f87565989d413aa3216b2b323f466c11ba2e592bd5880c9"
+      "url": null,
+      "checkpoint": null
     },
     "version": "4.2.2",
     "build": null,
