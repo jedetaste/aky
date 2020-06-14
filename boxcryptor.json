@@ -3,13 +3,13 @@
     "id": "boxcryptor",
     "bundle": "Boxcryptor.app",
     "identifier": "com.boxcryptor.osx",
-    "download": "https://downloads.boxcryptor.com/boxcryptor/mac/Boxcryptor_v2.33.1015_Installer.dmg",
-    "sha256": "edcf64ba0be52662c555b18d98b57ff59ba88a2289ebf44e957721924608b8b5",
+    "download": "https://www.boxcryptor.com/l/download-macosx",
+    "sha256": null,
     "appcast": {
-      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://www.boxcryptor.com/l/download-macosx",
-      "checkpoint": "a81eae76b4f0dd341bc3f86576f5d82cee7ab978b3bd5bd4ee7830b9c36c8777"
+      "url": null,
+      "checkpoint": null
     },
-    "version": "2.33.1015",
+    "version": "2.34.1023",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
