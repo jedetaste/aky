@@ -3,13 +3,13 @@
     "id": "airdroid",
     "bundle": "AirDroid.app",
     "identifier": "com.sandstudio.airdroid",
-    "download": "https://s3.amazonaws.com/dl.airdroid.com/AirDroid_Desktop_Client_3.6.7.0.dmg",
-    "sha256": "2c35ec891a35e1d355a4f159f1dc6d5f2f4fc2d79664ffc332fc273b10d13409",
+    "download": "https://srv3.airdroid.com/p20/web/getbinaryredirect?type=dmg&channel=&version=",
+    "sha256": null,
     "appcast": {
-      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://srv3.airdroid.com/p20/web/getbinaryredirect?type=dmg&channel=&version=",
-      "checkpoint": "3f649cf54b492ca7401929c5ffa672d5c66f866e31900ba2b9d269e6d1e9d070"
+      "url": null,
+      "checkpoint": null
     },
-    "version": "3.6.7.0",
+    "version": "3.6.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
