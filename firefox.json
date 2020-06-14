@@ -4,10 +4,10 @@
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
     "download": "http://releases.mozilla.org/pub/firefox/releases/77.0.1/mac/de/Firefox%2077.0.1.pkg",
-    "sha256": "91baccd3b1f1a03294f44c2cf87c12a732a89592974552ea4a33269e3029ae84",
+    "sha256": null,
     "appcast": {
-      "url": "https://www.macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://download.mozilla.org/%3Fproduct=firefox-latest-ssl%26os=osx",
-      "checkpoint": "304b112c38f1826dd1dc2254c34c6ff993a5b7e08026ee2e9420625cac48067b"
+      "url": null,
+      "checkpoint": null
     },
     "version": "77.0.1",
     "build": null,
