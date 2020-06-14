@@ -6,11 +6,11 @@
     "download": "https://github.com/OpenChemistry/avogadroapp/releases/download/1.91.0/Avogadro2-1.91.0-Darwin.dmg",
     "sha256": null,
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://sourceforge.net/projects/avogadro/rss",
+      "checkpoint": "86812f0880364b4a27a9f91cc64088181e6264e9793b4b5331a7317db60338cb"
     },
-    "version": "1.91.0",
-    "build": null,
+    "version": null,
+    "build": "1.91.0",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://avogadro.cc/"
