@@ -3,13 +3,13 @@
     "id": "asctimetables",
     "bundle": "aSc TimeTables.app",
     "identifier": "com.asctimetables",
-    "download": "https://www.asctimetables.com/download/asctimetables_2020_7_1.dmg",
-    "sha256": "94f8054af96ef352ab0da4a107483a0fc234d4936702e815b23e44fc98e22c6f",
+    "download": "",
+    "sha256": null,
     "appcast": {
-      "url": "https://www.asctimetables.com/",
-      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "url": null,
+      "checkpoint": null
     },
-    "version": "2020.7.1",
+    "version": "",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
