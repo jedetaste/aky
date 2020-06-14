@@ -6,8 +6,8 @@
     "download": "https://dl.google.com/earth/client/advanced/current/GoogleEarthProMac-Intel.dmg",
     "sha256": "3c7fc64bf89b67a08dab419e5df4f66f94da3d45681a063b3596d715464c69ff",
     "appcast": {
-      "url": "",
-      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "url": null,
+      "checkpoint": null
     },
     "version": null,
     "build": "7.3.3.7721",
