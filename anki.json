@@ -4,10 +4,10 @@
     "bundle": "Anki.app",
     "identifier": "net.ankiweb.dtop",
     "download": "https://github.com/ankitects/anki/releases/download/2.1.26/anki-2.1.26-mac.dmg",
-    "sha256": "a824b0cb3145148f88d438f218c78cb5abf06ef7d96a94d025c649e4760ce1aa",
+    "sha256": null,
     "appcast": {
-      "url": "https://changes.ankiweb.net/README.md",
-      "checkpoint": "0cf1e9319ca6ef49f791a5dc47690c6d422f77cd347bdb5010207f6f31ffb403"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.1.26",
     "build": null,
