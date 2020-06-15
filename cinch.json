@@ -3,16 +3,17 @@
     "id": "cinch",
     "bundle": "Cinch.app",
     "identifier": "com.irradiatedsoftware.Cinch-Direct",
-    "download": "https://www.irradiatedsoftware.com/downloads/Cinch_1.2.4.zip",
-    "sha256": "68afff19aaff4885e803733df74cfc87fe6529ec57107d21bddcb00d61dd14a0",
+    "download": "http://share.irradiatedsoftware.com/Cinch_1.2.4.zip",
+    "sha256": null,
     "appcast": {
-      "url": "https://www.irradiatedsoftware.com/updates/profiles/cinch.php",
-      "checkpoint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.2.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.irradiatedsoftware.com/cinch/"
+    "web": "https://www.irradiatedsoftware.com/cinch/",
+    "ci": "true"
   }
 }
