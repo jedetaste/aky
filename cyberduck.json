@@ -3,16 +3,17 @@
     "id": "cyberduck",
     "bundle": "Cyberduck.app",
     "identifier": "ch.sudo.cyberduck",
-    "download": "https://update.cyberduck.io/Cyberduck-7.4.0.32960.zip",
-    "sha256": "def0daced06d0f60e83bbb0862d71d7283c130bbc15d4e641d5769ff9de6d2e8",
+    "download": "https://update.cyberduck.io//Cyberduck-7.4.0.32960.zip",
+    "sha256": null,
     "appcast": {
-      "url": "https://version.cyberduck.io/changelog.rss",
-      "checkpoint": "acd4e152c938bc57415285491363e0a5d869a908336c053b4322430d96cd6104"
+      "url": null,
+      "checkpoint": null
     },
     "version": "7.4.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://cyberduck.io/"
+    "web": "https://cyberduck.io/",
+    "ci": "true"
   }
 }
