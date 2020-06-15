@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://astropad.com/"
+    "web": "https://astropad.com/",
+    "ci": "true"
   }
 }
