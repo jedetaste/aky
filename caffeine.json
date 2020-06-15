@@ -3,17 +3,18 @@
     "id": "caffeine",
     "bundle": "Caffeine.app",
     "identifier": "com.lightheadsw.Caffeine",
-    "download": "http://lightheadsw.com/files/releases/com.lightheadsw.Caffeine/Caffeine1.1.1.zip",
-    "sha256": "9203c30951f9aab41ac294bbeb1dcef7bed401ff0b353dcb34d68af32ea51853",
+    "download": "http://download.lightheadsw.com/download.php?software=caffeine",
+    "sha256": null,
     "appcast": {
-      "url": "http://lightheadsw.com/caffeine/",
-      "checkpoint": "f6eb3db364b572915586739575a7112faa998cabca52d568c0150692de232315"
+      "url": null,
+      "checkpoint": null
     },
-    "version": null,
-    "build": "1.1.1",
+    "version": "1.1.1",
+    "build": null,
     "dir": "/Applications",
     "safequit": "false",
     "symlink": null,
-    "web": "http://lightheadsw.com/caffeine/"
+    "web": "http://lightheadsw.com/caffeine/",
+    "ci": "true"
   }
 }
