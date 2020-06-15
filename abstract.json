@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.goabstract.com/"
+    "web": "https://www.goabstract.com/",
+    "ci": "true"
   }
 }
