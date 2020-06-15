@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://freemacsoft.net/appcleaner/"
+    "web": "https://freemacsoft.net/appcleaner/",
+    "ci": "true"
   }
 }
