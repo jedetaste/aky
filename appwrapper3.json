@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.ohanaware.com/appwrapper/"
+    "web": "http://www.ohanaware.com/appwrapper/",
+    "ci": "true"
   }
 }
