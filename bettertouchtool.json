@@ -3,16 +3,17 @@
     "id": "bettertouchtool",
     "bundle": "BetterTouchTool.app",
     "identifier": "com.hegenberg.BetterTouchTool",
-    "download": "https://bettertouchtool.net/releases/btt3.389-1612.zip",
-    "sha256": "2b47402d15843d361a504ab938689327335d6aceaeed0ebac4b421e5623a0fbc",
+    "download": "https://bettertouchtool.net/releases/BetterTouchTool.zip",
+    "sha256": null,
     "appcast": {
-      "url": "https://www.corecode.io/macupdater/appcasts/bettertouchtool.txt",
-      "checkpoint": "f4f51d3be28402e07d60c65496ea3bd7e68f468f306aea825ce2dca594777f58"
+      "url": null,
+      "checkpoint": null
     },
-    "version": "3.389",
+    "version": "3.385",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://folivora.ai/"
+    "web": "https://folivora.ai/",
+    "ci": "true"
   }
 }
