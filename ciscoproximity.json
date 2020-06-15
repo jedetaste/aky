@@ -4,15 +4,16 @@
     "bundle": "Cisco Proximity.app",
     "identifier": "com.cisco.experimental.Proximity",
     "download": "https://proximity.cisco.com/mac/Proximity.dmg",
-    "sha256": "82959daa34e50462da90c786bc888fb6aa16e5bbff583964742a440990d35a5c",
+    "sha256": null,
     "appcast": {
-      "url": "https://proximity.cisco.com/mac/version.txt",
-      "checkpoint": "5b767d55639ff49a280a4cb9f2e5352e66cb4632684bd8bcae8bb2912f978a2d"
+      "url": null,
+      "checkpoint": null
     },
-    "version": "desktop-3.0.8",
+    "version": "3.0.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://proximity.cisco.com/"
+    "web": "https://proximity.cisco.com/",
+    "ci": "true"
   }
 }
