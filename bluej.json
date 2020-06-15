@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.bluej.org/"
+    "web": "https://www.bluej.org/",
+    "ci": "true"
   }
 }
