@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.adium.im/"
+    "web": "https://www.adium.im/",
+    "ci": "true"
   }
 }
