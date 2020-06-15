@@ -3,13 +3,13 @@
     "id": "burn",
     "bundle": "Burn.app",
     "identifier": "com.kiwifruitware.Burn",
-    "download": "https://sourceforge.net/projects/burn-osx/files/Burn/2.7.9/burn-2.7.9.zip/download",
+    "download": "https://www.busymac.com/download/BusyContacts.zip",
     "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.7.9",
+    "version": "1.4.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
