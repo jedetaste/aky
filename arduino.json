@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.arduino.cc/"
+    "web": "https://www.arduino.cc/",
+    "ci": "true"
   }
 }
