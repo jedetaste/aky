@@ -4,15 +4,16 @@
     "bundle": "Clipy.app",
     "identifier": "com.clipy-app.Clipy",
     "download": "https://github.com/Clipy/Clipy/releases/download/1.2.1/Clipy_1.2.1.dmg",
-    "sha256": "dfbb66ce3135fbaa2d64eaeea99a63e63485e322c9746045a1098b1696a1ecd5",
+    "sha256": null,
     "appcast": {
-      "url": "https://github.com/Clipy/Clipy/releases.atom",
-      "checkpoint": "55a2a8bf121f9c9aac3d66f0c9769ad5b4b35633776d604abd82b13ed399518c"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.2.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://clipy-app.com/"
+    "web": "https://clipy-app.com/",
+    "ci": "true"
   }
 }
