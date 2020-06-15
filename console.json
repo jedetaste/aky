@@ -4,15 +4,16 @@
     "bundle": "Console.app",
     "identifier": "com.xs-labs.Console",
     "download": "https://github.com/macmade/Console/releases/download/0.3.0/Console.app.zip",
-    "sha256": "8cf565a7ec7bdb0a8f4e4fa9bf94b2893253e1012040b5ec57212c87b0d09eb8",
+    "sha256": null,
     "appcast": {
-      "url": "https://github.com/macmade/Console/releases.atom",
-      "checkpoint": "cb19573a0a65578a1675efb1287d4688a799d01b2de1d306bd04ba50696f59c6"
+      "url": null,
+      "checkpoint": null
     },
     "version": "0.3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/macmade/Console"
+    "web": "https://github.com/macmade/Console",
+    "ci": "true"
   }
 }
