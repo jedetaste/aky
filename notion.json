@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.notion.so/"
+    "web": "https://www.notion.so/",
+    "ci": "true"
   }
 }
