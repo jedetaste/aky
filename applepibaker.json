@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/"
+    "web": "https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/",
+    "ci": "true"
   }
 }
