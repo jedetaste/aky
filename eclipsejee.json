@@ -3,8 +3,8 @@
     "id": "eclipsejee",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-03/R/eclipse-jee-2020-03-R-incubation-macosx-cocoa-x86_64.dmg&r=1",
-    "sha256": "9fbe1d6b52f84ded8ee9dec0faf740f9934225abbc40262c1ef8c576c50bf830",
+    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2020-03/R/eclipse-jee-2020-03-R-incubation-macosx-cocoa-x86_64.dmg",
+    "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications/Eclipse JEE",
     "symlink": null,
-    "web": "https://eclipse.org/"
+    "web": "https://eclipse.org/",
+    "ci": "true"
   }
 }
