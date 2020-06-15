@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://ianyh.com/amethyst/"
+    "web": "https://ianyh.com/amethyst/",
+    "ci": "true"
   }
 }
