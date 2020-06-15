@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://atom.io/"
+    "web": "https://atom.io/",
+    "ci": "true"
   }
 }
