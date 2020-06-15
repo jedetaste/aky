@@ -3,8 +3,8 @@
     "id": "snagit",
     "bundle": "Snagit 2020.app",
     "identifier": "com.TechSmith.Snagit2020",
-    "download": "https://download.techsmith.com/snagitmac/releases/Snagit.dmg",
-    "sha256": ":no_check",
+    "download": "http://download.techsmith.com/snagitmac/releases/2013/snagit.dmg",
+    "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.techsmith.com/screen-capture.html"
+    "web": "https://www.techsmith.com/screen-capture.html",
+    "ci": "true"
   }
 }
