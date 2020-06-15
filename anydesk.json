@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://anydesk.com/remote-desktop"
+    "web": "https://anydesk.com/remote-desktop",
+    "ci": "true"
   }
 }
