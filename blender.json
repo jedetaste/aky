@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.blender.org/"
+    "web": "https://www.blender.org/",
+    "ci": "true"
   }
 }
