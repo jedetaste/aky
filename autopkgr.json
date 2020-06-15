@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.lindegroup.com/autopkgr"
+    "web": "https://www.lindegroup.com/autopkgr",
+    "ci": "true"
   }
 }
