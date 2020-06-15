@@ -4,15 +4,16 @@
     "bundle": "CheatSheet.app",
     "identifier": "com.mediaatelier.CheatSheet",
     "download": "https://mediaatelier.com/CheatSheet/CheatSheet_1.3.4.zip",
-    "sha256": "7b2929ba987204a62c2f94416e41bf0c3ed03f7883cf3a798e20c679ebc88a3b",
+    "sha256": null,
     "appcast": {
-      "url": "https://mediaatelier.com/CheatSheet/feed.php",
-      "checkpoint": "cbab923a2e4834c0525cb11b599e56ccb088f3c188309cf7831c8883d7b8a8a1"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.3.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.cheatsheetapp.com/CheatSheet/"
+    "web": "https://www.cheatsheetapp.com/CheatSheet/",
+    "ci": "true"
   }
 }
