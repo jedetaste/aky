@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://teams.microsoft.com/downloads"
+    "web": "https://teams.microsoft.com/downloads",
+    "ci": "true"
   }
 }
