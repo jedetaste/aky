@@ -4,15 +4,16 @@
     "bundle": "Chocolat.app",
     "identifier": "com.chocolatapp.Chocolat",
     "download": "https://chocolatapp.com/versions/Chocolat_3.4.zip",
-    "sha256": "43f1f96350c10aa2918719a2238c1e4ec20dd2cfa7a4930f6e7d74f92207c4fe",
+    "sha256": null,
     "appcast": {
-      "url": "https://chocolatapp.com/userspace/appcast/appcast_alpha.php",
-      "checkpoint": "f5f088e23ddcb1e47e8f69011041c51019109eb3f17d0d7ab17d5889261ab576"
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://chocolatapp.com/"
+    "web": "https://chocolatapp.com/",
+    "ci": "true"
   }
 }
