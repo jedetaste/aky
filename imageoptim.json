@@ -6,13 +6,14 @@
     "download": "https://imageoptim.com/ImageOptim1.8.8.tar.bz2",
     "sha256": "f48ce652b8cbf0186e3a550d1dcd0ab81366d0662a3f01621d4cadd4af23cce3",
     "appcast": {
-      "url": "https://imageoptim.com/appcast.xml",
-      "checkpoint": "a8286b58a22f419416f3930b790d94de29b7eb2c408db0d9173cee517366c343"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.8.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://imageoptim.com/mac"
+    "web": "https://imageoptim.com/mac",
+    "ci": "true"
   }
 }
