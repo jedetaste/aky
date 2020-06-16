@@ -4,7 +4,7 @@
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
     "download": "http://releases.mozilla.org/pub/firefox/releases/77.0.1/mac/de/Firefox%2077.0.1.pkg",
-    "sha256": null,
+    "sha256": "4707ecdd4b6d3a53223995fc4718730453b8cfb35d571ff2381999efb1c6cbae",
     "appcast": {
       "url": null,
       "checkpoint": null
