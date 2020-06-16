@@ -3,13 +3,13 @@
     "id": "arduino",
     "bundle": "Arduino.app",
     "identifier": "cc.arduino.Arduino",
-    "download": "http://downloads.arduino.cc/arduino-1.8.12-macosx.zip",
+    "download": "http://downloads.arduino.cc/arduino-1.8.13-macosx.zip",
     "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.8.12",
+    "version": "1.8.13",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
