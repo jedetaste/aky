@@ -3,17 +3,16 @@
     "id": "depnotify",
     "bundle": "DEPNotify.app",
     "identifier": "menu.nomad.DEPNotify",
-    "download": "https://s3.amazonaws.com/nomadbetas/DEPNotify-1.1.5.pkg",
-    "sha256": null,
+    "download": "https://files.nomad.menu/DEPNotify.pkg",
+    "sha256": "d969b3f5f617424de526a45f5b8badf1d7cbfef8974691beecb3729103003ba0",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://gitlab.com/Mactroll/DEPNotify/-/tags?format=atom",
+      "checkpoint": "7d4e626a54dbd8b46759eef3e7112964eea194ee794ba1acaa51f5fd7317047f"
     },
-    "version": "null",
+    "version": "1.1.5",
     "build": null,
     "dir": "/Applications/Utilities",
     "symlink": null,
-    "web": "https://gitlab.com/Mactroll/DEPNotify",
-    "ci": "true"
+    "web": "https://gitlab.com/Mactroll/DEPNotify"
   }
 }
