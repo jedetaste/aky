@@ -6,13 +6,14 @@
     "download": "https://github.com/ninxsoft/JamfProSwitcher/releases/download/v1.0/JamfProSwitcher-1.0.dmg",
     "sha256": "2ef6a9f8350ac6701000dc777dfbd4398a854836934bdcdf61014cbf8854db66",
     "appcast": {
-      "url": "https://github.com/ninxsoft/JamfProSwitcher/releases.atom",
-      "checkpoint": "bb32faea053d4d15f487a770542c86b7414b23bd79dc4a8ca846047564f495af"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/ninxsoft/JamfProSwitcher"
+    "web": "https://github.com/ninxsoft/JamfProSwitcher",
+    "ci": "true"
   }
 }
