@@ -4,7 +4,7 @@
     "bundle": "Google Chrome.app",
     "identifier": "com.google.Chrome",
     "download": "https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg",
-    "sha256": null,
+    "sha256": "e557b0d4d57d1b1685f430d3b3a1b8a61696eda454d4c65c55651624c559750e",
     "appcast": {
       "url": null,
       "checkpoint": null
