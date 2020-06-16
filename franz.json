@@ -3,16 +3,17 @@
     "id": "franz",
     "bundle": "Franz.app",
     "identifier": "com.meetfranz.franz",
-    "download": "https://github.com/meetfranz/franz/releases/download/v5.5.0/franz-5.5.0.dmg",
-    "sha256": "cd3c9535d3a7763e5679470bc1194d77d1b4e32a8870145f413da6b0c5040bca",
+    "download": "https://github.com/meetfranz/franz/releases/download/v5.5.0/Franz-5.5.0.dmg",
+    "sha256": null,
     "appcast": {
-      "url": "https://github.com/meetfranz/franz/releases.atom",
-      "checkpoint": "2adee4a7c4d3d95811f6f8a3c532654ad9135adbe6cc9be4b7a81c976dc55abd"
+      "url": null,
+      "checkpoint": null
     },
     "version": "5.5.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://meetfranz.com/"
+    "web": "https://meetfranz.com/",
+    "ci": "true"
   }
 }
