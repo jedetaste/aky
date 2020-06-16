@@ -6,13 +6,14 @@
     "download": "https://download.jetbrains.com/idea/ideaIU-2020.1.2.dmg",
     "sha256": "5d1fc8b708b67c8b806dcdf6dd46d149c7a20540d5a790a3b359d797135197e8",
     "appcast": {
-      "url": "https://data.services.jetbrains.com/products/releases?code=IIU&latest=true&type=release",
-      "checkpoint": "8884df1a63716adaad398f0c018537b7fffdec41d4c227b787022e31bb6e26f1"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2020.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.jetbrains.com/idea/"
+    "web": "https://www.jetbrains.com/idea/",
+    "ci": "true"
   }
 }
