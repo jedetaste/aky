@@ -4,7 +4,7 @@
     "bundle": "FinanceMissionHeroes.app",
     "identifier": "unity.FinanceMission.Heroes",
     "download": "https://financemissionheroes.ch/download/FinanceMissionHeroes_MacOS.zip",
-    "sha256": "9e4561b8de2ccf986ee4c62a4201ebb30820ba6cbed45450fd876cc54b480a21",
+    "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://financemissionheroes.ch/"
+    "web": "http://financemissionheroes.ch/",
+    "ci": "true"
   }
 }
