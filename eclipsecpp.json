@@ -4,7 +4,7 @@
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
     "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2020-03/R/eclipse-cpp-2020-03-R-incubation-macosx-cocoa-x86_64.dmg",
-    "sha256": null,
+    "sha256": "ae632f2b6f38ed24d20deb458599cb9cf5e4fbc3c09ff8bceb8d6a76397e31fb",
     "appcast": {
       "url": null,
       "checkpoint": null
