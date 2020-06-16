@@ -3,13 +3,13 @@
     "id": "cyberduck",
     "bundle": "Cyberduck.app",
     "identifier": "ch.sudo.cyberduck",
-    "download": "https://update.cyberduck.io//Cyberduck-7.4.0.32960.zip",
+    "download": "https://update.cyberduck.io//Cyberduck-7.4.1.33065.zip",
     "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "7.4.0",
+    "version": "7.4.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
