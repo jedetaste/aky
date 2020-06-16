@@ -3,16 +3,17 @@
     "id": "icq",
     "bundle": "ICQ.app",
     "identifier": "com.icq.macicq",
-    "download": "https://icq-www.hb.bizmrg.com/mac/x64/3.0.27790/icq.dmg",
+    "download": "https://hb.bizmrg.com/icq-www/mac/x64/icq.dmg",
     "sha256": "8ea26bca0d9cc06cc89946574b256752ac1b642726ed0c750314b894739bb051",
     "appcast": {
-      "url": "https://icq-www.hb.bizmrg.com/mac/x64/3.0.27790/version.xml",
-      "checkpoint": "a0e955d767a642b4cd752ec9d49199400665869bcccb3cf29b9a1990ab1a3b91"
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.0.27790",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://icq.com/desktop"
+    "web": "https://icq.com/desktop",
+    "ci": "true"
   }
 }
