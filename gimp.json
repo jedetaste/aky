@@ -6,16 +6,17 @@
       "GIMP.app"
     ],
     "identifier": "org.gnome.gimp",
-    "download": "https://download.gimp.org/pub/gimp/v2.10/osx/gimp-2.10.14-x86_64.dmg",
-    "sha256": "60631e39a1042c38cc281bc3213a76be109fb909b9671fb03c55cf5cf31ea632",
+    "download": "https://download.gimp.org/pub/gimp/v2.10/osx/gimp-2.10.14-x86_64-1.dmg",
+    "sha256": null,
     "appcast": {
-      "url": "https://download.gimp.org/pub/gimp/v2.10/osx/",
-      "checkpoint": "3b7e6a22a4105fa00a40b32d53f9b10fe4bf63243213059c7da73029405d6982"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.10.14",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.gimp.org/"
+    "web": "https://www.gimp.org/",
+    "ci": "true"
   }
 }
