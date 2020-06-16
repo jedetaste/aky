@@ -9,10 +9,11 @@
       "url": null,
       "checkpoint": null
     },
-    "version": "1.4",
+    "version": "1.4.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://macdaddy.io/install-disk-creator/"
+    "web": "https://macdaddy.io/install-disk-creator/",
+    "ci": "true"
   }
 }
