@@ -4,7 +4,7 @@
     "bundle": "Epic Games Launcher.app",
     "identifier": "com.epicgames.EpicGamesLauncher",
     "download": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncher.dmg",
-    "sha256": null,
+    "sha256": "3188930b5ace9393658d8fd93c399650611e18afbf27721a1d9164157df3f0a7",
     "appcast": {
       "url": null,
       "checkpoint": null
