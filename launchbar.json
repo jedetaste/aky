@@ -6,13 +6,14 @@
     "download": "https://www.obdev.at/downloads/launchbar/LaunchBar-6.12.dmg",
     "sha256": "04309c78523eb0fd4b27ca73c09b43f256935bc974b18bfff2d927bf84464199",
     "appcast": {
-      "url": "https://sw-update.obdev.at/update-feeds/launchbar-6.plist",
-      "checkpoint": "a6c5e42fd65979b6afc7344b6e956fac712a7c6ea9bceca535b06586732c2ef1"
+      "url": null,
+      "checkpoint": null
     },
     "version": "6.12",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.obdev.at/products/launchbar/index.html"
+    "web": "https://www.obdev.at/products/launchbar/index.html",
+    "ci": "true"
   }
 }
