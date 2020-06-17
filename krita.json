@@ -6,13 +6,14 @@
     "download": "https://download.kde.org/stable/krita/4.2.9/krita-4.2.9.dmg",
     "sha256": "34b606dcdbdf1c3702cebc924b9c11e1c9181ca6a9d5fa91e605bbfca554df9b",
     "appcast": {
-      "url": "https://download.kde.org/stable/krita/",
-      "checkpoint": "28bd4c6782c1cdcc453e38a229c1a6da9b2ceb2364e412261272d20e7bb2ff89"
+      "url": null,
+      "checkpoint": null
     },
     "version": "4.2.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://krita.org/"
+    "web": "https://krita.org/",
+    "ci": "true"
   }
 }
