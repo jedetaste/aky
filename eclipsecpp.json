@@ -3,13 +3,13 @@
     "id": "eclipsecpp",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2020-03/R/eclipse-cpp-2020-03-R-incubation-macosx-cocoa-x86_64.dmg",
-    "sha256": "ae632f2b6f38ed24d20deb458599cb9cf5e4fbc3c09ff8bceb8d6a76397e31fb",
+    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2020-06/R/eclipse-cpp-2020-06-R-macosx-cocoa-x86_64.dmg",
+    "sha256": "524757ea2a2170a944ad098cce9c11eef092ee7686f6cea369fa00bd4bfeea22",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.15.0",
+    "version": "4.16.0",
     "build": null,
     "dir": "/Applications/Eclipse CPP",
     "symlink": null,
