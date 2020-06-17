@@ -6,13 +6,14 @@
     "download": "https://bitbucket.org/objective-see/deploy/downloads/KnockKnock_2.1.1.zip",
     "sha256": "c3293e6f6524b557246a9c5e06a1fb2eb3f49be2297fe671d0fa8fca7aa142fa",
     "appcast": {
-      "url": "https://objective-see.com/products/changelogs/KnockKnock.txt",
-      "checkpoint": "94f83262fe704eb40ceab91d022a09ca5035a1a1bc007a4635e57609ac27a725"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.1.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://objective-see.com/products/knockknock.html"
+    "web": "https://objective-see.com/products/knockknock.html",
+    "ci": "true"
   }
 }
