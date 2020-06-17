@@ -3,16 +3,17 @@
     "id": "kompozer",
     "bundle": "KompoZer.app",
     "identifier": "org.mozilla.kompozer",
-    "download": "https://downloads.sourceforge.net/kompozer/current/0.8b3/macosx/kompozer-0.8b3.de.mac-universal.dmg",
-    "sha256": "415e019c9b3ec1c76465bf4f561fa515f403e57ac6f92c76365d902241dc14ed",
+    "download": "https://sourceforge.net/projects/kompozer/files/current/0.8b3/macosx/kompozer-0.8b3.lt.mac-universal.dmg/download",
+    "sha256": "d749351bde9aea677e5f26453410a01434c3582fd763df238455ddd54dda1196",
     "appcast": {
-      "url": "https://sourceforge.net/projects/kompozer/rss?path=/current",
-      "checkpoint": "bcf2fe720ea0abafaa21f240f2186752e129fa76c2474fbc4903e94cdd4b5e44"
+      "url": null,
+      "checkpoint": null
     },
     "version": "0.8b3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://kompozer.net/"
+    "web": "https://kompozer.net/",
+    "ci": "true"
   }
 }
