@@ -6,13 +6,14 @@
     "download": "https://github.com/keepassxreboot/keepassxc/releases/download/2.5.4/KeePassXC-2.5.4.dmg",
     "sha256": "3d56ebbcb3471a2f6116abe884d1e7b662347b80e18cc0a12ca9fdf2c9a14d7a",
     "appcast": {
-      "url": "https://github.com/keepassxreboot/keepassxc/releases.atom",
-      "checkpoint": "fb120e7163a96ba459c8cae2ad3eac6e9b8a1d7d3f5044df29a8897f9488cf17"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.5.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://keepassxc.org/"
+    "web": "https://keepassxc.org/",
+    "ci": "true"
   }
 }
