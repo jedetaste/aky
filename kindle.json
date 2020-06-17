@@ -3,16 +3,17 @@
     "id": "kindle",
     "bundle": "Kindle.app",
     "identifier": "com.amazon.Kindle",
-    "download": "https://kindleformac.s3.amazonaws.com/57029/KindleForMac-57029.dmg",
+    "download": "https://www.amazon.com/kindlemacdownload/ref=klp_mac",
     "sha256": "b4de86ba1b78966c754d220fe09fd7dbdbadd874b19e51d261d8308e6e0d4cb3",
     "appcast": {
-      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://www.amazon.com/kindlemacdownload/ref=klp_hz_mac",
-      "checkpoint": "d4d3b45463dc97446b701a6643606194d23dd58b59b02e9aa3e53eb14725f954"
+      "url": null,
+      "checkpoint": null
     },
-    "version": null,
-    "build": "57029",
+    "version": "1.28.0",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.amazon.com/gp/digital/fiona/kcp-landing-page"
+    "web": "https://www.amazon.com/gp/digital/fiona/kcp-landing-page",
+    "ci": "true"
   }
 }
