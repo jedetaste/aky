@@ -6,13 +6,14 @@
     "download": "https://www.projectwizards.net/downloads/MerlinProject.zip",
     "sha256": "72580b1b1583a8b2217c251601611bff46b73ab6abe53e75c55ef1b569fb8908",
     "appcast": {
-      "url": "https://www.projectwizards.net/en/support/release-notes/merlin-project-pwstore/xml",
-      "checkpoint": "52b95e8880c175fbd71be72bb1edf5c7007e0329a75eb1a20b8f68cd44ca04c6"
+      "url": null,
+      "checkpoint": null
     },
     "version": "6.3.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.projectwizards.net/en/products/merlin-project/what-is"
+    "web": "https://www.projectwizards.net/en/products/merlin-project/what-is",
+    "ci": "true"
   }
 }
