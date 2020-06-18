@@ -6,13 +6,14 @@
     "download": "https://www.peterborgapps.com/downloads/LingonX7.zip",
     "sha256": "9a3b7da2de6a92d47079939bc3c2227b13487d7e92bc157cf781ada7b72bb3c2",
     "appcast": {
-      "url": "https://www.peterborgapps.com/updates/lingonx7.plist",
-      "checkpoint": "388e42e22038c542af21b309155431ce5fe8338ee61d23d15c6a103d884a2859"
+      "url": null,
+      "checkpoint": null
     },
     "version": "7.5.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.peterborgapps.com/lingon/"
+    "web": "https://www.peterborgapps.com/lingon/",
+    "ci": "true"
   }
 }
