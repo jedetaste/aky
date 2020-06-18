@@ -6,13 +6,14 @@
     "download": "https://github.com/ninxsoft/MacUserGenerator/releases/download/v0.3/MacUserGenerator-0.3.dmg",
     "sha256": "ff1a66ccc10fcab3ba5cdcfd2beabd9ba12a016ff7844877d3247534a98e63a0",
     "appcast": {
-      "url": "https://github.com/ninxsoft/MacUserGenerator/releases.atom",
-      "checkpoint": "15a32ed676e0ae1e50533d52b88e0aa6c4334495193b047813c446c235909b8c"
+      "url": null,
+      "checkpoint": null
     },
     "version": "0.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/ninxsoft/MacUserGenerator"
+    "web": "https://github.com/ninxsoft/MacUserGenerator",
+    "ci": "true"
   }
 }
