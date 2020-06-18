@@ -6,13 +6,14 @@
     "download": "https://cdn.loom.com/desktop-packages/Loom-0.40.2.dmg",
     "sha256": "ac24db174abfae33a9be88080e6d6e84c5a5ff64293a4d92dbca8e26caade36a",
     "appcast": {
-      "url": "https://s3-us-west-2.amazonaws.com/loom.desktop.packages/loom-inc-production/desktop-packages/latest-mac.yml",
-      "checkpoint": "1324eed306fed8de6c49331eef20a53ccf7f3a605df248310525c127fc2fef70"
+      "url": null,
+      "checkpoint": null
     },
     "version": "0.40.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.loom.com/"
+    "web": "https://www.loom.com/",
+    "ci": "true"
   }
 }
