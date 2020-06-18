@@ -6,13 +6,14 @@
     "download": "https://www.macxdvd.com/download/macx-dvd-ripper-pro.dmg",
     "sha256": "85ef11514d02e94e0a84312a5952617241e2a772c361f50f84204ac55c0af0b4",
     "appcast": {
-      "url": "https://www.macxdvd.com/mac-dvd-ripper-pro/upgrade/macx-dvd-ripper-pro",
-      "checkpoint": "14db7c6365b98099ab606044052f4d93fda8ba7cc90e8cef189c8527d18ef447"
+      "url": null,
+      "checkpoint": null
     },
     "version": "6.5.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.macxdvd.com/mac-dvd-ripper-pro/"
+    "web": "https://www.macxdvd.com/mac-dvd-ripper-pro/",
+    "ci": "true"
   }
 }
