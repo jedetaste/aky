@@ -3,16 +3,17 @@
     "id": "mut",
     "bundle": "MUT.app",
     "identifier": "com.jssmut.jssmut",
-    "download": "https://github.com/mike-levenick/mut/releases/download/v5.1.0/TheMUT_5_1_0.dmg",
-    "sha256": "957c3ad1dc7641dfd0c8e8847fddb3ce362349be33b2d2a5dc84e108dda6f2a0",
+    "download": "https://github.com/mike-levenick/mut/releases/download/v5.1.1/TheMUT_5_1_1.dmg",
+    "sha256": "af1629f044dcaf67aba5741fc2cefd794d2d3877636107170898a2f98c3f7eac",
     "appcast": {
-      "url": "https://github.com/mike-levenick/mut/releases.atom",
-      "checkpoint": "230ff1d7928296042a631dd774121fea3031bbfc14d84312e8c298f97dbc3bee"
+      "url": null,
+      "checkpoint": null
     },
-    "version": "5.1.0",
+    "version": "5.1.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://jssmut.weebly.com/"
+    "web": "https://jssmut.weebly.com/",
+    "ci": "true"
   }
 }
