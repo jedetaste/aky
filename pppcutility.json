@@ -6,13 +6,14 @@
     "download": "https://github.com/jamf/PPPC-Utility/releases/download/1.2.0/PPPC-Utility.zip",
     "sha256": "58ed98d1ca749bec88651c62ff0e4bb2550e84ba441cd0df7d3225059eb66c61",
     "appcast": {
-      "url": "https://github.com/jamf/PPPC-Utility/releases.atom",
-      "checkpoint": "1a8e33368101ab87933cee19c5606ed5a0d8a7fdc44032209c780f0f1463dc0a"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.2.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/jamf/PPPC-Utility"
+    "web": "https://github.com/jamf/PPPC-Utility",
+    "ci": "true"
   }
 }
