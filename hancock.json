@@ -6,13 +6,14 @@
     "download": "https://github.com/JeremyAgost/Hancock/releases/download/v1.2.1/Hancock.1.2.1.dmg",
     "sha256": "1e2334f6da60b6adf9654aa340d90d7cc5d26ed6622752f127f625fe88af4232",
     "appcast": {
-      "url": "https://github.com/JeremyAgost/Hancock/releases.atom",
-      "checkpoint": "9c241cd898ed042c726ada035633e0dcc79e046e31955054759e0327ddfc23c2"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.2.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/JeremyAgost/Hancock"
+    "web": "https://github.com/JeremyAgost/Hancock",
+    "ci": "true"
   }
 }

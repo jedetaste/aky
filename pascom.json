@@ -6,13 +6,14 @@
     "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-64.R1156_844c4e1.dmg",
     "sha256": "261adcf2ef853fab260619b25c9e7f4a7b8c277892076d6f38fd790575acf939",
     "appcast": {
-      "url": "https://my.pascom.net/update/client/stable?_=1559037394513",
-      "checkpoint": "e6a899595340a511cf9d2f0d4c1fe8ebed81ed9f14af70355cfba0cf3b9b6eea"
+      "url": null,
+      "checkpoint": null
     },
     "version": "64.R1156_844c4e1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.pascom.net/"
+    "web": "https://www.pascom.net/",
+    "ci": "true"
   }
 }

@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Deutsch",
-    "web": "https://www.leseschlau-app.ch/"
+    "web": "https://www.leseschlau-app.ch/",
+    "ci": "true"
   }
 }
