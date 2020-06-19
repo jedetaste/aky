@@ -6,13 +6,14 @@
     "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniGraffle-7.16.dmg",
     "sha256": "a3113a1b0ece4ce3ac9a1d2315b3c9f69fb9408636aacc44d8aaf2bbe5ba148a",
     "appcast": {
-      "url": "https://update.omnigroup.com/appcast/com.omnigroup.OmniGraffle7",
-      "checkpoint": "67a6eb41b5669fd1592de6f6d7063a9ad64c1bdfb7e595cb02ebde1d994b342e"
+      "url": null,
+      "checkpoint": null
     },
     "version": "7.16",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.omnigroup.com/omnigraffle/"
+    "web": "https://www.omnigroup.com/omnigraffle/",
+    "ci": "true"
   }
 }
