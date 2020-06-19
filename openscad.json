@@ -6,13 +6,14 @@
     "download": "https://files.openscad.org/OpenSCAD-2019.05.dmg",
     "sha256": "df6f6f3d34ac0d07f533ec4ccf59082189fb37c0276c1b8df651291e2509420e",
     "appcast": {
-      "url": "https://github.com/openscad/openscad/releases.atom",
-      "checkpoint": "6f9ac30e5e3830e395413f3fee6facb9692ac76dc33a393c1909d51d84ee2d72"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2019.05",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.openscad.org/"
+    "web": "https://www.openscad.org/",
+    "ci": "true"
   }
 }
