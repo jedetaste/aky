@@ -6,13 +6,14 @@
     "download": "https://github.com/pixel-point/mute-me/releases/download/v1.2.0/mute-me-v1.2.0.zip",
     "sha256": "ac5731d090dc3e49974be079e48dbfefcdefc203d7b1319b1bdffe96fe768325",
     "appcast": {
-      "url": "https://github.com/pixel-point/mute-me/releases.atom",
-      "checkpoint": "0f39dce6be9d4aa9291cfce148b38da9d6ea71c7a4536c138134bde09cdb0c2b"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.01",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://muteme.pixelpoint.io/"
+    "web": "https://muteme.pixelpoint.io/",
+    "ci": "true"
   }
 }
