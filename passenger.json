@@ -3,16 +3,17 @@
     "id": "passenger",
     "bundle": "Passenger.app",
     "identifier": "com.macinmind.passenger",
-    "download": "http://macinmind.com/Passenger.dmg",
-    "sha256": "2b385566b8d525169591b0f750e82767266d19aae5cfe86a7fbd122b73770547",
+    "download": "http://macinmind.com/Passenger4.zip",
+    "sha256": "25965141f8d14bc8f8730e931f31fd15b3bd931cffd5edd27d50308bc090e366",
     "appcast": {
-      "url": "https://macinmind.com/pads/PassengerAppcast.xml",
-      "checkpoint": "d6f90da81bc61304690d3c2be3d7f48f458216b19b3e557c64fdc31627e7f2a9"
+      "url": null,
+      "checkpoint": null
     },
     "version": "4.6.1",
     "build": null,
     "dir": "/Applications/Passenger",
     "symlink": null,
-    "web": "http://macinmind.com/?area=app&app=passenger&pg=info"
+    "web": "http://macinmind.com/?area=app&app=passenger&pg=info",
+    "ci": "true"
   }
 }
