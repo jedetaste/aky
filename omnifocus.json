@@ -6,13 +6,14 @@
     "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniFocus-3.8.dmg",
     "sha256": "d78d4f457fbb1151cf4237595b01737228e8ac71eea30b5c16af3599b60ff7c8",
     "appcast": {
-      "url": "https://update.omnigroup.com/appcast/com.omnigroup.OmniFocus3",
-      "checkpoint": "23b288e0a7bcff6a398325dbc2758d9b6d9ef75e25cb195de642fba8a5f7eda4"
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.omnigroup.com/omnifocus/"
+    "web": "https://www.omnigroup.com/omnifocus/",
+    "ci": "true"
   }
 }
