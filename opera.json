@@ -6,8 +6,8 @@
     "download": "https://download.opera.com/download/get/?id=49709&autoupdate=1&ni=1&stream=stable",
     "sha256": "dcc95aa02bb5847d879325766a45463324d097f331623d7f5fb07766cb2ee224",
     "appcast": {
-      "url": "https://ftp.opera.com/pub/opera/desktop/",
-      "checkpoint": "079eb79ca2791a2196103e85842b01b9df550d4d8fd29392951542a420d9f46f"
+      "url": null,
+      "checkpoint": null
     },
     "version": "68.0.3618.173",
     "build": null,
