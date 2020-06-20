@@ -6,13 +6,14 @@
     "download": "https://github.com/rxhanson/Rectangle/releases/download/v0.30/Rectangle0.30.dmg",
     "sha256": "e0606ff22ca1bdbbb70034a29007c5ced60dfcd8d9294e3846edc4b07b52fe49",
     "appcast": {
-      "url": "https://www.rectangleapp.com/downloads/updates.xml",
-      "checkpoint": "3a9b534bd71fbceaf788417ce3c1072e18f740b7f92f248e6f6cad19da3a6ed3"
+      "url": null,
+      "checkpoint": null
     },
     "version": "0.30",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://rectangleapp.com/"
+    "web": "https://rectangleapp.com/",
+    "ci": "true"
   }
 }
