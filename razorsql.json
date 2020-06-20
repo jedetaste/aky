@@ -3,16 +3,17 @@
     "id": "razorsql",
     "bundle": "RazorSQL.app",
     "identifier": "com.razorsql.RazorSQL",
-    "download": "https://s3.dualstack.us-east-1.amazonaws.com/downloads.razorsql.com/downloads/9_1_2/razorsql9_1_2.dmg",
-    "sha256": "5d2edd3eb8e099b935ab9f692334587272e5c81440404a6e451b1317a68b2548",
+    "download": "https://s3.dualstack.us-east-1.amazonaws.com/downloads.razorsql.com/downloads/9_1_3/razorsql9_1_3.dmg",
+    "sha256": "48d66c697870ec9442dee9cd7930a7a4fdd935cccc1aedc45b4e8eca3843ad74",
     "appcast": {
-      "url": "https://razorsql.com/updates.html",
-      "checkpoint": "ade8ef72153d2805243ad83e33193cba6bb1ceee6db1b225805d69820a2f2c0e"
+      "url": null,
+      "checkpoint": null
     },
-    "version": "9.1.2",
+    "version": "9.1.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://razorsql.com/download_mac.html"
+    "web": "https://razorsql.com/download_mac.html",
+    "ci": "true"
   }
 }
