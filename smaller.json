@@ -6,13 +6,14 @@
     "download": "http://25.io/smaller/download/Smaller.zip",
     "sha256": "3d15fe4e216e24c02138da0a598d1c81ed80904cfa662b876acaa9cdefa57901",
     "appcast": {
-      "url": "http://25.io/smaller/up/updates.xml",
-      "checkpoint": "c544450799565e3905e0ddfebabfed02a384aaad5cfbe7367542c15152d3277c"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://25.io/smaller/"
+    "web": "http://25.io/smaller/",
+    "ci": "true"
   }
 }
