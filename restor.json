@@ -6,13 +6,14 @@
     "download": "https://github.com/google/restor/releases/download/1.15/restor-1.15.dmg",
     "sha256": "5694d7e3eb61c8313997344de0e2ac53c64ec2bc5fcf621c7d832211f74846da",
     "appcast": {
-      "url": "https://github.com/google/restor/releases.atom",
-      "checkpoint": "12cea56bc71af8b796485c14a6017d559dda26416841aafc9ef0bdd8be0931a4"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.15",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/google/restor"
+    "web": "https://github.com/google/restor",
+    "ci": "true"
   }
 }
