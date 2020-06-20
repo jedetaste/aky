@@ -3,16 +3,17 @@
     "id": "projectlibre",
     "bundle": "ProjectLibre.app",
     "identifier": "com.projity.main",
-    "download": "https://downloads.sourceforge.net/projectlibre/ProjectLibre/1.9/ProjectLibre-1.9.2.dmg",
+    "download": "https://sourceforge.net/projects/projectlibre/files/ProjectLibre/1.9.2/ProjectLibre-1.9.2.dmg/download",
     "sha256": "2e0f85b6d686eadacfa4d6e70c1ff12940808dc57e7232c78ac22bd1fea84031",
     "appcast": {
-      "url": "https://sourceforge.net/projects/projectlibre/rss?path=/ProjectLibre",
-      "checkpoint": "3eefe7c3f481f259300447209190f9b2a03784794ae6792507382ec464195cf9"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.9.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.projectlibre.com/"
+    "web": "https://www.projectlibre.com/",
+    "ci": "true"
   }
 }
