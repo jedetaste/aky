@@ -6,13 +6,14 @@
     "download": "https://download.teamviewer.com/download/TeamViewer.dmg",
     "sha256": "3a15a15d4903191230a7697c6d791c89108dcebe52b618f681869f96ce12bdbc",
     "appcast": {
-      "url": "https://download.teamviewer.com/download/update/macupdates.xml?id=0&lang=en&version=14.7.1965&os=macos&osversion=10.15.1&type=1&channel=1",
-      "checkpoint": "a804bf044f19a0f91e29cf565122b60321754176f2cbff0bc59ef11baad0579a"
+      "url": null,
+      "checkpoint": null
     },
     "version": "15.6.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.teamviewer.com/"
+    "web": "https://www.teamviewer.com/",
+    "ci": "true"
   }
 }
