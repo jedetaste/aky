@@ -6,13 +6,14 @@
     "download": "https://download.processing.org/processing-3.5.4-macosx.zip",
     "sha256": "4d64fe42a6c5c0863cc82e93a036e73731999ee9448be45bc322f91b0010bb6b",
     "appcast": {
-      "url": "https://github.com/processing/processing/releases.atom",
-      "checkpoint": "0e417fb591c664ca38db8495a8d05acf583c77c287c5554b1e0ede7eded0af98"
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.5.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://processing.org/"
+    "web": "https://processing.org/",
+    "ci": "true"
   }
 }
