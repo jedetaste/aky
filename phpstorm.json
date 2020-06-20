@@ -6,13 +6,14 @@
     "download": "https://download.jetbrains.com/webide/PhpStorm-2020.1.2.dmg",
     "sha256": "18bab79cf73066b98fa3ca22f9aa084fa2a62acd989f9be23268d2aefe471726",
     "appcast": {
-      "url": "https://data.services.jetbrains.com/products/releases?code=PS&latest=true&type=release",
-      "checkpoint": "b60ae72be6c88b38de28a19dfb20bd5767eab219c54c0f9fc63b88749e65d61c"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2020.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.jetbrains.com/phpstorm/"
+    "web": "https://www.jetbrains.com/phpstorm/",
+    "ci": "true"
   }
 }
