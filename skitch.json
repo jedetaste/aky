@@ -3,16 +3,17 @@
     "id": "skitch",
     "bundle": "Skitch.app",
     "identifier": "com.skitch.skitch",
-    "download": "https://cdn1.evernote.com/skitch/mac/release/Skitch-2.8.1.zip",
+    "download": "https://evernote.com/download/get.php?file=SkitchMac",
     "sha256": "d1ae1479960de2b3069a2ae1904d2fb304250e74d6ad7f5d4275b4004ae8f5c5",
     "appcast": {
-      "url": "https://evernote.s3.amazonaws.com/skitch/mac/release/skitch-appcast.xml",
-      "checkpoint": "dbede6aa51368a3b2e274f18c574202c36ccfc5f3f9fd46c4e6d2e770c492dc0"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.8.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://evernote.com/products/skitch"
+    "web": "https://evernote.com/products/skitch",
+    "ci": "true"
   }
 }
