@@ -6,13 +6,14 @@
     "download": "https://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg",
     "sha256": "fad69db99a60058f8136954653fa2de81667f12cb731957a6d921d36ceaf195d",
     "appcast": {
-      "url": "https://www.mothersruin.com/software/SuspiciousPackage/data/SuspiciousPackageVersionInfo.plist",
-      "checkpoint": "617c31b59ffd4c35cb6571f62c88ab4181428044e1004da0379c8fbeb3eeadd0"
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.5.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.mothersruin.com/software/SuspiciousPackage/"
+    "web": "https://www.mothersruin.com/software/SuspiciousPackage/",
+    "ci": "true"
   }
 }
