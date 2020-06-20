@@ -9,10 +9,11 @@
       "url": null,
       "checkpoint": null
     },
-    "version": "1.24.0",
+    "version": "1.24.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://smallpdf.com/de/pdf-reader"
+    "web": "https://smallpdf.com/de/pdf-reader",
+    "ci": "true"
   }
 }
