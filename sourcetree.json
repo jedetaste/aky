@@ -6,13 +6,14 @@
     "download": "https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_4.0.1_234.zip",
     "sha256": "b6b059b6d1c91729bf6c44dac09d79c8ae6e22fefd1bee705c7814a2099c3131",
     "appcast": {
-      "url": "https://product-downloads.atlassian.com/software/sourcetree/Appcast/SparkleAppcastGroup0.xml",
-      "checkpoint": "3758077f36bb048e3599703c728c2d124b524a599b53a35b95c578f1093be21d"
+      "url": null,
+      "checkpoint": null
     },
     "version": "4.0.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.sourcetreeapp.com/"
+    "web": "https://www.sourcetreeapp.com/",
+    "ci": "true"
   }
 }
