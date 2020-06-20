@@ -6,13 +6,14 @@
     "download": "https://download.jetbrains.com/python/pycharm-community-2020.1.2.dmg",
     "sha256": "5870fc20620e9de22ebb11e82d69f8d1a4057d5d315cc09f865381847b38dd69",
     "appcast": {
-      "url": "https://data.services.jetbrains.com/products/releases?code=PCC&latest=true&type=release",
-      "checkpoint": "402883887627af1d518e85c020bf1382cd7420433821757bc4e8bed41aa3ebb5"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2020.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.jetbrains.com/pycharm/"
+    "web": "https://www.jetbrains.com/pycharm/",
+    "ci": "true"
   }
 }
