@@ -6,13 +6,14 @@
     "download": "https://github.com/SAP/macOS-enterprise-privileges/releases/download/1.5.1/Privileges.zip",
     "sha256": "7e54e1171ea322f40b0d9a316fab91b342ef7daa6f5fc8089bcc5c2b2a060812",
     "appcast": {
-      "url": "https://github.com/SAP/mac-enterprise-privileges/releases.atom",
-      "checkpoint": "b4995dae78e4f5fd75170529240cf03ba355b22eb3399099cb0ff1d3c5324068"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.5.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/SAP/mac-enterprise-privileges"
+    "web": "https://github.com/SAP/mac-enterprise-privileges",
+    "ci": "true"
   }
 }
