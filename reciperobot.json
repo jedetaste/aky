@@ -6,13 +6,14 @@
     "download": "https://github.com/homebysix/recipe-robot/releases/download/v1.2.1/RecipeRobot-1.2.1.dmg",
     "sha256": "09974abe3e38770422e07878ee7ef294683e5e5a37267ddb70f5184b3dd11870",
     "appcast": {
-      "url": "https://github.com/homebysix/recipe-robot/releases.atom",
-      "checkpoint": "1b454ba77c399aeedaf2577ea035f63f9410de17cc3d7a8f20a215288e549203"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.2.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/homebysix/recipe-robot"
+    "web": "https://github.com/homebysix/recipe-robot",
+    "ci": "true"
   }
 }
