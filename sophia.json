@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.sophiatesting.com/"
+    "web": "http://www.sophiatesting.com/",
+    "ci": "true"
   }
 }
