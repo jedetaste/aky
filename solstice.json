@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.mersive.com/products/solstice/"
+    "web": "https://www.mersive.com/products/solstice/",
+    "ci": "true"
   }
 }
