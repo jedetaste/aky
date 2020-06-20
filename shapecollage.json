@@ -3,7 +3,7 @@
     "id": "shapecollage",
     "bundle": "Shape Collage.app",
     "identifier": "com.shapecollage",
-    "download": "http://cdn.shapecollage.com/3.1/ShapeCollage-3.1.dmg",
+    "download": "http://www.shapecollage.com/3.1/ShapeCollage-3.1.dmg",
     "sha256": "7ac143ba2fc4949595f3aa30979f891bf9f638b443b57a42fd4cd9c8304e3a97",
     "appcast": {
       "url": null,
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://www.shapecollage.com/"
+    "web": "http://www.shapecollage.com/",
+    "ci": "true"
   }
 }
