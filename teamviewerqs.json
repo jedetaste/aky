@@ -3,7 +3,7 @@
     "id": "teamviewerqs",
     "bundle": "TeamViewerQS.app",
     "identifier": "com.teamviewer.TeamViewerQS",
-    "download": "https://dl.teamviewer.com/download/version_15x/TeamViewerQS.dmg",
+    "download": "https://download.teamviewer.com/download/TeamViewerQS.dmg",
     "sha256": "08baf10febce1c84d29eca5e07964f53a1b34cc0bb07d25bb30fb2baa7b8faf5",
     "appcast": {
       "url": null,
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.teamviewer.com/"
+    "web": "https://www.teamviewer.com/",
+    "ci": "true"
   }
 }
