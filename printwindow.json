@@ -6,13 +6,14 @@
     "download": "http://printwindowapp.com/software/printwindow.dmg",
     "sha256": "c77b0a46836cd74450c1f07dd90dd0bec99461f8171977316fc76f91dbbf802b",
     "appcast": {
-      "url": "http://printwindowapp.com/changelog/default.html",
-      "checkpoint": "fcc47ba52b4b5ad020502a8ceeee0cce4d7a0c830758f9b9be77b95c6a2b6841"
+      "url": null,
+      "checkpoint": null
     },
     "version": "5.4.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://printwindowapp.com/"
+    "web": "http://printwindowapp.com/",
+    "ci": "true"
   }
 }
