@@ -3,16 +3,17 @@
     "id": "scapple",
     "bundle": "Scapple.app",
     "identifier": "com.literatureandlatte.scapple",
-    "download": "https://scrivener.s3.amazonaws.com/Scapple.dmg",
-    "sha256": "0f81d00286f0c49fafc03966bfb2c4dd9fc036495d69def64988d489223e7892",
+    "download": "https://scrivener.s3.amazonaws.com/mac_updates/Scapple_466.zip",
+    "sha256": "fc7127553dbc23cab8260207e1570758c626974b50cd841c7b190f8efb5d1039",
     "appcast": {
-      "url": "https://www.literatureandlatte.com/downloads/scapple/scapple.xml",
-      "checkpoint": "05d00c999795fc59557cf711d1e8ee2e644561a3eaf475a1672a232d09bb1517"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.3.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.literatureandlatte.com/scapple.php"
+    "web": "https://www.literatureandlatte.com/scapple.php",
+    "ci": "true"
   }
 }
