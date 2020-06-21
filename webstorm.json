@@ -6,13 +6,14 @@
     "download": "https://download.jetbrains.com/webstorm/WebStorm-2020.1.2.dmg",
     "sha256": "2b98709cbea9d3bcbf256e44242b1822fa36570dd6fe6fd2633486e7295a8754",
     "appcast": {
-      "url": "https://data.services.jetbrains.com/products/releases?code=WS&latest=true&type=release",
-      "checkpoint": "47c85cc19940858948ff81574ed712dad42084ec2e0928a913faa7b009e53c78"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2020.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.jetbrains.com/webstorm/"
+    "web": "https://www.jetbrains.com/webstorm/",
+    "ci": "true"
   }
 }
