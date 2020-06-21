@@ -6,13 +6,14 @@
     "download": "https://www.virustotal.com/static/bin/VirusTotalUploader_1.3.dmg",
     "sha256": "6009c81e0d87b64f56e64ff3137f37fe61ae3b9b792b3700b37e4c55473da5d4",
     "appcast": {
-      "url": "https://www.virustotal.com/en/documentation/desktop-applications/mac-osx-uploader",
-      "checkpoint": "f9f288e43dcc2ba6e7dbf6d2871389e720a5ec132ac033f2b90a7a34071f96be"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.virustotal.com/"
+    "web": "https://www.virustotal.com/",
+    "ci": "true"
   }
 }
