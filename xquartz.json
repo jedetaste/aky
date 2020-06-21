@@ -6,13 +6,14 @@
     "download": "https://dl.bintray.com/xquartz/downloads/XQuartz-2.7.11.dmg",
     "sha256": "32e50e8f1e21542b847041711039fa78d44febfed466f834a9281c44d75cd6c3",
     "appcast": {
-      "url": "https://www.xquartz.org/releases/sparkle/release.xml",
-      "checkpoint": "da07c258696e2593cbf3f6a451e7125db17a1d70f4f3135e617ba247cdb27a54"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.7.11",
     "build": null,
     "dir": "/Applications/Utilities",
     "symlink": null,
-    "web": "https://www.xquartz.org/"
+    "web": "https://www.xquartz.org/",
+    "ci": "true"
   }
 }
