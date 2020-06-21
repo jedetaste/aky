@@ -4,15 +4,16 @@
     "bundle": "vSolution Link by WolfVision.app",
     "identifier": "com.wolfvision.connapp",
     "download": "http://download.wolfvision.com/vSolution_Link_by_WolfVision.dmg",
-    "sha256": null,
+    "sha256": "78bd40b08f86a4ef07ed8e3960f5c3119cd40c82282699eb4e2fd6080ff1201a",
     "appcast": {
-      "url": "http://download.wolfvision.com/ChangeLog_MacConn.txt",
-      "checkpoint": "a0431f0ab4d275d4e9d92f5b58b811c0c074da941fc6a5ff63e59ca9a397e71a"
+      "url": null,
+      "checkpoint": null
     },
-    "version": null,
-    "build": "1.5",
+    "version": "Version 1.5",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.wolfvision.com/vsolution/"
+    "web": "https://www.wolfvision.com/vsolution/",
+    "ci": "true"
   }
 }
