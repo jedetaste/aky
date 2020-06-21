@@ -3,16 +3,17 @@
     "id": "wirelessmedia",
     "bundle": "WirelessMedia-macOS.app",
     "identifier": "com.wirelessmedia.wmbmac",
-    "download": "https://www.klickandshow.com/fileadmin/medien_klickandshow/download/firmware/2019-05-29/WirelessMedia-macOS.zip",
-    "sha256": "05b5b47c36165fed332b508acb844ca72b6336764bb08041e839045a0509ecbd",
+    "download": "https://klickandshow.com/fileadmin/medien_klickandshow/download/firmware/2020-02-27/WirelessMedia-macOS.zip",
+    "sha256": "89171e389cdbd060acca4b7bc044c02432c0a9d580c60a6a4a029bff6c777dd6",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.3.8.5",
+    "version": "1.6.3.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.klickandshow.com/"
+    "web": "https://www.klickandshow.com/",
+    "ci": "true"
   }
 }
