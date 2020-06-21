@@ -6,13 +6,14 @@
     "download": "https://downloads.kangacode.com/Espresso/Espresso_5.4.1.zip",
     "sha256": "c28b93b6728869d47d2c277839079c1a1bbd88497d9ae0649800a50f51776072",
     "appcast": {
-      "url": "https://espressoapp.com/updates/",
-      "checkpoint": "c1f1384cd7c9297d8f39d9a7e78ef461427793e0fe946e8f8607c9219b85a162"
+      "url": null,
+      "checkpoint": null
     },
     "version": "5.4.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://espressoapp.com/"
+    "web": "https://espressoapp.com/",
+    "ci": "true"
   }
 }
