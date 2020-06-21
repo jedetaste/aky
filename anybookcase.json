@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://anybookreader.de/produkte/anybook-case-software/"
+    "web": "https://anybookreader.de/produkte/anybook-case-software/",
+    "ci": "true"
   }
 }
