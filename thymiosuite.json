@@ -6,13 +6,14 @@
     "download": "https://github.com/Mobsya/aseba/releases/download/2.0.3/ThymioSuite-2.0.3-OsX.dmg",
     "sha256": "56c6fd15ff01fccfd3e8afffb1f1f1380d3e71ed1ed415ca32686d454deb8b3e",
     "appcast": {
-      "url": "https://github.com/Mobsya/aseba/releases.atom",
-      "checkpoint": "c04629e08bfe2c0a34af7582897412282c3f5575785fbba60754e306e9d0fabe"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.0.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.thymio.org/thymio-suite/"
+    "web": "https://www.thymio.org/thymio-suite/",
+    "ci": "true"
   }
 }
