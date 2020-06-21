@@ -9,10 +9,11 @@
       "url": null,
       "checkpoint": null
     },
-    "version": "3.0.10545.0",
+    "version": "3.0.13538.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.webex.com/"
+    "web": "https://www.webex.com/",
+    "ci": "true"
   }
 }
