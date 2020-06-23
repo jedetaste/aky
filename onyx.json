@@ -6,13 +6,14 @@
     "download": "https://www.titanium-software.fr/download/1015/OnyX.dmg",
     "sha256": "ceee72dff52e73ea8acae847ad1fec2f68a2552da693c6d4439e71e0ac1473cc",
     "appcast": {
-      "url": "https://www.titanium-software.fr/en/onyx.html",
-      "checkpoint": "b137a6c303e7c668dead53bef922eb4327206f046ce7c313b45a42a20c2a9733"
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.8.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.titanium-software.fr/en/onyx.html"
+    "web": "https://www.titanium-software.fr/en/onyx.html",
+    "ci": "true"
   }
 }
