@@ -6,13 +6,14 @@
     "download": "https://github.com/balena-io/etcher/releases/download/v1.5.100/balenaEtcher-1.5.100.dmg",
     "sha256": "0da9b9403a7c49cb1b8325ee8b8356cb159987ce154a3cedca0dea606e0091ff",
     "appcast": {
-      "url": "https://github.com/balena-io/etcher/releases.atom",
-      "checkpoint": "4c3a0d7f0f70de11f8111a7096139388b9f3545db492fcf0371c394b5fd11b9e"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.5.100",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://balena.io/etcher"
+    "web": "https://balena.io/etcher",
+    "ci": "true"
   }
 }
