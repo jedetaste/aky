@@ -9,10 +9,11 @@
       "url": null,
       "checkpoint": null
     },
-    "version": null,
-    "build": "3.50.3166.0017",
+    "version": "3.50",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.google.com/drive/download/"
+    "web": "https://www.google.com/drive/download/",
+    "ci": "true"
   }
 }
