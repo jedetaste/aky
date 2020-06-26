@@ -3,16 +3,17 @@
     "id": "adobereaderdc",
     "bundle": "Adobe Acrobat Reader DC.app",
     "identifier": "com.adobe.Reader",
-    "download": "https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2000920063/AcroRdrDC_2000920063_MUI.dmg",
+    "download": "http://ardownload.adobe.com/pub/adobe/reader/mac/AcrobatDC/2000920063/AcroRdrDC_2000920063_MUI.dmg",
     "sha256": "c1ac09a5e82df9e27f313d41750e25960ffe9ee789247f5131e4bf858868d7df",
     "appcast": {
-      "url": "https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html",
-      "checkpoint": "1cb77105a9195ff04bde8b00055cac0cb59c92d9a0d9e854161a0f1a35144311"
+      "url": null,
+      "checkpoint": null
     },
     "version": "20.009.20063",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html"
+    "web": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html",
+    "ci": "true"
   }
 }
