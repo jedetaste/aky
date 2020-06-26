@@ -4,7 +4,7 @@
     "bundle": "sipgate softphone.app",
     "identifier": "com.sipgate.desktop",
     "download": "https://sipgate-desktop-app.s3.eu-central-1.amazonaws.com/sipgate-softphone.dmg",
-    "sha256": null,
+    "sha256": "fa938c5475cfcec00dce8778ffa1e2048922a81f4e4f11d053581b9dd3b742f6",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.sipgateteam.de/"
+    "web": "https://www.sipgateteam.de/",
+    "ci": "true"
   }
 }
