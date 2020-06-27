@@ -3,13 +3,13 @@
     "id": "linphone",
     "bundle": "Linphone.app",
     "identifier": "org.linphone.linphone",
-    "download": "https://www.linphone.org/releases/macosx/Linphone-4.1.1-mac.dmg",
-    "sha256": "b1a5e518c1c564d47f992adadb09ea8cdb51f35e1a0935d4e2060468f893328e",
+    "download": "https://www.linphone.org/releases/macosx/Linphone-latest-mac.dmg",
+    "sha256": "ff8514db10509c5b83c7ce5a857daa0492bbfad00322f424564aaf5b42c88f6d",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.1.1",
+    "version": "4.2.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
