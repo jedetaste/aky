@@ -6,13 +6,14 @@
     "download": "https://downloads.plex.tv/plexmediaplayer/2.58.0.1076-38e019da/PlexMediaPlayer-2.58.0.1076-38e019da-macosx-x86_64.zip",
     "sha256": "1f0bd7da73891215d44fd17b16ef20d0e9a40d7128828f1561f406221183eb53",
     "appcast": {
-      "url": "https://plex.tv/api/downloads/3.json",
-      "checkpoint": "a5eabfa2fd938664e068c62682ce45f69330cc72ee4c1ae9e25af1ccb1807988"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.58.0.1076-38e019da",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.plex.tv/"
+    "web": "https://www.plex.tv/",
+    "ci": "true"
   }
 }
