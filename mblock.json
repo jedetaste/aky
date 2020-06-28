@@ -6,13 +6,14 @@
     "download": "https://dl.makeblock.com/mblock5/darwin/V5.2.0.pkg",
     "sha256": "8a90d4e341b73adff1ff6db704426b6c343e5d2786f8183f5c52ec0240103abf",
     "appcast": {
-      "url": "https://www.mblock.cc/releaselogs-mblock5/",
-      "checkpoint": "2a29625c02fde87fd866bf4d53782f34f47dd0457c8e1add02c2e86d525ba11f"
+      "url": null,
+      "checkpoint": null
     },
     "version": "5.2.0",
     "build": null,
     "dir": "/Applications/Makeblock",
     "symlink": null,
-    "web": "https://www.mblock.cc/"
+    "web": "https://www.mblock.cc/",
+    "ci": "true"
   }
 }
