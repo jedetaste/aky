@@ -4,12 +4,12 @@
     "bundle": "Cisco Webex Meetings.app",
     "identifier": "com.cisco.Cisco Webex Meetings",
     "download": "https://akamaicdn.webex.com/client/webexapp.dmg",
-    "sha256": "42c494013da7f54eeea3454404e18130a284501def9a5c01dea070def9136c13",
+    "sha256": "959b157efa6db5465ec009a961466f9736a0aa0586abd0ccd762b24a6e76b745",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "40.6.5.5",
+    "version": "40.7.2.15",
     "build": null,
     "dir": "/Applications/Webex",
     "symlink": null,
