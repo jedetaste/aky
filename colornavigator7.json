@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "colornavigator7",
+    "bundle": "ColorNavigator 7.app",
+    "identifier": "com.eizo.ColorNavigator7",
+    "download": "https://www.eizoglobal.com/support/db/files/software/software/graphics/colornavigator7/ColorNavigator710.pkg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "7.1.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.eizo.de/zubehoer/software/colornavigator/"
+  }
+}
