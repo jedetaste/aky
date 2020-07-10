@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "phocus",
+    "bundle": "Phocus.app",
+    "identifier": "dk.hasselblad.phocus",
+    "download": "https://cdn.hasselblad.com/software/Phocus-for-Mac/3.5.1/Phocus-3.5.1.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.5.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.hasselblad.com/software/phocus"
+  }
+}
