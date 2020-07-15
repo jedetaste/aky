@@ -3,14 +3,14 @@
     "id": "ultimakercura",
     "bundle": "Ultimaker Cura.app",
     "identifier": "nl.ultimaker.cura",
-    "download": "https://download.ultimaker.com/cura/Ultimaker_Cura-4.6.1-Darwin.dmg",
-    "sha256": "2587e333d601f76242854a84eec955a354f6648f8fe916e0955148a42931abd7",
+    "download": "https://github.com/Ultimaker/Cura/releases/download/4.6.2/Ultimaker_Cura-4.6.2-Darwin.dmg",
+    "sha256": "4e00e8955864074b97c489c7291524ea9894fb7283532368803b799281c9e42a",
     "appcast": {
       "url": "https://github.com/Ultimaker/Cura/releases.atom",
-      "checkpoint": "efaed2c17c4666c5204e8d4f333477ab09a749f7ba34ff385572344125a78eed"
+      "checkpoint": "1d135f9d3657dbc322c48bfd57312d03dabfea116c3475d172d1c637df3f6e1e"
     },
     "version": null,
-    "build": "4.6.1",
+    "build": "4.6.2",
     "dir": "/Applications",
     "symlink": null,
     "web": "https://ultimaker.com/en/products/cura-software"
