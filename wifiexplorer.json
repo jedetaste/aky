@@ -3,13 +3,13 @@
     "id": "wifiexplorer",
     "bundle": "WiFi Explorer.app",
     "identifier": "wifiexplorer",
-    "download": "https://www.adriangranados.com/appcasts/WiFiExplorer_2.6.zip",
-    "sha256": "d9d0712b73d4d32cb6380ce7ba88d458f5f2b81bbcf06f9784f708b658a39724",
+    "download": "https://www.intuitibits.com/appcasts/WiFiExplorer_2.6.2.zip",
+    "sha256": "7cb786df7a257f41497e2f3478ecddf51fbe84febaf759193f7695f92ca8b1e7",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.6",
+    "version": "2.6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
