@@ -4,12 +4,12 @@
     "bundle": "DeepL.app",
     "identifier": "com.linguee.DeepLCopyTranslator",
     "download": "https://www.deepl.com/macos/download/DeepL.dmg",
-    "sha256": "ce8a43184717414de377a213c94893d926ebae05d9e95f346701243cbb5d8d11",
+    "sha256": "c40d917567c775a4e1dda096a624395d72ee9772293450a7db0a84bf2010f417",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.8.0",
+    "version": "1.8.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
