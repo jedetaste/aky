@@ -3,13 +3,13 @@
     "id": "coteditor",
     "bundle": "CotEditor.app",
     "identifier": "com.coteditor.CotEditor",
-    "download": "https://github.com/coteditor/CotEditor/releases/download/3.9.2/CotEditor_3.9.2.dmg",
-    "sha256": "6e4590489bdc12128c4b4c0ae320b546e6bafa7fcc2997785c5d6f37375723dc",
+    "download": "https://github.com/coteditor/CotEditor/releases/download/3.9.3/CotEditor_3.9.3.dmg",
+    "sha256": "9ff6da27ce0af2b2ca1937965514ed4740eaecccaccd0d0f53e14633229f6240",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.9.2",
+    "version": "3.9.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
