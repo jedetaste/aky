@@ -3,13 +3,13 @@
     "id": "blender",
     "bundle": "Blender.app",
     "identifier": "org.blenderfoundation.blender",
-    "download": "https://ftp.nluug.nl/pub/graphics/blender/release/Blender2.83/blender-2.83.2-macOS.dmg",
-    "sha256": "93728e548940d799be6d7e8772aa4878e3d0d6e3367cd16d51206c4b0fcc1393",
+    "download": "https://ftp.nluug.nl/pub/graphics/blender/release/Blender2.83/blender-2.83.3-macOS.dmg",
+    "sha256": "5d826978598315e3291f13022efeee4ffd768daaa8f93f6b33de802e315a17e2",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.83.2",
+    "version": "2.83.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
