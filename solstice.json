@@ -3,13 +3,13 @@
     "id": "solstice",
     "bundle": "SolsticeClient.app",
     "identifier": "com.mersive.solstice.client",
-    "download": "https://www.mersive.com/downloads/SolsticeClient-4.6.dmg",
-    "sha256": null,
+    "download": "https://www.mersive.com/downloads/SolsticeClientMacWeb.zip",
+    "sha256": "da83d240dc718b824ed5803f8a72fd9d4ee44aa35210975762088c5416b1a6b2",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.6.19568",
+    "version": "4.5.18332",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
