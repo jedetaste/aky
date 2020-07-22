@@ -3,13 +3,13 @@
     "id": "fantastical",
     "bundle": "Fantastical.app",
     "identifier": "com.flexibits.fantastical2.mac",
-    "download": "https://cdn.flexibits.com/Fantastical_3.1.2.zip",
-    "sha256": "c7f774655620166a8becb690993fde4093075c2ccc1d69943596f4eed4073e25",
+    "download": "https://cdn.flexibits.com/Fantastical_3.1.3.zip",
+    "sha256": "8995e3bb9c954c352ad3f081c2b1d03487f0dba1157bf72393dac8c57a8de18d",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.1.2",
+    "version": "3.1.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
