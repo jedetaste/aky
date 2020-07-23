@@ -3,13 +3,13 @@
     "id": "clamxav",
     "bundle": "ClamXAV.app",
     "identifier": "uk.co.canimaansoftware.clamxav",
-    "download": "https://cdn.clamxav.com/ClamXAVdownloads/ClamXAV_2.19.4_3723.zip",
-    "sha256": "03dce9f6d356161a4f17739e39c22b5c41ed2842662ad9e4674f9d25b8a5bafc",
+    "download": "https://cdn.clamxav.com/ClamXAVdownloads/ClamXAV_3.0.15_8328.zip",
+    "sha256": "6e2a6e1a061a28b953737fea590d3c94a6689255fd00b0f44e07c6f8c32dfdb7",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.19.4",
+    "version": "3.0.15",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
