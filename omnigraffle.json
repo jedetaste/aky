@@ -3,13 +3,13 @@
     "id": "omnigraffle",
     "bundle": "OmniGraffle.app",
     "identifier": "com.omnigroup.OmniGraffle7",
-    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniGraffle-7.17.dmg",
-    "sha256": "c3a5c47abd159d6bbf686effe536b2349726d30bbbf0169edbf25cf5c9f678b3",
+    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniGraffle-7.17.1.dmg",
+    "sha256": "e6df346d43a5df5ca42ba9cf9af6c2584a78c17d28bbdc4ea7727a2ec2ea5927",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "7.17",
+    "version": "7.17.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
