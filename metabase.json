@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "metabase",
+    "bundle": "Metabase.app",
+    "identifier": "com.metabase.Metabase",
+    "download": "https://s3.amazonaws.com/downloads.metabase.com/v0.35.4/Metabase.zip",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "0.35.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.metabase.com/"
+  }
+}
