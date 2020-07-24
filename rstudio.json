@@ -4,7 +4,7 @@
     "bundle": "RStudio.app",
     "identifier": "org.rstudio.RStudio",
     "download": "https://download1.rstudio.org/desktop/macos/RStudio-1.3.1056.dmg",
-    "sha256": null,
+    "sha256": "f343c77da23e642bc2a3be7263b3f719571d586285c91e8822e0b9276dbd25d1",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.rstudio.com/"
+    "web": "https://www.rstudio.com/",
+    "ci": "true"
   }
 }
