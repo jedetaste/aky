@@ -4,12 +4,12 @@
     "bundle": "Microsoft Remote Desktop.app",
     "identifier": "com.microsoft.rdc.macos",
     "download": "https://go.microsoft.com/fwlink/?linkid=868963",
-    "sha256": "cf33f5fdaf0c7ac4d8d1e0a233afc513b3977f44be5cfd20784a5c3fde969ad1",
+    "sha256": "eff146a4ad2bcf26a86a7899b080b664c2484023e318ac49c7b5dfdd04f9b30b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "10.3.12",
+    "version": "10.4.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
