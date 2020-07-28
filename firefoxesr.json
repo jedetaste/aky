@@ -3,13 +3,13 @@
     "id": "firefoxesr",
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
-    "download": "http://releases.mozilla.org/pub/firefox/releases/68.10.0esr/mac/de/Firefox%2068.10.0esr.pkg",
-    "sha256": "81db1de36064c39c13a4264d904f99678fe6c7955a0c3cadad2219478ed5bf56",
+    "download": "http://releases.mozilla.org/pub/firefox/releases/68.11.0esr/mac/de/Firefox%2068.11.0esr.pkg",
+    "sha256": "50b39102d96830da50c42245cd38e91b569ddd48ab8caaf250ea5a64ecbc48b6",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "68.10.0",
+    "version": "68.11.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
