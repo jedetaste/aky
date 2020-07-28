@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "classroommodeforminecraft",
+    "bundle": "Classroom Mode for Minecraft.app",
+    "identifier": "com.microsoft.mc-classroommode",
+    "download": "https://aka.ms/meecmmacos",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.70",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://education.minecraft.net/"
+  }
+}
