@@ -4,12 +4,12 @@
     "bundle": "Sonos.app",
     "identifier": "com.sonos.macController2",
     "download": "https://www.sonos.com/en/redir/controller_software_mac2",
-    "sha256": "7420cc84d3eaf3537df73f8cfbf3a9c8457b51206d1212bfb422912825df98b4",
+    "sha256": "ab90f8d536bee88debd300d3009d3c947bbddc567aed68099b339eee260ed8ca",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "12.0.1",
+    "version": "12.0.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
