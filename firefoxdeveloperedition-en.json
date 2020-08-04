@@ -3,8 +3,8 @@
     "id": "firefoxdeveloperedition-en",
     "bundle": "Firefox Developer Edition.app",
     "identifier": "org.mozilla.firefoxdeveloperedition",
-    "download": "http://releases.mozilla.org/pub/firefox/releases/80.0b1/mac/en-US/Firefox%2080.0b1.pkg",
-    "sha256": "9dca20c91d84640044921db89a27fd40ac9279bb58273225c6d5aeee83e378f5",
+    "download": "http://releases.mozilla.org/pub/firefox/releases/80.0b3/mac/en-US/Firefox%2080.0b3.pkg",
+    "sha256": "1105e60c4ba1f824479d4464bc3a8af0b00119c3e208cbf3e5926149d68435b2",
     "appcast": {
       "url": null,
       "checkpoint": null
