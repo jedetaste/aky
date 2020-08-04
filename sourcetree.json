@@ -3,13 +3,13 @@
     "id": "sourcetree",
     "bundle": "Sourcetree.app",
     "identifier": "com.torusknot.SourceTreeNotMAS",
-    "download": "https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_4.0.1_234.zip",
-    "sha256": "b6b059b6d1c91729bf6c44dac09d79c8ae6e22fefd1bee705c7814a2099c3131",
+    "download": "https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_4.0.2_236.zip",
+    "sha256": "c9ad12f135077363a11102925ff50f1f3f59c95625362d4105c6fc414aab7c83",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.0.1",
+    "version": "4.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
