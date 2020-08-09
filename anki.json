@@ -3,13 +3,13 @@
     "id": "anki",
     "bundle": "Anki.app",
     "identifier": "net.ankiweb.dtop",
-    "download": "https://github.com/ankitects/anki/releases/download/2.1.29/anki-2.1.29-mac.dmg",
-    "sha256": "b3fc61553b62c014d979ad738c8eca1713a9fc9dcc8108203063b181ace4ba31",
+    "download": "https://github.com/ankitects/anki/releases/download/2.1.30/anki-2.1.30-mac.dmg",
+    "sha256": "906774a4a7f93d94b06908b5c0053c16cbccdfb73d5420da174ca398a885010c",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.1.29",
+    "version": "2.1.30",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
