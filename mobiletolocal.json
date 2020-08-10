@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "mobiletolocal",
+    "bundle": "Mobile to Local.app",
+    "identifier": "com.jamf.pse.mobile-to-local",
+    "download": "https://github.com/BIG-RAT/mobile_to_local/releases/download/v2.0.0/Mobile.to.Local_v2.0.0.zip",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.0.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/BIG-RAT/mobile_to_local"
+  }
+}
