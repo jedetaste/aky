@@ -3,13 +3,13 @@
     "id": "mut",
     "bundle": "MUT.app",
     "identifier": "com.jssmut.jssmut",
-    "download": "https://github.com/mike-levenick/mut/releases/download/v5.1.1/TheMUT_5_1_1.dmg",
-    "sha256": "af1629f044dcaf67aba5741fc2cefd794d2d3877636107170898a2f98c3f7eac",
+    "download": "https://github.com/mike-levenick/mut/releases/download/v5.2.0/TheMUT_5_2_0.dmg",
+    "sha256": "54d82e332574e354c0b4cb548cd722766823d83c2cd8b36bda58bf73ed00466b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.1.1",
+    "version": "5.2.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
