@@ -4,12 +4,12 @@
     "bundle": "WhatsApp.app",
     "identifier": "WhatsApp",
     "download": "https://web.whatsapp.com/desktop/mac/files/WhatsApp.dmg",
-    "sha256": "d7f6321e0608c139f71fd7628f598877a657954f7839cad0073a9f271122a839",
+    "sha256": "5353b1f81f5dd24e9389e2f6e56280209c99ec506ea726f1303e42297254590a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.2031.5",
+    "version": "2.2033.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
