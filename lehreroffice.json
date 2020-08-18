@@ -4,12 +4,12 @@
     "bundle": "LehrerOffice.app",
     "identifier": "ch.rothsoft.lehreroffice.desktop",
     "download": "https://download.lehrerofficeweb.ch/dateien/easy/lo_desktop_macos.zip",
-    "sha256": "6a5ea34dcaf7d18052e8a189369c4dc1bebccc5f3c027321b9f37ec6ff58154f",
+    "sha256": "ce537efc234162af923c4a76bccf5922dcbbf7911bcab0a0081f5008d4ca1fec",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2020.7.0",
+    "version": "2020.7.1",
     "build": null,
     "dir": "/Applications/LehrerOffice",
     "symlink": null,
