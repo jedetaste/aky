@@ -3,13 +3,13 @@
     "id": "crashplan",
     "bundle": "CrashPlan.app",
     "identifier": "com.backup42.desktop",
-    "download": "https://backup1.anykeyit.ch:4285/client/installers/Code42CrashPlan_6.8.8_1525200006688_12_Mac.dmg",
-    "sha256": "ff15c77f7d4bf8ff79b972b54e5fc1c41afe998554d75bd0920d83148a2c42f7",
+    "download": "https://backup1.anykeyit.ch:4285/client/installers/Code42CrashPlan_7.0.3_1525200006703_55_Mac.dmg",
+    "sha256": "d0d00edc7855a2c1a5282a138c2d398102d8f5f5d59f148787b0fda9d307b9e3",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "6.8.8",
+    "version": "7.0.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
