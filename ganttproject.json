@@ -3,7 +3,7 @@
     "id": "ganttproject",
     "bundle": "GanttProject.app",
     "identifier": "net.sourceforge.ganttproject",
-    "download": "http://www.ganttproject.biz/dl/2.8.11/mac",
+    "download": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-2.8.11/ganttproject-2.8.11-r2396.dmg",
     "sha256": "b8f64286ca9c04f606336994785c5ed3995c1842f8b1d82199f7ad0bb01d2851",
     "appcast": {
       "url": null,
