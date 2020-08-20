@@ -3,13 +3,13 @@
     "id": "aircall",
     "bundle": "Aircall.app",
     "identifier": "io.aircall.phone",
-    "download": "https://s3-us-west-1.amazonaws.com/aircall-electron-releases/production/Aircall-2.5.7-mac.zip",
-    "sha256": "bd7892c7dcf0e39645a12b21f5c8fbb8552313603966e37be05d568af23d25e2",
+    "download": "https://s3-us-west-1.amazonaws.com/aircall-electron-releases/production/Aircall-2.5.9.zip",
+    "sha256": "3dacd78ddb6076bd4b5248ff9c10382e63080ae16ad95e10b52fed581e4c4bd1",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.5.7",
+    "version": "2.5.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
