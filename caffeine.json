@@ -3,13 +3,13 @@
     "id": "caffeine",
     "bundle": "Caffeine.app",
     "identifier": "com.lightheadsw.Caffeine",
-    "download": "http://download.lightheadsw.com/download.php?software=caffeine",
-    "sha256": "9203c30951f9aab41ac294bbeb1dcef7bed401ff0b353dcb34d68af32ea51853",
+    "download": "https://cl.ly/2d0e01d909e4/download/Caffeine.dmg",
+    "sha256": "365367f8b3314ffabc1d821f996943755ebc4f90f5ca1433f3123ddb62e1835e",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.1.1",
+    "version": "1.1.2",
     "build": null,
     "dir": "/Applications",
     "safequit": "false",
