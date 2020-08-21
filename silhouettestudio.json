@@ -3,13 +3,13 @@
     "id": "silhouettestudio",
     "bundle": "Silhouette Studio.app",
     "identifier": "com.silhouettesoftware.Silhouette-Studio",
-    "download": "https://dl.silhcdn.com/aa79955e2c6bf8c5",
-    "sha256": "1f58c5c25d2d5c85468e942f2596840712eaeab7cd8411d0667f60b815b58e4d",
+    "download": "https://dl.silhcdn.com/63deb9b560b0f4f4",
+    "sha256": "6c0444239c6ee42a5b7b7fa57dcea447ed1dd8cfddb4a2d9beb8122ebb58f54c",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.4.247.001",
+    "version": "4.4.259.001",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
