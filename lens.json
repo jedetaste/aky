@@ -4,7 +4,7 @@
     "bundle": "Lens.app",
     "identifier": "com.electron.kontena-lens",
     "download": "https://github.com/lensapp/lens/releases/download/v3.5.3/Lens-3.5.3.dmg",
-    "sha256": null,
+    "sha256": "821478667fef53831f782365c731332909dbe33fa73e326722d21157f49e301d",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://k8slens.dev/"
+    "web": "https://k8slens.dev/",
+    "ci": "true"
   }
 }
