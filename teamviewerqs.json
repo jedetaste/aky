@@ -4,12 +4,12 @@
     "bundle": "TeamViewerQS.app",
     "identifier": "com.teamviewer.TeamViewerQS",
     "download": "https://download.teamviewer.com/download/TeamViewerQS.dmg",
-    "sha256": "c8366d69045962523113fbe680fdcac5d730f33a2c66dbd572b67e4e37e8fe24",
+    "sha256": "d987ea38d93df083df5e631483e827634ca813502fa3694b4fe8d0b4c44aa642",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "15.8.3",
+    "version": "15.9.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
