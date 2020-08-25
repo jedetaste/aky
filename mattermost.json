@@ -3,13 +3,13 @@
     "id": "mattermost",
     "bundle": "Mattermost.app",
     "identifier": "Mattermost.Desktop",
-    "download": "https://github.com/mattermost/desktop/releases/download/v4.5.2/mattermost-desktop-4.5.2-mac.dmg",
-    "sha256": "3fa9bc74c3c91003269ea7ca380d220ecce8892e9a9624d2e341a6f1ffe18478",
+    "download": "https://github.com/mattermost/desktop/releases/download/v4.5.3/mattermost-desktop-4.5.3-mac.dmg",
+    "sha256": "13c6907f0f0cd9b48311aecbd6f97732af0d845ffa5db09996395a5769420106",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.5.2",
+    "version": "4.5.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
