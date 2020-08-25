@@ -3,13 +3,13 @@
     "id": "intellijidea",
     "bundle": "IntelliJ IDEA.app",
     "identifier": "com.jetbrains.intellij",
-    "download": "https://download.jetbrains.com/idea/ideaIU-2020.2.dmg",
-    "sha256": "3fb345beb335746e1bbe6a997582d3179c9e839ce78381eb7da7ef741bea23b6",
+    "download": "https://download.jetbrains.com/idea/ideaIU-2020.2.1.dmg",
+    "sha256": "fca518d276c946ae4a81c58b7ff8af7d36ef1a084311ac14dd635fe35f449b93",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2020.2",
+    "version": "2020.2.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
