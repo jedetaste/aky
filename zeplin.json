@@ -3,13 +3,13 @@
     "id": "zeplin",
     "bundle": "Zeplin.app",
     "identifier": "io.zeplin.osx",
-    "download": "https://appcenter-filemanagement-distrib2ede6f06e.azureedge.net/52f8ced5-ae67-433b-b5e9-b355dffb6260/Zeplin.app.zip?sv=2019-02-02&sr=c&sig=DrSJVyB%2BE07m%2Fdd95ebtgjRJv7UN77VWzEa3%2BtGSnKs%3D&se=2020-08-27T22%3A06%3A48Z&sp=r",
-    "sha256": "220a7b7479e769e00745390b2056f2f6fcfd32197ce39d68c6b5a994eea60869",
+    "download": "https://appcenter-filemanagement-distrib4ede6f06e.azureedge.net/f381ce76-8f43-4f17-821a-98d33e8a321f/Zeplin.app.zip?sv=2019-02-02&sr=c&sig=oXYOJyll2LtUCDeaLGSTwhFm9ZelfEf4ufLcRz7Tyh4%3D&se=2020-08-28T11%3A36%3A04Z&sp=r",
+    "sha256": "f3cdd08324583993efb64ccf582a75372be1f91e31d5bbeb866b26369fa855ef",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.7.1",
+    "version": "3.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
