@@ -3,8 +3,8 @@
     "id": "chromium",
     "bundle": "Chromium.app",
     "identifier": "org.chromium.Chromium",
-    "download": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Mac/802616/chrome-mac.zip",
-    "sha256": "a493bd8c0f830866638245718f90f84fb21c6ed22b86d6052b2ef9f283f82464",
+    "download": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Mac/802705/chrome-mac.zip",
+    "sha256": "88defe271f2631178bcfd7b2071f5d4db59aca24a4a5e708534426bde3175442",
     "appcast": {
       "url": null,
       "checkpoint": null
