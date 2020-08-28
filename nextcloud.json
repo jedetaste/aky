@@ -4,12 +4,12 @@
     "bundle": "nextcloud.app",
     "identifier": "com.nextcloud.desktopclient",
     "download": "https://download.nextcloud.com/desktop/releases/Mac/Installer/latest",
-    "sha256": "357112204fc663c7500c117c78b0bbd2b67d1b69c300acf139b46b1d67263df6",
+    "sha256": "aea710cf0fae1f42fdffe6ca94b46929ef4a288ac51809de513a04a6f2a074b4",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.0.0git (build 3292)",
+    "version": "3.0.1git (build 3355)",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
