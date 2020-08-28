@@ -3,13 +3,13 @@
     "id": "fontexplorerxpro",
     "bundle": "FontExplorer X Pro.app",
     "identifier": "com.linotype.FontExplorerX",
-    "download": "http://fast.fontexplorerx.com/FontExplorerXPro710.dmg",
+    "download": "http://fast.fontexplorerx.com/FontExplorerXPro712.dmg",
     "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "7.1.0",
+    "version": "7.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
