@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "zoiper",
+    "bundle": "Zoiper5.app",
+    "identifier": "com.securax.zoiper5",
+    "download": "https://www.zoiper.com/en/voip-softphone/download/zoiper5/for/mac",
+    "sha256": "e1705b6c4496eaa0c6e50179cbd6c05fbb5910a1c641875795057854cbf20f46",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "5.4.6",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.zoiper.com"
+  }
+}
