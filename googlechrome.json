@@ -4,12 +4,12 @@
     "bundle": "Google Chrome.app",
     "identifier": "com.google.Chrome",
     "download": "https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg",
-    "sha256": "4cfc85fab0b1301bdc07bd134a93304a7a5076c3fa1b1ab0aaf5d56f84a92753",
+    "sha256": "5bc4ff916cfcf31d63ac41a6c8f8284078f0e687fbe1adc2fd84c2d9b0399f6b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "85.0.4183.83",
+    "version": "85.0.4183.102",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
