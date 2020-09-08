@@ -4,12 +4,12 @@
     "bundle": "Postman.app",
     "identifier": "com.postmanlabs.mac",
     "download": "https://dl.pstmn.io/download/latest/osx",
-    "sha256": "7880fa9f0d3f0cb6cf6d93f55efb299ac3755836a63d73d07f769281584d589e",
+    "sha256": "d083ec6c88cb27d7bfa5c8fa8e7cf87af0ff66739d1497cfa43b3b7bbb76e57f",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "7.31.1",
+    "version": "7.32.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
