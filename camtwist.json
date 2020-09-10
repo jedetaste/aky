@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "camtwist",
+    "bundle": "CamTwist.app",
+    "identifier": "com.allocinit.CamTwist",
+    "download": "http://camtwiststudio.com/beta/CamTwist_3.4.3.dmg",
+    "sha256": "e1187d52a264d24e24c719e61daabf4453112af98a5b90bce9734282e2b05131",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.4.3",
+    "build": null,
+    "dir": "/Applications/CamTwist",
+    "symlink": null,
+    "web": "http://camtwiststudio.com/"
+  }
+}
