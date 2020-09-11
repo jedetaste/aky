@@ -3,13 +3,13 @@
     "id": "coconutbattery",
     "bundle": "coconutBattery.app",
     "identifier": "com.coconut-flavour.coconutBattery",
-    "download": "https://www.coconut-flavour.com/downloads/coconutBattery_390_2b3baeb3.zip",
-    "sha256": "725c645d03163bef6e49567a892b0abf566cfc41dfbf0958abe5d6d8d283b045",
+    "download": "https://www.coconut-flavour.com/downloads/coconutBattery_391_0af56ac0.zip",
+    "sha256": "6b0df9b3eb06ede70d15a6d43b01497d2b73a5ce193b8650227765efc9d1f0a7",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.9.0",
+    "version": "3.9.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
