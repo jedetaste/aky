@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "obs",
+    "bundle": "OBS.app",
+    "identifier": "com.obsproject.obs-studio",
+    "download": "https://cdn-fastly.obsproject.com/downloads/obs-mac-25.0.8.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "25.0.8",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://obsproject.com/"
+  }
+}
