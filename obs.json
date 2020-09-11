@@ -4,7 +4,7 @@
     "bundle": "OBS.app",
     "identifier": "com.obsproject.obs-studio",
     "download": "https://cdn-fastly.obsproject.com/downloads/obs-mac-25.0.8.dmg",
-    "sha256": null,
+    "sha256": "5674f446c22e34ea2696386a4d04aa201ac692c8217f610ee3c1d002e371d11f",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://obsproject.com/"
+    "web": "https://obsproject.com/",
+    "ci": "true"
   }
 }
