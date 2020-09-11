@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "autodeskfusion360",
+    "bundle": "Autodesk Fusion 360.app",
+    "identifier": "com.autodesk.edu.fusion360",
+    "download": "https://dl.appstreaming.autodesk.com/production/installers/Autodesk%20Fusion%20360%20Admin%20Install.pkg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.0.8816",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.autodesk.com/products/fusion-360"
+  }
+}
