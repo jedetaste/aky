@@ -4,12 +4,12 @@
     "bundle": "Brave Browser.app",
     "identifier": "com.brave.Browser",
     "download": "https://laptop-updates.brave.com/latest/osx",
-    "sha256": "c60fe25cc5de4df5b29253b3b60d0f067a8cda1a7eda6ae1dc79c891844a819a",
+    "sha256": "a6b5a7740d31d91547cdd1f3f7f29e7d3a415a1b6af4b46349bf8cbb3954a147",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "85.1.13.86",
+    "version": "85.1.14.81",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
