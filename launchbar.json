@@ -3,13 +3,13 @@
     "id": "launchbar",
     "bundle": "LaunchBar.app",
     "identifier": "at.obdev.LaunchBar",
-    "download": "https://www.obdev.at/downloads/launchbar/LaunchBar-6.13.dmg",
-    "sha256": "18b3b10f976279afd267920b4cdb5ab47722e548dc10006411f24f464f796bf1",
+    "download": "https://www.obdev.at/downloads/launchbar/LaunchBar-6.13.1.dmg",
+    "sha256": "91c0423cdc0cb7a618357e2c9df7c05844ea077f9908640288af0e7eeacf384e",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "6.13",
+    "version": "6.13.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
