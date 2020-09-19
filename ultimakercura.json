@@ -6,13 +6,14 @@
     "download": "https://github.com/Ultimaker/Cura/releases/download/4.7.1/Ultimaker_Cura-4.7.1-Darwin.dmg",
     "sha256": "2caed221d300223ad42a29d14def124e04a6592e73e694e5a82040897a95f0f0",
     "appcast": {
-      "url": "https://github.com/Ultimaker/Cura/releases.atom",
-      "checkpoint": "971eab6b6187f3d10476349aca4d715bb3931d5fb2f4215f48dac0c54b516f1b"
+      "url": null,
+      "checkpoint": null
     },
-    "version": null,
-    "build": "4.7.1",
+    "version": "4.7",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://ultimaker.com/en/products/cura-software"
+    "web": "https://ultimaker.com/en/products/cura-software",
+    "ci": "true"
   }
 }
