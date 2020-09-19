@@ -4,12 +4,12 @@
     "bundle": "Circuit.app",
     "identifier": "com.unify.circuit",
     "download": "https://eu.yourcircuit.com/desktop/releases/mac/Circuit.dmg",
-    "sha256": "c88d3e085baaf6d5d995094d6984c21503eaf7f1c91c94edc283171362a57785",
+    "sha256": "3c40d0ecb73771c53294e2836c2ec67e5e2407883004ffdd0aa438f521ab4dad",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.2.8605",
+    "version": "1.2.8801",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
