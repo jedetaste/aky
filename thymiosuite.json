@@ -3,13 +3,13 @@
     "id": "thymiosuite",
     "bundle": "ThymioSuite.app",
     "identifier": "org.mobsya.ThymioLauncher",
-    "download": "https://github.com/Mobsya/aseba/releases/download/2.1.0/ThymioSuite-2.1.0-OsX.dmg",
-    "sha256": "82b8758b156ef27cfe5f698a3b8dfe042dc74c56dcf65cff49892107a1aaa2aa",
+    "download": "https://github.com/Mobsya/aseba/releases/download/2.1.1/ThymioSuite-2.1.1-OsX.dmg",
+    "sha256": "3395ee70fc55e78190035c8418480058ed3e860c03aec638a28a85ba2e9a7ee0",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.1.0",
+    "version": "2.1.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
