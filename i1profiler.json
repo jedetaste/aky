@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "i1profiler",
+    "bundle": "i1Profiler.app",
+    "identifier": "com.x-rite.i1Profiler",
+    "download": "https://downloads.xrite.com/downloads/software/i1Profiler/3.3.0/Mac/i1Profiler.zip",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.3.0",
+    "build": null,
+    "dir": "/Applications/i1Profiler",
+    "symlink": null,
+    "web": "https://www.xrite.com/service-support/downloads/I/i1Profiler-i1Publish_V3_3_0"
+  }
+}
