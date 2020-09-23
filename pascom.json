@@ -3,13 +3,13 @@
     "id": "pascom",
     "bundle": "pascom Client.app",
     "identifier": "net.pascom.pascomClient",
-    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-65.R1286_48ecba9.dmg",
-    "sha256": "2c7eb08b28c9070b2b459a3f8cb5123c28a763693acd88c57c4a27308c45b8e9",
+    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-66.R1326_fd10864.dmg",
+    "sha256": "c18ee640bd6d509066de620cf46d9fbbb3125a7502a79e1475a4b93eaaa0e48a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "65.R1286_48ecba9",
+    "version": "66.R1326_fd10864",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
