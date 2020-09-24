@@ -4,12 +4,12 @@
     "bundle": "Thunderbird.app",
     "identifier": "org.mozilla.thunderbird",
     "download": "https://download.mozilla.org/?product=thunderbird-latest-ssl&os=osx&lang=de",
-    "sha256": "d3ebc2befff450903e03a9544a430f0205b53db0e40a0a5c2d4cf6a09958776f",
+    "sha256": "ac8da8ec2314dbb84f3ce0825d08b0a466b01d101884a78ae5d93642f1a13142",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "78.2.2",
+    "version": "78.3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
