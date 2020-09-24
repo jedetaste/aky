@@ -6,13 +6,14 @@
     "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniOutliner-5.7.1.dmg",
     "sha256": "e1aa55ee71b9fa6236ce61b26e6cabb4fb015ae2be0a74d76498552347e98e66",
     "appcast": {
-      "url": "https://update.omnigroup.com/appcast/com.omnigroup.OmniOutliner5",
-      "checkpoint": "1356df4986ffd522c6de9235e986071443c322c2f790192c1bffea7858293a6e"
+      "url": null,
+      "checkpoint": null
     },
     "version": "5.7.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.omnigroup.com/omnioutliner/"
+    "web": "https://www.omnigroup.com/omnioutliner/",
+    "ci": "true"
   }
 }
