@@ -6,13 +6,14 @@
     "download": "https://github.com/rtrouton/Payload-Free-Package-Creator/releases/download/2.3/Payload-Free_Package_Creator.pkg",
     "sha256": "11e3244bac2d550a1724f331eabf138f2de6b86af217bd38b6f468300259e626",
     "appcast": {
-      "url": "https://github.com/rtrouton/Payload-Free-Package-Creator/releases.atom",
-      "checkpoint": "47a6cfe41d5c59fa0b94e3441dea5587b48ec23c87e880475e8c2c5b7bf8f302"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/rtrouton/Payload-Free-Package-Creator"
+    "web": "https://github.com/rtrouton/Payload-Free-Package-Creator",
+    "ci": "true"
   }
 }
