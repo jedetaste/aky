@@ -4,15 +4,16 @@
     "bundle": "Business Communication.app",
     "identifier": "com.broadsoft.communicator",
     "download": "https://was1.join.swisscom.ch/dms/bc/pc/btbc-mac.dmg",
-    "sha256": null,
+    "sha256": "3128d52f179fc9701e779097599efce10de5ec0e020615ef113d6b35505ae3a9",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "22.6.2.47",
+    "version": "22.9.14.89",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.swisscom.ch/en/business/sme/help/combi-offers/app-nutzen-sbcon.html"
+    "web": "https://www.swisscom.ch/en/business/sme/help/combi-offers/app-nutzen-sbcon.html",
+    "ci": "true"
   }
 }
