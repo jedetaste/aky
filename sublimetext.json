@@ -3,16 +3,17 @@
     "id": "sublimetext",
     "bundle": "Sublime Text.app",
     "identifier": "com.sublimetext.3",
-    "download": "https://download.sublimetext.com/Sublime%20Text%20Build%203211.dmg",
+    "download": "http://download.sublimetext.com/Sublime%20Text%20Build%203211.dmg",
     "sha256": "531c84e24983927c59dc0c5611f605776f917d1c516af80c69c09ea232d24e01",
     "appcast": {
-      "url": "https://www.sublimetext.com/updates/3/stable/appcast_osx.xml",
-      "checkpoint": "c47fe1b151f79990c227d8dfe03d15e5eae5cfc7918a622f05c375ff1b6061d5"
+      "url": null,
+      "checkpoint": null
     },
-    "version": null,
-    "build": "3211",
+    "version": "Build 3211",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.sublimetext.com/3"
+    "web": "https://www.sublimetext.com/3",
+    "ci": "true"
   }
 }
