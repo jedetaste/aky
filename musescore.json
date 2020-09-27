@@ -9,13 +9,14 @@
     "download": "https://github.com/musescore/MuseScore/releases/download/v3.5/MuseScore-3.5.0.dmg",
     "sha256": "42f67d022604c6da5a31850ffeb0b2adde0bcc8f675aea6acfdc791eefa73047",
     "appcast": {
-      "url": "https://github.com/musescore/MuseScore/releases.atom",
-      "checkpoint": "b774cd0c705c4a2013a0660bc76e01de70e4777873b45ef41e05bf8ed83d42cd"
+      "url": null,
+      "checkpoint": null
     },
-    "version": null,
-    "build": "3.5.0",
+    "version": "3.5.0.28537",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://musescore.org/"
+    "web": "https://musescore.org/",
+    "ci": "true"
   }
 }
