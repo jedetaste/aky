@@ -6,13 +6,14 @@
     "download": "https://sveinbjorn.org/files/software/platypus/platypus5.3.zip",
     "sha256": "efc66e943e6327896d0c1b82b0c1798c9ea17cffa03581e4949541c30d9833b0",
     "appcast": {
-      "url": "https://www.sveinbjorn.org/files/appcasts/PlatypusAppcast.xml",
-      "checkpoint": "cbcfe657f048f7e855d92f6be8e68532415fffa38b9b8508988174d90ade53ee"
+      "url": null,
+      "checkpoint": null
     },
     "version": "5.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://sveinbjorn.org/platypus"
+    "web": "https://sveinbjorn.org/platypus",
+    "ci": "true"
   }
 }
