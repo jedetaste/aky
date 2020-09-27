@@ -3,16 +3,17 @@
     "id": "starface",
     "bundle": "STARFACE UCC Client.app",
     "identifier": "de.starface.STARFACE-Client",
-    "download": "https://www.starface-cdn.de/starface/ISOS/STARFACE_UCC_Client_6.7.1.0.zip",
-    "sha256": "60eab72aff290604d2561b54f2cab70c6fe30d2805ab606fadfbb9a29e62275a",
+    "download": "https://www.starface-cdn.de/starface/clients/mac/STARFACE_UCC_Client_6.7.3.0.zip",
+    "sha256": "0b77deb7789d3cc7b3b72f0f30643a6bf5fa509478f0bd11be5f4ac63dace6d8",
     "appcast": {
-      "url": "https://knowledge.starface.de/plugins/viewsource/viewpagesrc.action?pageId=6979592",
-      "checkpoint": "e2e80ad5c5c5dd60e6a6e394ba91fc676d114c1537412364fc8352e1833f8cac"
+      "url": null,
+      "checkpoint": null
     },
-    "version": "6.7.1.0",
+    "version": "6.7.3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.starface.com/starface/ucc-client/"
+    "web": "https://www.starface.com/starface/ucc-client/",
+    "ci": "true"
   }
 }
