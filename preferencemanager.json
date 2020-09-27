@@ -6,13 +6,14 @@
     "download": "https://www.digitalrebellion.com/download/prefman?version=4440",
     "sha256": "cee73faea96e0a83666ec070c49d302d53c9a23010c6a3579c0ee8da3af35d30",
     "appcast": {
-      "url": "https://www.digitalrebellion.com/prefman/changelog",
-      "checkpoint": "8e988350804054908d8473b354e1c14aad5592b67e73afe30e662b430c1e6fd0"
+      "url": null,
+      "checkpoint": null
     },
     "version": "4.4.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.digitalrebellion.com/prefman/"
+    "web": "https://www.digitalrebellion.com/prefman/",
+    "ci": "true"
   }
 }
