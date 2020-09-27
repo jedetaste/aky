@@ -3,16 +3,17 @@
     "id": "fritzing",
     "bundle": "Fritzing.app",
     "identifier": "org.fritzing.Fritzing",
-    "download": "https://fritzing.org/download/0.9.4/mac-os-x-1014/fritzing-a1ffcea08814801903b1a9515b18cf97067968ae-master-498.mojave.10.2.dmg",
-    "sha256": "51f23f1677a8da07f3ceb4b0405caa30ab8f46269e0336bca56689a98f0c6049",
+    "download": "https://github.com/fritzing/fritzing-app/releases/download/CD-548/fritzing-3d61c58421bdb63ca903bb5d11310a257f1ec0ed-develop-548.mojave.10.2.dmg",
+    "sha256": "e991b66628730ee52334ea307a42a32fd27cbd66904ef5e4e76815cf37594cef",
     "appcast": {
-      "url": "https://github.com/fritzing/fritzing-app/releases.atom",
-      "checkpoint": "bf86c57663673e453647a31aa28b436e394b5ada476678c22ac489f67b17b3f6"
+      "url": null,
+      "checkpoint": null
     },
-    "version": "0.9.4",
+    "version": "0.9.5d",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://fritzing.org/home/"
+    "web": "https://fritzing.org/home/",
+    "ci": "true"
   }
 }
