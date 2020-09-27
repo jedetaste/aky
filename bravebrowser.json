@@ -3,13 +3,13 @@
     "id": "bravebrowser",
     "bundle": "Brave Browser.app",
     "identifier": "com.brave.Browser",
-    "download": "https://laptop-updates.brave.com/latest/osx",
-    "sha256": "a6b5a7740d31d91547cdd1f3f7f29e7d3a415a1b6af4b46349bf8cbb3954a147",
+    "download": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/114.84/Brave-Browser.dmg",
+    "sha256": "c4fb81de14c485217d8c3043a8679a56917024de0359b297bb1cbdaa538a391b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "85.1.14.81",
+    "version": "85.1.14.84",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
