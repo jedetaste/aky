@@ -4,12 +4,12 @@
     "bundle": "Merlin Project 6.app",
     "identifier": "net.projectwizards.merlinproject",
     "download": "https://www.projectwizards.net/downloads/MerlinProject.zip",
-    "sha256": "2428d8e28e7c8d929df6287b084ce8b08ec214ab5f193af3185b422036d8a8c9",
+    "sha256": "6213a500aa6a7db097d3805cd3d4f5be0a4b848fbbafd58c87b41e02e28c6e20",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "6.4.3",
+    "version": "6.4.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
