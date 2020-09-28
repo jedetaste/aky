@@ -4,7 +4,7 @@
     "bundle": "Classroom Mode for Minecraft.app",
     "identifier": "com.microsoft.mc-classroommode",
     "download": "https://aka.ms/meecmmacos",
-    "sha256": null,
+    "sha256": "8931501aaba21caa30cb8377e476910e046edcc4b159c1afe13689a22b809c95",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://education.minecraft.net/"
+    "web": "https://education.minecraft.net/",
+    "ci": "true"
   }
 }
