@@ -2,21 +2,18 @@
   "recipe": {
     "id": "mindjetmindmanager",
     "bundle": "MindManager.app",
-    "identifier": [
-      "com.mindjet.mindmanager.12.app",
-      "com.mindjet.mindmanager.13.app"
-    ],
-    "download": "https://download.mindjet.com/MindManager_Mac_13.1.115.dmg",
-    "sha256": "767951dc902b8c179a16122e5981eaa866bcf513d4065d95c2623c4285e96cf0",
+    "identifier": "com.mindjet.mindmanager.13",
+    "download": "https://www.mindmanager.com/mm-mac-dmg",
+    "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "13.1.115",
+    "version": "13.2.132",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.mindjet.com/mindmanager/",
+    "web": "https://www.mindmanager.com/",
     "ci": "true"
   }
 }
