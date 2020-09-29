@@ -3,13 +3,13 @@
     "id": "chromium",
     "bundle": "Chromium.app",
     "identifier": "org.chromium.Chromium",
-    "download": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Mac/811495/chrome-mac.zip",
-    "sha256": "8c2e3d70832b88b0bd6936af74e218f679c8b4362cbe864e3dee9cc2069b2476",
+    "download": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Mac/811548/chrome-mac.zip",
+    "sha256": "c9059f3bcff15d4897efd2b580f18fb9cc8b3389118ee4fdc88ff540b881ed3a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "87.0.4277.0",
+    "version": "87.0.4278.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
