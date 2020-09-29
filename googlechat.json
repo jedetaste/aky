@@ -4,12 +4,12 @@
     "bundle": "Chat.app",
     "identifier": "com.google.chat",
     "download": "https://dl.google.com/chat/latest/InstallHangoutsChat.dmg",
-    "sha256": "186d8d556b3890c5ee12ff98fa3ee6ed513c48c063dfd03a4ef90b53ce7ba4fe",
+    "sha256": "6cff1d7d42bf130e052cdbd8fd0d5c1e9b4b60ab872c26a4b8944f28c88c8e68",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "20.8.301",
+    "version": "20.9.281",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
