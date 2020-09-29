@@ -2,7 +2,10 @@
   "recipe": {
     "id": "mindjetmindmanager",
     "bundle": "Mindjet MindManager.app",
-    "identifier": "com.mindjet.mindmanager.12",
+    "identifier": [
+      "com.mindjet.mindmanager.12.app",
+      "com.mindjet.mindmanager.13.app"
+    ],
     "download": "https://download.mindjet.com/MindManager_Mac_13.1.115.dmg",
     "sha256": "767951dc902b8c179a16122e5981eaa866bcf513d4065d95c2623c4285e96cf0",
     "appcast": {
