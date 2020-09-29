@@ -1,7 +1,7 @@
 {
   "recipe": {
     "id": "mindjetmindmanager",
-    "bundle": "Mindjet MindManager.app",
+    "bundle": "MindManager.app",
     "identifier": [
       "com.mindjet.mindmanager.12.app",
       "com.mindjet.mindmanager.13.app"
