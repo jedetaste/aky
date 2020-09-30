@@ -4,12 +4,12 @@
     "bundle": "Skype.app",
     "identifier": "com.skype.skype",
     "download": "https://go.skype.com/mac.download",
-    "sha256": "61a54fea27c94087d1d9ebacc8a90773e22b1de735887c4c40ae6aeb85432bed",
+    "sha256": "bc7d046293702e5aa9dc78cc6a557e1d9c297bee460eeb2c8305cf7399e34560",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "8.64",
+    "version": "8.65",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
