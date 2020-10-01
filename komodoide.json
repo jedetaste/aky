@@ -6,13 +6,14 @@
     "download": "https://downloads.activestate.com/Komodo/releases/12.0.1/Komodo-IDE-12.0.1-91869-macosx-x86_64.dmg",
     "sha256": "44690ebf9395899cffab48b1c8ca7adb5abbb1cb9a47672e3303d79ba5392eb8",
     "appcast": {
-      "url": "https://www.activestate.com/komodo-ide/downloads/ide",
-      "checkpoint": "b305dded2a609d3eb44ed29e6a5b136a1faf9d52566c0e6f67b476f6070b8d12"
+      "url": null,
+      "checkpoint": null
     },
-    "version": null,
-    "build": "12.0.1",
+    "version": "12.0",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.activestate.com/komodo-ide/"
+    "web": "https://www.activestate.com/komodo-ide/",
+    "ci": "true"
   }
 }
