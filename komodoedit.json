@@ -6,13 +6,14 @@
     "download": "https://downloads.activestate.com/Komodo/releases/12.0.1/Komodo-Edit-12.0.1-18441-macosx-x86_64.dmg",
     "sha256": "68811e8c5d28a3a2ec9a390a36b8b07c81c0ff1f129c02f1349e106490fae6e3",
     "appcast": {
-      "url": "https://www.activestate.com/komodo-ide/downloads/edit",
-      "checkpoint": "a4f4b934bec007e0eaf8214a50475542ab034b4ac4de8ab07740ef62c31528d7"
+      "url": null,
+      "checkpoint": null
     },
-    "version": null,
-    "build": "12.0.1",
+    "version": "12.0",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.activestate.com/komodo-edit/"
+    "web": "https://www.activestate.com/komodo-edit/",
+    "ci": "true"
   }
 }
