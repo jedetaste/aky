@@ -6,13 +6,14 @@
     "download": "https://github.com/torakiki/pdfsam/releases/download/v4.1.4/pdfsam-4.1.4.dmg",
     "sha256": "e75c82b5b1ace85aa9f81ee49e2e5ac4631f88ea79c46dfeb4718ec8018e7596",
     "appcast": {
-      "url": "https://github.com/torakiki/pdfsam/releases.atom",
-      "checkpoint": "180009a71438aea08db8537a08c7a427c88e88d0f770e0531a942a54e81ee29e"
+      "url": null,
+      "checkpoint": null
     },
     "version": "4.1.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://pdfsam.org/"
+    "web": "https://pdfsam.org/",
+    "ci": "true"
   }
 }
