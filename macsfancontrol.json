@@ -4,12 +4,12 @@
     "bundle": "Macs Fan Control.app",
     "identifier": "com.crystalidea.MacsFanControl",
     "download": "https://www.crystalidea.com/downloads/macsfancontrol.zip",
-    "sha256": "23c9115cdb9df13c2a61671ef2fdb0abc5b8802e2b909d01c05eac6cbddb241c",
+    "sha256": "ea75bc48350a10050895f7cd03b24b22e8deaa3380fa251e9ab0233e7a1bf3a7",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.5.8.23",
+    "version": "1.5.8.1.26",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
