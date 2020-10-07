@@ -3,16 +3,17 @@
     "id": "fontexplorerxpro",
     "bundle": "FontExplorer X Pro.app",
     "identifier": "com.linotype.FontExplorerX",
-    "download": "http://fast.fontexplorerx.com/FontExplorerXPro712.dmg",
-    "sha256": null,
+    "download": "https://fex.linotype.com/download/mac/FontExplorerXPro.dmg",
+    "sha256": "6f555dbf96ecd8acce1539d1a5ec2315ac19ee2905be86572b8748e009858290",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "7.1.2",
+    "version": "7.1.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.fontexplorerx.com/"
+    "web": "https://www.fontexplorerx.com/",
+    "ci": "true"
   }
 }
