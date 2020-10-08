@@ -4,12 +4,12 @@
     "bundle": "Autodesk Fusion 360.app",
     "identifier": "com.autodesk.edu.fusion360",
     "download": "https://dl.appstreaming.autodesk.com/production/installers/Autodesk%20Fusion%20360%20Admin%20Install.pkg",
-    "sha256": "80b8028f9cf92dce9ca3204946476eb6774e354d653a5c872f28cbddd97bd5fb",
+    "sha256": "66a4861547cc27d23265edc247d6b27c6c889ef9e917566308a7658fd8237234",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.0.9009",
+    "version": "2.0.9011",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
