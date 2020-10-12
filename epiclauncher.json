@@ -4,12 +4,12 @@
     "bundle": "Epic Games Launcher.app",
     "identifier": "com.epicgames.EpicGamesLauncher",
     "download": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncher.dmg",
-    "sha256": "a643fc6b97fef571923bf2d576001c1aad1f8139e3e1edaa5efb69073019dc0d",
+    "sha256": "917694fc00abc3059173c2c8183e79e04a9bf84ab357b5db9fd6a494db8c6e58",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "10.18.8",
+    "version": "10.18.10",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
