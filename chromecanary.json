@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "chromecanary",
+    "bundle": "Google Chrome Canary.app",
+    "identifier": "com.google.Chrome.canary",
+    "download": "https://dl.google.com/release2/q/canary/googlechrome.dmg",
+    "sha256": "e35e632f8bca3b9fdf21067ee81e39582b1d7d8bca2d999c0fe46b041a0790c7",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "88.0.4290.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.google.com/intl/en/chrome/canary/"
+  }
+}
