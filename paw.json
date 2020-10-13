@@ -4,12 +4,12 @@
     "bundle": "Paw.app",
     "identifier": "com.luckymarmot.Paw",
     "download": "https://luckymarmot.com/paw/download",
-    "sha256": "bbf45359fd48bd4700d834ce9155ee679f88a450e2b857fc879247d4689d877d",
+    "sha256": "d2ecc62da75260de539bc6ae3c14ebebfbc5e194ea2f385f6f48372d5eead4b1",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.1.10",
+    "version": "3.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
