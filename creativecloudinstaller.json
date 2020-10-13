@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "creativecloudinstaller",
+    "bundle": "Creative Cloud Installer.app",
+    "identifier": "com.adobe.Install",
+    "download": "https://prodhttps://creativecloud.adobe.com/apps/download/creative-cloud",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "5.2.0.17",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://creativecloud.adobe.com/apps/download/creative-cloud"
+  }
+}
