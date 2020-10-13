@@ -1,6 +1,6 @@
 {
   "recipe": {
-    "id": "chromecanary",
+    "id": "googlechromecanary",
     "bundle": "Google Chrome Canary.app",
     "identifier": "com.google.Chrome.canary",
     "download": "https://dl.google.com/release2/q/canary/googlechrome.dmg",
