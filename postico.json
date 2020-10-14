@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "postico",
+    "bundle": "Postico.app",
+    "identifier": "at.eggerapps.Postico",
+    "download": "https://s3-eu-west-1.amazonaws.com/eggerapps-downloads/postico-1.5.14.zip",
+    "sha256": "ad59c784361ba6652c8f219e1a23dcb3cab58977cdfec2be7b97419b1c1e2825",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.5.14",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://eggerapps.at/postico/"
+  }
+}
