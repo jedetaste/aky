@@ -3,13 +3,13 @@
     "id": "razorsql",
     "bundle": "RazorSQL.app",
     "identifier": "com.razorsql.RazorSQL",
-    "download": "https://s3.dualstack.us-east-1.amazonaws.com/downloads.razorsql.com/downloads/9_2_1/razorsql9_2_1.dmg",
-    "sha256": "32fa7190e18cb4502f1e99894ec85eb87bf160d6867166c54bd1d2bdf85b24bc",
+    "download": "https://s3.dualstack.us-east-1.amazonaws.com/downloads.razorsql.com/downloads/9_2_2/razorsql9_2_2.dmg",
+    "sha256": "552dab963e64762efa99ebc5e531ab3474f1877dada62c90fd21ccf6eb3d43fe",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "9.2.1",
+    "version": "9.2.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
