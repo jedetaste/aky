@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "postgres",
+    "bundle": "Postgres.app",
+    "identifier": "com.postgresapp.Postgres2",
+    "download": "https://github.com/PostgresApp/PostgresApp/releases/download/v2.4/Postgres-2.4-13.dmg",
+    "sha256": "1c95ad663af650fc036aa61b50af805d7fa17999eb61abd7c897d6f5d247593d",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.4",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://postgresapp.com"
+  }
+}
