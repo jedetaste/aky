@@ -6,8 +6,8 @@
     "download": "https://binaries.webex.com/jabberclientmac/20200710062404/Install_Cisco-Jabber-Mac.pkg",
     "sha256": "41c70fc9dc30ad04ccfb1c06c2ee1416bb09fccfb0f38b7c37166b78cde195e7",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.webex.com/downloads/jabber.html",
+      "checkpoint": "865175f9297e83643dabd21b01f1ceebe57f3011d91b7fa41cee8aaa616413d5"
     },
     "version": "12.9.0",
     "build": null,
