@@ -1,7 +1,7 @@
 {
   "recipe": {
     "id": "adobecreativecloudinstaller",
-    "bundle": "Install.app",
+    "bundle": "Creative Cloud Installer.app",
     "identifier": "com.adobe.Install",
     "download": "https://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/5_3_1/osx10/ACCCx5_3_1_470.dmg",
     "sha256": null,
