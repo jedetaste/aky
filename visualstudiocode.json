@@ -4,12 +4,12 @@
     "bundle": "Visual Studio Code.app",
     "identifier": "com.microsoft.VSCode",
     "download": "https://go.microsoft.com/fwlink/?LinkID=620882",
-    "sha256": "49102a8a7349a9b798a6d72bb1bff4b4a0fcfda54b7f03132d5df467858542fc",
+    "sha256": "97f5cf4d6cf3e030848365ec87774507b4d978bacdf6c0f001401cf7d361f5ab",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.50.0",
+    "version": "1.50.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
