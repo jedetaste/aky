@@ -4,12 +4,12 @@
     "bundle": "Safe Exam Browser.app",
     "identifier": "org.safeexambrowser.Safe-Exam-Browser",
     "download": "https://sourceforge.net/projects/seb/files/latest/download",
-    "sha256": "96ccb9d599ea5f41ba206507a75bda1447080843e64a9832dd1e56b7b0aaba5b",
+    "sha256": "c816f30f2de7d2a5e6a2599d19afd67a81a470c543fd5e871aa6065dde648c28",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.2.1",
+    "version": "2.2.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
