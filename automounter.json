@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "automounter",
+    "bundle": "AutoMounter.app",
+    "identifier": "nz.co.pixeleyes.AutoMounter",
+    "download": "https://www.pixeleyes.co.nz/automounter/AutoMounter.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.7",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.pixeleyes.co.nz/automounter/"
+  }
+}
