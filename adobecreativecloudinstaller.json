@@ -1,6 +1,6 @@
 {
   "recipe": {
-    "id": "adobecreativecloudinstaller.json",
+    "id": "adobecreativecloudinstaller",
     "bundle": "Install.app",
     "identifier": "com.adobe.Install",
     "download": "https://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/5_3_1/osx10/ACCCx5_3_1_470.dmg",
