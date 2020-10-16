@@ -1,7 +1,7 @@
 {
   "recipe": {
     "id": "scratch",
-    "bundle": "Scratch Desktop.app",
+    "bundle": "Scratch 3.app",
     "identifier": "edu.mit.scratch.scratch-desktop",
     "download": "https://downloads.scratch.mit.edu/desktop/Scratch.dmg",
     "sha256": "d85bd12d0de740678f74cad67587db069e55b4d7e07fe4142186b9f35df80bd8",
