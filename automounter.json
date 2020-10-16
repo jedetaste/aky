@@ -4,7 +4,7 @@
     "bundle": "AutoMounter.app",
     "identifier": "nz.co.pixeleyes.AutoMounter",
     "download": "https://www.pixeleyes.co.nz/automounter/AutoMounter.dmg",
-    "sha256": null,
+    "sha256": "6dd243094e986bb3eb1f278fadf97344d6047f5f0250677b7b71f54df0de73f7",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.pixeleyes.co.nz/automounter/"
+    "web": "https://www.pixeleyes.co.nz/automounter/",
+    "ci": "true"
   }
 }
