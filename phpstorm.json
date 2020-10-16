@@ -3,13 +3,13 @@
     "id": "phpstorm",
     "bundle": "PhpStorm.app",
     "identifier": "com.jetbrains.PhpStorm",
-    "download": "https://download.jetbrains.com/webide/PhpStorm-2020.2.2.dmg",
-    "sha256": "f50fa298b2dfaf832d237ed05127fc336a500b885af65f509f0e66b649224688",
+    "download": "https://download.jetbrains.com/webide/PhpStorm-2020.2.3.dmg",
+    "sha256": "f23883ba6a7caaba6bd706357668fbbb249bf9f67ddf3b9158b484ea07a378c6",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2020.2.2",
+    "version": "2020.2.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
