@@ -2,7 +2,7 @@
   "recipe": {
     "id": "remotixagent",
     "bundle": "Remotix Agent.app",
-    "identifier": "com.nulana.remotixmacwild",
+    "identifier": "com.nulana.rxagentmac",
     "download": "https://eu.downloads.remotix.com/agent-mac/RemotixAgent-1.4.9-20904.pkg",
     "sha256": "0d90eaa29fa6475c75c32c4812c4364d235cba54aff1265349bb92ac9610746c",
     "appcast": {
