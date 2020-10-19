@@ -3,13 +3,13 @@
     "id": "remotix",
     "bundle": "Remotix.app",
     "identifier": "com.nulana.remotixmacwild",
-    "download": "https://eu.downloads.remotix.com/rx-mac/Remotix-3.1.4-17003.zip",
-    "sha256": "cf4304d3b242921868b1689dfb7cb5552b87d381484ad7c00773b3b72514342d",
+    "download": "https://eu.downloads.remotix.com/rx-mac/Remotix-6.2.4-21341.dmg",
+    "sha256": "f2e92779e63a6b3f4162fbfeedd9c881c31411864d12edded6e1803f4502fe90",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.1.4",
+    "version": "6.2.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
