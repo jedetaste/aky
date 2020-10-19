@@ -2,7 +2,7 @@
   "recipe": {
     "id": "musescore",
     "bundle": [
-      "MuseScore 3.5.app",
+      "MuseScore 3.app",
       "MuseScore.app"
     ],
     "identifier": "org.musescore.MuseScore",
