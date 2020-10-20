@@ -3,13 +3,13 @@
     "id": "adobecreativecloudinstaller",
     "bundle": "Install.app",
     "identifier": "com.adobe.Install",
-    "download": "https://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/5_3_1/osx10/ACCCx5_3_1_470.dmg",
+    "download": "https://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/5_2/osx10/ACCCx5_2_0_436.dmg",
     "sha256": null,
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.3.1.470",
+    "version": "5.2.0.436",
     "build": null,
     "dir": "/tmp",
     "symlink": null,
