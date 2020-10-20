@@ -3,13 +3,13 @@
     "id": "firefoxesr",
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
-    "download": "http://releases.mozilla.org/pub/firefox/releases/78.3.1esr/mac/de/Firefox%2078.3.1esr.pkg",
-    "sha256": "0147c848b165be4c2b04f9269013fbc2bd69f3a30bc36985547cbee0bff7cd6c",
+    "download": "http://releases.mozilla.org/pub/firefox/releases/78.4.0esr/mac/de/Firefox%2078.4.0esr.pkg",
+    "sha256": "f5e8cb013b3fab5b409717b22b08b455a5885f858a4c3339d062ff942dff0b2d",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "78.3.1",
+    "version": "78.4.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
