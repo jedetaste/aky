@@ -3,7 +3,7 @@
     "id": "remotix",
     "bundle": "Remotix.app",
     "identifier": "com.nulana.remotixmacwild",
-    "download": "https://eu.downloads.remotix.com/rx-mac/Remotix-6.2.4-21341.dmg",
+    "download": "https://remotix.com/downloads/latest-remotix-mac/",
     "sha256": "f2e92779e63a6b3f4162fbfeedd9c881c31411864d12edded6e1803f4502fe90",
     "appcast": {
       "url": null,
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.nulana.com/remotix-mac/"
+    "web": "https://www.nulana.com/remotix-mac/",
+    "ci": "true"
   }
 }
