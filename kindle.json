@@ -4,12 +4,12 @@
     "bundle": "Kindle.app",
     "identifier": "com.amazon.Kindle",
     "download": "https://www.amazon.com/kindlemacdownload/ref=klp_mac",
-    "sha256": "7ed64a5cdb0f254bf6226bf60ba15ab42ae8c8200a2ea4cdf7752c8e9ad03305",
+    "sha256": "1b70345bb96394f5662c1dfedf15a318e83f259553c83d81e32fc1e25fa251ab",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.29.0",
+    "version": "1.30.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
