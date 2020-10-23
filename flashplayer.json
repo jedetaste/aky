@@ -4,12 +4,12 @@
     "bundle": "Flash Player.app",
     "identifier": "com.macromedia.Flash Player.app",
     "download": "https://fpdownload.adobe.com/pub/flashplayer/updaters/32/flashplayer_32_sa.dmg",
-    "sha256": "5263d55e6e69018a7457fd868c2b020762637b4bc4ce2339d9066f4321bdbc4d",
+    "sha256": "4b5ae8707a2d9c00a88fc2328f56d30c21a83c354d96f8050628b052e565ab84",
     "appcast": {
       "url": "https://www.adobe.com/support/flashplayer/debug_downloads.html",
-      "checkpoint": "0249f67453f46160528696f1c00aef7ba9803e183592b0b823c93e816869c9ea"
+      "checkpoint": "5984584ff7aea1e031c5ccc667993d83ce1757eabc79c09c1b1a99fe35a8a010"
     },
-    "version": "32.0.0.433",
+    "version": "32.0.0.445",
     "build": null,
     "dir": "/Applications/Utilities",
     "symlink": null,
