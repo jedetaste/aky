@@ -3,7 +3,7 @@
     "id": "remotixagent",
     "bundle": "Remotix Agent.app",
     "identifier": "com.nulana.rxagentmac",
-    "download": "https://eu.downloads.remotix.com/agent-mac/RemotixAgent-1.4.9-20904.pkg",
+    "download": "https://remotix.com/downloads/latest-agent-mac/",
     "sha256": "0d90eaa29fa6475c75c32c4812c4364d235cba54aff1265349bb92ac9610746c",
     "appcast": {
       "url": null,
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.nulana.com/remotix-mac/"
+    "web": "https://www.nulana.com/remotix-mac/",
+    "ci": "true"
   }
 }
