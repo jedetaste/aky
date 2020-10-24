@@ -3,16 +3,17 @@
     "id": "araxismerge",
     "bundle": "Araxis Merge.app",
     "identifier": "com.araxis.merge",
-    "download": "https://downloads.araxis.com/Merge/2020.5400-mac/Merge2020.5400-macOS.dmg",
+    "download": "https://www.araxis.com/download/Merge2020.5400-macOS.dmg",
     "sha256": "47152e8c8503345c765fc61c56ffd282095ebb3dc13e59f200748834a7563211",
     "appcast": {
-      "url": "https://www.araxis.com/news-feed.atom",
-      "checkpoint": "695616d86c858f262065aa3f3beecd2b8ce59660ab641f3a6f963adcfe470c9c"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2020.5400",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.araxis.com/merge/"
+    "web": "https://www.araxis.com/merge/",
+    "ci": "true"
   }
 }
