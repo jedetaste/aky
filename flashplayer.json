@@ -6,13 +6,14 @@
     "download": "https://fpdownload.adobe.com/pub/flashplayer/updaters/32/flashplayer_32_sa.dmg",
     "sha256": "4b5ae8707a2d9c00a88fc2328f56d30c21a83c354d96f8050628b052e565ab84",
     "appcast": {
-      "url": "https://www.adobe.com/support/flashplayer/debug_downloads.html",
-      "checkpoint": "5984584ff7aea1e031c5ccc667993d83ce1757eabc79c09c1b1a99fe35a8a010"
+      "url": null,
+      "checkpoint": null
     },
     "version": "32.0.0.445",
     "build": null,
     "dir": "/Applications/Utilities",
     "symlink": null,
-    "web": "https://www.adobe.com/support/flashplayer/debug_downloads.html"
+    "web": "https://www.adobe.com/support/flashplayer/debug_downloads.html",
+    "ci": "true"
   }
 }
