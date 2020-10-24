@@ -6,13 +6,14 @@
     "download": "https://www.jamovi.org/downloads/jamovi-1.2.27.0-macos.dmg",
     "sha256": "3c1621f407849a1bd0d64c5eda424010debdc5307669ae1ed5dfd46c905ba84d",
     "appcast": {
-      "url": "https://www.jamovi.org/download.html",
-      "checkpoint": "9c9c4449a1a524d79eea2f69930682b14bd1d6b9c2bc2e0e12109886bb22acca"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.2.27.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.jamovi.org/"
+    "web": "https://www.jamovi.org/",
+    "ci": "true"
   }
 }
