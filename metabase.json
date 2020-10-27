@@ -3,13 +3,13 @@
     "id": "metabase",
     "bundle": "Metabase.app",
     "identifier": "com.metabase.Metabase",
-    "download": "https://downloads.metabase.com/v0.37.0.1/Metabase.zip",
-    "sha256": "8f608a99d4abf1c7e7d2d5cccf18d988c7f1b93d6d42dd0e3201d7ed570dd385",
+    "download": "https://downloads.metabase.com/v0.37.0.2/Metabase.zip",
+    "sha256": "6c5b381062c0c374b5e73888f89e638b0102663d2dbca89967b4321b4cae861a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "0.37.0.1",
+    "version": "0.37.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
