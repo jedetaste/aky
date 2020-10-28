@@ -3,8 +3,8 @@
     "id": "discord",
     "bundle": "Discord.app",
     "identifier": "com.hnc.Discord",
-    "download": "https://cdn.discordapp.com/apps/osx/0.0.259/Discord.dmg",
-    "sha256": null,
+    "download": "https://discordapp.com/api/download?platform=osx",
+    "sha256": "927b7174671aeede430e5a71f9a8eee1991e2dab5309a8ee623dd1fb04706517",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://discordapp.com/"
+    "web": "https://discordapp.com/",
+    "ci": "true"
   }
 }
