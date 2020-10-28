@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "discord",
+    "bundle": "Discord.app",
+    "identifier": "com.hnc.Discord",
+    "download": "https://cdn.discordapp.com/apps/osx/0.0.259/Discord.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "0.0.259",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://discordapp.com/"
+  }
+}
