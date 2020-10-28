@@ -6,13 +6,14 @@
     "download": "https://bitbucket.org/objective-see/deploy/downloads/DHS_1.4.1.zip",
     "sha256": "6d0ce00e0e111059e157bae26d4a913d7cb7c42cee6493b638c2c5019fe987fc",
     "appcast": {
-      "url": "https://objective-see.com/products/changelogs/DHS.txt",
-      "checkpoint": "70b61c2b68ead9555c6e72c5eab75d88e6efa58c2cdea7a79c0436a72e46853b"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.4.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://objective-see.com/products/dhs.html"
+    "web": "https://objective-see.com/products/dhs.html",
+    "ci": "true"
   }
 }
