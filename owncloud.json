@@ -6,13 +6,14 @@
     "download": "https://download.owncloud.com/desktop/stable/ownCloud-2.6.3.13765.pkg",
     "sha256": "cb2d78923ffe89660ae2dd69e4c12b3fa0242ba22f9ec2dcb294e3ac958dee03",
     "appcast": {
-      "url": "https://github.com/owncloud/client/releases.atom",
-      "checkpoint": "c912e56ff82cbcffea9e5bf5a390450f236c4bbfcea6e00c077495d938629d3b"
+      "url": null,
+      "checkpoint": null
     },
-    "version": null,
-    "build": "2.6.3.13765",
+    "version": "2.6.3 (build 13765)",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://owncloud.com/"
+    "web": "https://owncloud.com/",
+    "ci": "true"
   }
 }
