@@ -1,8 +1,8 @@
 {
   "recipe": {
     "id": "snagit",
-    "bundle": "Snagit 2020.app",
-    "identifier": "com.TechSmith.Snagit2020",
+    "bundle": "Snagit 2021.app",
+    "identifier": "com.TechSmith.Snagit2021",
     "download": "http://download.techsmith.com/snagitmac/releases/2100/snagit.dmg",
     "sha256": "1ab7f29babcda42f986fd1a706b39ef3b9058bd20fea3cd1d61510e6d7d10da3",
     "appcast": {
