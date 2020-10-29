@@ -6,13 +6,14 @@
     "download": "https://bitbucket.org/objective-see/deploy/downloads/KextViewr_1.1.0.zip",
     "sha256": "bf57dc55adc7179914a452eeacf553952e86b4e1ff2406875a9a0b21932684ca",
     "appcast": {
-      "url": "https://objective-see.com/products/changelogs/KextViewr.txt",
-      "checkpoint": "0977db3e1168536f37b77fba7ca7b0b8e4e1bfe48a53d221e5bd097de2d83a08"
+      "url": null,
+      "checkpoint": null
     },
     "version": "1.1.0",
-    "build": "1.1.0",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://objective-see.com/products/kextviewr.html"
+    "web": "https://objective-see.com/products/kextviewr.html",
+    "ci": "true"
   }
 }
