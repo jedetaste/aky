@@ -3,13 +3,13 @@
     "id": "solstice",
     "bundle": "SolsticeClient.app",
     "identifier": "com.mersive.solstice.client",
-    "download": "https://www.mersive.com/downloads/SolsticeClient-5.0.2.dmg",
-    "sha256": "de3d4df60f2dd28e3d3492855b96bb853674a65f766698924fc7850d957832a8",
+    "download": "https://www.mersive.com/downloads/SolsticeClient-5.1.dmg",
+    "sha256": "e5991ba71f9e92095e0e89055060686668af3b19ac3e330ecbb529c3626ca747",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.0.23240",
+    "version": "5.1.24401",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
