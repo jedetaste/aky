@@ -6,13 +6,14 @@
     "download": "https://www.lego.com/assets/franchisesites/ldd/installer/SetupLDD-MAC-4_3_11.zip",
     "sha256": "48d32b97c1ee65ad18a1206a1bfe253a03565ca464bc4c0c6be4fe2b453d55e1",
     "appcast": {
-      "url": "https://www.lego.com/en-us/ldd/download",
-      "checkpoint": "18050f9240f78ddc163f95713244c49b37401c0b6f9afadc740d65340bd8c440"
+      "url": null,
+      "checkpoint": null
     },
     "version": "4.3.11",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.lego.com/en-us/ldd"
+    "web": "https://www.lego.com/en-us/ldd",
+    "ci": "true"
   }
 }
