@@ -4,7 +4,7 @@
     "bundle": "Infomaniak Meet.app",
     "identifier": "com.infomaniak.meet",
     "download": "https://download.storage.infomaniak.com/meet/infomaniak-meet.dmg",
-    "sha256": null,
+    "sha256": "d9b82df114bffdbffe969ce271e42ae2f6054190c2aade269068a774e9e914ed",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.infomaniak.com/kmeet"
+    "web": "https://www.infomaniak.com/kmeet",
+    "ci": "true"
   }
 }
