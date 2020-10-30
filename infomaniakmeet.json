@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "infomaniakmeet",
+    "bundle": "Infomaniak Meet.app",
+    "identifier": "com.infomaniak.meet",
+    "download": "https://download.storage.infomaniak.com/meet/infomaniak-meet.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.1.5",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.infomaniak.com/kmeet"
+  }
+}
