@@ -3,13 +3,13 @@
     "id": "loom",
     "bundle": "Loom.app",
     "identifier": "com.loom.desktop",
-    "download": "https://cdn.loom.com/desktop-packages/Loom-0.54.4.dmg",
-    "sha256": "b88d46c4ae95f88ef54bd1fe6388a3de30fd099d1afca57cb1eb8df31bd03c80",
+    "download": "https://cdn.loom.com/desktop-packages/Loom-0.54.5.dmg",
+    "sha256": "b3760e1c90d4ba2700f91e646349b7bb2860ffce5b6c1d571a69b876ea7bd568",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "0.54.4",
+    "version": "0.54.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
