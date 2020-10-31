@@ -3,13 +3,13 @@
     "id": "seadrive",
     "bundle": "SeaDrive.app",
     "identifier": "com.seafile.seadrive",
-    "download": "https://s3.eu-central-1.amazonaws.com/download.seadrive.org/seadrive-2.0.6.dmg",
-    "sha256": "f9c591660c0336596bf6d558e06e8e0bfe685483231dd8589c99fc9a399cebbe",
+    "download": "https://s3.eu-central-1.amazonaws.com/download.seadrive.org/seadrive-2.0.7.dmg",
+    "sha256": "79982a8c82244f231d2f030cf5acba35bb2a81044190d09beadc446e95f7ffc9",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.0.6",
+    "version": "2.0.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
