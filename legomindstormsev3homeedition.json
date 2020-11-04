@@ -3,16 +3,17 @@
     "id": "legomindstormsev3homeedition",
     "bundle": "LEGO MINDSTORMS EV3 Home Edition.app",
     "identifier": "___ev3.lego.com",
-    "download": "https://le-www-live-s.legocdn.com/downloads/LMS-EV3/LMS-EV3_Full-setup_1.4.3_de-DE_osx.dmg",
-    "sha256": "778c73c326b2011509f70c630dd11f4bfbe8ef2f7bacf67df9252263628a20f2",
+    "download": "https://le-www-live-s.legocdn.com/downloads/LMS-EV3/LMS-EV3_Full-setup_1.4.4_en-us_osx.dmg",
+    "sha256": "cb912667968e08604e755278d0e2f2fc69556349938cb36b708c5ecd8c74af29",
     "appcast": {
-      "url": "https://macupdater.net/cgi-bin/check_urls/check_url_redirect.cgi?url=https://go.api.education.lego.com/v1/lms-ev3_en-us_osx",
-      "checkpoint": "a32b216036e72a4a8d4f141ccd88478346bb98455081ca8067f79f2c5e671a43"
+      "url": null,
+      "checkpoint": null
     },
-    "version": null,
+    "version": "1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.lego.com/en-us/mindstorms"
+    "web": "https://www.lego.com/en-us/mindstorms",
+    "ci": "true"
   }
 }
