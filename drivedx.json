@@ -4,12 +4,12 @@
     "bundle": "DriveDx.app",
     "identifier": "com.binaryfruit.DriveDx",
     "download": "https://binaryfruit.com/download/drivedx/mac/1/?ref=Updater",
-    "sha256": "b143979dafb578662ba038f926350480da45a4103a4c8d8917d45cc979a242cc",
+    "sha256": "9720750128a0f5489ca1a09b9fd56a29c534566866b860d7992067aaefd8f9f5",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.10.0",
+    "version": "1.10.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
