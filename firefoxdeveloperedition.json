@@ -1,7 +1,7 @@
 {
   "recipe": {
     "id": "firefoxdeveloperedition",
-    "bundle": "Firefox Developer Edition.app",
+    "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefoxdeveloperedition",
     "download": "http://releases.mozilla.org/pub/firefox/releases/83.0b8/mac/de/Firefox%2083.0b8.pkg",
     "sha256": "f8d22ebfbfc8a6da9ca074b0a536cb5da6ef9e30b4eb70a0e4162fab2b5403ea",
