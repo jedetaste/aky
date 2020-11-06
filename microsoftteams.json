@@ -4,12 +4,12 @@
     "bundle": "Microsoft Teams.app",
     "identifier": "com.microsoft.teams",
     "download": "https://go.microsoft.com/fwlink/?linkid=869428",
-    "sha256": "5237ca869c0c84a330b3038ff8e5ca8b1c430413a663c2642b9d799ec998bbe2",
+    "sha256": "b9fe38e7ad313da3773f164358e99e8fbfa084cde8750b13b002777a14501be9",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.00.326266",
+    "version": "1.00.328778",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
