@@ -3,13 +3,13 @@
     "id": "firefox",
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
-    "download": "http://releases.mozilla.org/pub/firefox/releases/82.0.2/mac/de/Firefox%2082.0.2.pkg",
-    "sha256": "ab3235a4e28d201b507f575c28667f83a79547a2d8816c5f86a94ba66ec47ea2",
+    "download": "http://releases.mozilla.org/pub/firefox/releases/82.0.3/mac/de/Firefox%2082.0.3.pkg",
+    "sha256": "2e1ae31fb6b30e2d1fde8bb48a3870481cc7c2b19110062d43204272b6604ff6",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "82.0.2",
+    "version": "82.0.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
