@@ -4,12 +4,12 @@
     "bundle": "Slack.app",
     "identifier": "com.tinyspeck.slackmacgap",
     "download": "https://slack.com/ssb/download-osx",
-    "sha256": "6ba18d92033a7557fd95de68a981646d97d6d623904016abea0398bc4fa1e764",
+    "sha256": "8114801b73882e0d5c09bfc3b5c05c6a65a809ffaf75c1df3811f7c2d3c64aa6",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.10.3",
+    "version": "4.11.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
