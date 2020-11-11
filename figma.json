@@ -4,12 +4,12 @@
     "bundle": "Figma.app",
     "identifier": "com.figma.Desktop",
     "download": "https://desktop.figma.com/mac/Figma.zip",
-    "sha256": "f0249aa71e1fb18a85b5ab8173a3e8b8d29db8107d7858b1d2ffb0fd91f29bb7",
+    "sha256": "2749f14a87583ffe29012d8232be5b408036ac5dcd2abbecffab3fa429af20e8",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "88.1.0",
+    "version": "90.4.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
