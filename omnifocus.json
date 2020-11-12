@@ -3,13 +3,13 @@
     "id": "omnifocus",
     "bundle": "OmniFocus.app",
     "identifier": "com.omnigroup.OmniFocus3",
-    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniFocus-3.9.2.dmg",
-    "sha256": "f16a4cace7f31e7ac735ba1059e8dcef1b2e97faba9a732ade7e07357b937fdd",
+    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniFocus-3.10.dmg",
+    "sha256": "0ecce5b2954fd2d89c6f4d06dd5c2df9be24d5bdcc38accafb7c45c2738c5876",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.9.2",
+    "version": "3.10",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
