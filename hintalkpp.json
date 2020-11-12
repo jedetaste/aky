@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "hintalkpp",
+    "bundle": "HIN Talk PP.app",
+    "identifier": "biz.vnc.vnctalk.hintalk.desktop",
+    "download": "https://basepackages.vnc.biz/electron-dev/HIN%20Talk%20PP-0.0.1-20201112.317.dmg",
+    "sha256": "4a0d72464027c859f5e3650b48d233319e37c83aaea7d275cc3d1ac231376636",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "0.0.1-20201112.317",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}
