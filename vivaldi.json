@@ -3,13 +3,13 @@
     "id": "vivaldi",
     "bundle": "Vivaldi.app",
     "identifier": "com.vivaldi.Vivaldi",
-    "download": "https://downloads.vivaldi.com/stable/Vivaldi.3.4.2066.99.dmg",
-    "sha256": "d6e96a379f53ceb650f806f21887855d005eeeb86e69f572b392655faf2f0ce4",
+    "download": "https://downloads.vivaldi.com/stable/Vivaldi.3.4.2066.106.dmg",
+    "sha256": "6553c9d7029104b4edfe36c2d83f90fa4db285be3f682af6471f5f0d96da4129",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.4.2066.99",
+    "version": "3.4.2066.106",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
