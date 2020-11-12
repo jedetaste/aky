@@ -4,12 +4,12 @@
     "bundle": "WorksheetCrafter.app",
     "identifier": "com.SchoolCraft.WorksheetCrafter",
     "download": "http://develop.getschoolcraft.com/download/2020.1/WorksheetCrafter.pkg",
-    "sha256": "37b44c118729e9f0c996500b2d9b6941b778cc3d8643beca4857df3fe0b56280",
+    "sha256": "395427660e0f1c45b11eb5373faceb75db0f357c1c77e5744290654433c384ca",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2020.1.9.107",
+    "version": "2020.1.11.119",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
