@@ -4,12 +4,12 @@
     "bundle": "CloudMounter.app",
     "identifier": "com.eltima.cloudmounter",
     "download": "https://cdn.eltima.com/download/cloudmounter.dmg",
-    "sha256": "b9b90d9e634c63377b080f1b242c912213ad0f502f614951dcbe867d05fb010e",
+    "sha256": "d4566213701107251b4bba23302859b29c10c8d3432ee41ccbc298c38ee3b7fb",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.6",
+    "version": "3.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
