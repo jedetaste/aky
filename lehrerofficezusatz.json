@@ -3,8 +3,8 @@
     "id": "lehrerofficezusatz",
     "bundle": "LehrerOffice Zusatz.app",
     "identifier": "ch.rothsoft.lehreroffice.sv",
-    "download": "https://download.lehrerofficeweb.ch/dateien/zusatz/lo_zusatz_macos.zip",
-    "sha256": "0ee8e83f5c29947cc8adb62174f96dd4cc3ba30d047a27a947ad8619f44dcbb4",
+    "download": "https://cmi-bildung.ch/lo/dateien/zusatz/lo_zusatz_macos.dmg",
+    "sha256": "540a32f7bd87e55243cd2509f51ef7044ed8e80b03cdf680bf69ed9f6872ea42",
     "appcast": {
       "url": null,
       "checkpoint": null
