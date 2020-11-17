@@ -3,13 +3,13 @@
     "id": "susinspector",
     "bundle": "SUS Inspector.app",
     "identifier": "com.hjuutilainen.SUS-Inspector",
-    "download": "https://github.com/hjuutilainen/sus-inspector/releases/download/v0.3.2/SUS-Inspector-0.3.2.dmg",
-    "sha256": "19e70b858263087fbdbe442cbc8d84546e0ade06bedc7a6d3aafd0cfa6730bd3",
+    "download": "https://github.com/hjuutilainen/sus-inspector/releases/download/v2.0b1/SUS-Inspector-2.0b1.dmg",
+    "sha256": "344d43ba3e77320f9a9d5a5b9383d5c28ada63565f0c375b4dda5f2495d92b97",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "0.3.2",
+    "version": "2.0b1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
