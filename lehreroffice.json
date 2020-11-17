@@ -3,8 +3,8 @@
     "id": "lehreroffice",
     "bundle": "LehrerOffice.app",
     "identifier": "ch.rothsoft.lehreroffice.desktop",
-    "download": "https://download.lehrerofficeweb.ch/dateien/easy/lo_desktop_macos.zip",
-    "sha256": "0df8a46db033f59f9ceaa555ca8560c8f341becc633b67a20307adc984e93df0",
+    "download": "https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_macos.dmg",
+    "sha256": "135da42e80e0ad9f7ee0764ad77c1e83feeb98548ceda172009da545bf3a2c31",
     "appcast": {
       "url": null,
       "checkpoint": null
