@@ -4,12 +4,12 @@
     "bundle": "Freeplane.app",
     "identifier": "org.freeplane.core",
     "download": "https://sourceforge.net/projects/freeplane/files/latest/download",
-    "sha256": "f156bbafce2b6f23ceb770d55fb09b4d35d0fe98416ca688867ac95e02c881a1",
+    "sha256": "00a1a162f9434b52ff61a263e95ae152eaf214102c37aef7abcba47745837bc1",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.8.8",
+    "version": "1.8.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
