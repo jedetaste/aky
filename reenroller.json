@@ -4,12 +4,12 @@
     "bundle": "ReEnroller.app",
     "identifier": "com.jamf.pse.ReEnroller",
     "download": "https://github.com/jamf/ReEnroller/releases/download/current/ReEnroller.zip",
-    "sha256": "5053209954305eed34490bbb21807a6e09ce80a6d233e697655123ac4bb0790c",
+    "sha256": "7975bc2fed38559070671f860270c72992f1b4259facb25f03921ba1f0862351",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.1.0",
+    "version": "5.1.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
