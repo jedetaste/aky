@@ -3,13 +3,13 @@
     "id": "abstract",
     "bundle": "Abstract.app",
     "identifier": "com.elasticprojects.abstract-desktop",
-    "download": "https://downloads.goabstract.com/mac/Abstract-96.1.1.dmg",
-    "sha256": "4c156dcf9efeabffa376588ce805c67f915ee76119f9184cec4843fa93ef7749",
+    "download": "https://downloads.goabstract.com/mac/Abstract-96.1.2.dmg",
+    "sha256": "e5ea5863867b83d55d06a39b99d75b243d1906f7128efccd04f2ea23ad0cdc38",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "96.1.1",
+    "version": "96.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
