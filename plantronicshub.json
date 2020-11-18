@@ -4,7 +4,7 @@
     "bundle": "Plantronics Hub.app",
     "identifier": "Plantronics-Inc..Plantronics-Hub",
     "download": "https://www.poly.com/content/dam/www/software/PlantronicsHubInstaller.dmg",
-    "sha256": null,
+    "sha256": "d6b08736883fcb4a8ff809c717841dbce6ac685105108c61feb58fc0dcd254fa",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.poly.com/us/en/support/downloads-apps"
+    "web": "https://www.poly.com/us/en/support/downloads-apps",
+    "ci": "true"
   }
 }
