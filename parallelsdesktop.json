@@ -3,7 +3,7 @@
     "id": "parallelsdesktop",
     "bundle": "Parallels Desktop.app",
     "identifier": "com.parallels.desktop.console",
-    "download": "https://download.parallels.com/desktop/v16/16.1.0-48950/ParallelsDesktop-16.1.0-48950.dmg",
+    "download": "https://www.parallels.com/directdownload/pd16",
     "sha256": "7d54a8618515bc4d584df2143e36e35b4faa7a6f2e271c4b58d437d88bf235a7",
     "appcast": {
       "url": null,
