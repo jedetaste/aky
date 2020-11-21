@@ -4,12 +4,12 @@
     "bundle": "Microsoft Advertising Editor.app",
     "identifier": "Microsoft.AdvertisingDesktop.BingAdsEditor",
     "download": "https://msbingadseditor.blob.core.windows.net/production-mac/c/MicrosoftAdvertisingEditor.dmg",
-    "sha256": "3b43ea88757005709e5097e3d81e40cca71f534e894b9a82d5a00d8c1c8d552e",
+    "sha256": "2e0ffc534d7ab2526d596248ea2013cd428a4836eafeed4c238fc5d2485292c6",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "11.29.9739.65022",
+    "version": "11.29.9748.24282",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
