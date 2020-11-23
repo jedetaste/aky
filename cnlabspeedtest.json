@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "cnlabspeedtest",
+    "bundle": "cnlabSpeedTest.app",
+    "identifier": "ch.cnlab.performanceapplet.fx",
+    "download": "https://download.cnlab.ch/performance/macos/cnlabSpeedTest.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.9.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.cnlab.ch/speedtest"
+  }
+}
