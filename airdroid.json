@@ -4,12 +4,12 @@
     "bundle": "AirDroid.app",
     "identifier": "com.sandstudio.airdroid",
     "download": "https://srv3.airdroid.com/p20/web/getbinaryredirect?type=dmg&channel=&version=",
-    "sha256": "9f286c4de315a5fd988a54b05b63381c209042930d1400eeb2260a580cd4daae",
+    "sha256": "1bb9dca1767de9d5b2b3f4f0d732062879fda96eb1072df75019bd49e1ae5b70",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.6.8",
+    "version": "3.6.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
