@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "logitechpresentation",
+    "bundle": "Logitech Presentation.app",
+    "identifier": "com.logitech.presenter",
+    "download": "https://download01.logi.com/web/ftp/pub/techsupport/presentation/LogiPresentation_1.60.92.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.60.92",
+    "build": null,
+    "dir": "/Library/Application Support/Logitech.localized/Logitech Presentation.localized",
+    "symlink": null,
+    "web": "https://support.logitech.com/en_au/product/spotlight-presentation-remote"
+  }
+}
