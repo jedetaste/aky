@@ -3,16 +3,18 @@
     "id": "textmate",
     "bundle": "TextMate.app",
     "identifier": "com.macromates.TextMate",
-    "download": "https://cdn-clients.anykeyit.ch/Static/TextMate2-2.0.6.pkg",
-    "sha256": "9e5f1621356706d65674bc455e7a2098518441c6c160fc42170f3594df359f5d",
+    "download": "https://s3.eu-central-1.wasabisys.com/aky-assets/TextMate2-2.0.6.pkg",
+    "sha256": "d94d7fafc2c64d0fe119f42657f589d324ff3ae5c607a04a02186fd5ea06c32b",
     "appcast": {
-      "url": "https://api.textmate.org/releases/release?os=10.14.6",
-      "checkpoint": "b441c0f57311f116df7d09a759a08ac91f379f3ee09363120efffd051f5ce58f"
+      "url": null,
+      "checkpoint": null
     },
     "version": "2.0.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://macromates.com/"
+    "web": "https://macromates.com/",
+    "ci": "true",
+    "internal": "true"
   }
 }
