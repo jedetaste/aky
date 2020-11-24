@@ -3,7 +3,7 @@
     "id": "citrixworkspace",
     "bundle": "Citrix Workspace.app",
     "identifier": "com.citrix.receiver.nomas",
-    "download": "https://s3.eu-central-1.wasabisys.com/aky-assets/Citrix%20Workspace-20.10.0.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Citrix%20Workspace-20.10.0.pkg",
     "sha256": "ce6d02eb63ee15ca9e3dd64d59e2496e3cc2e18074c08050daac1f3bd4d16a6d",
     "appcast": {
       "url": null,
