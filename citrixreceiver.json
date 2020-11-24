@@ -3,7 +3,7 @@
     "id": "citrixreceiver",
     "bundle": "Citrix Receiver.app",
     "identifier": "com.citrix.receiver.nomas",
-    "download": "https://s3.eu-central-1.wasabisys.com/aky-assets/CitrixReceiver-12.9.1.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/CitrixReceiver-12.9.1.pkg",
     "sha256": "dc039b5a6e4ba57c61a7f4536c9ab0bb8cd08ff93f937267bdfe300a8685900d",
     "appcast": {
       "url": null,
