@@ -14,6 +14,7 @@
     "dir": "/Library/Application Support/Logitech.localized/Logitech Presentation.localized",
     "symlink": null,
     "web": "https://support.logitech.com/en_au/product/spotlight-presentation-remote",
-    "ci": "true"
+    "ci": "true",
+    "internal": "true"
   }
 }
