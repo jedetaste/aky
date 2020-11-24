@@ -3,16 +3,18 @@
     "id": "citrixworkspace",
     "bundle": "Citrix Workspace.app",
     "identifier": "com.citrix.receiver.nomas",
-    "download": "https://cdn-clients.anykeyit.ch/Static/CitrixWorkspaceApp.dmg",
-    "sha256": "f662e3fd6a30c24e554f38457cb9c5399f46266c6a5ab9766d65b0eb57626c5c",
+    "download": "https://s3.eu-central-1.wasabisys.com/aky-assets/Citrix%20Workspace-20.10.0.pkg",
+    "sha256": "ce6d02eb63ee15ca9e3dd64d59e2496e3cc2e18074c08050daac1f3bd4d16a6d",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "20.9.0",
+    "version": "20.10.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.citrix.com/products/workspace-app/"
+    "web": "https://www.citrix.com/products/workspace-app/",
+    "ci": "true",
+    "internal": "true"
   }
 }
