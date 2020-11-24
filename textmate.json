@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "textmate",
+    "bundle": "TextMate.app",
+    "identifier": "com.macromates.TextMate",
+    "download": "https://cdn-clients.anykeyit.ch/Static/TextMate2-2.0.6.pkg",
+    "sha256": "9e5f1621356706d65674bc455e7a2098518441c6c160fc42170f3594df359f5d",
+    "appcast": {
+      "url": "https://api.textmate.org/releases/release?os=10.14.6",
+      "checkpoint": "b441c0f57311f116df7d09a759a08ac91f379f3ee09363120efffd051f5ce58f"
+    },
+    "version": "2.0.6",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://macromates.com/"
+  }
+}
