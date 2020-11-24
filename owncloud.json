@@ -3,13 +3,13 @@
     "id": "owncloud",
     "bundle": "owncloud.app",
     "identifier": "com.owncloud.desktopclient",
-    "download": "https://download.owncloud.com/desktop/stable/ownCloud-2.6.3.13765.pkg",
-    "sha256": "cb2d78923ffe89660ae2dd69e4c12b3fa0242ba22f9ec2dcb294e3ac958dee03",
+    "download": "https://download.owncloud.com/desktop/ownCloud/stable/2.7.1.2560/mac/ownCloud-2.7.1.2560.pkg",
+    "sha256": "da96347539fad53d72f7fddeb2d913e5296a2c69d3a021399396cca82388bc71",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.6.3 (build 13765)",
+    "version": "2.7.1 (build 2560)",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
