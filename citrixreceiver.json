@@ -3,16 +3,18 @@
     "id": "citrixreceiver",
     "bundle": "Citrix Receiver.app",
     "identifier": "com.citrix.receiver.nomas",
-    "download": "http://downloadplugins.citrix.com.edgesuite.net/Mac/CitrixReceiverWeb.dmg",
-    "sha256": "27d71bbb0383f19ed7b74155400c10a40524ac06d9a9798cde66ab36247c28a3",
+    "download": "https://s3.eu-central-1.wasabisys.com/aky-assets/CitrixReceiver-12.9.1.pkg",
+    "sha256": "dc039b5a6e4ba57c61a7f4536c9ab0bb8cd08ff93f937267bdfe300a8685900d",
     "appcast": {
-        "url": null,
-        "checkpoint": null
+      "url": null,
+      "checkpoint": null
     },
     "version": "12.9.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.citrix.com/products/receiver/"
+    "web": "https://www.citrix.com/products/receiver/",
+    "ci": "true",
+    "internal": "true"
   }
 }
