@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "microsoftexcel",
+    "bundle": "Microsoft Excel.app",
+    "identifier": "com.microsoft.Excel",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": null,
+    "build": "16.43.20110804",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://products.office.com/mac/microsoft-office-for-mac/"
+  }
+}
