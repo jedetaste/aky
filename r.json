@@ -4,7 +4,7 @@
     "bundle": "R.app",
     "identifier": "org.R-project.R",
     "download": "https://cloud.r-project.org/bin/macosx/R-4.0.3.pkg",
-    "sha256": null,
+    "sha256": "0b29a47984bd95cf726e556933f2d87b2ca720f816e3d435c23630e08ac1e125",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.r-project.org/"
+    "web": "https://www.r-project.org/",
+    "ci": "true"
   }
 }
