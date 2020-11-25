@@ -3,8 +3,8 @@
     "id": "ubersicht",
     "bundle": "Übersicht.app",
     "identifier": "tracesOf.Uebersicht",
-    "download": "https://raw.githubusercontent.com/felixhageloh/uebersicht/gh-pages/releases/Uebersicht-1.6.66.app.zip",
-    "sha256": "d02eaec51c725053906c14a2d0a34cef3b98674b87bdd1118d0318cd07ab6a13",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Ubersicht-1.6.pkg",
+    "sha256": "eabdc152cb9a64c3285e056187dc3780ffa9c80c4bf451e9c423db4a3d5c281e",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -14,6 +14,7 @@
     "dir": "/Applications",
     "symlink": null,
     "web": "http://tracesof.net/uebersicht/",
-    "ci": "true"
+    "ci": "true",
+    "internal": "true"
   }
 }
