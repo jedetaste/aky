@@ -3,7 +3,7 @@
     "id": "logitechpresentation",
     "bundle": "Logitech Presentation.app",
     "identifier": "com.logitech.presenter",
-    "download": "https://s3.eu-central-1.wasabisys.com/aky-assets/Logitech%20Presentation-1.60.92.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Logitech%20Presentation-1.60.92.pkg",
     "sha256": "076e655dc2d5741dd32aa76aa120de829582c618d83347e9e5c9704f8cec0add",
     "appcast": {
       "url": null,
