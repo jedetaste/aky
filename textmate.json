@@ -3,7 +3,7 @@
     "id": "textmate",
     "bundle": "TextMate.app",
     "identifier": "com.macromates.TextMate",
-    "download": "https://s3.eu-central-1.wasabisys.com/aky-assets/TextMate2-2.0.6.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/TextMate2-2.0.6.pkg",
     "sha256": "d94d7fafc2c64d0fe119f42657f589d324ff3ae5c607a04a02186fd5ea06c32b",
     "appcast": {
       "url": null,
