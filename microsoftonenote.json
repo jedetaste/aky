@@ -3,16 +3,17 @@
     "id": "microsoftonenote",
     "bundle": "Microsoft OneNote.app",
     "identifier": "com.microsoft.onenote.mac",
-    "download": null,
-    "sha256": null,
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.43.20110804_Updater.pkg",
+    "sha256": "3f551a439a64bee58ce0fa6191322f864ae74864dbacd3420cc55ab7376751d6",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": null,
-    "build": "16.43.20110804",
+    "version": "16.43.20110804",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://products.office.com/mac/microsoft-office-for-mac/"
+    "web": "https://products.office.com/mac/microsoft-office-for-mac/",
+    "ci": "true"
   }
 }
