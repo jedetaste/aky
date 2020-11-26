@@ -9,10 +9,11 @@
       "url": null,
       "checkpoint": null
     },
-    "version": null,
-    "build": "1.0.0.186",
+    "version": "1.0.0.186",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.skype.com/de/business/"
+    "web": "https://www.skype.com/de/business/",
+    "ci": "true"
   }
 }
