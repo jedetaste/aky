@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "eset",
+    "bundle": "ESET Endpoint Antivirus.app",
+    "identifier": "com.eset.eea.6",
+    "download": "https://download.eset.com/com/eset/apps/business/eea/mac/latest/eea_osx_de.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "6.10.460.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.eset.com/"
+  }
+}
