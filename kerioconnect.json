@@ -9,10 +9,11 @@
       "url": null,
       "checkpoint": null
     },
-    "version": null,
-    "build": "9.3.0.16037",
+    "version": "9.3.0.16037",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.kerio.de/products/kerio-connect"
+    "web": "https://www.kerio.de/products/kerio-connect",
+    "ci": "true"
   }
 }
