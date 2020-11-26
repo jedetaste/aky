@@ -3,8 +3,8 @@
     "id": "eset",
     "bundle": "ESET Endpoint Antivirus.app",
     "identifier": "com.eset.eea.6",
-    "download": "https://download.eset.com/com/eset/apps/business/eea/mac/latest/eea_osx_de.dmg",
-    "sha256": null,
+    "download": "https://download.eset.com/com/eset/apps/business/eea/mac/latest/eea_osx_en.dmg",
+    "sha256": "e9b2afeec5fae40f51b6b99375bd5cb9d7a894ddcd2222196060665cdda1086f",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.eset.com/"
+    "web": "https://www.eset.com/",
+    "ci": "true"
   }
 }
