@@ -4,15 +4,16 @@
     "bundle": "Steam.app",
     "identifier": "com.valvesoftware.steam",
     "download": "https://steamcdn-a.akamaihd.net/client/installer/steam.dmg",
-    "sha256": "dda4744327fe200e08d132ccbba9828b6bde8672080a69f69d52e72e9a6bda17",
+    "sha256": "da787135a9f5dda398112b9aee9e6b6216ed75467c50c70f5df397a35376a0e9",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": null,
-    "build": "1.5",
+    "version": "2.0",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://store.steampowered.com/about/"
+    "web": "https://store.steampowered.com/about/",
+    "ci": "true"
   }
 }
