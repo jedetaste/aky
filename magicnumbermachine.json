@@ -9,10 +9,11 @@
       "url": null,
       "checkpoint": null
     },
-    "version": null,
-    "build": "1.0.32",
+    "version": "1.0.32",
+    "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://projectswithlove.com/magicnumbermachine"
+    "web": "http://projectswithlove.com/magicnumbermachine",
+    "ci": "true"
   }
 }
