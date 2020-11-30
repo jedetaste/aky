@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "bria",
+    "bundle": "Bria.app",
+    "identifier": "com.CounterPath_Corporation.Bria",
+    "download": "https://counterpath.s3.amazonaws.com/downloads/Bria_6.2.2_104872.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "6.2.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.counterpath.com/bria-solo/"
+  }
+}
