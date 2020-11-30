@@ -3,8 +3,8 @@
     "id": "hazel",
     "bundle": "Hazel.app",
     "identifier": "com.noodlesoft.Hazel",
-    "download": "https://s3.amazonaws.com/Noodlesoft/Hazel-5.0.1.dmg",
-    "sha256": null,
+    "download": "https://www.noodlesoft.com/Products/Hazel/download",
+    "sha256": "7bc2716adaa9fe8a92c48ec317bc27a3191b31611ee88ab498de0b687cc627f3",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.noodlesoft.com/"
+    "web": "https://www.noodlesoft.com/",
+    "ci": "true"
   }
 }
