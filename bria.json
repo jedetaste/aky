@@ -4,7 +4,7 @@
     "bundle": "Bria.app",
     "identifier": "com.CounterPath_Corporation.Bria",
     "download": "https://counterpath.s3.amazonaws.com/downloads/Bria_6.2.2_104872.dmg",
-    "sha256": null,
+    "sha256": "f8c8a6c6c9ee3714a7144428be85ac06094ba7095559f80a418189c97ca9f964",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.counterpath.com/bria-solo/"
+    "web": "https://www.counterpath.com/bria-solo/",
+    "ci": "true"
   }
 }
