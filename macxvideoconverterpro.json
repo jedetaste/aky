@@ -4,12 +4,12 @@
     "bundle": "MacX Video Converter Pro.app",
     "identifier": "com.macxdvd.macxvdoconverterpro",
     "download": "https://www.macxdvd.com/download/macx-video-converter-pro.dmg",
-    "sha256": "e43bb2207d193baa24cb43a1eb67002258b2144ddc40d1786dbd790b895411c0",
+    "sha256": "302b555f633ee25af9eb74cd79835ecdfe66b501ee625809638f040c02106365",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "6.5.1",
+    "version": "6.5.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
