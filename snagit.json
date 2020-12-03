@@ -3,13 +3,13 @@
     "id": "snagit",
     "bundle": "Snagit 2021.app",
     "identifier": "com.TechSmith.Snagit2021",
-    "download": "http://download.techsmith.com/snagitmac/releases/2102/snagit.dmg",
-    "sha256": "81c9a44022fc2fd86136ff1f8f817ee863a4b4fe1d16031e820314f2981ea2d2",
+    "download": "http://download.techsmith.com/snagitmac/releases/19111/snagit.dmg",
+    "sha256": "418d81bf778307540e9549484b74bf0745d57b68f4883400fae12b210b8cf37f",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2021.0.2",
+    "version": "2019.1.11",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
