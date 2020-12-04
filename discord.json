@@ -4,12 +4,12 @@
     "bundle": "Discord.app",
     "identifier": "com.hnc.Discord",
     "download": "https://discordapp.com/api/download?platform=osx",
-    "sha256": "927b7174671aeede430e5a71f9a8eee1991e2dab5309a8ee623dd1fb04706517",
+    "sha256": "9cddabb13d862e45a0287591b38c13fde9b372edee7f7a538ba7e375c8b32088",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "0.0.259",
+    "version": "0.0.260",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
