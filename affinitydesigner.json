@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "affinitydesigner",
+    "bundle": "Affinity Designer.app",
+    "identifier": "com.seriflabs.affinitydesigner",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.8.6",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://affinity.serif.com/designer/"
+  }
+}
