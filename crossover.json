@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "crossover",
+    "bundle": "CrossOver.app",
+    "identifier": "com.codeweavers.CrossOver",
+    "download": "https://media.codeweavers.com/pub/crossover/cxmac/demo/crossover-20.0.2.zip",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "20.0.2",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.codeweavers.com/products/crossover-mac/"
+  }
+}
