@@ -3,8 +3,8 @@
     "id": "crossover",
     "bundle": "CrossOver.app",
     "identifier": "com.codeweavers.CrossOver",
-    "download": "https://media.codeweavers.com/pub/crossover/cxmac/demo/crossover-20.0.2.zip",
-    "sha256": null,
+    "download": "http://media.codeweavers.com/pub/crossover/cxmac/demo/crossover-20.0.2.zip",
+    "sha256": "3bdae0c3647266f6b40d2e5db7862d1054ff940d80c6306d3be3d0b7153ed689",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.codeweavers.com/products/crossover-mac/"
+    "web": "https://www.codeweavers.com/products/crossover-mac/",
+    "ci": "true"
   }
 }
