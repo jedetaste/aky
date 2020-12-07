@@ -3,13 +3,13 @@
     "id": "lens",
     "bundle": "Lens.app",
     "identifier": "com.electron.kontena-lens",
-    "download": "https://github.com/lensapp/lens/releases/download/v3.6.9/Lens-3.6.9.dmg",
-    "sha256": "292ef51fb8ab628e9e81aaa20a9e6c585bd1407d5dbefb8ebf50406d95e2c929",
+    "download": "https://github.com/lensapp/lens/releases/download/v4.0.0/Lens-4.0.0.dmg",
+    "sha256": "c97634db6b28b74f032324950ade23825f93d0251528bcb797b873e056a0ebec",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.6.9",
+    "version": "4.0.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
