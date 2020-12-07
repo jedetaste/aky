@@ -3,8 +3,8 @@
     "id": "affinitydesigner",
     "bundle": "Affinity Designer.app",
     "identifier": "com.seriflabs.affinitydesigner",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Designer-1.8.6.pkg",
+    "sha256": "b61658ee8743d3fa51d5d8114bf0823a01652943c6a8b131e8a2cddd3df41c35",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://affinity.serif.com/designer/"
+    "web": "https://affinity.serif.com/designer/",
+    "ci": "true",
+    "internal": "true"
   }
 }
