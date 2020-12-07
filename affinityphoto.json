@@ -3,8 +3,8 @@
     "id": "affinityphoto",
     "bundle": "Affinity Photo.app",
     "identifier": "com.seriflabs.affinityphoto",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Photo-1.8.6.pkg",
+    "sha256": "169a41cb339947b79eb0ed01919cb99a2a88a62b168c47c5f05b3511544a92f0",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://affinity.serif.com/photo/"
+    "web": "https://affinity.serif.com/photo/",
+    "ci": "true",
+    "internal": "true"
   }
 }
