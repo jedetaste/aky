@@ -3,6 +3,9 @@
     "id": "firefox",
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefox",
+    "processes": [
+      "firefox"
+    ],
     "download": "http://releases.mozilla.org/pub/firefox/releases/83.0/mac/de/Firefox%2083.0.pkg",
     "sha256": "d0076dedb27962566a6f48e3c2bb22acc4340252ee299d195d635b924f10d245",
     "appcast": {
