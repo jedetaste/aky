@@ -3,6 +3,9 @@
     "id": "lens",
     "bundle": "Lens.app",
     "identifier": "com.electron.kontena-lens",
+    "processes": [
+      "Lens"
+    ],
     "download": "https://github.com/lensapp/lens/releases/download/v4.0.0/Lens-4.0.0.dmg",
     "sha256": "c97634db6b28b74f032324950ade23825f93d0251528bcb797b873e056a0ebec",
     "appcast": {
