@@ -3,8 +3,8 @@
     "id": "affinitypublisher",
     "bundle": "Affinity Publisher.app",
     "identifier": "com.seriflabs.affinitypublisher",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Publisher-1.8.6.pkg",
+    "sha256": "26300898613dc7c35207d8fdcb76e1b3c30d862221978534ed17925a7adc58ae",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://affinity.serif.com/publisher/"
+    "web": "https://affinity.serif.com/publisher/",
+    "ci": "true",
+    "internal": "true"
   }
 }
