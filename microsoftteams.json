@@ -4,8 +4,8 @@
     "bundle": "Microsoft Teams.app",
     "identifier": "com.microsoft.teams",
     "processes": [
-    	"Teams",
-    	"Microsoft Teams Helper"
+      "Teams",
+      "Microsoft Teams Helper"
     ],
     "download": "https://go.microsoft.com/fwlink/?linkid=869428",
     "sha256": "b9fe38e7ad313da3773f164358e99e8fbfa084cde8750b13b002777a14501be9",
