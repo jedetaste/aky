@@ -4,12 +4,12 @@
     "bundle": "ICQ.app",
     "identifier": "com.icq.macicq",
     "download": "https://hb.bizmrg.com/icq-www/mac/x64/icq.dmg",
-    "sha256": "82f90566dcd0654f82de92eddae9e11c4866e6b90eb1b6974d1bea7a862185eb",
+    "sha256": "ccaa180aa58f4b70fdf58d0e3d93fbe5aaa40a19445971110d3fcf45c1a3af7f",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.0.30040",
+    "version": "3.0.30318",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
