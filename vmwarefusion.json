@@ -3,8 +3,8 @@
     "id": "vmwarefusion",
     "bundle": "VMware Fusion.app",
     "identifier": "com.vmware.fusion",
-    "download": "https://download3.vmware.com/software/fusion/file/VMware-Fusion-12.1.0-17195230.dmg",
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/com.vmware.fusion-12.1.0.pkg",
+    "sha256": "1fda108ea51d887340d623a029cdc2664bbe45a31ff856848ad1bda2c662ddc9",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.vmware.com/products/fusion.html"
+    "web": "https://www.vmware.com/products/fusion.html",
+    "ci": "true",
+    "internal": "true"
   }
 }
