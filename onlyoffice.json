@@ -3,13 +3,13 @@
     "id": "onlyoffice",
     "bundle": "ONLYOFFICE.app",
     "identifier": "asc.onlyoffice.ONLYOFFICE",
-    "download": "http://download.onlyoffice.com/install/desktop/editors/mac/updates/onlyoffice/ONLYOFFICE-6.0.2.zip",
-    "sha256": "3baefcaf3e6c92047cd97870984342f360865c3f75c03c67b183b1c476a4e00c",
+    "download": "https://download.onlyoffice.com/install/desktop/editors/mac/updates/onlyoffice/ONLYOFFICE-6.1.zip",
+    "sha256": "019278195aa18341d02767d794e07772baa666b42129db83f1023bc690b9aafa",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "6.0.2",
+    "version": "6.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
