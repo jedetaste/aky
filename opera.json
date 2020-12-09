@@ -3,13 +3,13 @@
     "id": "opera",
     "bundle": "Opera.app",
     "identifier": "com.operasoftware.Opera",
-    "download": "https://download.opera.com/download/get/?id=51745&autoupdate=1&ni=1&stream=stable",
-    "sha256": "dd0fbec84c9061cbac7fccab9335f5f9de823dc4be72cdec747998a227b7ab2a",
+    "download": "https://download.opera.com/download/get/?id=51856&autoupdate=1&ni=1&stream=stable",
+    "sha256": "00b7945aa37931c8791de8727b21baa569976a17946c7bdf9f3b865fdcef0f42",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "72.0.3815.400",
+    "version": "73.0.3856.257",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
