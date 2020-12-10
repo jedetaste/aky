@@ -4,12 +4,12 @@
     "bundle": "zoom.us.app",
     "identifier": "us.zoom.xos",
     "download": "https://zoom.us/client/latest/ZoomInstallerIT.pkg",
-    "sha256": "545475718adc1e60177f991fc9b3c6ad48f3625a00334dd3de01f63eb60d9adf",
+    "sha256": "d63dbaf86aa4824166cf749a040d994926fc8d2cc839ec55f7e3d4e4e95bf5be",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.4.6 (59296.1207)",
+    "version": "5.4.4 (58903.1122)",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
