@@ -3,7 +3,9 @@
     "id": "firefoxdeveloperedition",
     "bundle": "Firefox.app",
     "identifier": "org.mozilla.firefoxdeveloperedition",
-    "processes": null,
+    "processes": [
+      "firefox"
+    ],
     "download": "http://releases.mozilla.org/pub/firefox/releases/84.0b8/mac/de/Firefox%2084.0b8.pkg",
     "sha256": "3c6137d3e55ad256edae3b2a4db06457b5a0bb89e6638386b0ccc659386656d9",
     "appcast": {
