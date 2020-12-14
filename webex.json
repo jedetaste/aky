@@ -1,0 +1,19 @@
+{
+  "recipe": {
+    "id": "webex",
+    "bundle": "Webex.app",
+    "identifier": "Cisco-Systems.Spark",
+    "download": "https://binaries.webex.com/WebexTeamsDesktop-MACOS-Gold/WebexTeams.dmg",
+    "sha256": "a0ba0c9afa97b7faa85ee082f5cbeca99ad0e7c25a10769fddab27725b9c747d",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "40.11.0.17133",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.webex.com/",
+    "ci": "true"
+  }
+}
