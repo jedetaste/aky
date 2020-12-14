@@ -3,13 +3,13 @@
     "id": "hintalkpp",
     "bundle": "HIN Talk PP.app",
     "identifier": "biz.vnc.vnctalk.hintalk.desktop",
-    "download": "https://basepackages.vnc.biz/electron-dev/HIN%20Talk%20PP-0.0.1-20201203.258.dmg",
-    "sha256": "803eb4167e9dc2ef112f33d179a8b8bdd0dd2c4bd5047f66f4eb3cc54742bbea",
+    "download": "https://basepackages.vnc.biz/electron-dev/HIN%20Talk%20PP-0.0.1-20201214.338.dmg",
+    "sha256": "6a524b370620a33d03300109aa353131e198efc63edf4c071ac4fecd0a35799a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "0.0.1-20201203.258",
+    "version": "0.0.1-20201214.338",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
