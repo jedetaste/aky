@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "ewolkeweb",
+    "bundle": "eWolke Web.app",
+    "identifier": null,
+    "download": "https://cdn-cloud.anykeyit.ch/CasperShare/Packages/eWolke%20Web-1.4.0.pkg.zip",
+    "sha256": "d2a05a7c723fb4e4830eff87fb2f8e1f8e2bc4e6e2bccf7b75b5f6c1de0556dc",
+    "appcast": {
+        "url": null,
+        "checkpoint": null
+    },
+    "version": "1.4.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}
