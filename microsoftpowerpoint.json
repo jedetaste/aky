@@ -3,13 +3,13 @@
     "id": "microsoftpowerpoint",
     "bundle": "Microsoft PowerPoint.app",
     "identifier": "com.microsoft.Powerpoint",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.43.20110804_Updater.pkg",
-    "sha256": "8681cd473797c2de330317a73c0f4275e9a6bdee46ddf672c295a73a02883996",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.44.20121301_Updater.pkg",
+    "sha256": "633f5d007c5d76c6959a6d7e959baca3e976d8982a16438b1e1f1bb81ceb3965",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "16.43.20110804",
+    "version": "16.44.20121301",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
