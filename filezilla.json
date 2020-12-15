@@ -3,8 +3,8 @@
     "id": "filezilla",
     "bundle": "FileZilla.app",
     "identifier": "org.filezilla-project.filezilla",
-    "download": "https://dl4.cdn.filezilla-project.org/client/FileZilla_3.51.0_macosx-x86.app.tar.bz2?h=vwE_I8ofQ8yr4r8ILB42eg&x=1608022739",
-    "sha256": "37b9d83c79eaa10344ea338d479456b75db114c5ab1ceefa0cca9ab7acae04d8",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/FileZilla-3.51.0.pkg",
+    "sha256": "4f62dd4406d1643d76034dc23277fa03afd041f435ef78615a38796d62c8536f",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -14,6 +14,7 @@
     "dir": "/Applications",
     "symlink": null,
     "web": "https://filezilla-project.org/",
-    "ci": "true"
+    "ci": "true",
+    "internal": "true"
   }
 }
