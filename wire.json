@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "wire",
+    "bundle": "Wire.app",
+    "identifier": "com.wearezeta.zclient.mac",
+    "download": "https://github.com/wireapp/wire-desktop/releases/download/macos%2F3.21.3959/Wire.pkg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.21.3959",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://wire.com/"
+  }
+}
