@@ -3,13 +3,13 @@
     "id": "eclipseide",
     "bundle": "Eclipse.app",
     "identifier": "org.eclipse.platform.ide",
-    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2020-09/R/eclipse-committers-2020-09-R-macosx-cocoa-x86_64.dmg",
-    "sha256": "7a81d0fe2e4991a19e4c5163131e9d7c15da9625f590c1e11a71cce9af62cac7",
+    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2020-12/R/eclipse-committers-2020-12-R-macosx-cocoa-x86_64.dmg",
+    "sha256": "c4e9fa309f869ef398036251b79b6d2457f62d15e9d9931c4a54bbd65880e99f",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.17.0",
+    "version": "4.18.0",
     "build": null,
     "dir": "/Applications/Eclipse IDE",
     "symlink": null,
