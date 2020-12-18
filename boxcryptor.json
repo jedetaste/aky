@@ -4,12 +4,12 @@
     "bundle": "Boxcryptor.app",
     "identifier": "com.boxcryptor.osx",
     "download": "https://www.boxcryptor.com/l/download-macosx",
-    "sha256": "974d097017bdc1377a62fa4e9e51033636198659fc9353372233cde0e5094285",
+    "sha256": "b6415b07a0b9e73bf4314d19e319e3dbfdcfdfea1eda379a0c2a241bfb214a9c",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.38.1090",
+    "version": "2.39.1119",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
