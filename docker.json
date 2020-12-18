@@ -3,13 +3,13 @@
     "id": "docker",
     "bundle": "Docker.app",
     "identifier": "com.docker.docker",
-    "download": "https://desktop.docker.com/mac/stable/50773/Docker.dmg",
-    "sha256": "ecf1d3d8519a5d040adc6ab9ea447780c550827320743c4af568494603d5e8b4",
+    "download": "https://desktop.docker.com/mac/stable/50996/Docker.dmg",
+    "sha256": "977723187d02f9c322f7b271011bfe29f4de3bca8bb3f533e292ed110e06a268",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.0.1",
+    "version": "3.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
