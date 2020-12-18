@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "bibox",
+    "bundle": "BiBox 2.0.app",
+    "identifier": "de.westermann.bibox2",
+    "download": "https://static.bibox2.westermann.de/electron/autoUpdate/BiBox%202.0%202.0.14.dmg",
+    "sha256": "bf1170ef9dcc1f889c8809f78510795fdc760916652ca5b90500519e078b9d23",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.0.14",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.bibox.schule/"
+  }
+}
