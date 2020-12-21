@@ -6,13 +6,13 @@
       "weka.app"
     ],
     "identifier": "nz.ac.waikato.cms.Weka",
-    "download": "http://downloads.sourceforge.net/project/weka/weka-3-8/3.8.4/weka-3-8-4-azul-zulu-osx.dmg?ts=1608508262",
-    "sha256": "312347853807fad45dff5afd2bc293a4c5face03e4bf16a5f0ae9b10b53aaf2a",
+    "download": "http://downloads.sourceforge.net/project/weka/weka-3-8/3.8.5/weka-3-8-5-azul-zulu-osx.dmg?ts=1608523082",
+    "sha256": "9fe4a84bf6c7146b7899fea857310e932f37f39ea788e6eda8b994c4a8ef3048",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.8.4",
+    "version": "3.8.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
