@@ -6,13 +6,13 @@
     "processes": [
       "firefox"
     ],
-    "download": "http://releases.mozilla.org/pub/firefox/releases/84.0/mac/en-US/Firefox%2084.0.pkg",
-    "sha256": "cf06f5cc71db58898c5c9151d72ed8e68ee8c98e0018ffb770b68a23072e9a7a",
+    "download": "http://releases.mozilla.org/pub/firefox/releases/84.0.1/mac/en-US/Firefox%2084.0.1.pkg",
+    "sha256": "ea7f5d8bad43054600086ff099c73fa718f45418f21b071436d92863e3ff810c",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "84.0",
+    "version": "84.0.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
