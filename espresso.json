@@ -3,13 +3,13 @@
     "id": "espresso",
     "bundle": "Espresso.app",
     "identifier": "com.macrabbit.Espresso",
-    "download": "https://downloads.kangacode.com/Espresso/Espresso_5.4.1.zip",
-    "sha256": "c28b93b6728869d47d2c277839079c1a1bbd88497d9ae0649800a50f51776072",
+    "download": "https://downloads.kangacode.com/Espresso/Espresso_5.5.zip",
+    "sha256": "06a313da2d41f43b7f44febbc579d7639b7462e5f1db822a47269a9a9d3632c9",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.4.1",
+    "version": "5.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
