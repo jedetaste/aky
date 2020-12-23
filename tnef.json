@@ -3,16 +3,17 @@
     "id": "tnef",
     "bundle": "TNEF's Enough.app",
     "identifier": "com.joshjacob.TNEFsEnough",
-    "download": "https://www.joshjacob.com/mac-development/TNEF3.8.dmg",
+    "download": "http://www.joshjacob.com/mac-development/TNEF3.8.dmg",
     "sha256": "9b067dc9f8397f3128b6b35b56bca93ce79f0daf677d7c786ae85f9050a12909",
     "appcast": {
-      "url": "https://www.joshjacob.com/mac-development/tnef.php",
-      "checkpoint": "86eeaddc61dc05a2a479c88c31923d24ea6f0127430ea7291d08f0ea4b74ebd9"
+      "url": null,
+      "checkpoint": null
     },
     "version": "3.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.joshjacob.com/mac-development/tnef.php"
+    "web": "https://www.joshjacob.com/mac-development/tnef.php",
+    "ci": "true"
   }
 }
