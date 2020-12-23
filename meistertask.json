@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "meistertask",
+    "bundle": "MeisterTask.app",
+    "identifier": "com.meisterlabs.meistertask.desktop",
+    "download": "https://www.meistertask.com/files/MeisterTask_osx.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.2.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.meistertask.com/"
+  }
+}
