@@ -4,7 +4,7 @@
     "bundle": "MeisterTask.app",
     "identifier": "com.meisterlabs.meistertask.desktop",
     "download": "https://www.meistertask.com/files/MeisterTask_osx.dmg",
-    "sha256": null,
+    "sha256": "0b4ad087ad620b43a8418821a76babe7e9e2eceb80132ac2442ade00015a1c6f",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.meistertask.com/"
+    "web": "https://www.meistertask.com/",
+    "ci": "true"
   }
 }
