@@ -4,12 +4,12 @@
     "bundle": "Telegram.app",
     "identifier": "ru.keepcoder.Telegram",
     "download": "https://telegram.org/dl/macos",
-    "sha256": "a747b9650ffb737109b6ef05494e740bf031861db4bc25b3800c1d6bf42e3bc7",
+    "sha256": "c09627bb951725de063ec7836459425f87399df798a542a1cd81f67ad349613a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "7.2.4",
+    "version": "7.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
