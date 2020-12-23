@@ -4,7 +4,7 @@
     "bundle": "Jamf Environment Test.app",
     "identifier": "org.jamfse.jet",
     "download": "https://github.com/jamf/Jamf-Environment-Test/releases/download/1.3/Jamf.Environment.Test.zip",
-    "sha256": null,
+    "sha256": "5832d5b541023e4bbe68507d58ad5b15be587f019edf7ce58f2313ca0acad417",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://github.com/jamf/Jamf-Environment-Test"
+    "web": "https://github.com/jamf/Jamf-Environment-Test",
+    "ci": "true"
   }
 }
