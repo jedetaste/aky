@@ -3,16 +3,17 @@
     "id": "ipsecuritas",
     "bundle": "IPSecuritas.app",
     "identifier": null,
-    "download": "https://www.lobotomo.com/products/downloads/IPSecuritas%204.9.6.dmg",
+    "download": "http://lobotomo.com/products/downloads/IPSecuritas%204.9.6.dmg",
     "sha256": "5ffa51bbbba0b351c7d9582c52c22c10f267c67cd9aa1ed0d3a513939aa516cc",
     "appcast": {
-      "url": "https://www.lobotomo.com/products/IPSecuritas/",
-      "checkpoint": "3d1d846d07479dd9719b67d56b19872335d234f3144bace1195495609b925f29"
+      "url": null,
+      "checkpoint": null
     },
-    "version": "4.9.6",
+    "version": "4623",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.lobotomo.com/products/IPSecuritas/"
+    "web": "https://www.lobotomo.com/products/IPSecuritas/",
+    "ci": "true"
   }
 }
