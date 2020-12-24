@@ -3,15 +3,15 @@
     "id": "pythonlauncher",
     "bundle": "Python Launcher.app",
     "identifier": "org.python.PythonLauncher",
-    "download": "https://www.python.org/ftp/python/3.8.1/python-3.8.1-macosx10.9.pkg",
-    "sha256": "d84c0e8bfd901dbfda30a19ca6bec09dd794c505333d22bb2043058dee113881",
+    "download": "https://www.python.org/ftp/python/3.9.1/python-3.9.1-macosx10.9.pkg",
+    "sha256": "f250701d8c02f434a2ae33ef7cc8cec413b9c9dc7d5f62c411451665e0c38140",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.8.1",
+    "version": "3.9.1",
     "build": null,
-    "dir": "/Applications/Python 3.8",
+    "dir": "/Applications/Python 3.9",
     "symlink": null,
     "web": "https://www.python.org/"
   }
