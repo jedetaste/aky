@@ -9,13 +9,14 @@
     "download": "https://diskmakerx.com/downloads/DiskMaker_X_9.dmg",
     "sha256": "96845cd375543401b822fb4e17d2ecc300fcb621f56afcdad613ae11c9afddce",
     "appcast": {
-      "url": "https://diskmakerx.com/feed/",
-      "checkpoint": "306be9e70edeb1c175e80aa3dda0bc7a1b4b6ed8f9cf63c9b72902731eaa4b25"
+      "url": null,
+      "checkpoint": null
     },
     "version": "9.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://diskmakerx.com/"
+    "web": "https://diskmakerx.com/",
+    "ci": "true"
   }
 }
