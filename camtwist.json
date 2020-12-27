@@ -3,8 +3,8 @@
     "id": "camtwist",
     "bundle": "CamTwist.app",
     "identifier": "com.allocinit.CamTwist",
-    "download": "http://camtwiststudio.com/beta/CamTwist_3.4.3.dmg",
-    "sha256": "e1187d52a264d24e24c719e61daabf4453112af98a5b90bce9734282e2b05131",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/CamTwist-3.4.3.pkg",
+    "sha256": "616e22bb990ebc64c9cfbc539e0c3f081ab5fcad280c4d5a50c3889e1e17bdd4",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "dir": "/Applications/CamTwist",
     "symlink": null,
-    "web": "http://camtwiststudio.com/"
+    "web": "http://camtwiststudio.com/",
+    "ci": "true",
+    "internal": "true"
   }
 }
