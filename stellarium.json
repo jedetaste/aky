@@ -3,13 +3,13 @@
     "id": "stellarium",
     "bundle": "Stellarium.app",
     "identifier": "org.stellarium.Stellarium",
-    "download": "https://github.com/Stellarium/stellarium/releases/download/v0.20.3/Stellarium-0.20.3.1.zip",
-    "sha256": "09bed6b52d6113dd8ead57052c52521f34d837e6cf6c67498e1ac9f703647a64",
+    "download": "https://github.com/Stellarium/stellarium/releases/download/v0.20.4/Stellarium-0.20.4.zip",
+    "sha256": "ed2c561c0fec34662672e3754aaef59713c041dfef35fe74006459bbb694a42d",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "0.20.3",
+    "version": "0.20.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
