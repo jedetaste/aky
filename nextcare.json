@@ -3,7 +3,7 @@
     "id": "nextcare",
     "bundle": "Nextcare.app",
     "identifier": "pro.nextcare.desktopapp",
-    "download": "https://www.nextcare.pro/desktopapp/latest/Nextcare-1.0.0.dmg",
+    "download": "https://www.nextcare.pro/desktopapp/mac",
     "sha256": "7411c59b4a131e5d5a60d2ac6a88db68ffb623510da77d31e02b2c70eb00de64",
     "appcast": {
       "url": null,
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.nextcare.pro/"
+    "web": "https://www.nextcare.pro/",
+    "ci": "true"
   }
 }
