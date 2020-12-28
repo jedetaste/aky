@@ -3,13 +3,13 @@
     "id": "rectangle",
     "bundle": "Rectangle.app",
     "identifier": "com.knollsoft.Rectangle",
-    "download": "https://github.com/rxhanson/Rectangle/releases/download/v0.40/Rectangle0.40.dmg",
-    "sha256": "70ad0351d512e0538d5b3ffc94dd48038d2e5e68077be8dc93f113baa21c3d3e",
+    "download": "https://github.com/rxhanson/Rectangle/releases/download/v0.41/Rectangle0.41.dmg",
+    "sha256": "d3e6ece0c16f323650386ed51051a2cb251d7abd2714e76a0496eab9b1be76c3",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "0.40",
+    "version": "0.41",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
