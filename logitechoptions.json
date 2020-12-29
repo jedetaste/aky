@@ -3,8 +3,8 @@
     "id": "logitechoptions",
     "bundle": "Logi Options.app",
     "identifier": "com.logitech.Logi-Options",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Logitech%20Options-8.36.76.pkg",
+    "sha256": "d1875441764f85eabc2979b239ce6f7121401554cd8b266cfefe963371751412",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://support.logitech.com/software/options"
+    "web": "https://support.logitech.com/software/options",
+    "ci": "true",
+    "internal": "true"
   }
 }
