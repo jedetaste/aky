@@ -3,16 +3,16 @@
     "id": "qvrclient",
     "bundle": "QVR Client.app",
     "identifier": "com.qnap.qvrclient",
-    "download": "http://download.qnap.com/Surveillance/Utility/QVR%20Client-2-1-4-2016-05-25.dmg",
-    "sha256": "beb776192f4cee4feba2929048898e2d884e836294fb62af3e1de6defab99818",
+    "download": "https://download.qnap.com/Storage/Utility/QVRMacClient-2.2.1-170221.dmg",
+    "sha256": "21b8693deec818befc08541700f18606debebe0fe4e36cb57ccde25458602e1b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.1.4",
+    "version": "2.2.170221",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.qnapsecurity.com/n/en/product_x_down/product_down.php?hf=0&II=270&cat_choose=2"
+    "web": "https://www.qnap.com/en/utilities/surveillance"
   }
 }
