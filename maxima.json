@@ -3,8 +3,8 @@
     "id": "maxima",
     "bundle": "Maxima.app",
     "identifier": null,
-    "download": "http://downloads.sourceforge.net/project/maxima/Maxima-MacOS/5.41.0-MacOSX/Maxima-5.41.0-VTK-macOS.dmg?ts=1609218902",
-    "sha256": "a35e034953c8a52a95fce4c1caa982fe5dafe917d4c2503906f2606998197544",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Maxima-5.41.0.pkg",
+    "sha256": "6439ba61d68077a650b3777b21a909b5c5124d7b8d0d5a8cdf339887cdd67641",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -14,6 +14,7 @@
     "dir": "/Applications",
     "symlink": null,
     "web": "http://maxima.sourceforge.net/",
-    "ci": "true"
+    "ci": "true",
+    "internal": "true"
   }
 }
