@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "http://tiptoi.de/"
+    "web": "http://tiptoi.de/",
+    "ci": "true"
   }
 }
