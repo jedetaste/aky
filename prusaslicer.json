@@ -3,13 +3,13 @@
     "id": "prusaslicer",
     "bundle": "PrusaSlicer.app",
     "identifier": "com.prusa3d.slic3r/",
-    "download": "https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.2.0/PrusaSlicer-2.2.0%2B-202003211132.dmg",
-    "sha256": "f79198d064f3f1fb6862009a0648e645a4fc3100eae51a5203435b94cb914caa",
+    "download": "https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.3.0-rc2/PrusaSlicer-2.3.0-rc2+-202012221629.dmg",
+    "sha256": "9bc4219e8a33c1825d74540e69824882fe3474a2f8fe017ef5978a5f774b6e0a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "PrusaSlicer PrusaSlicer-2.2.0+-202003211132",
+    "version": "PrusaSlicer PrusaSlicer-2.3.0-rc2+-202012221629",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
