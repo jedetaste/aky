@@ -4,12 +4,12 @@
     "bundle": "Debookee.app",
     "identifier": "com.iwaxx.Debookee",
     "download": "https://www.iwaxx.com/debookee/debookee.zip",
-    "sha256": "6531f53b475d10d1b6aabac1a7188846e823af961cd04a2345a5d8c25b682e0f",
+    "sha256": "722746f66ea2b62e00b141964d08ce2c298455e52397cbb8eff82a02168f95cf",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "7.5.2",
+    "version": "8.0.0b1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
