@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "audacity",
+    "bundle": "Audacity.app",
+    "identifier": "org.audacityteam.audacity",
+    "download": "https://github.com/suschizu/audacity-mirror/raw/master/audacity-macos-2.4.2.dmg",
+    "sha256": "4730abe5b59d9c3dd000fde22d7037af6e6019a4305195a3e4e714f6c9f6380a",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.4.2.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.audacityteam.org"
+  }
+}
