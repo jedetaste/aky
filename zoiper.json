@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "zoiper",
+    "bundle": "Zoiper5.app",
+    "identifier": "com.securax.zoiper5",
+    "download": "https://s3.eu-central-1.wasabisys.com/aky-assets/Static/Zoiper5_5.4.9.pkg",
+    "sha256": "1bea962fb5c9d8cd5b73f21c7a51eaf260ca4cc04f2994550e9db9e9e853b330",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "5.4.9",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.zoiper.com/"
+  }
+}
