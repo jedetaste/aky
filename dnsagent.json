@@ -4,7 +4,7 @@
     "bundle": "DNS Agent.app",
     "identifier": "io.netalerts.agent.macos",
     "download": "https://download.dnsfilter.com/User_Agent/MacOS/DNS%20Agent-Installer.pkg",
-    "sha256": null,
+    "sha256": "0180ba77a914a2e1c8ab83705ccecdb7579c7605c6e204e6d38d1991750737df",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.dnsfilter.com/"
+    "web": "https://www.dnsfilter.com/",
+    "ci": "true"
   }
 }
