@@ -3,13 +3,13 @@
     "id": "filezilla",
     "bundle": "FileZilla.app",
     "identifier": "org.filezilla-project.filezilla",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/FileZilla-3.51.0.pkg",
-    "sha256": "4f62dd4406d1643d76034dc23277fa03afd041f435ef78615a38796d62c8536f",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/FileZilla-3.52.0.1.pkg",
+    "sha256": "2f278642f9e13b136ec99a689d80bb92c6e739a7d302039cc9614ad760b83ffe",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.51.0",
+    "version": "3.52.0.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
