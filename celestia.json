@@ -3,13 +3,13 @@
     "id": "celestia",
     "bundle": "Celestia.app",
     "identifier": "net.shatters.Celestia",
-    "download": "https://cdn-clients.anykeyit.ch/Static/celestia-osx-1.6.1.dmg",
-    "sha256": "db09842a10b377038bedef87fda8d159549234b2e072fa22e096ade84aa3f52a",
+    "download": "https://github.com/CelestiaProject/Celestia/releases/download/1.6.2/celestia-1.6.2-macOS.zip",
+    "sha256": "d12778ecdf9036a8ca22b257d9f8574bf507cc8c886cb3808f4edca32f2d5b6e",
     "appcast": {
       "url": "https://github.com/CelestiaProject/Celestia/releases.atom",
-      "checkpoint": "d623ec7ac2d89cf4ad640dad3488f5023e89068303300dfaa97ee75a507482cc"
+      "checkpoint": "83d07d5b166b9ef1ead59875ec93554dd3d98f1c354b160fc635aa1e46840900"
     },
-    "version": "1.6.1",
+    "version": "1.6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Mensch und Umwelt",
