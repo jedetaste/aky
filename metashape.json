@@ -3,13 +3,13 @@
     "id": "metashape",
     "bundle": "Metashape.app",
     "identifier": "com.agisoft.metashape.standard",
-    "download": "https://s3-eu-west-1.amazonaws.com/download.agisoft.com/metashape_1_6_5.dmg",
-    "sha256": "ee52edc7c771498c6589247065bcfaee38735aae86517d1484e854b73d753672",
+    "download": "https://s3-eu-west-1.amazonaws.com/download.agisoft.com/metashape_1_7_0.dmg",
+    "sha256": "dbe0731d2b6ed92ea93a2dd0d45b1cb005667967ca0aed9719bfd16c55a76ca8",
     "appcast": {
       "url": "https://www.agisoft.com/downloads/installer/",
-      "checkpoint": "4d9cf9b5010e86cdfb3ce6bf5f276d7d47500b81f23c4b9bf8fc955d6ef9d4c7"
+      "checkpoint": "d8600b4234acff195889e2c14cf56f29272d358a309f1dbaa52b3508c6774c4f"
     },
-    "version": "1.6.5",
+    "version": "1.7.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
