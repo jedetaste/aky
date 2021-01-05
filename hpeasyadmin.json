@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://support.hp.com/us-en/document/c06164609#one_download_EasyAdmin"
+    "web": "https://support.hp.com/us-en/document/c06164609#one_download_EasyAdmin",
+    "ci": "true"
   }
 }
