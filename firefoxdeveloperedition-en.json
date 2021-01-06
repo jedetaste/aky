@@ -6,8 +6,8 @@
     "processes": [
       "firefox"
     ],
-    "download": "http://releases.mozilla.org/pub/firefox/releases/85.0b4/mac/en-US/Firefox%2085.0b4.pkg",
-    "sha256": "243eed4604b9dc333e25a4f4a68be90cc5e03aa75699b7b9d0d294271ecfc63b",
+    "download": "http://releases.mozilla.org/pub/firefox/releases/85.0b5/mac/en-US/Firefox%2085.0b5.pkg",
+    "sha256": "31ff2a1b372bc3f0bf8638c86e581d4c352d2d3ad5cca276cdc6a437ff49037b",
     "appcast": {
       "url": null,
       "checkpoint": null
