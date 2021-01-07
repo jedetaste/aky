@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "ewolkeclient",
+    "bundle": "eWolke-Sync.app",
+    "identifier": "ch.anykeyit.ewolke.desktopclient",
+    "download": "https://cdn-cloud.anykeyit.ch/cloud/ewolke/client/eWolke-Sync-2641.pkg.zip",
+    "sha256": "65e119e0a80e1615247a605fa55b18cac0e1a0eab7fd6a3c39236a9557ce761a",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.6.4 (build 1)",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}
