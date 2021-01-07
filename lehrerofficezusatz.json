@@ -4,12 +4,12 @@
     "bundle": "LehrerOffice Zusatz.app",
     "identifier": "ch.rothsoft.lehreroffice.sv",
     "download": "https://cmi-bildung.ch/lo/dateien/zusatz/lo_zusatz_macos.dmg",
-    "sha256": "6432967bade1a3033545a7ece4cbacba66a8dbcaa42bfd159752f3d2e3c54b1c",
+    "sha256": "d9560edc713a40ef474574c7e6b823fe3b2338b1e9c4c62d91a52f1975697a9b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2020.10.1",
+    "version": "2020.10.2",
     "build": null,
     "dir": "/Applications/LehrerOffice",
     "symlink": null,
