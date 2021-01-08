@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "smultron",
+    "bundle": "Smultron.app",
+    "identifier": "com.peterborgapps.Smultron12",
+    "download": "https://www.peterborgapps.com/downloads/Smultron12.zip",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "12.2.6",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.peterborgapps.com/smultron/"
+  }
+}
