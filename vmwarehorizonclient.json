@@ -3,13 +3,13 @@
     "id": "vmwarehorizonclient",
     "bundle": "VMware Horizon Client.app",
     "identifier": "com.vmware.horizon",
-    "download": "https://download3.vmware.com/software/view/viewclients/CART21FQ2/VMware-Horizon-Client-2006-8.0.0-16531451.dmg",
-    "sha256": "ef63a658b2233a8490421e33ecfbafb2a05ef57f0d3810bb6912b92f117cf468",
+    "download": "https://download3.vmware.com/software/view/viewclients/CART21FQ4/VMware-Horizon-Client-2012-8.1.0-17353466.dmg",
+    "sha256": "d098250f2754fde0603d81085841e765ae072fec6385459955373b8e26587e0a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "8.0.0",
+    "version": "8.1.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
