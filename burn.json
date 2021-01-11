@@ -3,13 +3,13 @@
     "id": "burn",
     "bundle": "Burn.app",
     "identifier": "com.kiwifruitware.Burn",
-    "download": "https://sourceforge.net/projects/burn-osx/files/Burn/3.0.1/Burn-3.0.1.zip/download",
-    "sha256": "74e83a25d107b6972fc207c5ce21027aedf98b7b4936c610d35062ff9e6266b3",
+    "download": "https://sourceforge.net/projects/burn-osx/files/Burn/3.0.2/Burn-3.0.2.zip/download",
+    "sha256": "ae09d9307273d7532a8cfb5393db457027d0a6b04c040d034d7ced43b8ba66c0",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.0.1",
+    "version": "3.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,

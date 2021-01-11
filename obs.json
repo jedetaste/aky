@@ -3,13 +3,13 @@
     "id": "obs",
     "bundle": "OBS.app",
     "identifier": "com.obsproject.obs-studio",
-    "download": "https://cdn-fastly.obsproject.com/downloads/obs-mac-26.1.dmg",
-    "sha256": "f3713d629e1c9cda98b630fd11bfd25dbd4d0ba4fcf5fe85a2978da616981472",
+    "download": "https://cdn-fastly.obsproject.com/downloads/obs-mac-26.1.2.dmg",
+    "sha256": "42b852a5f23c5fd20d7a3ec444d6e5632fc92a63d3c8546aa6267ee6ad2f085d",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "26.1.0",
+    "version": "26.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
