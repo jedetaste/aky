@@ -3,13 +3,13 @@
     "id": "mountainduck",
     "bundle": "Mountain Duck.app",
     "identifier": "io.mountainduck",
-    "download": "https://dist.mountainduck.io/Mountain%20Duck-4.3.3.17396.zip",
-    "sha256": "1a48d0f8ac6c5c3c34b86076df4b84ddaec670b7bab54a68cd7c3eb482087771",
+    "download": "https://dist.mountainduck.io/Mountain%20Duck-4.4.0.17555.zip",
+    "sha256": "967d03b475e8a3fa29cd59a35b6fe0780628e1d26acdadedb9e4a875024cce07",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.3.3",
+    "version": "4.4.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
