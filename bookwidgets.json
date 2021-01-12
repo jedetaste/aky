@@ -4,12 +4,12 @@
     "bundle": "BookWidgets.app",
     "identifier": "com.kidimedia.ibookwidgets",
     "download": "https://download.bookwidgets.com/downloadlatest",
-    "sha256": "984cf15823916010430d167468af247d16fafaf32302c8d9e643df3b83dac172",
+    "sha256": "07da1984b42ff3047f72a0802dbdc66851a68ab9e085ef1dfc1a86e0274bb401",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "6.1.0",
+    "version": "6.2.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
