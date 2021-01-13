@@ -3,13 +3,13 @@
     "id": "microsoftoutlook",
     "bundle": "Microsoft Outlook.app",
     "identifier": "com.microsoft.Outlook",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.44.20121301_Updater.pkg",
-    "sha256": "6b2b7a18c17b419397bded9419215d35f8fafe9008df9c7f47f374242beff8e0",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.45.21011103_Updater.pkg",
+    "sha256": "6f2c11ca3fbf383cab470363c3b2cfa0c2bcc7c76cda347f0ba9cd195893de42",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "16.44.20121301",
+    "version": "16.45.21011103",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
