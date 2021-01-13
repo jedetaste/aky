@@ -4,12 +4,12 @@
     "bundle": "Microsoft AutoUpdate.app",
     "identifier": "com.microsoft.autoupdate2",
     "download": "https://go.microsoft.com/fwlink/?linkid=830196",
-    "sha256": "9f4c49be4fcc82ded7bd394f4f2057912b40d0083f754d15495b7bde9e58eac4",
+    "sha256": "209b444d2831b879bb73c92041a1c7318c1d5ba58b4689f6c4fc842b0930b532",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.30",
+    "version": "4.31",
     "build": null,
     "dir": "/Library/Application Support/Microsoft/MAU2.0",
     "symlink": null,
