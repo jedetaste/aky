@@ -4,12 +4,12 @@
     "bundle": "Printopia.app",
     "identifier": "com.decisivetactics.printopia",
     "download": "https://www.decisivetactics.com/products/printopia/get",
-    "sha256": "0528697b1f95010990517cd31be8bc40408c0e075c9dcc325ff53a2650ead11b",
+    "sha256": "871ffce73c734c9c82a6b1fa341d231b0cdef51d5c1b8f1415dfe0414aaf8130",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.0.15",
+    "version": "3.0.16",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
