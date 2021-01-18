@@ -3,13 +3,13 @@
     "id": "mediaconverter",
     "bundle": "Media Converter.app",
     "identifier": "com.kiwifruitware.Media_Converter",
-    "download": "https://iweb.dl.sourceforge.net/project/media-converter/media-converter/2.0.10/media-converter-2.0.10.zip",
-    "sha256": "d5a7db000e8106e5892daad84ee7dea82651aa9662df5b4c6da0b943afae03c1",
+    "download": "https://netcologne.dl.sourceforge.net/project/media-converter/media-converter/3.0/media-converter-3.0.zip",
+    "sha256": "a5c61e461aca7c570a3ea99f0ecf0f27a8e2ab5713c3edd79d3eaf7ca1543b5e",
     "appcast": {
       "url": "https://sourceforge.net/projects/media-converter/rss?path=/media-converter",
-      "checkpoint": "784fca53ce0006fcbe12c5fa21c4853dc451032db0c983ac6a47386a57336bf8"
+      "checkpoint": "58126352b59c89af48326a327b892f8f8614f02a6604465ac0493af6c9f3424d"
     },
-    "version": "2.0.10",
+    "version": "3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
