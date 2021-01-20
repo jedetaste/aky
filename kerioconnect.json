@@ -4,12 +4,12 @@
     "bundle": "Kerio Connect.app",
     "identifier": "com.Kerio-Connect",
     "download": "https://app-update.kerio.com/connect/client/download?target=darwin-x64",
-    "sha256": "080c0dd2057d9a133f328e904b19cf1eb404d5d0f248400187571afabc5340ad",
+    "sha256": "66c80ef3f10a0d893bcd34c888ac858e731251a16bd2e46bf7de84f47c11ba97",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "9.3.0.16037",
+    "version": "9.3.1.16301",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
