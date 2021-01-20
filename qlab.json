@@ -3,7 +3,7 @@
     "id": "qlab",
     "bundle": "QLab.app",
     "identifier": "com.figure53.QLab.4",
-    "download": "https://qlab.app/downloads/QLab.zip",
+    "download": "https://qlab.app/downloads/archive/QLab-4.6.8.zip",
     "sha256": "32a88ee6bd79951feb5e3b90676fcfbfd0d9752b81f89bd570d5295402661412",
     "appcast": {
       "url": null,
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://qlab.app"
+    "web": "https://qlab.app",
+    "ci": "true"
   }
 }
