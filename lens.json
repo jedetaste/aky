@@ -6,13 +6,13 @@
     "processes": [
       "Lens"
     ],
-    "download": "https://github.com/lensapp/lens/releases/download/v4.0.7/Lens-4.0.7.dmg",
-    "sha256": "14f0eb0ebdf208ca4faa66b6b1198dea29cc27540ea545b8e2b0b4e9eccff15d",
+    "download": "https://github.com/lensapp/lens/releases/download/v4.0.8/Lens-4.0.8.dmg",
+    "sha256": "b7ae6f288f8dca6f3478cf5f1b2a1baf8b118e1ec77af8e25478ac1897d5a378",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.0.7",
+    "version": "4.0.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
