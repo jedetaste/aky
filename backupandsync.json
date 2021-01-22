@@ -4,12 +4,12 @@
     "bundle": "Backup and Sync.app",
     "identifier": "com.google.GoogleDrive",
     "download": "https://dl.google.com/drive/InstallBackupAndSync.dmg",
-    "sha256": "9d0f080aaa1dee23ca715b2ef41567b847bee3fcb2df99e1ddb906dae15ac830",
+    "sha256": "c92e9bd002aad696db9553b107db5598ea96c3d69971035c4e5e768ae9f066cf",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.53",
+    "version": "3.54",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
