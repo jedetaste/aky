@@ -3,13 +3,13 @@
     "id": "mattermost",
     "bundle": "Mattermost.app",
     "identifier": "Mattermost.Desktop",
-    "download": "https://github.com/mattermost/desktop/releases/download/v4.6.1/mattermost-desktop-4.6.1-mac.dmg",
-    "sha256": "980707d74dcb07cfe6cc1c8d8b6af52d6949c27e59f93c8c0364e41f2c7b3e27",
+    "download": "https://github.com/mattermost/desktop/releases/download/v4.6.2/mattermost-desktop-4.6.2-mac.dmg",
+    "sha256": "070d15efc32dfcad72554aee9192c6f56828ccda513b8af5db3229bc0ffb3b31",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.6.1",
+    "version": "4.6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
