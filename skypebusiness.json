@@ -3,13 +3,13 @@
     "id": "skypebusiness",
     "bundle": "Skype for Business.app",
     "identifier": "com.microsoft.SkypeForBusiness",
-    "download": "https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/SkypeForBusinessUpdater-16.29.41.pkg",
-    "sha256": "5fdd2d783caa0e90eea28406ae9ccd563ac564a2127bb9823740ba3fd2296687",
+    "download": "https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/SkypeForBusinessUpdater-16.29.42.pkg",
+    "sha256": "d9724e6652361915ef73b70f54a915f5f0971f6da56e148fad5486e1de1a0a8b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "16.29.41",
+    "version": "16.29.42",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
