@@ -4,12 +4,12 @@
     "bundle": "Webex.app",
     "identifier": "Cisco-Systems.Spark",
     "download": "https://binaries.webex.com/WebexTeamsDesktop-MACOS-Gold/WebexTeams.dmg",
-    "sha256": "31662546066af4b6461ee430165eb740dd447f2cf32839bbd5e0884276939493",
+    "sha256": "eecea555633387759ae2406195a28d3663c5d245da49032a35ee1e0578aef909",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "17621",
+    "version": "17740",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
