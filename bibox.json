@@ -3,8 +3,8 @@
     "id": "bibox",
     "bundle": "BiBox.app",
     "identifier": "de.westermann.bibox2",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/BiBox-2.0.14.pkg",
+    "sha256": "37cee2bd90ef5f106550e6b6b15e0c716788ded9245dea584b5b2f1f15f33371",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.bibox.schule/"
+    "web": "https://www.bibox.schule/",
+    "ci": "true",
+    "internal": "true"
   }
 }
