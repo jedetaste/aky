@@ -3,13 +3,13 @@
     "id": "bluej",
     "bundle": "BlueJ.app",
     "identifier": "org.bluej.BlueJ",
-    "download": "http://bluej.org/download/files/BlueJ-mac-422a.zip",
-    "sha256": "3cbd74cf312d2c61da6137f845e32434a9f827d9a585ef95c0e937ff7e9d960e",
+    "download": "http://bluej.org/download/files/BlueJ-mac-500.zip",
+    "sha256": "5f64a2492f1c6606de2c646e37e407615cc2febcfad479d9a7e9bc74ae95788f",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.2.2",
+    "version": "5.0.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
