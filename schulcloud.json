@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "schulcloud",
+    "bundle": "Schulcloud.app",
+    "identifier": "de.heinekingmedia.schulclouddesktopmessenger",
+    "download": "https://stashcat.s3-de-central.profitbricks.com/installer/schulcloud.dmg",
+    "sha256": "81a10f6a1f56596a183f0ec0121764ac6aa5e90d65e54a66a9d3e350acc8f798",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.21.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://schul.cloud/"
+  }
+}
