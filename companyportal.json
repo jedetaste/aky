@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "companyportal",
+    "bundle": "Company Portal.app",
+    "identifier": "com.microsoft.CompanyPortalMac",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/CompanyPortal_2.11.201100-Installer.pkg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.11.201100",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://docs.microsoft.com/en-us/mem/intune/user-help/enroll-your-device-in-intune-macos-cp"
+  }
+}
