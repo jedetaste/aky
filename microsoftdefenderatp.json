@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "microsoftdefenderatp",
+    "bundle": "Microsoft Defender ATP.app",
+    "identifier": "com.microsoft.wdav",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav.pkg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "101.19.48",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": null
+  }
+}
