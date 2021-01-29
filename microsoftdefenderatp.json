@@ -3,8 +3,8 @@
     "id": "microsoftdefenderatp",
     "bundle": "Microsoft Defender ATP.app",
     "identifier": "com.microsoft.wdav",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/wdav.pkg",
-    "sha256": null,
+    "download": "https://go.microsoft.com/fwlink/?linkid=2097502",
+    "sha256": "37e3f48edecc851c532d70d0bc2a7d1c25b94c0362f02007aa9c4395104f3701",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": null
+    "web": null,
+    "ci": "true"
   }
 }
