@@ -3,13 +3,13 @@
     "id": "boom3d",
     "bundle": "Boom 3D.app",
     "identifier": "com.globaldelight.Boom3D",
-    "download": "https://d3jbf8nvvpx3fh.cloudfront.net/Boom3D/Update/v1.3.7/Boom_3D_Update.dmg",
-    "sha256": "53db7742b2c81f721502b867e58cf57376e8397ab5b06ae38fb73ea772197b1a",
+    "download": "https://dfvk972795zr9.cloudfront.net/Boom3Dmac/webstore/Boom3D.dmg",
+    "sha256": "c4f18498f5ba5ba48af929c0fc9b7ad33b30691b8a21b184702c246fa2267ef1",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.3.7",
+    "version": "1.3.9",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
