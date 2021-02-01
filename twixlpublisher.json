@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "twixlpublisher",
+    "bundle": "Twixl Publisher.app",
+    "identifier": "com.twixlmedia.publisher.mac",
+    "download": "https://europe.content.twixlmedia.com/twixl-downloads/twixl_publisher_14.0_bld36241.dmg",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "14.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.topix.ch/twixl/publisher"
+  }
+}
