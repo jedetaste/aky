@@ -4,7 +4,7 @@
     "bundle": "Twixl Publisher.app",
     "identifier": "com.twixlmedia.publisher.mac",
     "download": "https://europe.content.twixlmedia.com/twixl-downloads/twixl_publisher_14.1_36376.zip",
-    "sha256": null,
+    "sha256": "094d9ccd6ee89b7887bba5dd64c6543d8c5d456a8ca7b71f0ab7b67f3ecb0364",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.topix.ch/twixl/publisher"
+    "web": "https://www.topix.ch/twixl/publisher",
+    "ci": "true"
   }
 }
