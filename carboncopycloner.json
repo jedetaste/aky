@@ -4,12 +4,12 @@
     "bundle": "Carbon Copy Cloner.app",
     "identifier": "com.bombich.ccc",
     "download": "https://bombich.com/software/download_ccc.php?v=latest",
-    "sha256": "aa0ff702e94409c69bbac1aa1551583980e610ea18186d2d88c385da22e61f0c",
+    "sha256": "7d32533b6da7b9f9cbae45c21280157c86ceaa4539609d74a0a02f8bc3221fdd",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.1.24",
+    "version": "5.1.25",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
