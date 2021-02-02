@@ -3,13 +3,13 @@
     "id": "appcleaner",
     "bundle": "AppCleaner.app",
     "identifier": "net.freemacsoft.AppCleaner",
-    "download": "https://freemacsoft.net/downloads/AppCleaner_3.5.1.zip",
-    "sha256": "64b707b4841458300b02374d4b95acfed27e453ba1bbf50f7d1fc4fb0f2d1b70",
+    "download": "https://freemacsoft.net/downloads/AppCleaner_3.6.zip",
+    "sha256": "812bcacd845fac07e073130d3fe4c5f037815d0774a9782e0e309fced1bded1c",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.5.1",
+    "version": "3.6.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
