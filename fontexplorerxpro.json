@@ -4,12 +4,12 @@
     "bundle": "FontExplorer X Pro.app",
     "identifier": "com.linotype.FontExplorerX",
     "download": "https://fex.linotype.com/download/mac/FontExplorerXPro.dmg",
-    "sha256": "9b275bb36d51943b93ff226c317d8caaf62d7e58b885614bbc5b1bc6d5ff02c2",
+    "sha256": "89c8a0dfb2f48527c00e87737cf37f6236edc95ebc824088384215642aa983b4",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "7.2.5",
+    "version": "7.2.6",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
