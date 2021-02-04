@@ -3,13 +3,13 @@
     "id": "cryptomator",
     "bundle": "Cryptomator.app",
     "identifier": "org.cryptomator",
-    "download": "https://github.com/cryptomator/cryptomator/releases/download/1.5.11/Cryptomator-1.5.11.dmg",
-    "sha256": "3570ae02917c91fc0d2a0a2a42a41aa5b0dcf00ae91e481a6d9ded4ee24ebf6f",
+    "download": "https://github.com/cryptomator/cryptomator/releases/download/1.5.12/Cryptomator-1.5.12.dmg",
+    "sha256": "ba20b0e0da7a440051bf7b4319a0fd0a4522af9cfeef81074620222970b5a57a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.5.11",
+    "version": "1.5.12",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
