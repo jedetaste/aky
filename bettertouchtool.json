@@ -3,13 +3,13 @@
     "id": "bettertouchtool",
     "bundle": "BetterTouchTool.app",
     "identifier": "com.hegenberg.BetterTouchTool",
-    "download": "https://bettertouchtool.net/releases/BetterTouchTool.zip",
-    "sha256": "f98f59035790780fae583cbaa984ed5e513a3beeca7a7c4045e43a0808476d11",
+    "download": "https://folivora.ai/releases/BetterTouchTool.zip",
+    "sha256": "45589d98168a43740e162e6b7b201ac5a7e263a39f54b3e242e7bb21707567f6",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.385",
+    "version": "3.540",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
