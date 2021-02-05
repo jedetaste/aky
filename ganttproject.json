@@ -3,13 +3,13 @@
     "id": "ganttproject",
     "bundle": "GanttProject.app",
     "identifier": "net.sourceforge.ganttproject",
-    "download": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-2.8.11/ganttproject-2.8.11-r2396.dmg",
-    "sha256": "b8f64286ca9c04f606336994785c5ed3995c1842f8b1d82199f7ad0bb01d2851",
+    "download": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.0.3000/ganttproject-3.0.3000.dmg",
+    "sha256": "be30dc8ded552109f16c4f4388a440f7a09aa3151632832cb30c62efb5d875de",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.8.11",
+    "version": "3.0.3000",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
