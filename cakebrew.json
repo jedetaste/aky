@@ -3,13 +3,13 @@
     "id": "cakebrew",
     "bundle": "Cakebrew.app",
     "identifier": "com.brunophilipe.Cakebrew",
-    "download": "https://cakebrew-377a.kxcdn.com/cakebrew-1.2.5.zip",
-    "sha256": "690d946282555d51a79935ddbff01fb4215dfe508eaa71a5652074754d65437f",
+    "download": "https://cakebrew-377a.kxcdn.com/cakebrew-1.2.7.zip",
+    "sha256": "5f4d071ef9e89b17884d8400640da3e5ca32ff685a534f6229cf495a15c0de68",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.2.5",
+    "version": "1.2.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
