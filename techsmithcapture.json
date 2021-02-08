@@ -4,12 +4,12 @@
     "bundle": "TechSmith Capture.app",
     "identifier": "com.techsmith.relayrecorder",
     "download": "https://assets.techsmith.com/techsmithcapture/mac/TechSmithCapture.dmg",
-    "sha256": "2c5741b430e8e5ca78803168d9a74bc3c78acfd5d3ad3cc3a56e782f7e98b8f3",
+    "sha256": "51adbd3e5dff918202ba845eb8dce7efe969724e1180bf2ffd86d7932fd14bc4",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.3.29",
+    "version": "1.3.31",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
