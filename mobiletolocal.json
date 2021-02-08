@@ -4,12 +4,12 @@
     "bundle": "Mobile to Local.app",
     "identifier": "com.jamf.pse.mobile-to-local",
     "download": "https://github.com/BIG-RAT/mobile_to_local/releases/download/current/Mobile.to.Local.zip",
-    "sha256": "3d2b4610af6b87f25a5133adae9f27bb57a5464f72e7c5d412e325f80524eabb",
+    "sha256": "b52f2d446f57999a3a06e1d4154d4406a86be419c538a8a66f3858627d057720",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.1.1",
+    "version": "2.5.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
