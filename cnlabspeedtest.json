@@ -4,12 +4,12 @@
     "bundle": "cnlabSpeedTest.app",
     "identifier": "ch.cnlab.performanceapplet.fx",
     "download": "https://download.cnlab.ch/performance/macos/cnlabSpeedTest.dmg",
-    "sha256": "f3074a2f01cc6679fa982e7f8e9f34b688027523b19c30e23559d1ccc8c77710",
+    "sha256": "1a9e1e000b4355aa27b38cbde6afb464f2d383b58037163f8303f5b86488668b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.9.1",
+    "version": "1.9.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
