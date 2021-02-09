@@ -3,13 +3,13 @@
     "id": "twixlpublisher",
     "bundle": "Twixl Publisher.app",
     "identifier": "com.twixlmedia.publisher.mac",
-    "download": "https://europe.content.twixlmedia.com/twixl-downloads/twixl_publisher_14.1_36376.zip",
-    "sha256": "094d9ccd6ee89b7887bba5dd64c6543d8c5d456a8ca7b71f0ab7b67f3ecb0364",
+    "download": "https://europe.content.twixlmedia.com/twixl-downloads/twixl_publisher_15.0_36477.zip",
+    "sha256": "e3a1443408028c784fcf3ad47463d984ebefb4de19b93b0bbcef1ab3bc4f6ae1",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "14.1",
+    "version": "15.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
