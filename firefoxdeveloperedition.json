@@ -6,8 +6,8 @@
     "processes": [
       "firefox"
     ],
-    "download": "https://releases.mozilla.org/pub/firefox/releases/86.0b4/mac/de/Firefox%2086.0b4.pkg",
-    "sha256": "12d293f8e0049262df9484d24a3bd7fcc00318c11478980659af7e79018a1441",
+    "download": "https://releases.mozilla.org/pub/firefox/releases/86.0b7/mac/de/Firefox%2086.0b7.pkg",
+    "sha256": "606766e40659c44b3003eede16fa15c7ab3183ae4bde983ecc46fba095f9fc33",
     "appcast": {
       "url": null,
       "checkpoint": null
