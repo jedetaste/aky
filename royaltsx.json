@@ -3,7 +3,7 @@
     "id": "royaltsx",
     "bundle": "Royal TSX.app",
     "identifier": "com.lemonmojo.RoyalTSX.App",
-    "download": "file:///Users/admin/Library/AutoPkg/Cache/local.pkg.RoyalTSX/Royal TSX/Applications/Royal TSX.app/Contents/Info.plist",
+    "download": "https://royaltsx-v4.royalapplications.com/updates/royaltsx_4.3.6.1000.dmg",
     "sha256": "9fd00742126a19acca5b93751c57236093639c7c77955af6375592dce4e44360",
     "appcast": {
       "url": null,
@@ -13,7 +13,6 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.royalapplications.com/ts/mac/features",
-    "ci": "true"
+    "web": "https://www.royalapplications.com/ts/mac/features"
   }
 }
