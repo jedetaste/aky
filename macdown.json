@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "macdown",
+    "bundle": "MacDown.app",
+    "identifier": "com.uranusjr.macdown",
+    "download": "https://macdown.uranusjr.com/download/latest/",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "0.7.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://macdown.uranusjr.com/"
+  }
+}
