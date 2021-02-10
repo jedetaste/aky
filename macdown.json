@@ -4,7 +4,7 @@
     "bundle": "MacDown.app",
     "identifier": "com.uranusjr.macdown",
     "download": "https://macdown.uranusjr.com/download/latest/",
-    "sha256": null,
+    "sha256": "57a0568354ee7af694e825f19f9f03b9844c6301c70ea04fb324b6efdf7fdcd0",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://macdown.uranusjr.com/"
+    "web": "https://macdown.uranusjr.com/",
+    "ci": "true"
   }
 }
