@@ -3,13 +3,13 @@
     "id": "devonthink",
     "bundle": "DEVONthink 3.app",
     "identifier": "com.devon-technologies.think3",
-    "download": "https://download.devontechnologies.com/download/devonthink/3.6.1/DEVONthink_3.app.zip",
-    "sha256": "4dd1a9b48db0008a0ff0552f55a6804f72baee68dda524317400b04e6a4e769c",
+    "download": "https://download.devontechnologies.com/download/devonthink/3.6.2/DEVONthink_3.app.zip",
+    "sha256": "9ede0c4b276d490cec4e15d77edb816f7723f2bc799f121b92957db1c61224ca",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.6.1",
+    "version": "3.6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
