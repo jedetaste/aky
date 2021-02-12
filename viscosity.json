@@ -4,12 +4,12 @@
     "bundle": "Viscosity.app",
     "identifier": "com.viscosityvpn.Viscosity",
     "download": "https://www.sparklabs.com/downloads/Viscosity.dmg",
-    "sha256": "b0b6a1115c9ed2a7ddc071c5e79deada80e45c6cb0443eab4d82bf783321075b",
+    "sha256": "7f076785e462b9d53235ae7f0eaf3a03b5a3a3e6403fe784566d7bc3c1a9851a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.9.1",
+    "version": "1.9.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
