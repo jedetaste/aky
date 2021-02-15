@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "flashprint",
+    "bundle": "FlashPrint.app",
+    "identifier": "FlashForge.FlashPrint",
+    "download": "https://en.fss.flashforge.com/10000/software/95de317a2d065f43d62d31c70790d0a9.zip",
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.6.1",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.flashforge.com/product-detail/40"
+  }
+}
