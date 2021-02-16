@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "pages",
+    "bundle": "Pages.app",
+    "identifier": "com.apple.iWork.Pages",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "10.3.9",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": null
+  }
+}
