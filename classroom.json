@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "classroom",
+    "bundle": "Classroom.app",
+    "identifier": "com.apple.macos.classroom",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.3",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": null
+  }
+}
