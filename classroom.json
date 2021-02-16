@@ -3,8 +3,8 @@
     "id": "classroom",
     "bundle": "Classroom.app",
     "identifier": "com.apple.macos.classroom",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Classroom-2.3.pkg",
+    "sha256": "88a1db3fc37bf09fb78317e82afb556749a3207ec76e7c09fee1522ae8b7235a",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": null
+    "web": null,
+    "ci": "true",
+    "internal": "true"
   }
 }
