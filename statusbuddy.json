@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "statusbuddy",
+    "bundle": "StatusBuddy.app",
+    "identifier": "codes.rambo.StatusBuddy",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "0.6.2",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": null
+  }
+}
