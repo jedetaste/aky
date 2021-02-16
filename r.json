@@ -3,13 +3,13 @@
     "id": "r",
     "bundle": "R.app",
     "identifier": "org.R-project.R",
-    "download": "https://cloud.r-project.org/bin/macosx/R-4.0.3.pkg",
-    "sha256": "0b29a47984bd95cf726e556933f2d87b2ca720f816e3d435c23630e08ac1e125",
+    "download": "https://cloud.r-project.org/bin/macosx/R-4.0.4.pkg",
+    "sha256": "7166d3dc0a034806e60dfc1de50c6e929536f89f184e78009020b30cc46c0ace",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "R 4.0.3 GUI 1.73 Catalina build",
+    "version": "R 4.0.4 GUI 1.74 Catalina build",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
