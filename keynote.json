@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "keynote",
+    "bundle": "Keynote.app",
+    "identifier": "com.apple.iWork.Keynote",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "10.3.9",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": null
+  }
+}
