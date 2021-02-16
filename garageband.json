@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "garageband",
+    "bundle": "GarageBand.app",
+    "identifier": "com.apple.garageband10",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "10.4.2",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": null
+  }
+}
