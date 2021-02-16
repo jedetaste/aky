@@ -4,12 +4,12 @@
     "bundle": "Microsoft Defender ATP.app",
     "identifier": "com.microsoft.wdav",
     "download": "https://go.microsoft.com/fwlink/?linkid=2097502",
-    "sha256": "37e3f48edecc851c532d70d0bc2a7d1c25b94c0362f02007aa9c4395104f3701",
+    "sha256": "91362b866f14e29a13eb4966671f883794c9e657025f4110d4675e997bb0b31d",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "101.19.48",
+    "version": "101.19.88",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
