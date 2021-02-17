@@ -3,8 +3,8 @@
     "id": "microsofttodo",
     "bundle": "Microsoft To Do.app",
     "identifier": "com.microsoft.to-do-mac",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Microsoft%20To%20Do-2.36.1.pkg",
+    "sha256": "d1b544274f16a738ed136d926e45c5be74e7e746ebffc5b135886c4ae0da0aac",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": null
+    "web": null,
+    "ci": "true",
+    "internal": "true"
   }
 }
