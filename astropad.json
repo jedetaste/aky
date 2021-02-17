@@ -3,13 +3,13 @@
     "id": "astropad",
     "bundle": "Astropad.app",
     "identifier": "com.astro-hq.AstropadMac",
-    "download": "https://s3.amazonaws.com/astropad.com/downloads/Astropad-3.5.0.dmg",
-    "sha256": "cfdc0334b757cd34f7cec08523cd45e8874da6f5c5815d3f57a003a4ad8217bc",
+    "download": "https://s3.amazonaws.com/astropad.com/downloads/Astropad-3.6.0.dmg",
+    "sha256": "5b3d2ae1f6a345a500253c95962b113ac06a6db1726dc3cfd3a0fe6d6a08c421",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.5.0",
+    "version": "3.6.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
