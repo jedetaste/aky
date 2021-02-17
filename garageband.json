@@ -3,8 +3,8 @@
     "id": "garageband",
     "bundle": "GarageBand.app",
     "identifier": "com.apple.garageband10",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/GarageBand-10.4.2.pkg",
+    "sha256": "2f485836434b195636b8b357087316a3d600d6b80d649e451c17f6044392ddd4",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": null
+    "web": null,
+    "ci": "true",
+    "internal": "true"
   }
 }
