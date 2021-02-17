@@ -3,8 +3,8 @@
     "id": "reenroller",
     "bundle": "ReEnroller.app",
     "identifier": "com.jamf.pse.ReEnroller",
-    "download": "https://github.com/jamf/ReEnroller/releases/download/current/ReEnroller.app.zip",
-    "sha256": "e3fe3820d019738fea24698c3c781633997b512676fa975988ed38ca9510b037",
+    "download": "https://github.com/jamf/ReEnroller/releases/download/current/ReEnroller.zip",
+    "sha256": "12a1ea034811694e521d7a52596e7b59a445526b3e87848ef51a4fddf938cf98",
     "appcast": {
       "url": null,
       "checkpoint": null
