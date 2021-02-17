@@ -3,13 +3,13 @@
     "id": "microsoftword",
     "bundle": "Microsoft Word.app",
     "identifier": "com.microsoft.Word",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.45.21011103_Updater.pkg",
-    "sha256": "b9755309ed532f34fe9564e45ef512d2f16c40c51e017e70325d756ab7f9ebca",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.46.21021202_Updater.pkg",
+    "sha256": "e2937082a82b893ab66d20035632886c8be8f1ce718b668854b8188cd149b94a",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "16.45.21011103",
+    "version": "16.46.21021202",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
