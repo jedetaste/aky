@@ -3,8 +3,8 @@
     "id": "pages",
     "bundle": "Pages.app",
     "identifier": "com.apple.iWork.Pages",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Pages-10.3.9.pkg",
+    "sha256": "bb3544c076c2876ce4f410114d8f327442a6367384badb4adacb3c3b6d2ef6c8",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": null
+    "web": null,
+    "ci": "true",
+    "internal": "true"
   }
 }
