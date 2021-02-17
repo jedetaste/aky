@@ -3,8 +3,8 @@
     "id": "keynote",
     "bundle": "Keynote.app",
     "identifier": "com.apple.iWork.Keynote",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Keynote-10.3.9.pkg",
+    "sha256": "0b86c0aae32eefdeaac984b35f8ee1b6cb9d296847978e450673e3868eb26e1f",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": null
+    "web": null,
+    "ci": "true",
+    "internal": "true"
   }
 }
