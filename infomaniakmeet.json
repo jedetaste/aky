@@ -4,12 +4,12 @@
     "bundle": "Infomaniak Meet.app",
     "identifier": "com.infomaniak.meet",
     "download": "https://download.storage.infomaniak.com/meet/infomaniak-meet.dmg",
-    "sha256": "c3b2f9abeac3f77ab0e7d6956eb6280fa787512ed327354285b79d3a22c0baab",
+    "sha256": "8f510e1d45e87e6e81afd031f1be91605bfe8d09c94360cd5372c3db1d383bdb",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.1.7",
+    "version": "1.1.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
