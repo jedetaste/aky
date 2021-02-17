@@ -3,8 +3,8 @@
     "id": "imovie",
     "bundle": "iMovie.app",
     "identifier": "com.apple.iMovieApp",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/iMovie-10.2.2.pkg",
+    "sha256": "842a3b15fe5be27f07e33d017a7f477f845b9bb622d7e618eb9e28c3b924cfed",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": null
+    "web": null,
+    "ci": "true",
+    "internal": "true"
   }
 }
