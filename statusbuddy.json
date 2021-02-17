@@ -3,8 +3,8 @@
     "id": "statusbuddy",
     "bundle": "StatusBuddy.app",
     "identifier": "codes.rambo.StatusBuddy",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/StatusBuddy-0.6.2.pkg",
+    "sha256": "8c675bddb6ccc5234c584e8fb19ef7b0aaa878d42bd79fb6c45d4aecbccc6e13",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": null
+    "web": null,
+    "ci": "true",
+    "internal": "true"
   }
 }
