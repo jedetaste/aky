@@ -3,8 +3,8 @@
     "id": "numbers",
     "bundle": "Numbers.app",
     "identifier": "com.apple.iWork.Numbers",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Numbers-10.3.9.pkg",
+    "sha256": "2466e0f69de99a9b39e9fff4bdbe97105e028ea42b4af980985f9983632c2a6c",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": null
+    "web": null,
+    "ci": "true",
+    "internal": "true"
   }
 }
