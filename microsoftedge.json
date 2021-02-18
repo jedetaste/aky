@@ -4,12 +4,12 @@
     "bundle": "Microsoft Edge.app",
     "identifier": "com.microsoft.edgemac",
     "download": "https://go.microsoft.com/fwlink/?linkid=2069148",
-    "sha256": "5ccda5b043dd3ec7cf5f31ae268096815ab4c9db995b98e3f7475fd8d18fc643",
+    "sha256": "e2327ee5129e1bfbbdc80ad1694a7d5578f4cb5a75db831d3f8f8526d2327495",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "88.0.705.68",
+    "version": "88.0.705.74",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
