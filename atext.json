@@ -3,8 +3,8 @@
     "id": "atext",
     "bundle": "aText.app",
     "identifier": "com.trankynam.aText",
-    "download": null,
-    "sha256": null,
+    "download": "https://www.trankynam.com/atext/downloads/aText.dmg",
+    "sha256": "f9dc1dd059909c4912791079da21d651c0cae94cfbc43fbef5b3c0266b8bfe94",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": "https://www.trankynam.com/atext/"
+    "web": "https://www.trankynam.com/atext/",
+    "ci": "true"
   }
 }
