@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "atext",
+    "bundle": "aText.app",
+    "identifier": "com.trankynam.aText",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.36.6",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": null
+  }
+}
