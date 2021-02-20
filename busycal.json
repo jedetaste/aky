@@ -3,8 +3,8 @@
     "id": "busycal",
     "bundle": "BusyCal.app",
     "identifier": "com.busymac.busycal3",
-    "download": null,
-    "sha256": null,
+    "download": "https://www.busymac.com/download/BusyCal.zip",
+    "sha256": "35d414212d163e8a3a34fefbc19f4fcb7e8ae2a7aa324d40d06228fd2f4eb00b",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": "https://busymac.com/busycal/index.html"
+    "web": "https://busymac.com/busycal/index.html",
+    "ci": "true"
   }
 }
