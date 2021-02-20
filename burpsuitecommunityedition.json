@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "burp suite community edition",
+    "bundle": "Burp Suite Community Edition.app",
+    "identifier": "com.install4j.9806-1938-4586-6531.70",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2021.2.1",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://portswigger.net/burp/"
+  }
+}
