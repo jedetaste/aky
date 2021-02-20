@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "aquamacs",
+    "bundle": "Aquamacs.app",
+    "identifier": "org.gnu.Aquamacs",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.5",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": null
+  }
+}
