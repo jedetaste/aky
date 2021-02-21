@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "karabinerelements",
+    "bundle": "Karabiner-Elements.app",
+    "identifier": "org.pqrs.Karabiner-Elements.Preferences",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "13.3.0",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://pqrs.org/osx/karabiner/"
+  }
+}
