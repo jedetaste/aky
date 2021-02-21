@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "lyx",
+    "bundle": "LyX.app",
+    "identifier": "org.lyx.lyx",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.3.6",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://www.lyx.org/"
+  }
+}
