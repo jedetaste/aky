@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "recipebuilder",
+    "bundle": "RecipeBuilder.app",
+    "identifier": "se.dicom.RecipeBuilder",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.03",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://github.com/mikaellofgren/RecipeBuilder"
+  }
+}
