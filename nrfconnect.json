@@ -3,8 +3,8 @@
     "id": "nrfconnect",
     "bundle": "nRF Connect.app",
     "identifier": "com.nordicsemi.nrfconnect",
-    "download": null,
-    "sha256": null,
+    "download": "https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/releases/download/v3.6.1/nrfconnect-3.6.1.dmg",
+    "sha256": "27589e37e9fa56a67301d645e1b05f57d347e78b90b9fa12d112d868546691cf",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": "https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop/"
+    "web": "https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop/",
+    "ci": "true"
   }
 }
