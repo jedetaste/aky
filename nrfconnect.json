@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "nrfconnect",
+    "bundle": "nRF Connect.app",
+    "identifier": "com.nordicsemi.nrfconnect",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "3.6.1",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop/"
+  }
+}
