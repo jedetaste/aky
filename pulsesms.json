@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "pulsesms",
+    "bundle": "Pulse SMS.app",
+    "identifier": "xyz.klinker.messenger",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.3.0",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://messenger.klinkerapps.com/overview/platform-mac.html"
+  }
+}
