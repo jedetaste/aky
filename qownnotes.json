@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "qownnotes",
+    "bundle": "QOwnNotes.app",
+    "identifier": "com.PBE.QOwnNotes",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "21.2.3",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://www.qownnotes.org/"
+  }
+}
