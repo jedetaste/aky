@@ -3,8 +3,8 @@
     "id": "scrollreverser",
     "bundle": "Scroll Reverser.app",
     "identifier": "com.pilotmoon.scroll-reverser",
-    "download": null,
-    "sha256": null,
+    "download": "https://pilotmoon.com/downloads/ScrollReverser-1.8.zip",
+    "sha256": "57914a55c6ffc1687b2a5d2c559cd065dff90994814ce10741cb72c4b5ef1682",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": "https://pilotmoon.com/scrollreverser/"
+    "web": "https://pilotmoon.com/scrollreverser/",
+    "ci": "true"
   }
 }
