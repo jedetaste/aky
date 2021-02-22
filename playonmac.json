@@ -3,8 +3,8 @@
     "id": "playonmac",
     "bundle": "PlayOnMac.app",
     "identifier": "org.playonmac.playonmac",
-    "download": null,
-    "sha256": null,
+    "download": "https://repository.playonmac.com/PlayOnMac/PlayOnMac_4.4.2.dmg",
+    "sha256": "8f458bcf14ed7431acfec1dc79d0e917bf450da89c78a13b5a6f3deeddbe4a8b",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": "https://www.playonmac.com/"
+    "web": "https://www.playonmac.com/",
+    "ci": "true"
   }
 }
