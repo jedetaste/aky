@@ -4,12 +4,12 @@
     "bundle": "ClickCharts.app",
     "identifier": "com.nchsoftware.clickchart",
     "download": "https://www.nchsoftware.com/chart/clickchartspmaci.zip",
-    "sha256": "2acb60afc70cf7660d2cd1d45e6c989aff288853bbea0d4611ea933ddab4a389",
+    "sha256": "06ce382486c61aaf7d25eccaca6dd2cf4d3bd4a7e0ab92191fe4a7ea1684007b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.70",
+    "version": "5.80",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
