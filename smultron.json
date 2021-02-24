@@ -4,15 +4,16 @@
     "bundle": "Smultron.app",
     "identifier": "com.peterborgapps.Smultron12",
     "download": "https://www.peterborgapps.com/downloads/Smultron12.zip",
-    "sha256": null,
+    "sha256": "30afee08e10b9289a69a0c3efa37e3c894779949eb7c24f920c4adb152b2e369",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "12.2.6",
+    "version": "12.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.peterborgapps.com/smultron/"
+    "web": "https://www.peterborgapps.com/smultron/",
+    "ci": "true"
   }
 }
