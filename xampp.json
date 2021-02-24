@@ -3,8 +3,8 @@
     "id": "xampp",
     "bundle": "XAMPP.app",
     "identifier": "com.bitnami.stackman",
-    "download": null,
-    "sha256": null,
+    "download": "https://www.apachefriends.org/xampp-files/8.0.2/xampp-osx-8.0.2-0-vm.dmg",
+    "sha256": "05c86f69e862407a502d4c72d31ea96b9a140add673bf1fa685d34ee4211e98f",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": "https://www.apachefriends.org/index.html"
+    "web": "https://www.apachefriends.org/index.html",
+    "ci": "true"
   }
 }
