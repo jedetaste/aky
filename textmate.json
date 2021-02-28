@@ -3,13 +3,13 @@
     "id": "textmate",
     "bundle": "TextMate.app",
     "identifier": "com.macromates.TextMate",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/TextMate2-2.0.17.pkg",
-    "sha256": "0ca2add939209fe2a617978eb140f94845de49694eb4fa2f938ae1766ae5cf55",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/TextMate2-2.0.19.pkg",
+    "sha256": "2bdb67c4e71136c543e3c4789880afdf6b1ee255e50fa38a45c80f37d525a440",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.0.17",
+    "version": "2.0.19",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
