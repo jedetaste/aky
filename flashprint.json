@@ -3,16 +3,17 @@
     "id": "flashprint",
     "bundle": "FlashPrint.app",
     "identifier": "FlashForge.FlashPrint",
-    "download": "https://en.fss.flashforge.com/10000/software/95de317a2d065f43d62d31c70790d0a9.zip",
-    "sha256": null,
+    "download": "http://www.ishare3d.com/3dapp/public/FlashPrint-ii/FlashPrint/FlashPrint_4.6.2_mac.zip",
+    "sha256": "cb7163cac132b12d6d5dd7d048dd6262c3aa4b099611202c4207e4f6b0fae996",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.6.1",
+    "version": "4.6.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.flashforge.com/product-detail/40"
+    "web": "https://www.flashforge.com/product-detail/40",
+    "ci": "true"
   }
 }
