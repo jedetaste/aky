@@ -3,13 +3,13 @@
     "id": "citrixworkspace",
     "bundle": "Citrix Workspace.app",
     "identifier": "com.citrix.receiver.nomas",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Citrix%20Workspace-21.01.0.pkg",
-    "sha256": "d780fec9088bfcf5faf3a8afec961bd4ac6ce7a14c3cd5494d4d66e789a3bc45",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Citrix%20Workspace-21.02.0.pkg",
+    "sha256": "14d19f8d47912cade379c99f545484e91bf04f48a463169957e8af75e7598b67",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "21.01.0",
+    "version": "21.02.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
