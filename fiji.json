@@ -3,16 +3,18 @@
     "id": "fiji",
     "bundle": "Fiji.app",
     "identifier": "org.fiji",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Fiji-1.53h.pkg",
+    "sha256": "b3947060134afdb02094480f4d62ac5889beeff7b38ba836ccf2fd2e2ad5a64e",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": null,
+    "version": "1.0",
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": "https://fiji.sc/"
+    "web": "https://fiji.sc/",
+    "ci": "true",
+    "internal": "true"
   }
 }
