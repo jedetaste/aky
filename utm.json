@@ -3,8 +3,8 @@
     "id": "utm",
     "bundle": "UTM.app",
     "identifier": "com.utmapp.UTM",
-    "download": null,
-    "sha256": null,
+    "download": "https://github.com/utmapp/UTM/releases/download/v2.0.22/UTM.dmg",
+    "sha256": "766902ec3dcdb55ceba605aae8d45fc0cfbf7534b15aff8c0d1bb825f0325ac8",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": "https://getutm.app/"
+    "web": "https://getutm.app/",
+    "ci": "true"
   }
 }
