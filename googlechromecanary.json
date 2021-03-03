@@ -4,12 +4,12 @@
     "bundle": "Google Chrome Canary.app",
     "identifier": "com.google.Chrome.canary",
     "download": "https://dl.google.com/release2/q/canary/googlechrome.dmg",
-    "sha256": "07f124aa347ba1583b35f59d30f5a4787f585edce036e490ee1c5fb20c78ca2b",
+    "sha256": "918ce48d086176d817c42a1bfe13b5e50efd8c0d143c368c597ccf64f6ef4ba0",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "91.0.4434.0",
+    "version": "91.0.4435.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
