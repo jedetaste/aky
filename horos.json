@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "horos",
+    "bundle": "Horos.app",
+    "identifier": "org.horosproject.horos",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.0.0",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://horosproject.org/"
+  }
+}
