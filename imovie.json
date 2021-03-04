@@ -3,13 +3,13 @@
     "id": "imovie",
     "bundle": "iMovie.app",
     "identifier": "com.apple.iMovieApp",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/iMovie-10.2.2.pkg",
-    "sha256": "842a3b15fe5be27f07e33d017a7f477f845b9bb622d7e618eb9e28c3b924cfed",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/iMovie-10.2.3.pkg",
+    "sha256": "05c7e66ef2760d2d8bb44e1a3741614e065fb8d8550b295eb6d5dc14094ddf89",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "10.2.2",
+    "version": "10.2.3",
     "build": null,
     "symlink": null,
     "dir": "/Applications",
