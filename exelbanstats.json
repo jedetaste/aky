@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "exelbanstats",
+    "bundle": "Stats.app",
+    "identifier": "eu.exelban.Stats",
+    "download": "https://github.com/exelban/stats/releases/latest/download/Stats.dmg",
+    "sha256": "cfbbf95bc1a9894cc9d8c1c32bd15d15878090be86a79be419ad510af4f9a8e4",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.5.3",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://github.com/exelban/stats"
+  }
+}
