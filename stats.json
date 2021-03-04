@@ -1,6 +1,6 @@
 {
   "recipe": {
-    "id": "exelbanstats",
+    "id": "stats",
     "bundle": "Stats.app",
     "identifier": "eu.exelban.Stats",
     "download": "https://github.com/exelban/stats/releases/latest/download/Stats.dmg",
