@@ -4,12 +4,12 @@
     "bundle": "LehrerOffice.app",
     "identifier": "ch.rothsoft.lehreroffice.desktop",
     "download": "https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_macos.dmg",
-    "sha256": "332903a08e76f685b0b0cfb8ac41663d590477e3694830f974a0a537a039c216",
+    "sha256": "d097e366c353ca7c4b81e99cac52400b4ba69c8b475f6dc29d52c298a50e8b01",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2021.1.0",
+    "version": "2021.2.0",
     "build": null,
     "dir": "/Applications/LehrerOffice",
     "symlink": null,
