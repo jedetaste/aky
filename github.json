@@ -4,12 +4,12 @@
     "bundle": "GitHub Desktop.app",
     "identifier": "com.github.GitHubClient",
     "download": "https://central.github.com/deployments/desktop/desktop/latest/darwin",
-    "sha256": "9e9e99042752b954b67cca6c678010969cbba1553761794d25be85923ab554e1",
+    "sha256": "f69916a4b8aa16ca6b6999a0d4c7375e0bf2d5b6c4451f495a7a32317e19b751",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.6.4",
+    "version": "2.6.5",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
