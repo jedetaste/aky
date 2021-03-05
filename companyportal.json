@@ -4,12 +4,12 @@
     "bundle": "Company Portal.app",
     "identifier": "com.microsoft.CompanyPortalMac",
     "download": "https://go.microsoft.com/fwlink/?linkid=869655",
-    "sha256": "9b327c4b47129b4bb25e0de4ca16387187e8d7f134f2ff4c58c197f7c26b4abc",
+    "sha256": "dfb993cd12f3165d56e8c3580bca558c565736b4ddfdef85249e9560a082809f",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.12.210101",
+    "version": "2.13.210200",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
