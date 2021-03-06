@@ -3,8 +3,8 @@
     "id": "visualstudiocode",
     "bundle": "Visual Studio Code.app",
     "identifier": "com.microsoft.VSCode",
-    "download": "https://go.microsoft.com/fwlink/?LinkID=620882",
-    "sha256": "9f5cf75b019933e7a61ff6410830b435a8a2e32c6b8a685b8b17f1ef33c0ba8e",
+    "download": "https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal",
+    "sha256": "da6c736b9a05187a33aa333e61f0f15afcfac2749680bc0e2c0ba4666dd6e027",
     "appcast": {
       "url": null,
       "checkpoint": null
