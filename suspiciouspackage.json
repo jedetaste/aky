@@ -4,12 +4,12 @@
     "bundle": "Suspicious Package.app",
     "identifier": "com.mothersruin.SuspiciousPackageApp",
     "download": "https://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg",
-    "sha256": "86163e9b3f7e322b7d9fddd1d11ce88829baa0b4a91515c9c135cf6379e4432e",
+    "sha256": "e848c8b5ce56c71307d8b2808c79c319c171b2d64cafceb3ebbd1072231b87e4",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.6",
+    "version": "3.7",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
