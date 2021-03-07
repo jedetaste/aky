@@ -3,13 +3,13 @@
     "id": "jamovi",
     "bundle": "jamovi.app",
     "identifier": "org.jamovi.jamovi",
-    "download": "https://www.jamovi.org/downloads/jamovi-1.6.16.0-macos.dmg",
-    "sha256": "bad4c86854b9932889d5cb03d42647a1bd89f001443eb6718b28d094c55d8f4a",
+    "download": "https://www.jamovi.org/downloads/jamovi-1.6.18.0-macos.dmg",
+    "sha256": "148e9e9dc56b9ed2833e494b90c836dc05cf1afa8091901252179389d608509f",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.6.16.0",
+    "version": "1.6.18.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
