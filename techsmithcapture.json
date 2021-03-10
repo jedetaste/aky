@@ -3,13 +3,13 @@
     "id": "techsmithcapture",
     "bundle": "TechSmith Capture.app",
     "identifier": "com.techsmith.relayrecorder",
-    "download": "https://assets.techsmith.com/techsmithcapture/mac/TechSmithCapture.dmg",
-    "sha256": "51adbd3e5dff918202ba845eb8dce7efe969724e1180bf2ffd86d7932fd14bc4",
+    "download": "https://cdn.cloud.techsmith.com/techsmithcapture/mac/TechSmithCapture.dmg",
+    "sha256": "54b0bbfae282164f4e0656d17e6e6489539a520a570f43c08dfa8683198ab815",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.3.31",
+    "version": "1.3.33",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
