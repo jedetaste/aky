@@ -3,13 +3,13 @@
     "id": "wireshark",
     "bundle": "Wireshark.app",
     "identifier": "org.wireshark.Wireshark",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Wireshark-3.4.3.pkg",
-    "sha256": "324f0f8316f3bb714859339e24971da5a7028f736a057a4b5d1bb486fe8e4066",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Wireshark-3.4.4.pkg",
+    "sha256": "fe0cc389716166bf113b2bdcd498551d9498e40fd0eae7cba0ca09dc1d9ac117",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.4.3",
+    "version": "3.4.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
