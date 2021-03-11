@@ -4,12 +4,12 @@
     "bundle": "Keka.app",
     "identifier": "com.aone.keka",
     "download": "https://d.keka.io/",
-    "sha256": "9d690bce601481df9584771f17bc6c8a66a8966383b9a505491f526ed76797fb",
+    "sha256": "af00e4de1a425d19a0a87455222a7bae9c0675301caf84161cd4c315f8aee084",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.2.11",
+    "version": "1.2.12",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
