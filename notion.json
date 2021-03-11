@@ -4,12 +4,12 @@
     "bundle": "Notion.app",
     "identifier": "notion.id",
     "download": "https://www.notion.so/desktop/mac/download",
-    "sha256": "e3d736d730a6fb04d446328a82cc396e5a9af513588e8a3f266614830a8234c1",
+    "sha256": "a1213c8b9fb976ca380df3a506f214f3cc6871b89e1290acb54433698bd78ce4",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.0.15",
+    "version": "2.0.16",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
