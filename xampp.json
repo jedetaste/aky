@@ -3,8 +3,8 @@
     "id": "xampp",
     "bundle": "XAMPP.app",
     "identifier": "com.bitnami.stackman",
-    "download": "https://www.apachefriends.org/xampp-files/8.0.2/xampp-osx-8.0.2-0-vm.dmg",
-    "sha256": "05c86f69e862407a502d4c72d31ea96b9a140add673bf1fa685d34ee4211e98f",
+    "download": "https://www.apachefriends.org/xampp-files/8.0.3/xampp-osx-8.0.3-0-vm.dmg",
+    "sha256": "e9886e06e3d98fe542392250628c7f937d1b1aa181513183d04c56defa542cd2",
     "appcast": {
       "url": null,
       "checkpoint": null
