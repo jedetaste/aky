@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "dialog",
+    "bundle": "dialog.app",
+    "identifier": "au.bartreardon.dialog",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "0.3.3",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications/Utilities",
+    "web": null
+  }
+}
