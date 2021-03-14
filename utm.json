@@ -3,13 +3,13 @@
     "id": "utm",
     "bundle": "UTM.app",
     "identifier": "com.utmapp.UTM",
-    "download": "https://github.com/utmapp/UTM/releases/download/v2.0.22/UTM.dmg",
-    "sha256": "766902ec3dcdb55ceba605aae8d45fc0cfbf7534b15aff8c0d1bb825f0325ac8",
+    "download": "https://github.com/utmapp/UTM/releases/download/v2.0.23/UTM.dmg",
+    "sha256": "7ef01c5c88645356d0236f38beb1f94ef9f305230d283442e08622f1d92acc7c",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.0.22",
+    "version": "2.0.23",
     "build": null,
     "symlink": null,
     "dir": "/Applications",
