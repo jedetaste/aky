@@ -3,13 +3,13 @@
     "id": "dialog",
     "bundle": "dialog.app",
     "identifier": "au.bartreardon.dialog",
-    "download": "https://github.com/bartreardon/Dialog-public/releases/download/v0.3.3-Beta/dialog.0.3.3.zip",
-    "sha256": "d90eb01af074b2f6895beac2c8138d65bb666ff53430e4f4407c1b097b959b1b",
+    "download": "https://github.com/bartreardon/Dialog-public/releases/download/v0.3.4-Beta/dialog.0.3.4.zip",
+    "sha256": "e6cc07408cdb5257f35e6da1ab353fbc1ebab3d1689db37aacb613a8bb8ccab7",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "0.3.3",
+    "version": "0.3.4",
     "build": null,
     "symlink": null,
     "dir": "/Applications/Utilities",
