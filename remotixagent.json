@@ -4,12 +4,12 @@
     "bundle": "Remotix Agent.app",
     "identifier": "com.nulana.rxagentmac",
     "download": "https://remotix.com/downloads/latest-agent-mac/",
-    "sha256": "73faf4bdc58297e152d5920f3181c11708b7c39943640d988d76b1050f54f0d1",
+    "sha256": "1eab4bbb375585b30b09dd130f83780c0a3f1ada1f6fe1e94b69593b1597e441",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.5",
+    "version": "1.5.4",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
