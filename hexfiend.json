@@ -3,13 +3,13 @@
     "id": "hexfiend",
     "bundle": "Hex Fiend.app",
     "identifier": "com.ridiculousfish.HexFiend",
-    "download": "https://github.com/HexFiend/HexFiend/releases/download/v2.14.0/Hex_Fiend_2.14.dmg",
-    "sha256": "5ddb0f43e014fe6963f0a60776ab3fccac2da3e973be252ebddd664ca1954a7f",
+    "download": "https://github.com/HexFiend/HexFiend/releases/download/v2.14.1/Hex_Fiend_2.14.1.dmg",
+    "sha256": "aeb1c364376b31748761185e6069fc2eb4724ea7d6d33e954460e096aa54470b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.14",
+    "version": "2.14.1",
     "build": null,
     "symlink": null,
     "dir": "/Applications",
