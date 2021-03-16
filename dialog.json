@@ -1,7 +1,7 @@
 {
   "recipe": {
     "id": "dialog",
-    "bundle": "dialog.app",
+    "bundle": "Dialog.app",
     "identifier": "au.bartreardon.dialog",
     "download": "https://github.com/bartreardon/Dialog-public/releases/download/v0.3.6-Beta/Dialog_0.3.6.zip",
     "sha256": "fbb5eaa8673e69d0c6c4bbf65a5cab101f5f22ec8dcaae6866133117795a4eb2",
