@@ -3,13 +3,13 @@
     "id": "webstorm",
     "bundle": "WebStorm.app",
     "identifier": "com.jetbrains.WebStorm",
-    "download": "https://download.jetbrains.com/webstorm/WebStorm-2020.3.2.dmg",
-    "sha256": "2db0636018b8ab450e5f4fcd09c92115d422b150884dc0fdf4968efd8113d417",
+    "download": "https://download.jetbrains.com/webstorm/WebStorm-2020.3.3.dmg",
+    "sha256": "05997f0f0171ead020202ba7e2c38634164138f1731d76dc3528705141869dc9",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2020.3.2",
+    "version": "2020.3.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
