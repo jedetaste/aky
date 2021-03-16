@@ -3,13 +3,13 @@
     "id": "microsoftexcel",
     "bundle": "Microsoft Excel.app",
     "identifier": "com.microsoft.Excel",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.46.21021202_Updater.pkg",
-    "sha256": "819bf0f5372842822bb62e4d4e921203d7644d489998642c4b144fddf9274de8",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.47.21031401_Updater.pkg",
+    "sha256": "bc4da4c89170a78ffc0b2040c037a512a1ae697758ae89f529e8a2a1b7a78446",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "16.46.21021202",
+    "version": "16.47.21031401",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
