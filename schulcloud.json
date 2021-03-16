@@ -4,12 +4,12 @@
     "bundle": "Schulcloud.app",
     "identifier": "de.heinekingmedia.schulclouddesktopmessenger",
     "download": "https://cc.schul.cloud/file/download/schulcloud.dmg",
-    "sha256": "12046306fe97e10c9cd79139721ce3d3a271d669cf247235f2be6b7cc1461014",
+    "sha256": "7ae34de652e7a8a9b68ce60f1ae132be500f6519b3840db10df910ff03e3c22c",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.23.0",
+    "version": "3.25.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
