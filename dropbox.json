@@ -4,12 +4,12 @@
     "bundle": "Dropbox.app",
     "identifier": "com.getdropbox.dropbox",
     "download": "https://www.dropbox.com/download?plat=mac&full=1",
-    "sha256": "c15134ba2b5d68ca74e7881f70c7ccc20e1a5a7b7d0ec7f1d105d7a844c17379",
+    "sha256": "1ad4e7b251bc27623d9c68672c1cc2d7232fdd98708444789ab7ff918d4ac72c",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "117.4.378",
+    "version": "118.4.460",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
