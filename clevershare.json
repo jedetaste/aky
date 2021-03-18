@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "clevershare",
+    "bundle": "Clevershare.app",
+    "identifier": "com.cvte.clevershare.mac",
+    "download": "https://saharaplc.s3.eu-west-2.amazonaws.com/Clevershare+2+Clients/Clevershare_Mac.2.3.0.4907.dmg",
+    "sha256": "a824945ef4e76a0ab1ce615fd1c0190ce4a6c428b0937b96bde5680926f5070b",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.3.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.clevertouch.com/de/products/software/clevershare"
+  }
+}
