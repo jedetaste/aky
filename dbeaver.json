@@ -3,13 +3,13 @@
     "id": "dbeaver",
     "bundle": "DBeaver.app",
     "identifier": "org.jkiss.dbeaver.core.product",
-    "download": "https://github.com/dbeaver/dbeaver/releases/download/21.0.0/dbeaver-ce-21.0.0-macos.dmg",
-    "sha256": "db25d2369bbfaa452538e56adfa272f2e6dcca08055a2c5eb2a41884d08eb39b",
+    "download": "https://github.com/dbeaver/dbeaver/releases/download/21.0.1/dbeaver-ce-21.0.1-macos.dmg",
+    "sha256": "6eaed8a58f4f27f11a32dd65f415e27291bc65c844a1cbb4c5ee4c9cf1335fb4",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "21.0.0",
+    "version": "21.0.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
