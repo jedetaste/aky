@@ -4,12 +4,12 @@
     "bundle": "aText.app",
     "identifier": "com.trankynam.aText",
     "download": "https://www.trankynam.com/atext/downloads/aText.dmg",
-    "sha256": "868b2f200d886ed328dee76080626eebb0373c285e59c22157223bb1e6648714",
+    "sha256": "242e06992367570236a18b174d9d04a48362bfada36639744fc7d56f660dce97",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.37",
+    "version": "2.37.1",
     "build": null,
     "symlink": null,
     "dir": "/Applications",
