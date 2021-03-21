@@ -3,13 +3,13 @@
     "id": "qownnotes",
     "bundle": "QOwnNotes.app",
     "identifier": "com.PBE.QOwnNotes",
-    "download": "https://github.com/pbek/QOwnNotes/releases/download/v21.3.2/QOwnNotes.dmg",
-    "sha256": "1745f24dabbc2c13479e615054e59bb2f1e1ce1756a934c037c4da0b6c993347",
+    "download": "https://github.com/pbek/QOwnNotes/releases/download/v21.3.3/QOwnNotes.dmg",
+    "sha256": "a08b28a562ac93484cb8278f63c632771ff146095ee3afc1e5e8a07ac47701ee",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "21.3.2",
+    "version": "21.3.3",
     "build": null,
     "symlink": null,
     "dir": "/Applications",
