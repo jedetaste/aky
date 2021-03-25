@@ -1,0 +1,19 @@
+{
+  "recipe": {
+    "id": "reflector4",
+    "bundle": "Reflector 4.app",
+    "identifier": "com.squirrels.Reflector-4",
+    "download": "https://download.airsquirrels.com/Reflector4/Mac/Reflector-4.0.0.dmg",
+    "sha256": "41fecbb26673dad787b32c4763f9d2049c61d571c49783cdc20e866d9a91f7d5",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.0.0",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.airsquirrels.com/reflector/",
+    "ci": "true"
+  }
+}
