@@ -3,13 +3,13 @@
     "id": "enpass",
     "bundle": "Enpass.app",
     "identifier": "in.sinew.Enpass-Desktop.App",
-    "download": "https://dl.enpass.io/stable/mac/package/6.6.0.775/Enpass.pkg",
-    "sha256": "d5c08071267e91bbd5428e580d38b72d27a2c9ddd6ba4b2afb3d04e3b8f55cc1",
+    "download": "https://dl.enpass.io/stable/mac/package/6.6.1.809/Enpass.pkg",
+    "sha256": "9f8e3e60faab1d233497636ec1ce31f2f81e21ead62c88f39c0ba19eaa0e9cdf",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "6.6.0",
+    "version": "6.6.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
