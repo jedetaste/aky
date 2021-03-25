@@ -4,12 +4,12 @@
     "bundle": "LehrerOffice-DBAdmin.app",
     "identifier": "ch.rothsoft.sqlserver.cubesql.dbadmin",
     "download": "https://cmi-bildung.ch/lo/dateien/db/lo_dbadmin_macos.dmg",
-    "sha256": "7c9a8b570a04a276bcd4649896b26c976b89487d0b002b041ad2773e72b30a44",
+    "sha256": "b433ce7ab4053c91bdb78f1539d1dde5795ceaf5966834a34d1ad393428f9b1c",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2020.1.0",
+    "version": "2021.1.0",
     "build": null,
     "dir": "/Applications/LehrerOffice",
     "symlink": null,
