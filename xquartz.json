@@ -3,13 +3,13 @@
     "id": "xquartz",
     "bundle": "XQuartz.app",
     "identifier": "org.macosforge.xquartz.X11",
-    "download": "https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.7.11/XQuartz-2.7.11.dmg",
-    "sha256": "32e50e8f1e21542b847041711039fa78d44febfed466f834a9281c44d75cd6c3",
+    "download": "https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.0/XQuartz-2.8.0.dmg",
+    "sha256": "b74d1d2ff98452d73fb68172c586489e2a6ad3c512e41fd1b0b666ec3dbf5b28",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.7.11",
+    "version": "2.8.0",
     "build": null,
     "dir": "/Applications/Utilities",
     "symlink": null,
