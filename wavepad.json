@@ -4,12 +4,12 @@
     "bundle": "WavePad.app",
     "identifier": "com.nchsoftware.wavepad",
     "download": "https://www.nch.com.au/components/wavepadmaci.zip",
-    "sha256": "c8712ab6317866a998f2d6310c52787e2239f52813255f3ebb6c9036e13f60b3",
+    "sha256": "37bd70e123a086b128a25e755c85b946dbb421843407bc07c41136781d4e15b2",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "12.31",
+    "version": "12.36",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
