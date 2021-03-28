@@ -13,6 +13,7 @@
     "build": null,
     "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.clevertouch.com/de/products/software/clevershare"
+    "web": "https://www.clevertouch.com/de/products/software/clevershare",
+    "ci": "true"
   }
 }
