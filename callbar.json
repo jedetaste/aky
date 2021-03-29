@@ -3,13 +3,13 @@
     "id": "callbar",
     "bundle": "Callbar.app",
     "identifier": "callbar",
-    "download": "https://downloadcallbar.talkdesk.com/Callbar-1.38.10-electron.dmg",
-    "sha256": "f791dabfee101647cdf51277fa9091b9d59cbe1c7afe4fcc542654e24d9813a4",
+    "download": "https://downloadcallbar.talkdesk.com/Callbar-1.38.11-electron.dmg",
+    "sha256": "e72b6db4c698294834aed0a5ca1234e455c20dfaead52ab2d9d378c0cfa723fa",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.38.10-electron",
+    "version": "1.38.11-electron",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
