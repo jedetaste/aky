@@ -3,13 +3,13 @@
     "id": "safeexambrowser",
     "bundle": "Safe Exam Browser.app",
     "identifier": "org.safeexambrowser.Safe-Exam-Browser",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/SafeExamBrowser-2.3.1.pkg",
-    "sha256": "9a06536fc18b50286a4188fec5fddddd3f7b6809d54a30cb985edc922c5ff6e3",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/SafeExamBrowser-2.3.2.pkg",
+    "sha256": "64bab7f36fa660cc95a692246d8bf446655d6a2b203837652b07aa783a1a6030",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.3.1",
+    "version": "2.3.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
