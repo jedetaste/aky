@@ -3,13 +3,13 @@
     "id": "reflector3",
     "bundle": "Reflector 3.app",
     "identifier": "com.squirrels.Reflector-3",
-    "download": "https://airsquirrels-downloads.s3.amazonaws.com/Reflector3/Mac/Reflector-3.2.1.dmg",
+    "download": "https://download.airsquirrels.com/Reflector3/Mac/Reflector-3.2.1.dmg",
     "sha256": "ef56cde06b2aed87b164f2856f5190931d839e552d3b0755db11bddf5db86614",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.0.0",
+    "version": "3.2.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
