@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "knime",
+    "bundle": "KNIME.app",
+    "identifier": "org.knime.product",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.3.2",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://www.knime.com/"
+  }
+}
