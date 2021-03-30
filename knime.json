@@ -3,8 +3,8 @@
     "id": "knime",
     "bundle": "KNIME.app",
     "identifier": "org.knime.product",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/KNIME-4.3.2.pkg",
+    "sha256": "35df15c6aa7fd56af9da054b0dc82984fcc0ec68c6ddfca58ba2c6336e610e2b",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": "https://www.knime.com/"
+    "web": "https://www.knime.com/",
+    "ci": "true",
+    "internal": "true"
   }
 }
