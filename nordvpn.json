@@ -4,12 +4,12 @@
     "bundle": "NordVPN.app",
     "identifier": "com.nordvpn.osx",
     "download": "https://downloads.nordcdn.com/apps/macos/generic/NordVPN-OpenVPN/latest/NordVPN.zip",
-    "sha256": "9fa1ce5d66e234be6b6aa58bf1b9af81ed71c253fb87b0f77daf1b0aa4270b2d",
+    "sha256": "2f8d51c11f3712b157d8ec369bd603523b43295707daea706fe285024b684e68",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "6.0.2",
+    "version": "6.1.3",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
