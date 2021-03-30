@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "clickshare",
+    "bundle": "ClickShare.app",
+    "identifier": "com.barco.clickshare.updater",
+    "download": "hhttps://www.barco.com/services/website/de/TdeFiles/Download?FileNumber=R3306192&TdeType=3&MajorVersion=04&MinorVersion=12&PatchVersion=01&BuildVersion=010&ShowDownloadPage=False",
+    "sha256": "5606064aca4ad6c8b016e063e4c669bd78db465c34c7a3c1c930a8edf33669f1",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4.12.1-b10",
+    "build": null,
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.barco.com/de/clickshare/app"
+  }
+}
