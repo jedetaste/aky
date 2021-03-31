@@ -4,12 +4,12 @@
     "bundle": "Visual Studio Code.app",
     "identifier": "com.microsoft.VSCode",
     "download": "https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal",
-    "sha256": "7d394d38ce07b94b338f07b7ad7f35067a346e94f73bb1b5b4edd36487da2224",
+    "sha256": "9463c231046b5f3c08fe59c8b6229ea9866ec048143b4397f799d43f35cca4b0",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.54.3",
+    "version": "1.55.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
