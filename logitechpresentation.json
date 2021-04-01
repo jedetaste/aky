@@ -3,13 +3,13 @@
     "id": "logitechpresentation",
     "bundle": "Logitech Presentation.app",
     "identifier": "com.logitech.presenter",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Logitech%20Presentation-1.60.92.pkg",
-    "sha256": "7a4a2d23990248ae37f00a3e44d0033fca95ce01961a7b37104f167f015d57c2",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Logitech%20Presentation-1.62.2.pkg",
+    "sha256": "57a0d60e6c1339bd283bd48a3a86a4ce700c77c0751c513474bb11b0a824e139",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "1.60.92",
+    "version": "1.62.2",
     "build": null,
     "dir": "/Library/Application Support/Logitech.localized/Logitech Presentation.localized",
     "symlink": null,
