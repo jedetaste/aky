@@ -3,13 +3,13 @@
     "id": "vmwarefusion",
     "bundle": "VMware Fusion.app",
     "identifier": "com.vmware.fusion",
-    "download": "https://download3.vmware.com/software/fusion/file/VMware-Fusion-12.1.0-17195230.dmg",
-    "sha256": "75a54777ddc759babe84d276156dafa8822bdc5ece7b751de8ac1948b13af136",
+    "download": "https://download3.vmware.com/software/fusion/file/VMware-Fusion-12.1.1-17801503.dmg",
+    "sha256": "fbc94a432c00fb9e05dd648cc80dd58cfb052c3aa53f44dc996be02e25a7c270",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "12.1.0",
+    "version": "12.1.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
