@@ -3,13 +3,13 @@
     "id": "burpsuitecommunityedition",
     "bundle": "Burp Suite Community Edition.app",
     "identifier": "com.install4j.9806-1938-4586-6531.70",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Burp%20Suite%20Community%20Edition-2021.3.2.pkg",
-    "sha256": "58a5fabe1ff65958344a0099399b8f3df78ac60963338d3ea455404c519fffae",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Burp%20Suite%20Community%20Edition-2021.4.pkg",
+    "sha256": "45e5550229fd837ee9f9021a965c8563c3f3e86ee1c6a8d11b7530b4b405a737",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2021.3.2",
+    "version": "2021.4",
     "build": null,
     "symlink": null,
     "dir": "/Applications",
