@@ -4,12 +4,12 @@
     "bundle": "Zeplin.app",
     "identifier": "io.zeplin.osx",
     "download": "https://api.zeplin.io/urls/download-mac",
-    "sha256": "6f6aff66afd9fa71b7a985da76a27b493c799da182738d50ecad1e53ee293151",
+    "sha256": "e640556ac083cb54e8091542b99be08fe3ffb5c2d8898176161b0d15f3898281",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.17",
+    "version": "3.18",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
