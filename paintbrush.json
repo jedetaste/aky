@@ -3,13 +3,13 @@
     "id": "paintbrush",
     "bundle": "Paintbrush.app",
     "identifier": "com.soggywaffles.Paintbrush",
-    "download": "https://sourceforge.net/projects/paintbrush/files/Paintbrush%202.x/Paintbrush%202.5.1/Paintbrush-2.5.1.zip/download",
-    "sha256": "518ddfa4bc85d694ea18d32b3ef45576706e184db6988a9809365f6bcabdd1fd",
+    "download": "https://sourceforge.net/projects/paintbrush/files/Paintbrush%202.x/Paintbrush%202.5.2/Paintbrush-2.5.2.zip/download",
+    "sha256": "0fdfb727ba8fdcd50fa3ed8e768b8b781aadb918630488c723278eb0bab2a164",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.5.1",
+    "version": "2.5.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
