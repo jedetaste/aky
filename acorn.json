@@ -4,12 +4,12 @@
     "bundle": "Acorn.app",
     "identifier": "com.flyingmeat.Acorn6",
     "download": "https://flyingmeat.com/download/Acorn.zip",
-    "sha256": "6d13bee77e7632b606942e641e405941ce7c82cc5492f18a5024b130abf2ebbd",
+    "sha256": "32fc1ee10bdcf701b5f9433198b49d8bbc38230cfa012bb371a3d4fb27018c2f",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "7.0.1",
+    "version": "7.0.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
