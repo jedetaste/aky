@@ -3,7 +3,7 @@
     "id": "aircall",
     "bundle": "Aircall.app",
     "identifier": "io.aircall.phone",
-    "download": "https://s3-us-west-1.amazonaws.com/aircall-electron-releases/production/Aircall-2.15.0.zip",
+    "download": "https://download-electron.aircall.io/Aircall-2.15.0.zip",
     "sha256": "f02b98dc9ecce7e3f17e0670f481411a08644cd9f1d6e8d178736d2b845c4c7e",
     "appcast": {
       "url": null,
