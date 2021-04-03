@@ -4,12 +4,12 @@
     "bundle": "Vernier Graphical Analysis.app",
     "identifier": "Vernier.GraphicalAnalysis",
     "download": "https://software-releases.graphicalanalysis.com/ga/mac/release/latest/Vernier-Graphical-Analysis.dmg",
-    "sha256": "5d58bca3e174e91c08ee0a6f71387eba8f789f90311b1edd478fe84e89e09f49",
+    "sha256": "d699b7b46a579e159d5ff96b96a4fb31ada7a294e1220d351b082ace620e20ab",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "5.6.0-230",
+    "version": "5.7.0-298",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
