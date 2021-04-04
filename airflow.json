@@ -4,12 +4,12 @@
     "bundle": "Airflow.app",
     "identifier": "com.bitcavehq.Airflow",
     "download": "https://airflowapp.com/download/latest?mac",
-    "sha256": "71f078b3fdce42b40dabf6131dc28d563487e1759db538732a6e91cc1328ba05",
+    "sha256": "4b0fff6c0239dadb08fe817e6bd3e3737b2c29362756a1b068299db41019042d",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.2.0",
+    "version": "3.3.0",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
