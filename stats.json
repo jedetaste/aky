@@ -3,13 +3,13 @@
     "id": "stats",
     "bundle": "Stats.app",
     "identifier": "eu.exelban.Stats",
-    "download": "https://github.com/exelban/stats/releases/download/v2.5.7/Stats.dmg",
-    "sha256": "448495f161c2c36d9fb5db914f1ddad5616a552cb846fed757b147ff35ec535a",
+    "download": "https://github.com/exelban/stats/releases/download/v2.5.8/Stats.dmg",
+    "sha256": "d54af6b90efc23a464f7d8f0278c9dd1f50d84cdb2b9326bf7eae1e89f04634b",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2.5.7",
+    "version": "2.5.8",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
