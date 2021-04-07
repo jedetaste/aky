@@ -3,8 +3,8 @@
     "id": "pdfexpert",
     "bundle": "PDF Expert.app",
     "identifier": "com.readdle.PDFExpert-Mac",
-    "download": null,
-    "sha256": null,
+    "download": "https://downloads.pdfexpert.com/versions/737/PDFExpert.zip",
+    "sha256": "95923c59ffd804a2185eda5e4decc93c199da3a9646712ddc9fd18d3de6415a5",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": "https://pdfexpert.com/"
+    "web": "https://pdfexpert.com/",
+    "ci": "true"
   }
 }
