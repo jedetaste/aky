@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "imazingprofileeditor",
+    "bundle": "iMazing Profile Editor.app",
+    "identifier": "com.DigiDNA.iMazingProfileEditorMac",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "1.4.3",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://imazing.com/profile-editor"
+  }
+}
