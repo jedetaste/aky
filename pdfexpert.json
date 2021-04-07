@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "pdfexpert",
+    "bundle": "PDF Expert.app",
+    "identifier": "com.readdle.PDFExpert-Mac",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "2.5.17",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://pdfexpert.com/"
+  }
+}
