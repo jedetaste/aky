@@ -3,13 +3,13 @@
     "id": "pycharmce",
     "bundle": "PyCharm CE.app",
     "identifier": "com.jetbrains.pycharm",
-    "download": "https://download.jetbrains.com/python/pycharm-community-2020.3.5.dmg",
-    "sha256": "c6d839f4e33f532873ed54743eb3590d7e9adf257afd6067fbd60654483bd692",
+    "download": "https://download.jetbrains.com/python/pycharm-community-2021.1.dmg",
+    "sha256": "9a9c900659a58c86563fee1dbdeef429b36fcbdb84f31f206f612c8053fbd9cf",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "2020.3.5",
+    "version": "2021.1",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
