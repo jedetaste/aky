@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "chromeremotedesktophost",
+    "bundle": "ChromeRemoteDesktopHost.app",
+    "identifier": "com.google.chromeremotedesktop.me2me-host",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "89.0.4389",
+    "build": null,
+    "symlink": null,
+    "dir": "/Library/PrivilegedHelperTools",
+    "web": "https://remotedesktop.google.com/"
+  }
+}
