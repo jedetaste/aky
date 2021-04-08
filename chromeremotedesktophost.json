@@ -3,8 +3,8 @@
     "id": "chromeremotedesktophost",
     "bundle": "ChromeRemoteDesktopHost.app",
     "identifier": "com.google.chromeremotedesktop.me2me-host",
-    "download": null,
-    "sha256": null,
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/ChromeRemoteDesktop-89.0.4389.pkg",
+    "sha256": "bf88da4edbcf49bac0b4d0bd835b6b6120fd0fb75dbaad8489638597d0866c8c",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,8 @@
     "build": null,
     "symlink": null,
     "dir": "/Library/PrivilegedHelperTools",
-    "web": "https://remotedesktop.google.com/"
+    "web": "https://remotedesktop.google.com/",
+    "ci": "true",
+    "internal": "true"
   }
 }
