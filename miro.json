@@ -3,8 +3,8 @@
     "id": "miro",
     "bundle": "Miro.app",
     "identifier": "com.electron.realtimeboard",
-    "download": null,
-    "sha256": null,
+    "download": "https://desktop.miro.com/platforms/darwin/Miro.dmg",
+    "sha256": "d4f0d1ed8695376cdea62c7c7945eed6bc20ecceff8af8b4eec04c756c0704ea",
     "appcast": {
       "url": null,
       "checkpoint": null
@@ -13,6 +13,7 @@
     "build": null,
     "symlink": null,
     "dir": "/Applications",
-    "web": "https://miro.com/"
+    "web": "https://miro.com/",
+    "ci": "true"
   }
 }
