@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "id": "miro",
+    "bundle": "Miro.app",
+    "identifier": "com.electron.realtimeboard",
+    "download": null,
+    "sha256": null,
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "0.5.2",
+    "build": null,
+    "symlink": null,
+    "dir": "/Applications",
+    "web": "https://miro.com/"
+  }
+}
