@@ -3,13 +3,13 @@
     "id": "clickshare",
     "bundle": "ClickShare.app",
     "identifier": "com.barco.clickshare.updater",
-    "download": "https://www.barco.com/services/website/en/TdeFiles/Download?FileNumber=R3306192&amp;TdeType=3&amp;MajorVersion=04&amp;MinorVersion=12&amp;PatchVersion=01&amp;BuildVersion=010&amp;ShowDownloadPage=False",
-    "sha256": "5606064aca4ad6c8b016e063e4c669bd78db465c34c7a3c1c930a8edf33669f1",
+    "download": "https://www.barco.com/services/website/en/TdeFiles/Download?FileNumber=R3306192&amp;TdeType=3&amp;MajorVersion=04&amp;MinorVersion=13&amp;PatchVersion=00&amp;BuildVersion=012&amp;ShowDownloadPage=False",
+    "sha256": "63bc2be25e497d0cb14ed1ab11b47872108e64c82c271ab81726f1296e82d3cb",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "4.12.1-b10",
+    "version": "4.13.0-b12",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
