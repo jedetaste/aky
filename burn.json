@@ -3,13 +3,13 @@
     "id": "burn",
     "bundle": "Burn.app",
     "identifier": "com.kiwifruitware.Burn",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Burn-3.1.1.pkg",
-    "sha256": "6170a6cf1cdbf5513e511e3ff0c5677cd7b31e2cc2db96c3901b5ef6b0d49711",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Burn-3.1.2.pkg",
+    "sha256": "bd07e591233d9da574a813c3b0cad651be59c01a3487e943310a7cebf32b788d",
     "appcast": {
       "url": null,
       "checkpoint": null
     },
-    "version": "3.1.1",
+    "version": "3.1.2",
     "build": null,
     "dir": "/Applications",
     "symlink": null,
