@@ -13,6 +13,7 @@
     "sha256": "d533aa7d4a4a00d49bb78f4488535e577d7674292538c59769daa61e9bff1109",
     "symlink": null,
     "version": "3.3.0",
-    "web": "https://www.docker.com/community-edition"
+    "web": "https://www.docker.com/community-edition",
+    "build": null
   }
 }
