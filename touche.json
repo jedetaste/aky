@@ -4,7 +4,7 @@
       "checkpoint": null,
       "url": null
     },
-    "bundle": "Touché.app",
+    "bundle": "Touch\u00e9.app",
     "ci": "true",
     "dir": "/Applications",
     "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Touche-1.1.4.pkg",
@@ -14,7 +14,6 @@
     "sha256": "11816b925844386ddb26f0c2b77dedfc888dbd79ecc5d061daf0baf391f7de2b",
     "symlink": null,
     "version": "1.1.4",
-    "web": "https://red-sweater.com/touche/",
-    "build": null
+    "web": "https://red-sweater.com/touche/"
   }
 }
