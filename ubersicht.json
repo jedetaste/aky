@@ -4,7 +4,7 @@
       "checkpoint": null,
       "url": null
     },
-    "bundle": "\u00dcbersicht.app",
+    "bundle": "Übersicht.app",
     "ci": "true",
     "dir": "/Applications",
     "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Ubersicht-1.6.pkg",
@@ -14,6 +14,7 @@
     "sha256": "cdb7200e6b99e67934e2ca17353d01df2b622668c0b7113036213eb4f9989677",
     "symlink": null,
     "version": "1.6",
-    "web": "http://tracesof.net/uebersicht/"
+    "web": "http://tracesof.net/uebersicht/",
+    "build": null
   }
 }
