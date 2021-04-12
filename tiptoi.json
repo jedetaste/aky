@@ -4,7 +4,7 @@
       "checkpoint": null,
       "url": null
     },
-    "bundle": "tiptoi\u00ae Manager.app",
+    "bundle": "tiptoi® Manager.app",
     "ci": "true",
     "dir": "/Applications",
     "download": "https://cdn.ravensburger.de/db/installer_flat/tiptoi_Manager_Installer.pkg",
@@ -13,6 +13,7 @@
     "sha256": "53247872f976de6a2c2469d63013b85e30767e37ffb38a3a13ad7e2064f2bf98",
     "symlink": null,
     "version": "4.2.1",
-    "web": "http://tiptoi.de/"
+    "web": "http://tiptoi.de/",
+    "build": null
   }
 }
