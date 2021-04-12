@@ -4,7 +4,6 @@
       "checkpoint": "33b031e692310bc20ec8b3724492519a1005be4a04941c55c51431ddc12fab13",
       "url": "https://dev.mysql.com/downloads/workbench/"
     },
-    "build": null,
     "bundle": "MySQLWorkbench.app",
     "dir": "/Applications",
     "download": "https://cdn.mysql.com//Downloads/MySQLGUITools/mysql-workbench-community-8.0.23-macos-x86_64.dmg",

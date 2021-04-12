@@ -4,7 +4,6 @@
       "checkpoint": "b0fa0cd85b45efa4c6c90adac65022fc387f363e37f2cab1077c06ec7a4dfcdd",
       "url": "https://sourceforge.net/projects/ipaint/rss"
     },
-    "build": "2",
     "bundle": "iPaint.app",
     "dir": "/Applications",
     "download": "https://downloads.sourceforge.net/ipaint/ipaint/iPaint%201.0%202/iPaint1v2.zip",
@@ -12,7 +11,7 @@
     "identifier": "com.mac-fun.ipaint",
     "sha256": "7f891e08ed506cd41a69d6d11f142c73779e333130f6bbfe4d3a41fd04e1c805",
     "symlink": null,
-    "version": null,
+    "version": "2",
     "web": "http://ipaint.sourceforge.net/"
   }
 }
