@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "mountainduck",
-    "bundle": "Mountain Duck.app",
-    "identifier": "io.mountainduck",
-    "download": "https://dist.mountainduck.io/Mountain%20Duck-4.5.0.17823.zip",
-    "sha256": "29fe46af0ed010b083d0d63a4ee2dbf72ac66247d1832dfa4131fad5e6e46470",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.5.0",
     "build": null,
+    "bundle": "Mountain Duck.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://dist.mountainduck.io/Mountain%20Duck-4.5.0.17823.zip",
+    "id": "mountainduck",
+    "identifier": "io.mountainduck",
+    "sha256": "29fe46af0ed010b083d0d63a4ee2dbf72ac66247d1832dfa4131fad5e6e46470",
     "symlink": null,
-    "web": "https://mountainduck.io/",
-    "ci": "true"
+    "version": "4.5.0",
+    "web": "https://mountainduck.io/"
   }
 }

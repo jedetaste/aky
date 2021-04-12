@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "prusaslicer",
-    "bundle": "PrusaSlicer.app",
-    "identifier": "com.prusa3d.slic3r/",
-    "download": "https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.3.0-rc2/PrusaSlicer-2.3.0-rc2+-202012221629.dmg",
-    "sha256": "9bc4219e8a33c1825d74540e69824882fe3474a2f8fe017ef5978a5f774b6e0a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "PrusaSlicer PrusaSlicer-2.3.0-rc2+-202012221629",
     "build": null,
+    "bundle": "PrusaSlicer.app",
     "dir": "/Applications",
+    "download": "https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.3.0-rc2/PrusaSlicer-2.3.0-rc2+-202012221629.dmg",
+    "id": "prusaslicer",
+    "identifier": "com.prusa3d.slic3r/",
+    "sha256": "9bc4219e8a33c1825d74540e69824882fe3474a2f8fe017ef5978a5f774b6e0a",
     "symlink": null,
+    "version": "PrusaSlicer PrusaSlicer-2.3.0-rc2+-202012221629",
     "web": "https://www.prusa3d.com/slic3r-prusa-edition/"
   }
 }

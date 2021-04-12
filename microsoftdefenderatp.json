@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "microsoftdefenderatp",
-    "bundle": "Microsoft Defender ATP.app",
-    "identifier": "com.microsoft.wdav",
-    "download": "https://go.microsoft.com/fwlink/?linkid=2097502",
-    "sha256": "c509629f5eaf32d717feaa1d83af6e6bcbd9feefbac0d7ddf6a1e24db1698e6b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "101.23.64",
     "build": null,
+    "bundle": "Microsoft Defender ATP.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://go.microsoft.com/fwlink/?linkid=2097502",
+    "id": "microsoftdefenderatp",
+    "identifier": "com.microsoft.wdav",
+    "sha256": "c509629f5eaf32d717feaa1d83af6e6bcbd9feefbac0d7ddf6a1e24db1698e6b",
     "symlink": null,
-    "web": null,
-    "ci": "true"
+    "version": "101.23.64",
+    "web": null
   }
 }

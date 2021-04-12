@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "hovercamflex10",
-    "bundle": "HoverCamFlex10.app",
-    "identifier": "com.pathway.HoverCamFlex10",
-    "download": "https://www.thehovercam.com/download/hovercam-flex-10-mac/?wpdmdl=2799",
-    "sha256": "e90a0fc76603d561043cebc80db738cd61739a311ab5513915ae6c592d954b9e",
     "appcast": {
-      "url": "http://www.thehovercamserver.com/softwareupdates/HCFlex10/mac/HCFlex10AppCast.xml",
-      "checkpoint": "34aea713c8f5a257efd3c6c8b88a2f4bf33fe641beeec5c063d3e8cc619b1537"
+      "checkpoint": "34aea713c8f5a257efd3c6c8b88a2f4bf33fe641beeec5c063d3e8cc619b1537",
+      "url": "http://www.thehovercamserver.com/softwareupdates/HCFlex10/mac/HCFlex10AppCast.xml"
     },
-    "version": "1.01.019",
     "build": null,
+    "bundle": "HoverCamFlex10.app",
     "dir": "/Applications",
+    "download": "https://www.thehovercam.com/download/hovercam-flex-10-mac/?wpdmdl=2799",
+    "id": "hovercamflex10",
+    "identifier": "com.pathway.HoverCamFlex10",
+    "sha256": "e90a0fc76603d561043cebc80db738cd61739a311ab5513915ae6c592d954b9e",
     "symlink": null,
+    "version": "1.01.019",
     "web": "https://www.hovercam.de/software/flex10/"
   }
 }

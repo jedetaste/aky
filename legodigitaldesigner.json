@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "legodigitaldesigner",
-    "bundle": "LEGO Digital Designer.app",
-    "identifier": "com.LEGO.LDD",
-    "download": "https://www.lego.com/assets/franchisesites/ldd/installer/SetupLDD-MAC-4_3_11.zip",
-    "sha256": "48d32b97c1ee65ad18a1206a1bfe253a03565ca464bc4c0c6be4fe2b453d55e1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.3.11",
     "build": null,
+    "bundle": "LEGO Digital Designer.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.lego.com/assets/franchisesites/ldd/installer/SetupLDD-MAC-4_3_11.zip",
+    "id": "legodigitaldesigner",
+    "identifier": "com.LEGO.LDD",
+    "sha256": "48d32b97c1ee65ad18a1206a1bfe253a03565ca464bc4c0c6be4fe2b453d55e1",
     "symlink": null,
-    "web": "https://www.lego.com/en-us/ldd",
-    "ci": "true"
+    "version": "4.3.11",
+    "web": "https://www.lego.com/en-us/ldd"
   }
 }

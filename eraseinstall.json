@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "eraseinstall",
-    "bundle": "EraseInstall.app",
-    "identifier": "nl.prowarehouse.Shredder",
-    "download": "https://bitbucket.org/prowarehouse-nl/erase-install/downloads/EraseInstall-1.2.1_897.pkg",
-    "sha256": "236acfdf59d06c4f920a38081cc6a1aa38c5cbddf9a40f3e94c47342884d4d60",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.2.1",
     "build": null,
+    "bundle": "EraseInstall.app",
+    "ci": "true",
     "dir": "/Applications/Utilities",
+    "download": "https://bitbucket.org/prowarehouse-nl/erase-install/downloads/EraseInstall-1.2.1_897.pkg",
+    "id": "eraseinstall",
+    "identifier": "nl.prowarehouse.Shredder",
+    "sha256": "236acfdf59d06c4f920a38081cc6a1aa38c5cbddf9a40f3e94c47342884d4d60",
     "symlink": null,
-    "web": "https://bitbucket.org/prowarehouse-nl/erase-install/",
-    "ci": "true"
+    "version": "1.2.1",
+    "web": "https://bitbucket.org/prowarehouse-nl/erase-install/"
   }
 }

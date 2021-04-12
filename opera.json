@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "opera",
-    "bundle": "Opera.app",
-    "identifier": "com.operasoftware.Opera",
-    "download": "https://download.opera.com/download/get/?id=52928&autoupdate=1&ni=1&stream=stable",
-    "sha256": "495d08a9f49f4a10362b3e82aa5e2f07346d0963b2a79c3780836e11aa4c3d52",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "75.0.3969.149",
     "build": null,
+    "bundle": "Opera.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.opera.com/download/get/?id=52928&autoupdate=1&ni=1&stream=stable",
+    "id": "opera",
+    "identifier": "com.operasoftware.Opera",
+    "sha256": "495d08a9f49f4a10362b3e82aa5e2f07346d0963b2a79c3780836e11aa4c3d52",
     "symlink": null,
-    "web": "https://www.opera.com/",
-    "ci": "true"
+    "version": "75.0.3969.149",
+    "web": "https://www.opera.com/"
   }
 }

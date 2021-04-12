@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "mendeleydesktop",
-    "bundle": "Mendeley Desktop.app",
-    "identifier": "com.mendeley.desktop",
-    "download": "https://www.mendeley.com/autoupdates/installer/Mac-x64/stable-incoming",
-    "sha256": "5f6b9fe7a04b6b12a81f4300864b243bbe4e4ec31aa71f6b260be519493b1d44",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.19.8",
     "build": null,
+    "bundle": "Mendeley Desktop.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.mendeley.com/autoupdates/installer/Mac-x64/stable-incoming",
+    "id": "mendeleydesktop",
+    "identifier": "com.mendeley.desktop",
+    "sha256": "5f6b9fe7a04b6b12a81f4300864b243bbe4e4ec31aa71f6b260be519493b1d44",
     "symlink": null,
-    "web": "https://www.mendeley.com/reference-management/mendeley-desktop",
-    "ci": "true"
+    "version": "1.19.8",
+    "web": "https://www.mendeley.com/reference-management/mendeley-desktop"
   }
 }

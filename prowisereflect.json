@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "prowisereflect",
-    "bundle": "Prowise Reflect.app",
-    "identifier": "com.nw-builder.prowisereflect",
-    "download": "https://cdn-prowise.azureedge.net/data-dealer/53248/file.dmg?sv=2013-08-15&se=2021-03-18T00%3A04%3A00Z&sr=b&sp=r&sig=x1BxhrOgScciNwHXmBQnZmRUhp%2FjCvdk3YBRRjtpqtg%3D&rscd=attachment%3B+filename%3D%22Prowise_Reflect_v1.0.9Mac.dmg%22&rsct=application%2Foctet-stream",
-    "sha256": "1e568e99a8ef4b5a92289df651e128d13826a80a05997d24c4b2072a8f8eafaa",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0.9",
     "build": null,
+    "bundle": "Prowise Reflect.app",
     "dir": "/Applications",
+    "download": "https://cdn-prowise.azureedge.net/data-dealer/53248/file.dmg?sv=2013-08-15&se=2021-03-18T00%3A04%3A00Z&sr=b&sp=r&sig=x1BxhrOgScciNwHXmBQnZmRUhp%2FjCvdk3YBRRjtpqtg%3D&rscd=attachment%3B+filename%3D%22Prowise_Reflect_v1.0.9Mac.dmg%22&rsct=application%2Foctet-stream",
+    "id": "prowisereflect",
+    "identifier": "com.nw-builder.prowisereflect",
+    "sha256": "1e568e99a8ef4b5a92289df651e128d13826a80a05997d24c4b2072a8f8eafaa",
     "symlink": null,
+    "version": "1.0.9",
     "web": "https://www.prowise.com/de/"
   }
 }

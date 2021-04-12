@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "easyfind",
-    "bundle": "EasyFind.app",
-    "identifier": "org.grunenberg.EasyFind",
-    "download": "https://download.devontechnologies.com/download/freeware/easyfind/5.0.1/EasyFind.app.zip",
-    "sha256": "05cf4f3661d73953ce8c30692ad49a5d30d0f6b710212ebbc41bb381a589b713",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.0.1",
     "build": null,
+    "bundle": "EasyFind.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.devontechnologies.com/download/freeware/easyfind/5.0.1/EasyFind.app.zip",
+    "id": "easyfind",
+    "identifier": "org.grunenberg.EasyFind",
+    "sha256": "05cf4f3661d73953ce8c30692ad49a5d30d0f6b710212ebbc41bb381a589b713",
     "symlink": null,
-    "web": "https://www.devontechnologies.com/apps/freeware",
-    "ci": "true"
+    "version": "5.0.1",
+    "web": "https://www.devontechnologies.com/apps/freeware"
   }
 }

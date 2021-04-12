@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "smultron",
-    "bundle": "Smultron.app",
-    "identifier": "com.peterborgapps.Smultron12",
-    "download": "https://www.peterborgapps.com/downloads/Smultron12.zip",
-    "sha256": "9b9a2361474d802ffcaa8154d96e403ab7a8fe7aed64bcc8d492ef76a4d912fe",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "12.4",
     "build": null,
+    "bundle": "Smultron.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.peterborgapps.com/downloads/Smultron12.zip",
+    "id": "smultron",
+    "identifier": "com.peterborgapps.Smultron12",
+    "sha256": "9b9a2361474d802ffcaa8154d96e403ab7a8fe7aed64bcc8d492ef76a4d912fe",
     "symlink": null,
-    "web": "https://www.peterborgapps.com/smultron/",
-    "ci": "true"
+    "version": "12.4",
+    "web": "https://www.peterborgapps.com/smultron/"
   }
 }

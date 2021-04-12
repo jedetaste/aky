@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "infomaniakmeet",
-    "bundle": "Infomaniak Meet.app",
-    "identifier": "com.infomaniak.meet",
-    "download": "https://download.storage.infomaniak.com/meet/infomaniak-meet.dmg",
-    "sha256": "9b133136e1122924f51329d82922d120f8341aa2b449f7594cc81eb35b81f376",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.1.12",
     "build": null,
+    "bundle": "Infomaniak Meet.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.storage.infomaniak.com/meet/infomaniak-meet.dmg",
+    "id": "infomaniakmeet",
+    "identifier": "com.infomaniak.meet",
+    "sha256": "9b133136e1122924f51329d82922d120f8341aa2b449f7594cc81eb35b81f376",
     "symlink": null,
-    "web": "https://www.infomaniak.com/kmeet",
-    "ci": "true"
+    "version": "1.1.12",
+    "web": "https://www.infomaniak.com/kmeet"
   }
 }

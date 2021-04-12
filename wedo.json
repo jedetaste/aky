@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "wedo",
-    "bundle": "WeDo 2.0.app",
-    "identifier": "com.lego.education.wedomac",
-    "download": "https://le-www-live-s.legocdn.com/downloads/WeDo2/WeDo2_Full_1.9.348_Global_OSX.pkg",
-    "sha256": "15b71a4a73f03d5299e8a6dd7940ade234b8637d6f3b3ba2e5b2da5de19a87dc",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.9.348",
     "build": null,
+    "bundle": "WeDo 2.0.app",
     "dir": "/Applications",
+    "download": "https://le-www-live-s.legocdn.com/downloads/WeDo2/WeDo2_Full_1.9.348_Global_OSX.pkg",
+    "id": "wedo",
+    "identifier": "com.lego.education.wedomac",
+    "sha256": "15b71a4a73f03d5299e8a6dd7940ade234b8637d6f3b3ba2e5b2da5de19a87dc",
     "symlink": null,
+    "version": "1.9.348",
     "web": "https://education.lego.com/de-de/product/wedo-2"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "silhouettestudio",
-    "bundle": "Silhouette Studio.app",
-    "identifier": "com.silhouettesoftware.Silhouette-Studio",
-    "download": "https://dl.silhcdn.com/eba9aebe3e82f6b1",
-    "sha256": "c050c82431d9ed51fc575290531a50fdd1cd3beac8bdda67dc68f5a75ef821b2",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.4.476.001",
     "build": null,
+    "bundle": "Silhouette Studio.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://dl.silhcdn.com/eba9aebe3e82f6b1",
+    "id": "silhouettestudio",
+    "identifier": "com.silhouettesoftware.Silhouette-Studio",
+    "sha256": "c050c82431d9ed51fc575290531a50fdd1cd3beac8bdda67dc68f5a75ef821b2",
     "symlink": null,
-    "web": "https://www.silhouetteamerica.com/software",
-    "ci": "true"
+    "version": "4.4.476.001",
+    "web": "https://www.silhouetteamerica.com/software"
   }
 }

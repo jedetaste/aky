@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "quik",
-    "bundle": "GoPro Quik.app",
-    "identifier": "com.GoPro.goproapp",
-    "download": "https://software.gopro.com/Mac/GoPro_Quik-MacInstaller-2.7.0.874.dmg",
-    "sha256": "d134c85643d7747c926c5194649737d0835d47e4bb03b2ef77491e540aa36ea8",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.7.0",
     "build": null,
+    "bundle": "GoPro Quik.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://software.gopro.com/Mac/GoPro_Quik-MacInstaller-2.7.0.874.dmg",
+    "id": "quik",
+    "identifier": "com.GoPro.goproapp",
+    "sha256": "d134c85643d7747c926c5194649737d0835d47e4bb03b2ef77491e540aa36ea8",
     "symlink": null,
-    "web": "https://shop.gopro.com/softwareandapp/quik-%7C-desktop/Quik-Desktop.html",
-    "ci": "true"
+    "version": "2.7.0",
+    "web": "https://shop.gopro.com/softwareandapp/quik-%7C-desktop/Quik-Desktop.html"
   }
 }

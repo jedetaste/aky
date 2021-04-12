@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "recipebuilder",
-    "bundle": "RecipeBuilder.app",
-    "identifier": "se.dicom.RecipeBuilder",
-    "download": "https://github.com/mikaellofgren/RecipeBuilder/releases/download/1.03/RecipeBuilder.app.zip",
-    "sha256": "4f2ebaba214d07e32213afa780546b876e83cd4e13d3e745ae2b955f8878516b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.03",
     "build": null,
-    "symlink": null,
+    "bundle": "RecipeBuilder.app",
+    "ci": "true",
     "dir": "/Applications",
-    "web": "https://github.com/mikaellofgren/RecipeBuilder",
-    "ci": "true"
+    "download": "https://github.com/mikaellofgren/RecipeBuilder/releases/download/1.03/RecipeBuilder.app.zip",
+    "id": "recipebuilder",
+    "identifier": "se.dicom.RecipeBuilder",
+    "sha256": "4f2ebaba214d07e32213afa780546b876e83cd4e13d3e745ae2b955f8878516b",
+    "symlink": null,
+    "version": "1.03",
+    "web": "https://github.com/mikaellofgren/RecipeBuilder"
   }
 }

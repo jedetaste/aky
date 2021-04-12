@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "microsoftedge",
-    "bundle": "Microsoft Edge.app",
-    "identifier": "com.microsoft.edgemac",
-    "download": "https://go.microsoft.com/fwlink/?linkid=2069148",
-    "sha256": "8fcabd9b2ce0eea5e80f0df99b8099b22af36aad7cfe234c9cdafacd8027556a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "89.0.774.75",
     "build": null,
+    "bundle": "Microsoft Edge.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://go.microsoft.com/fwlink/?linkid=2069148",
+    "id": "microsoftedge",
+    "identifier": "com.microsoft.edgemac",
+    "sha256": "8fcabd9b2ce0eea5e80f0df99b8099b22af36aad7cfe234c9cdafacd8027556a",
     "symlink": null,
-    "web": "https://www.microsoft.com/edge",
-    "ci": "true"
+    "version": "89.0.774.75",
+    "web": "https://www.microsoft.com/edge"
   }
 }

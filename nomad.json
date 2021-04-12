@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "nomad",
-    "bundle": "NoMAD.app",
-    "identifier": "com.trusourcelabs.NoMAD",
-    "download": "https://files.nomad.menu/NoMAD.pkg",
-    "sha256": "34abf972cc625aeb19543afadb5e1374a0b858b7e5866c316f3bc0b65f130c0c",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.2.2",
     "build": null,
+    "bundle": "NoMAD.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://files.nomad.menu/NoMAD.pkg",
+    "id": "nomad",
+    "identifier": "com.trusourcelabs.NoMAD",
+    "sha256": "34abf972cc625aeb19543afadb5e1374a0b858b7e5866c316f3bc0b65f130c0c",
     "symlink": null,
-    "web": "https://nomad.menu/",
-    "ci": "true"
+    "version": "1.2.2",
+    "web": "https://nomad.menu/"
   }
 }

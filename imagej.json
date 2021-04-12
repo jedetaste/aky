@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "imagej",
-    "bundle": "ImageJ.app",
-    "identifier": "ImageJ",
-    "download": "http://wsr.imagej.net/distros/osx/ij153-osx-java8.zip",
-    "sha256": "b1694d99bf4668dfae5324a883dc14b1f51d88c962cc5141ebd4c0246db874b4",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.53",
     "build": null,
+    "bundle": "ImageJ.app",
     "dir": "/Applications",
+    "download": "http://wsr.imagej.net/distros/osx/ij153-osx-java8.zip",
+    "id": "imagej",
+    "identifier": "ImageJ",
+    "sha256": "b1694d99bf4668dfae5324a883dc14b1f51d88c962cc5141ebd4c0246db874b4",
     "symlink": null,
+    "version": "1.53",
     "web": "https://imagej.nih.gov/ij/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "comiclife3",
-    "bundle": "Comic Life 3.app",
-    "identifier": "com.plasq.comiclife3",
-    "download": "https://downloads-plasq.s3.amazonaws.com/ComicLife-3.5.18-36778.zip",
-    "sha256": "fedc25a91d86b899d7ec4b98a8d94fc2d3d0938d59126f92ccb323205feefeb0",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.5.18",
     "build": null,
+    "bundle": "Comic Life 3.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads-plasq.s3.amazonaws.com/ComicLife-3.5.18-36778.zip",
+    "id": "comiclife3",
+    "identifier": "com.plasq.comiclife3",
+    "sha256": "fedc25a91d86b899d7ec4b98a8d94fc2d3d0938d59126f92ccb323205feefeb0",
     "symlink": null,
-    "web": "http://plasq.com/apps/comiclife/",
-    "ci": "true"
+    "version": "3.5.18",
+    "web": "http://plasq.com/apps/comiclife/"
   }
 }

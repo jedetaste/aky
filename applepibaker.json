@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "applepibaker",
-    "bundle": "ApplePiBaker.app",
-    "identifier": "com.tweaking4all.PiBaker",
-    "download": "https://www.tweaking4all.com/downloads/raspberrypi/ApplePi-Baker-v2.2.3.dmg",
-    "sha256": "5b6c89392a2bae26ad235d647bba7f857e82a34f2e9a4d8d6e33cf4396d94775",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.2.3",
     "build": null,
+    "bundle": "ApplePiBaker.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.tweaking4all.com/downloads/raspberrypi/ApplePi-Baker-v2.2.3.dmg",
+    "id": "applepibaker",
+    "identifier": "com.tweaking4all.PiBaker",
+    "sha256": "5b6c89392a2bae26ad235d647bba7f857e82a34f2e9a4d8d6e33cf4396d94775",
     "symlink": null,
-    "web": "https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/",
-    "ci": "true"
+    "version": "2.2.3",
+    "web": "https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2/"
   }
 }

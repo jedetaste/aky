@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "forklift",
-    "bundle": "ForkLift.app",
-    "identifier": "com.binarynights.ForkLift-3",
-    "download": "https://download.binarynights.com/ForkLift3.4.4.zip",
-    "sha256": "635fade03f1c35b379622a59d059641dde989498eced90dedbb7c08b1cd94ea2",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.4.4",
     "build": null,
+    "bundle": "ForkLift.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.binarynights.com/ForkLift3.4.4.zip",
+    "id": "forklift",
+    "identifier": "com.binarynights.ForkLift-3",
+    "sha256": "635fade03f1c35b379622a59d059641dde989498eced90dedbb7c08b1cd94ea2",
     "symlink": null,
-    "web": "https://binarynights.com/",
-    "ci": "true"
+    "version": "3.4.4",
+    "web": "https://binarynights.com/"
   }
 }

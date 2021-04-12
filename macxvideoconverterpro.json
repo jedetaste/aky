@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "macxvideoconverterpro",
-    "bundle": "MacX Video Converter Pro.app",
-    "identifier": "com.macxdvd.macxvdoconverterpro",
-    "download": "https://www.macxdvd.com/download/macx-video-converter-pro.dmg",
-    "sha256": "76d9737598af21f3bdb563c842d01e64828d6e7f57c71ac30225a0fb18047ce8",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "6.5.2",
     "build": null,
+    "bundle": "MacX Video Converter Pro.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.macxdvd.com/download/macx-video-converter-pro.dmg",
+    "id": "macxvideoconverterpro",
+    "identifier": "com.macxdvd.macxvdoconverterpro",
+    "sha256": "76d9737598af21f3bdb563c842d01e64828d6e7f57c71ac30225a0fb18047ce8",
     "symlink": null,
-    "web": "https://www.macxdvd.com/mac-video-converter-pro/",
-    "ci": "true"
+    "version": "6.5.2",
+    "web": "https://www.macxdvd.com/mac-video-converter-pro/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "fsmonitor",
-    "bundle": "FSMonitor.app",
-    "identifier": "com.tristan.FSMonitor",
-    "download": "https://tristan-software.ch/FSMonitor/Archives/FSMonitor_90.zip",
-    "sha256": "9699fd67fe07069763dd53b19cebb00855569a949c14efb418d134d5c47d662a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0.7",
     "build": null,
+    "bundle": "FSMonitor.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://tristan-software.ch/FSMonitor/Archives/FSMonitor_90.zip",
+    "id": "fsmonitor",
+    "identifier": "com.tristan.FSMonitor",
+    "sha256": "9699fd67fe07069763dd53b19cebb00855569a949c14efb418d134d5c47d662a",
     "symlink": null,
-    "web": "https://fsmonitor.com/",
-    "ci": "true"
+    "version": "1.0.7",
+    "web": "https://fsmonitor.com/"
   }
 }

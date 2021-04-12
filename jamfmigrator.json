@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "jamfmigrator",
-    "bundle": "jamf-migrator.app",
-    "identifier": "com.jamf.jamf-migrator",
-    "download": "https://github.com/jamf/JamfMigrator/releases/download/current/jamf-migrator.zip",
-    "sha256": "0e7b0b1012b4febb0490c852398ed560c8f9584012f83baed70242b444b026f1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.8.2",
     "build": null,
+    "bundle": "jamf-migrator.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/jamf/JamfMigrator/releases/download/current/jamf-migrator.zip",
+    "id": "jamfmigrator",
+    "identifier": "com.jamf.jamf-migrator",
+    "sha256": "0e7b0b1012b4febb0490c852398ed560c8f9584012f83baed70242b444b026f1",
     "symlink": null,
-    "web": "https://github.com/jamf/JamfMigrator",
-    "ci": "true"
+    "version": "5.8.2",
+    "web": "https://github.com/jamf/JamfMigrator"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "rhinoceros",
-    "bundle": "Rhinoceros.app",
-    "identifier": "com.mcneel.rhinoceros",
-    "download": "https://files.mcneel.com/rhino/6/mac/releases/rhino_6.34.21034.07002.dmg",
-    "sha256": "39bad5697caf049135ea01bb9dc3f82cc378307275a7da8a64d8ba7d65d31ae4",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "6.34",
     "build": null,
+    "bundle": "Rhinoceros.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://files.mcneel.com/rhino/6/mac/releases/rhino_6.34.21034.07002.dmg",
+    "id": "rhinoceros",
+    "identifier": "com.mcneel.rhinoceros",
+    "sha256": "39bad5697caf049135ea01bb9dc3f82cc378307275a7da8a64d8ba7d65d31ae4",
     "symlink": null,
-    "web": "https://www.rhino3d.com/",
-    "ci": "true"
+    "version": "6.34",
+    "web": "https://www.rhino3d.com/"
   }
 }

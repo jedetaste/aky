@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "busycontacts",
-    "bundle": "BusyContacts.app",
-    "identifier": "com.busymac.busycontacts",
-    "download": "https://www.busymac.com/download/BusyContacts.zip",
-    "sha256": "eb23b4b807a8667669031ac492ec263a81ef330b0e8962115c83207504348992",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.5.2",
     "build": null,
+    "bundle": "BusyContacts.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.busymac.com/download/BusyContacts.zip",
+    "id": "busycontacts",
+    "identifier": "com.busymac.busycontacts",
+    "sha256": "eb23b4b807a8667669031ac492ec263a81ef330b0e8962115c83207504348992",
     "symlink": null,
-    "web": "https://www.busymac.com/busycontacts/index.html",
-    "ci": "true"
+    "version": "1.5.2",
+    "web": "https://www.busymac.com/busycontacts/index.html"
   }
 }

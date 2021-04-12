@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "virtualbox",
-    "bundle": "VirtualBox.app",
-    "identifier": "org.virtualbox.app.VirtualBox",
-    "download": "https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-OSX.dmg",
-    "sha256": "baaf9baa0a70bdfb7d878eabc27ac56d8534dbac12913c01842f8fb2aa3444d4",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "6.1.18",
     "build": null,
+    "bundle": "VirtualBox.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.virtualbox.org/virtualbox/6.1.18/VirtualBox-6.1.18-142142-OSX.dmg",
+    "id": "virtualbox",
+    "identifier": "org.virtualbox.app.VirtualBox",
+    "sha256": "baaf9baa0a70bdfb7d878eabc27ac56d8534dbac12913c01842f8fb2aa3444d4",
     "symlink": null,
-    "web": "https://www.virtualbox.org/",
-    "ci": "true"
+    "version": "6.1.18",
+    "web": "https://www.virtualbox.org/"
   }
 }

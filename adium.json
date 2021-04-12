@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "adium",
-    "bundle": "Adium.app",
-    "identifier": "com.adiumX.adiumX",
-    "download": "https://adiumx.cachefly.net/Adium_1.5.10.4.dmg",
-    "sha256": "31fa3fd32b86dd3381b60e0d5aafbc2a9452036f0fb4963bffbc2a6c64a9458b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.5.10.4",
     "build": null,
+    "bundle": "Adium.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://adiumx.cachefly.net/Adium_1.5.10.4.dmg",
+    "id": "adium",
+    "identifier": "com.adiumX.adiumX",
+    "sha256": "31fa3fd32b86dd3381b60e0d5aafbc2a9452036f0fb4963bffbc2a6c64a9458b",
     "symlink": null,
-    "web": "https://www.adium.im/",
-    "ci": "true"
+    "version": "1.5.10.4",
+    "web": "https://www.adium.im/"
   }
 }

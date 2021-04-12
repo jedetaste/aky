@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "appwrapper3",
-    "bundle": "App Wrapper 3.app",
-    "identifier": "com.ohanaware.appWrapper3",
-    "download": "https://www.ohanaware.com/appwrapper/appWrapper3.dmg",
-    "sha256": "95e1d6883ea8903db625040b5916e72f9ff6ad604aa658dbd665271cb9181028",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.11.3",
     "build": null,
+    "bundle": "App Wrapper 3.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.ohanaware.com/appwrapper/appWrapper3.dmg",
+    "id": "appwrapper3",
+    "identifier": "com.ohanaware.appWrapper3",
+    "sha256": "95e1d6883ea8903db625040b5916e72f9ff6ad604aa658dbd665271cb9181028",
     "symlink": null,
-    "web": "http://www.ohanaware.com/appwrapper/",
-    "ci": "true"
+    "version": "3.11.3",
+    "web": "http://www.ohanaware.com/appwrapper/"
   }
 }

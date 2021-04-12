@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "kextviewr",
-    "bundle": "KextViewr.app",
-    "identifier": "com.objective-see.KextViewr",
-    "download": "https://bitbucket.org/objective-see/deploy/downloads/KextViewr_1.1.0.zip",
-    "sha256": "bf57dc55adc7179914a452eeacf553952e86b4e1ff2406875a9a0b21932684ca",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.1.0",
     "build": null,
+    "bundle": "KextViewr.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://bitbucket.org/objective-see/deploy/downloads/KextViewr_1.1.0.zip",
+    "id": "kextviewr",
+    "identifier": "com.objective-see.KextViewr",
+    "sha256": "bf57dc55adc7179914a452eeacf553952e86b4e1ff2406875a9a0b21932684ca",
     "symlink": null,
-    "web": "https://objective-see.com/products/kextviewr.html",
-    "ci": "true"
+    "version": "1.1.0",
+    "web": "https://objective-see.com/products/kextviewr.html"
   }
 }

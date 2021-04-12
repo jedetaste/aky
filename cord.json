@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "cord",
-    "bundle": "CoRD.app",
-    "identifier": "net.sf.cord",
-    "download": "http://sourceforge.net/projects/cord/files/cord/0.5.7/CoRD_0.5.7.zip/download",
-    "sha256": "8f505b12b94167100b3b8b44ed3cee32ffcc94b73dc44fe0ecc896151f114100",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "0.5.7",
     "build": null,
+    "bundle": "CoRD.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://sourceforge.net/projects/cord/files/cord/0.5.7/CoRD_0.5.7.zip/download",
+    "id": "cord",
+    "identifier": "net.sf.cord",
+    "sha256": "8f505b12b94167100b3b8b44ed3cee32ffcc94b73dc44fe0ecc896151f114100",
     "symlink": null,
-    "web": "https://cord.sourceforge.io/",
-    "ci": "true"
+    "version": "0.5.7",
+    "web": "https://cord.sourceforge.io/"
   }
 }

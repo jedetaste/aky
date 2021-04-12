@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "boxcryptor",
-    "bundle": "Boxcryptor.app",
-    "identifier": "com.boxcryptor.osx",
-    "download": "https://www.boxcryptor.com/l/download-macosx",
-    "sha256": "b4acc528180493292a964ca1db457bad4f0d56764d1826488cbae251c0398214",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.40.1234",
     "build": null,
+    "bundle": "Boxcryptor.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.boxcryptor.com/l/download-macosx",
+    "id": "boxcryptor",
+    "identifier": "com.boxcryptor.osx",
+    "sha256": "b4acc528180493292a964ca1db457bad4f0d56764d1826488cbae251c0398214",
     "symlink": null,
-    "web": "https://www.boxcryptor.com/en/",
-    "ci": "true"
+    "version": "2.40.1234",
+    "web": "https://www.boxcryptor.com/en/"
   }
 }

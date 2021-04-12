@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "atom",
-    "bundle": "Atom.app",
-    "identifier": "com.github.atom",
-    "download": "https://github.com/atom/atom/releases/download/v1.55.0/atom-mac.zip",
-    "sha256": "42932be997034b026d3f3104fb7b4c88a08852afba74f0d10b02a261db2508b6",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.55.0",
     "build": null,
+    "bundle": "Atom.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/atom/atom/releases/download/v1.55.0/atom-mac.zip",
+    "id": "atom",
+    "identifier": "com.github.atom",
+    "sha256": "42932be997034b026d3f3104fb7b4c88a08852afba74f0d10b02a261db2508b6",
     "symlink": null,
-    "web": "https://atom.io/",
-    "ci": "true"
+    "version": "1.55.0",
+    "web": "https://atom.io/"
   }
 }

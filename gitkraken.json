@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "gitkraken",
-    "bundle": "GitKraken.app",
-    "identifier": "com.axosoft.gitkraken",
-    "download": "https://release.gitkraken.com/darwin/installGitKraken.dmg",
-    "sha256": "9af1be5afae72f34ee80156983827b8bc4e943534e663bc9ebb69cf1a525f2c9",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "7.5.4",
     "build": null,
+    "bundle": "GitKraken.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://release.gitkraken.com/darwin/installGitKraken.dmg",
+    "id": "gitkraken",
+    "identifier": "com.axosoft.gitkraken",
+    "sha256": "9af1be5afae72f34ee80156983827b8bc4e943534e663bc9ebb69cf1a525f2c9",
     "symlink": null,
-    "web": "https://www.gitkraken.com/",
-    "ci": "true"
+    "version": "7.5.4",
+    "web": "https://www.gitkraken.com/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "telegram",
-    "bundle": "Telegram.app",
-    "identifier": "ru.keepcoder.Telegram",
-    "download": "https://telegram.org/dl/macos",
-    "sha256": "ba7a30b28795bbced353862bc6078be83aac3001cc1f1689e2c5641c500b476b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "7.6",
     "build": null,
+    "bundle": "Telegram.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://telegram.org/dl/macos",
+    "id": "telegram",
+    "identifier": "ru.keepcoder.Telegram",
+    "sha256": "ba7a30b28795bbced353862bc6078be83aac3001cc1f1689e2c5641c500b476b",
     "symlink": null,
-    "web": "https://macos.telegram.org/",
-    "ci": "true"
+    "version": "7.6",
+    "web": "https://macos.telegram.org/"
   }
 }

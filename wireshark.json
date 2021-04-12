@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "wireshark",
-    "bundle": "Wireshark.app",
-    "identifier": "org.wireshark.Wireshark",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Wireshark-3.4.4.pkg",
-    "sha256": "fe0cc389716166bf113b2bdcd498551d9498e40fd0eae7cba0ca09dc1d9ac117",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.4.4",
     "build": null,
-    "dir": "/Applications",
-    "symlink": null,
-    "web": "https://www.wireshark.org/",
+    "bundle": "Wireshark.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Wireshark-3.4.4.pkg",
+    "id": "wireshark",
+    "identifier": "org.wireshark.Wireshark",
+    "internal": "true",
+    "sha256": "fe0cc389716166bf113b2bdcd498551d9498e40fd0eae7cba0ca09dc1d9ac117",
+    "symlink": null,
+    "version": "3.4.4",
+    "web": "https://www.wireshark.org/"
   }
 }

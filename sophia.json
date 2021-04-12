@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "sophia",
-    "bundle": "Sophia.app",
-    "identifier": "cytotrade.Sophia",
-    "download": "https://www.sophiatesting.com/download/Sophia.zip",
-    "sha256": "b402bb6b7e5e4c09746c2a40119a01151c3d6bb6f9192fca554579d05ff9c3c6",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.00",
     "build": null,
+    "bundle": "Sophia.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.sophiatesting.com/download/Sophia.zip",
+    "id": "sophia",
+    "identifier": "cytotrade.Sophia",
+    "sha256": "b402bb6b7e5e4c09746c2a40119a01151c3d6bb6f9192fca554579d05ff9c3c6",
     "symlink": null,
-    "web": "http://www.sophiatesting.com/",
-    "ci": "true"
+    "version": "2.00",
+    "web": "http://www.sophiatesting.com/"
   }
 }

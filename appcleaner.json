@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "appcleaner",
-    "bundle": "AppCleaner.app",
-    "identifier": "net.freemacsoft.AppCleaner",
-    "download": "https://freemacsoft.net/downloads/AppCleaner_3.6.zip",
-    "sha256": "812bcacd845fac07e073130d3fe4c5f037815d0774a9782e0e309fced1bded1c",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.6.0",
     "build": null,
+    "bundle": "AppCleaner.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://freemacsoft.net/downloads/AppCleaner_3.6.zip",
+    "id": "appcleaner",
+    "identifier": "net.freemacsoft.AppCleaner",
+    "sha256": "812bcacd845fac07e073130d3fe4c5f037815d0774a9782e0e309fced1bded1c",
     "symlink": null,
-    "web": "https://freemacsoft.net/appcleaner/",
-    "ci": "true"
+    "version": "3.6.0",
+    "web": "https://freemacsoft.net/appcleaner/"
   }
 }

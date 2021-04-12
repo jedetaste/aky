@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "meistertask",
-    "bundle": "MeisterTask.app",
-    "identifier": "com.meisterlabs.meistertask.desktop",
-    "download": "https://www.meistertask.com/files/MeisterTask_osx.dmg",
-    "sha256": "989c06e98621dcca78687eacb1c86f4e329b4d486ebd81f8d10f51f2bc034f39",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.2.1",
     "build": null,
+    "bundle": "MeisterTask.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.meistertask.com/files/MeisterTask_osx.dmg",
+    "id": "meistertask",
+    "identifier": "com.meisterlabs.meistertask.desktop",
+    "sha256": "989c06e98621dcca78687eacb1c86f4e329b4d486ebd81f8d10f51f2bc034f39",
     "symlink": null,
-    "web": "https://www.meistertask.com/",
-    "ci": "true"
+    "version": "2.2.1",
+    "web": "https://www.meistertask.com/"
   }
 }

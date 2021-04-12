@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "wirelessmedia",
-    "bundle": "WirelessMedia-macOS.app",
-    "identifier": "com.wirelessmedia.wmbmac",
-    "download": "https://www.klickandshow.com/wp-content/uploads/2020/09/WirelessMedia-macOS.zip",
-    "sha256": "91278e9552c5f2e1570561fec8f3f94c0ce9df03fb49644ccdf9f70d7565a41d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.6.3.5",
     "build": null,
+    "bundle": "WirelessMedia-macOS.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.klickandshow.com/wp-content/uploads/2020/09/WirelessMedia-macOS.zip",
+    "id": "wirelessmedia",
+    "identifier": "com.wirelessmedia.wmbmac",
+    "sha256": "91278e9552c5f2e1570561fec8f3f94c0ce9df03fb49644ccdf9f70d7565a41d",
     "symlink": null,
-    "web": "https://www.klickandshow.com/",
-    "ci": "true"
+    "version": "1.6.3.5",
+    "web": "https://www.klickandshow.com/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "webex",
-    "bundle": "Webex.app",
-    "identifier": "Cisco-Systems.Spark",
-    "download": "https://binaries.webex.com/WebexTeamsDesktop-MACOS-Gold/WebexTeams.dmg",
-    "sha256": "edc3165720b30b4e5ba648bf7f5dd917ddbf857fa1e8360755b141b953cd8126",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "41.3.0.18191",
     "build": null,
+    "bundle": "Webex.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://binaries.webex.com/WebexTeamsDesktop-MACOS-Gold/WebexTeams.dmg",
+    "id": "webex",
+    "identifier": "Cisco-Systems.Spark",
+    "sha256": "edc3165720b30b4e5ba648bf7f5dd917ddbf857fa1e8360755b141b953cd8126",
     "symlink": null,
-    "web": "https://www.webex.com/",
-    "ci": "true"
+    "version": "41.3.0.18191",
+    "web": "https://www.webex.com/"
   }
 }

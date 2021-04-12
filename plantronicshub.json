@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "plantronicshub",
-    "bundle": "Plantronics Hub.app",
-    "identifier": "Plantronics-Inc..Plantronics-Hub",
-    "download": "https://www.poly.com/content/dam/www/software/PlantronicsHubInstaller.dmg",
-    "sha256": "4ce5d9c5c668e839df78412445026710bd0b5af654d9d94351995f1f14302f4f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.21.53118.27704",
     "build": null,
+    "bundle": "Plantronics Hub.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.poly.com/content/dam/www/software/PlantronicsHubInstaller.dmg",
+    "id": "plantronicshub",
+    "identifier": "Plantronics-Inc..Plantronics-Hub",
+    "sha256": "4ce5d9c5c668e839df78412445026710bd0b5af654d9d94351995f1f14302f4f",
     "symlink": null,
-    "web": "https://www.poly.com/us/en/support/downloads-apps",
-    "ci": "true"
+    "version": "3.21.53118.27704",
+    "web": "https://www.poly.com/us/en/support/downloads-apps"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "leseschlau",
-    "bundle": "Leseschlau.app",
-    "identifier": "ch.seerow.leseschlau",
-    "download": "https://www.leseschlau-app.ch/osx_download",
-    "sha256": "dda56ca924a05e79d5864f7ebaba642d4b2dc837e46c4ee56d7c48390696cf6a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0.0",
     "build": null,
+    "bundle": "Leseschlau.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.leseschlau-app.ch/osx_download",
+    "id": "leseschlau",
+    "identifier": "ch.seerow.leseschlau",
+    "sha256": "dda56ca924a05e79d5864f7ebaba642d4b2dc837e46c4ee56d7c48390696cf6a",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Deutsch",
-    "web": "https://www.leseschlau-app.ch/",
-    "ci": "true"
+    "version": "1.0.0",
+    "web": "https://www.leseschlau-app.ch/"
   }
 }

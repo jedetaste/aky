@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "owncloud",
-    "bundle": "owncloud.app",
-    "identifier": "com.owncloud.desktopclient",
-    "download": "https://download.owncloud.com/desktop/ownCloud/stable/2.7.6.3261/mac/ownCloud-2.7.6.3261.pkg",
-    "sha256": "6c2366e13d5989259f3b70f81657c85dadecdaa17b16d5faaee5d136d8020087",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.7.6 (build 3261)",
     "build": null,
+    "bundle": "owncloud.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.owncloud.com/desktop/ownCloud/stable/2.7.6.3261/mac/ownCloud-2.7.6.3261.pkg",
+    "id": "owncloud",
+    "identifier": "com.owncloud.desktopclient",
+    "sha256": "6c2366e13d5989259f3b70f81657c85dadecdaa17b16d5faaee5d136d8020087",
     "symlink": null,
-    "web": "https://owncloud.com/",
-    "ci": "true"
+    "version": "2.7.6 (build 3261)",
+    "web": "https://owncloud.com/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "microsoftexcel",
-    "bundle": "Microsoft Excel.app",
-    "identifier": "com.microsoft.Excel",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.47.21032301_Updater.pkg",
-    "sha256": "3f5f1d6a9f810698184f8e5cda531a2d0913640d04dc42a0e5e2a2cfac9fd49b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "16.47.21032301",
     "build": null,
+    "bundle": "Microsoft Excel.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.47.21032301_Updater.pkg",
+    "id": "microsoftexcel",
+    "identifier": "com.microsoft.Excel",
+    "sha256": "3f5f1d6a9f810698184f8e5cda531a2d0913640d04dc42a0e5e2a2cfac9fd49b",
     "symlink": null,
-    "web": "https://products.office.com/mac/microsoft-office-for-mac/",
-    "ci": "true"
+    "version": "16.47.21032301",
+    "web": "https://products.office.com/mac/microsoft-office-for-mac/"
   }
 }

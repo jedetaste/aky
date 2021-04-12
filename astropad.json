@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "astropad",
-    "bundle": "Astropad.app",
-    "identifier": "com.astro-hq.AstropadMac",
-    "download": "https://s3.amazonaws.com/astropad.com/downloads/Astropad-3.6.0.dmg",
-    "sha256": "5b3d2ae1f6a345a500253c95962b113ac06a6db1726dc3cfd3a0fe6d6a08c421",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.6.0",
     "build": null,
+    "bundle": "Astropad.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://s3.amazonaws.com/astropad.com/downloads/Astropad-3.6.0.dmg",
+    "id": "astropad",
+    "identifier": "com.astro-hq.AstropadMac",
+    "sha256": "5b3d2ae1f6a345a500253c95962b113ac06a6db1726dc3cfd3a0fe6d6a08c421",
     "symlink": null,
-    "web": "https://astropad.com/",
-    "ci": "true"
+    "version": "3.6.0",
+    "web": "https://astropad.com/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "postgres",
-    "bundle": "Postgres.app",
-    "identifier": "com.postgresapp.Postgres2",
-    "download": "https://github.com/PostgresApp/PostgresApp/releases/download/v2.4.2/Postgres-2.4.2-9.5-9.6-10-11-12-13.dmg",
-    "sha256": "4ea80659448cb98edd16a53e664672a558a1b64d5c960393dd72456da6772231",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.4.2",
     "build": null,
+    "bundle": "Postgres.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/PostgresApp/PostgresApp/releases/download/v2.4.2/Postgres-2.4.2-9.5-9.6-10-11-12-13.dmg",
+    "id": "postgres",
+    "identifier": "com.postgresapp.Postgres2",
+    "sha256": "4ea80659448cb98edd16a53e664672a558a1b64d5c960393dd72456da6772231",
     "symlink": null,
-    "web": "https://postgresapp.com",
-    "ci": "true"
+    "version": "2.4.2",
+    "web": "https://postgresapp.com"
   }
 }

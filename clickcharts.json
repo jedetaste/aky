@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "clickcharts",
-    "bundle": "ClickCharts.app",
-    "identifier": "com.nchsoftware.clickchart",
-    "download": "https://www.nchsoftware.com/chart/clickchartspmaci.zip",
-    "sha256": "9c5779799109678e61b330ab61a06e9230d6536b82485b6bab52c173d8d6be8e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.89",
     "build": null,
+    "bundle": "ClickCharts.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.nchsoftware.com/chart/clickchartspmaci.zip",
+    "id": "clickcharts",
+    "identifier": "com.nchsoftware.clickchart",
+    "sha256": "9c5779799109678e61b330ab61a06e9230d6536b82485b6bab52c173d8d6be8e",
     "symlink": null,
-    "web": "http://www.nchsoftware.com/",
-    "ci": "true"
+    "version": "5.89",
+    "web": "http://www.nchsoftware.com/"
   }
 }

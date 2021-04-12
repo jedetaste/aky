@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "clipgrab",
-    "bundle": "ClipGrab.app",
-    "identifier": "de.clipgrab.ClipGrab",
-    "download": "https://download.clipgrab.org/ClipGrab-3.9.6.dmg",
-    "sha256": "45282684f1f8e957a98a4023467bc693153368618935698e7b4f2a9f44773495",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.9.6",
     "build": null,
+    "bundle": "ClipGrab.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.clipgrab.org/ClipGrab-3.9.6.dmg",
+    "id": "clipgrab",
+    "identifier": "de.clipgrab.ClipGrab",
+    "sha256": "45282684f1f8e957a98a4023467bc693153368618935698e7b4f2a9f44773495",
     "symlink": null,
-    "web": "https://clipgrab.org/",
-    "ci": "true"
+    "version": "3.9.6",
+    "web": "https://clipgrab.org/"
   }
 }

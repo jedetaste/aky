@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "wavepad",
-    "bundle": "WavePad.app",
-    "identifier": "com.nchsoftware.wavepad",
-    "download": "https://www.nch.com.au/components/wavepadmaci.zip",
-    "sha256": "37bd70e123a086b128a25e755c85b946dbb421843407bc07c41136781d4e15b2",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "12.36",
     "build": null,
+    "bundle": "WavePad.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.nch.com.au/components/wavepadmaci.zip",
+    "id": "wavepad",
+    "identifier": "com.nchsoftware.wavepad",
+    "sha256": "37bd70e123a086b128a25e755c85b946dbb421843407bc07c41136781d4e15b2",
     "symlink": null,
-    "web": "https://www.nch.com.au/wavepad/",
-    "ci": "true"
+    "version": "12.36",
+    "web": "https://www.nch.com.au/wavepad/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "phpstorm",
-    "bundle": "PhpStorm.app",
-    "identifier": "com.jetbrains.PhpStorm",
-    "download": "https://download.jetbrains.com/webide/PhpStorm-2021.1.dmg",
-    "sha256": "3e79bb5617623a7e4e9516affb320aa82c10ec10c386011db18c72585ef83565",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2021.1",
     "build": null,
+    "bundle": "PhpStorm.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.jetbrains.com/webide/PhpStorm-2021.1.dmg",
+    "id": "phpstorm",
+    "identifier": "com.jetbrains.PhpStorm",
+    "sha256": "3e79bb5617623a7e4e9516affb320aa82c10ec10c386011db18c72585ef83565",
     "symlink": null,
-    "web": "https://www.jetbrains.com/phpstorm/",
-    "ci": "true"
+    "version": "2021.1",
+    "web": "https://www.jetbrains.com/phpstorm/"
   }
 }

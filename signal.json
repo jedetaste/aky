@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "signal",
-    "bundle": "Signal.app",
-    "identifier": "org.whispersystems.signal-desktop",
-    "download": "https://updates.signal.org/desktop/signal-desktop-mac-1.40.1.dmg",
-    "sha256": "3fb8122c9f7b4672732715a6acf449c2fa6c02099bcf4bcba5351a46bb7e6576",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.40.1",
     "build": null,
+    "bundle": "Signal.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://updates.signal.org/desktop/signal-desktop-mac-1.40.1.dmg",
+    "id": "signal",
+    "identifier": "org.whispersystems.signal-desktop",
+    "sha256": "3fb8122c9f7b4672732715a6acf449c2fa6c02099bcf4bcba5351a46bb7e6576",
     "symlink": null,
-    "web": "https://signal.org/",
-    "ci": "true"
+    "version": "1.40.1",
+    "web": "https://signal.org/"
   }
 }

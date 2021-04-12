@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "mau",
-    "bundle": "Microsoft AutoUpdate.app",
-    "identifier": "com.microsoft.autoupdate2",
-    "download": "https://go.microsoft.com/fwlink/?linkid=830196",
-    "sha256": "8b851fd35b8172ab3220592e68abcd6c302a55336fd7e9f8b5511683b372e7e1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.33",
     "build": null,
+    "bundle": "Microsoft AutoUpdate.app",
+    "ci": "true",
     "dir": "/Library/Application Support/Microsoft/MAU2.0",
+    "download": "https://go.microsoft.com/fwlink/?linkid=830196",
+    "id": "mau",
+    "identifier": "com.microsoft.autoupdate2",
+    "sha256": "8b851fd35b8172ab3220592e68abcd6c302a55336fd7e9f8b5511683b372e7e1",
     "symlink": null,
-    "web": "https://products.office.com/mac/microsoft-office-for-mac/",
-    "ci": "true"
+    "version": "4.33",
+    "web": "https://products.office.com/mac/microsoft-office-for-mac/"
   }
 }

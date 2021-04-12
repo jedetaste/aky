@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "burn",
-    "bundle": "Burn.app",
-    "identifier": "com.kiwifruitware.Burn",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Burn-3.1.2.pkg",
-    "sha256": "bd07e591233d9da574a813c3b0cad651be59c01a3487e943310a7cebf32b788d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.1.2",
     "build": null,
-    "dir": "/Applications",
-    "symlink": null,
-    "web": "https://burn-osx.sourceforge.io/",
+    "bundle": "Burn.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Burn-3.1.2.pkg",
+    "id": "burn",
+    "identifier": "com.kiwifruitware.Burn",
+    "internal": "true",
+    "sha256": "bd07e591233d9da574a813c3b0cad651be59c01a3487e943310a7cebf32b788d",
+    "symlink": null,
+    "version": "3.1.2",
+    "web": "https://burn-osx.sourceforge.io/"
   }
 }

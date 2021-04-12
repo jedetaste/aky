@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "mediaconverter",
-    "bundle": "Media Converter.app",
-    "identifier": "com.kiwifruitware.Media_Converter",
-    "download": "https://downloads.sourceforge.net/media-converter/media-converter/3.0/media-converter-3.0.zip",
-    "sha256": "a5c61e461aca7c570a3ea99f0ecf0f27a8e2ab5713c3edd79d3eaf7ca1543b5e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.0",
     "build": null,
+    "bundle": "Media Converter.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.sourceforge.net/media-converter/media-converter/3.0/media-converter-3.0.zip",
+    "id": "mediaconverter",
+    "identifier": "com.kiwifruitware.Media_Converter",
+    "sha256": "a5c61e461aca7c570a3ea99f0ecf0f27a8e2ab5713c3edd79d3eaf7ca1543b5e",
     "symlink": null,
-    "web": "https://media-converter.sourceforge.io/",
-    "ci": "true"
+    "version": "3.0",
+    "web": "https://media-converter.sourceforge.io/"
   }
 }

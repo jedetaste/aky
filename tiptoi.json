@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "tiptoi",
-    "bundle": "tiptoi® Manager.app",
-    "identifier": "com.ravensburger.tiptoimanager",
-    "download": "https://cdn.ravensburger.de/db/installer_flat/tiptoi_Manager_Installer.pkg",
-    "sha256": "53247872f976de6a2c2469d63013b85e30767e37ffb38a3a13ad7e2064f2bf98",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.2.1",
     "build": null,
+    "bundle": "tiptoi\u00ae Manager.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://cdn.ravensburger.de/db/installer_flat/tiptoi_Manager_Installer.pkg",
+    "id": "tiptoi",
+    "identifier": "com.ravensburger.tiptoimanager",
+    "sha256": "53247872f976de6a2c2469d63013b85e30767e37ffb38a3a13ad7e2064f2bf98",
     "symlink": null,
-    "web": "http://tiptoi.de/",
-    "ci": "true"
+    "version": "4.2.1",
+    "web": "http://tiptoi.de/"
   }
 }

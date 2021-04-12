@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "kindle",
-    "bundle": "Kindle.app",
-    "identifier": "com.amazon.Kindle",
-    "download": "https://www.amazon.com/kindlemacdownload/ref=klp_mac",
-    "sha256": "1b70345bb96394f5662c1dfedf15a318e83f259553c83d81e32fc1e25fa251ab",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.30.0",
     "build": null,
+    "bundle": "Kindle.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.amazon.com/kindlemacdownload/ref=klp_mac",
+    "id": "kindle",
+    "identifier": "com.amazon.Kindle",
+    "sha256": "1b70345bb96394f5662c1dfedf15a318e83f259553c83d81e32fc1e25fa251ab",
     "symlink": null,
-    "web": "https://www.amazon.com/gp/digital/fiona/kcp-landing-page",
-    "ci": "true"
+    "version": "1.30.0",
+    "web": "https://www.amazon.com/gp/digital/fiona/kcp-landing-page"
   }
 }

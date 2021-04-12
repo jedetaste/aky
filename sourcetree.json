@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "sourcetree",
-    "bundle": "Sourcetree.app",
-    "identifier": "com.torusknot.SourceTreeNotMAS",
-    "download": "https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_4.0.2_236.zip",
-    "sha256": "c9ad12f135077363a11102925ff50f1f3f59c95625362d4105c6fc414aab7c83",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.0.2",
     "build": null,
+    "bundle": "Sourcetree.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_4.0.2_236.zip",
+    "id": "sourcetree",
+    "identifier": "com.torusknot.SourceTreeNotMAS",
+    "sha256": "c9ad12f135077363a11102925ff50f1f3f59c95625362d4105c6fc414aab7c83",
     "symlink": null,
-    "web": "https://www.sourcetreeapp.com/",
-    "ci": "true"
+    "version": "4.0.2",
+    "web": "https://www.sourcetreeapp.com/"
   }
 }

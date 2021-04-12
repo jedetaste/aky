@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "printwindow",
-    "bundle": "Print Window.app",
-    "identifier": "com.searchwaresolutions.PrintWindow",
-    "download": "http://printwindowapp.com/software/printwindow.dmg",
-    "sha256": "c77b0a46836cd74450c1f07dd90dd0bec99461f8171977316fc76f91dbbf802b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.4.2",
     "build": null,
+    "bundle": "Print Window.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://printwindowapp.com/software/printwindow.dmg",
+    "id": "printwindow",
+    "identifier": "com.searchwaresolutions.PrintWindow",
+    "sha256": "c77b0a46836cd74450c1f07dd90dd0bec99461f8171977316fc76f91dbbf802b",
     "symlink": null,
-    "web": "http://printwindowapp.com/",
-    "ci": "true"
+    "version": "5.4.2",
+    "web": "http://printwindowapp.com/"
   }
 }

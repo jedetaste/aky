@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "dropdmg",
-    "bundle": "DropDMG.app",
-    "identifier": "com.c-command.DropDMG",
-    "download": "https://c-command.com/downloads/DropDMG-3.6.2.dmg",
-    "sha256": "712993342832ccb9e4f1248f1d3574e65e58ecf8377141eef82bc21b9d868898",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.6.2",
     "build": null,
+    "bundle": "DropDMG.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://c-command.com/downloads/DropDMG-3.6.2.dmg",
+    "id": "dropdmg",
+    "identifier": "com.c-command.DropDMG",
+    "sha256": "712993342832ccb9e4f1248f1d3574e65e58ecf8377141eef82bc21b9d868898",
     "symlink": null,
-    "web": "https://c-command.com/dropdmg/",
-    "ci": "true"
+    "version": "3.6.2",
+    "web": "https://c-command.com/dropdmg/"
   }
 }

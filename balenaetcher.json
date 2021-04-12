@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "balenaetcher",
-    "bundle": "balenaEtcher.app",
-    "identifier": "io.balena.etcher",
-    "download": "https://github.com/balena-io/etcher/releases/download/v1.5.117/balenaEtcher-1.5.117.dmg",
-    "sha256": "b8872eb9e0790220627f95317fa2d3661a53727e26fbbfb9c5832955e6df16fd",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.5.117",
     "build": null,
+    "bundle": "balenaEtcher.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/balena-io/etcher/releases/download/v1.5.117/balenaEtcher-1.5.117.dmg",
+    "id": "balenaetcher",
+    "identifier": "io.balena.etcher",
+    "sha256": "b8872eb9e0790220627f95317fa2d3661a53727e26fbbfb9c5832955e6df16fd",
     "symlink": null,
-    "web": "https://balena.io/etcher",
-    "ci": "true"
+    "version": "1.5.117",
+    "web": "https://balena.io/etcher"
   }
 }

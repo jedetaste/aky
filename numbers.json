@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "numbers",
-    "bundle": "Numbers.app",
-    "identifier": "com.apple.iWork.Numbers",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Numbers-10.3.9.pkg",
-    "sha256": "4fde6d50f15fa8e6ad7e226a3ac9fce1dfbeb56f6253f8d39a2be070a6cacb19",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "10.3.9",
     "build": null,
-    "symlink": null,
-    "dir": "/Applications",
-    "web": null,
+    "bundle": "Numbers.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Numbers-10.3.9.pkg",
+    "id": "numbers",
+    "identifier": "com.apple.iWork.Numbers",
+    "internal": "true",
+    "sha256": "4fde6d50f15fa8e6ad7e226a3ac9fce1dfbeb56f6253f8d39a2be070a6cacb19",
+    "symlink": null,
+    "version": "10.3.9",
+    "web": null
   }
 }

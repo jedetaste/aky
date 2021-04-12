@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "affinityphoto",
-    "bundle": "Affinity Photo.app",
-    "identifier": "com.seriflabs.affinityphoto",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Photo-1.9.2.pkg",
-    "sha256": "7fbc28d4d211300adcc800834a6841943cc219b0fef48c39705ac09414d3e516",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.9.2",
     "build": null,
-    "dir": "/Applications",
-    "symlink": null,
-    "web": "https://affinity.serif.com/photo/",
+    "bundle": "Affinity Photo.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Photo-1.9.2.pkg",
+    "id": "affinityphoto",
+    "identifier": "com.seriflabs.affinityphoto",
+    "internal": "true",
+    "sha256": "7fbc28d4d211300adcc800834a6841943cc219b0fef48c39705ac09414d3e516",
+    "symlink": null,
+    "version": "1.9.2",
+    "web": "https://affinity.serif.com/photo/"
   }
 }

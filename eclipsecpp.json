@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "eclipsecpp",
-    "bundle": "Eclipse.app",
-    "identifier": "org.eclipse.platform.ide",
-    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2021-03/R/eclipse-cpp-2021-03-R-macosx-cocoa-x86_64.dmg",
-    "sha256": "4eb035478fb52c1ae3ae26322dc9ec0967a18155283fb44afebee5f12189893a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.19.0",
     "build": null,
+    "bundle": "Eclipse.app",
+    "ci": "true",
     "dir": "/Applications/Eclipse CPP",
+    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2021-03/R/eclipse-cpp-2021-03-R-macosx-cocoa-x86_64.dmg",
+    "id": "eclipsecpp",
+    "identifier": "org.eclipse.platform.ide",
+    "sha256": "4eb035478fb52c1ae3ae26322dc9ec0967a18155283fb44afebee5f12189893a",
     "symlink": null,
-    "web": "https://eclipse.org/",
-    "ci": "true"
+    "version": "4.19.0",
+    "web": "https://eclipse.org/"
   }
 }

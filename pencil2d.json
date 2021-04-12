@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "pencil2d",
-    "bundle": "Pencil2D.app",
-    "identifier": "org.pencil2d.Pencil2D",
-    "download": "https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-mac-0.6.6.zip",
-    "sha256": "9c3aad2adc3aee1234ddb1229f80562843b46ff167eb3ba12acf76846d96edda",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "0.6.6",
     "build": null,
+    "bundle": "Pencil2D.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-mac-0.6.6.zip",
+    "id": "pencil2d",
+    "identifier": "org.pencil2d.Pencil2D",
+    "sha256": "9c3aad2adc3aee1234ddb1229f80562843b46ff167eb3ba12acf76846d96edda",
     "symlink": null,
-    "web": "https://www.pencil2d.org/",
-    "ci": "true"
+    "version": "0.6.6",
+    "web": "https://www.pencil2d.org/"
   }
 }

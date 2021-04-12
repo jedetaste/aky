@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "magicnumbermachine",
-    "bundle": "Magic Number Machine.app",
-    "identifier": "com.mattgallagher.magicnumbermachine",
-    "download": "http://projectswithlove.com/magicnumbermachine/magic-number-machine.1.0.32.zip",
-    "sha256": "1f5c39fb20221be29496d814b720a33586b47bff36f35d47ab2ff2a4b2ed9f90",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0.32",
     "build": null,
+    "bundle": "Magic Number Machine.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://projectswithlove.com/magicnumbermachine/magic-number-machine.1.0.32.zip",
+    "id": "magicnumbermachine",
+    "identifier": "com.mattgallagher.magicnumbermachine",
+    "sha256": "1f5c39fb20221be29496d814b720a33586b47bff36f35d47ab2ff2a4b2ed9f90",
     "symlink": null,
-    "web": "http://projectswithlove.com/magicnumbermachine",
-    "ci": "true"
+    "version": "1.0.32",
+    "web": "http://projectswithlove.com/magicnumbermachine"
   }
 }

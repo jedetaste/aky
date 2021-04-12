@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "franz",
-    "bundle": "Franz.app",
-    "identifier": "com.meetfranz.franz",
-    "download": "https://github.com/meetfranz/franz/releases/download/v5.6.1/Franz-5.6.1.dmg",
-    "sha256": "8889fbacd3686ad0c9d8c372080dcd1292d5e0bcba34eb2e569ebe8dbb5a1274",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.6.1",
     "build": null,
+    "bundle": "Franz.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/meetfranz/franz/releases/download/v5.6.1/Franz-5.6.1.dmg",
+    "id": "franz",
+    "identifier": "com.meetfranz.franz",
+    "sha256": "8889fbacd3686ad0c9d8c372080dcd1292d5e0bcba34eb2e569ebe8dbb5a1274",
     "symlink": null,
-    "web": "https://meetfranz.com/",
-    "ci": "true"
+    "version": "5.6.1",
+    "web": "https://meetfranz.com/"
   }
 }

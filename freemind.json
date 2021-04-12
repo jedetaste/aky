@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "freemind",
-    "bundle": "FreeMind.app",
-    "identifier": "freemind.main.FreeMind",
-    "download": "https://downloads.sourceforge.net/freemind/freemind/1.0.1/FreeMind_1.0.1.dmg",
-    "sha256": "0bd93317567f947e7fa3b3e8d2e0d908300642edc5e07f1929157469ffd14ea3",
     "appcast": {
-      "url": "https://sourceforge.net/projects/freemind/rss?path=/freemind",
-      "checkpoint": "4e53a4b189d19f05fdf845ce1873d530758ef35f508a41328b397432e45bb38a"
+      "checkpoint": "4e53a4b189d19f05fdf845ce1873d530758ef35f508a41328b397432e45bb38a",
+      "url": "https://sourceforge.net/projects/freemind/rss?path=/freemind"
     },
-    "version": "1.0.1 (build: 0)",
     "build": null,
+    "bundle": "FreeMind.app",
     "dir": "/Applications",
+    "download": "https://downloads.sourceforge.net/freemind/freemind/1.0.1/FreeMind_1.0.1.dmg",
+    "id": "freemind",
+    "identifier": "freemind.main.FreeMind",
+    "sha256": "0bd93317567f947e7fa3b3e8d2e0d908300642edc5e07f1929157469ffd14ea3",
     "symlink": null,
+    "version": "1.0.1 (build: 0)",
     "web": "http://freemind.sourceforge.net"
   }
 }

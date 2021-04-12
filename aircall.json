@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "aircall",
-    "bundle": "Aircall.app",
-    "identifier": "io.aircall.phone",
-    "download": "https://download-electron.aircall.io/Aircall-2.15.0.zip",
-    "sha256": "f02b98dc9ecce7e3f17e0670f481411a08644cd9f1d6e8d178736d2b845c4c7e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.15.0",
     "build": null,
+    "bundle": "Aircall.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download-electron.aircall.io/Aircall-2.15.0.zip",
+    "id": "aircall",
+    "identifier": "io.aircall.phone",
+    "sha256": "f02b98dc9ecce7e3f17e0670f481411a08644cd9f1d6e8d178736d2b845c4c7e",
     "symlink": null,
-    "web": "https://aircall.io/",
-    "ci": "true"
+    "version": "2.15.0",
+    "web": "https://aircall.io/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "transmit",
-    "bundle": "Transmit.app",
-    "identifier": "com.panic.Transmit",
-    "download": "https://panic.com/download/transmit/Transmit%205.7.2.zip",
-    "sha256": "57a4d14984a16d38eb0a4ab10aa16c8fb1cbd974dfa802ea7d077e9fc4c771b8",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.7.2",
     "build": null,
+    "bundle": "Transmit.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://panic.com/download/transmit/Transmit%205.7.2.zip",
+    "id": "transmit",
+    "identifier": "com.panic.Transmit",
+    "sha256": "57a4d14984a16d38eb0a4ab10aa16c8fb1cbd974dfa802ea7d077e9fc4c771b8",
     "symlink": null,
-    "web": "https://panic.com/transmit/",
-    "ci": "true"
+    "version": "5.7.2",
+    "web": "https://panic.com/transmit/"
   }
 }

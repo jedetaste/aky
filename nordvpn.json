@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "nordvpn",
-    "bundle": "NordVPN.app",
-    "identifier": "com.nordvpn.osx",
-    "download": "https://downloads.nordcdn.com/apps/macos/generic/NordVPN-OpenVPN/latest/NordVPN.zip",
-    "sha256": "0ccb6fd7e1896d82ab948b6a83ecdc0a728ad1ca3bbd537e1a04b5a160c4b1f7",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "6.2.0",
     "build": null,
+    "bundle": "NordVPN.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.nordcdn.com/apps/macos/generic/NordVPN-OpenVPN/latest/NordVPN.zip",
+    "id": "nordvpn",
+    "identifier": "com.nordvpn.osx",
+    "sha256": "0ccb6fd7e1896d82ab948b6a83ecdc0a728ad1ca3bbd537e1a04b5a160c4b1f7",
     "symlink": null,
-    "web": "https://nordvpn.com/",
-    "ci": "true"
+    "version": "6.2.0",
+    "web": "https://nordvpn.com/"
   }
 }

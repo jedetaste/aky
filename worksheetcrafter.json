@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "worksheetcrafter",
-    "bundle": "WorksheetCrafter.app",
-    "identifier": "com.SchoolCraft.WorksheetCrafter",
-    "download": "https://www.hidrive.strato.com/wget/DoAqDp7d",
-    "sha256": "71a55c5e45a538c1e39747d1bbd563da8853fe9e8e8f142b771858c53e00d68a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2021.1.3.192",
     "build": null,
+    "bundle": "WorksheetCrafter.app",
     "dir": "/Applications",
+    "download": "https://www.hidrive.strato.com/wget/DoAqDp7d",
+    "id": "worksheetcrafter",
+    "identifier": "com.SchoolCraft.WorksheetCrafter",
+    "sha256": "71a55c5e45a538c1e39747d1bbd563da8853fe9e8e8f142b771858c53e00d68a",
     "symlink": null,
+    "version": "2021.1.3.192",
     "web": "https://getschoolcraft.com/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "googledrivefilestream",
-    "bundle": "Google Drive.app",
-    "identifier": "com.google.drivefs",
-    "download": "https://dl.google.com/drive-file-stream/GoogleDrive.dmg",
-    "sha256": "5875869e5f40a4aeb587fbeb119d0a8241f39af077571eb3fba9f3baa476e0d1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "46.0.3",
     "build": null,
+    "bundle": "Google Drive.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://dl.google.com/drive-file-stream/GoogleDrive.dmg",
+    "id": "googledrivefilestream",
+    "identifier": "com.google.drivefs",
+    "sha256": "5875869e5f40a4aeb587fbeb119d0a8241f39af077571eb3fba9f3baa476e0d1",
     "symlink": null,
-    "web": "https://www.google.com/drive/",
-    "ci": "true"
+    "version": "46.0.3",
+    "web": "https://www.google.com/drive/"
   }
 }

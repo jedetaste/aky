@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "bria",
-    "bundle": "Bria.app",
-    "identifier": "com.CounterPath_Corporation.Bria",
-    "download": "https://counterpath.s3.amazonaws.com/downloads/Bria_6.3.0_105536.dmg",
-    "sha256": "ad71abb778fc6d3e591755f3632fcf84fb27bb9ab6ac6f5847a4167cbbf1d65d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "6.3.0",
     "build": null,
+    "bundle": "Bria.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://counterpath.s3.amazonaws.com/downloads/Bria_6.3.0_105536.dmg",
+    "id": "bria",
+    "identifier": "com.CounterPath_Corporation.Bria",
+    "sha256": "ad71abb778fc6d3e591755f3632fcf84fb27bb9ab6ac6f5847a4167cbbf1d65d",
     "symlink": null,
-    "web": "https://www.counterpath.com/bria-solo/",
-    "ci": "true"
+    "version": "6.3.0",
+    "web": "https://www.counterpath.com/bria-solo/"
   }
 }

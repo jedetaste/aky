@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "citrixreceiver",
-    "bundle": "Citrix Receiver.app",
-    "identifier": "com.citrix.receiver.nomas",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/CitrixReceiver-12.9.1.pkg",
-    "sha256": "dc039b5a6e4ba57c61a7f4536c9ab0bb8cd08ff93f937267bdfe300a8685900d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "12.9.1",
     "build": null,
-    "dir": "/Applications",
-    "symlink": null,
-    "web": "https://www.citrix.com/products/receiver/",
+    "bundle": "Citrix Receiver.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/CitrixReceiver-12.9.1.pkg",
+    "id": "citrixreceiver",
+    "identifier": "com.citrix.receiver.nomas",
+    "internal": "true",
+    "sha256": "dc039b5a6e4ba57c61a7f4536c9ab0bb8cd08ff93f937267bdfe300a8685900d",
+    "symlink": null,
+    "version": "12.9.1",
+    "web": "https://www.citrix.com/products/receiver/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "dbeaver",
-    "bundle": "DBeaver.app",
-    "identifier": "org.jkiss.dbeaver.core.product",
-    "download": "https://github.com/dbeaver/dbeaver/releases/download/21.0.2/dbeaver-ce-21.0.2-macos.dmg",
-    "sha256": "378d6e42f64ec758892218474fd19aefcac94c9bc5897f5172f506af5f8de012",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "21.0.2",
     "build": null,
+    "bundle": "DBeaver.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/dbeaver/dbeaver/releases/download/21.0.2/dbeaver-ce-21.0.2-macos.dmg",
+    "id": "dbeaver",
+    "identifier": "org.jkiss.dbeaver.core.product",
+    "sha256": "378d6e42f64ec758892218474fd19aefcac94c9bc5897f5172f506af5f8de012",
     "symlink": null,
-    "web": "https://dbeaver.io/",
-    "ci": "true"
+    "version": "21.0.2",
+    "web": "https://dbeaver.io/"
   }
 }

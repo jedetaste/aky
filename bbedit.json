@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "bbedit",
-    "bundle": "BBEdit.app",
-    "identifier": "com.barebones.bbedit",
-    "download": "https://s3.amazonaws.com/BBSW-download/BBEdit_13.5.5.dmg",
-    "sha256": "6f5c0d71b8f1f385c3d775476d82fca71ddc3d04b5506f47fc8c8e7260650427",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "13.5.5",
     "build": null,
+    "bundle": "BBEdit.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://s3.amazonaws.com/BBSW-download/BBEdit_13.5.5.dmg",
+    "id": "bbedit",
+    "identifier": "com.barebones.bbedit",
+    "sha256": "6f5c0d71b8f1f385c3d775476d82fca71ddc3d04b5506f47fc8c8e7260650427",
     "symlink": null,
-    "web": "https://www.barebones.com/products/bbedit/",
-    "ci": "true"
+    "version": "13.5.5",
+    "web": "https://www.barebones.com/products/bbedit/"
   }
 }

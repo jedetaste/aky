@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "fiji",
-    "bundle": "Fiji.app",
-    "identifier": "org.fiji",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Fiji-1.53i.pkg",
-    "sha256": "2573063be8d1060df6c974743c4135d43dccec918be9013e93162871515e4256",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0",
     "build": null,
-    "symlink": null,
-    "dir": "/Applications",
-    "web": "https://fiji.sc/",
+    "bundle": "Fiji.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Fiji-1.53i.pkg",
+    "id": "fiji",
+    "identifier": "org.fiji",
+    "internal": "true",
+    "sha256": "2573063be8d1060df6c974743c4135d43dccec918be9013e93162871515e4256",
+    "symlink": null,
+    "version": "1.0",
+    "web": "https://fiji.sc/"
   }
 }

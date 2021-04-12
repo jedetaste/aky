@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "araxismerge",
-    "bundle": "Araxis Merge.app",
-    "identifier": "com.araxis.merge",
-    "download": "https://www.araxis.com/download/Merge2021.5533-macOS.dmg",
-    "sha256": "68decc2188cf75a2aec1f6f75ce7edfd1c4d7e588d47cdb677478eddeffab3b2",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2021.5533",
     "build": null,
+    "bundle": "Araxis Merge.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.araxis.com/download/Merge2021.5533-macOS.dmg",
+    "id": "araxismerge",
+    "identifier": "com.araxis.merge",
+    "sha256": "68decc2188cf75a2aec1f6f75ce7edfd1c4d7e588d47cdb677478eddeffab3b2",
     "symlink": null,
-    "web": "https://www.araxis.com/merge/",
-    "ci": "true"
+    "version": "2021.5533",
+    "web": "https://www.araxis.com/merge/"
   }
 }

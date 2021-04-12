@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "vivaldi",
-    "bundle": "Vivaldi.app",
-    "identifier": "com.vivaldi.Vivaldi",
-    "download": "https://downloads.vivaldi.com/stable/Vivaldi.3.6.2165.40.dmg",
-    "sha256": "ce2e304ae3aafa40100e8248a73aa0e5df2ebcec0df7b27d265242de899efc0f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.6.2165.40",
     "build": null,
+    "bundle": "Vivaldi.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.vivaldi.com/stable/Vivaldi.3.6.2165.40.dmg",
+    "id": "vivaldi",
+    "identifier": "com.vivaldi.Vivaldi",
+    "sha256": "ce2e304ae3aafa40100e8248a73aa0e5df2ebcec0df7b27d265242de899efc0f",
     "symlink": null,
-    "web": "https://vivaldi.com/",
-    "ci": "true"
+    "version": "3.6.2165.40",
+    "web": "https://vivaldi.com/"
   }
 }

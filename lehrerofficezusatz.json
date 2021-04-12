@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "lehrerofficezusatz",
-    "bundle": "LehrerOffice Zusatz.app",
-    "identifier": "ch.rothsoft.lehreroffice.sv",
-    "download": "https://cmi-bildung.ch/lo/dateien/zusatz/lo_zusatz_macos.dmg",
-    "sha256": "047b20a195a184409d1220f806ec584d049eac41dbe243177bb56f2247520eb0",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2021.2.0",
     "build": null,
+    "bundle": "LehrerOffice Zusatz.app",
+    "ci": "true",
     "dir": "/Applications/LehrerOffice",
+    "download": "https://cmi-bildung.ch/lo/dateien/zusatz/lo_zusatz_macos.dmg",
+    "id": "lehrerofficezusatz",
+    "identifier": "ch.rothsoft.lehreroffice.sv",
+    "sha256": "047b20a195a184409d1220f806ec584d049eac41dbe243177bb56f2247520eb0",
     "symlink": null,
-    "web": "https://cmi-bildung.ch/",
-    "ci": "true"
+    "version": "2021.2.0",
+    "web": "https://cmi-bildung.ch/"
   }
 }

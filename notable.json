@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "notable",
-    "bundle": "Notable.app",
-    "identifier": "com.fabiospampinato.notable",
-    "download": "https://github.com/notable/notable/releases/download/v1.8.4/Notable-1.8.4.dmg",
-    "sha256": "5ca00f5135e769165c683dc0174ea95bd9052ca751a0704b1a1a20dd297b4e3d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.8.4",
     "build": null,
+    "bundle": "Notable.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/notable/notable/releases/download/v1.8.4/Notable-1.8.4.dmg",
+    "id": "notable",
+    "identifier": "com.fabiospampinato.notable",
+    "sha256": "5ca00f5135e769165c683dc0174ea95bd9052ca751a0704b1a1a20dd297b4e3d",
     "symlink": null,
-    "web": "https://notable.app/",
-    "ci": "true"
+    "version": "1.8.4",
+    "web": "https://notable.app/"
   }
 }

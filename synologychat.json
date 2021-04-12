@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "synologychat",
-    "bundle": "Synology Chat.app",
-    "identifier": "synochat",
-    "download": "https://global.download.synology.com/download/Tools/ChatClient/1.1.1-57/Mac/Installer/Chat-1.1.1-57.dmg",
-    "sha256": "1f61431ab0e7ac5646bfedec610e2ca6be527f5ab4001789a14990ebd9aab78c",
     "appcast": {
-      "url": "https://archive.synology.com/download/Tools/ChatClient/",
-      "checkpoint": "d0d3182afd0b1a9ad543b77e62b919839c484c2edfa4db8cfb4f5a0a63040574"
+      "checkpoint": "d0d3182afd0b1a9ad543b77e62b919839c484c2edfa4db8cfb4f5a0a63040574",
+      "url": "https://archive.synology.com/download/Tools/ChatClient/"
     },
-    "version": "1.1.1-57",
     "build": null,
+    "bundle": "Synology Chat.app",
     "dir": "/Applications",
+    "download": "https://global.download.synology.com/download/Tools/ChatClient/1.1.1-57/Mac/Installer/Chat-1.1.1-57.dmg",
+    "id": "synologychat",
+    "identifier": "synochat",
+    "sha256": "1f61431ab0e7ac5646bfedec610e2ca6be527f5ab4001789a14990ebd9aab78c",
     "symlink": null,
+    "version": "1.1.1-57",
     "web": "https://www.synology.com/en-us/dsm/feature/chat"
   }
 }

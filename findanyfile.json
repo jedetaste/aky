@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "findanyfile",
-    "bundle": "Find Any File.app",
-    "identifier": "org.tempel.findanyfile",
-    "download": "https://s3.amazonaws.com/files.tempel.org/FindAnyFile_2.2.1.zip",
-    "sha256": "7e3d2c53afc02aa39e3da928e03d8bea278cbe4f7bcc6db07094a627430b6d76",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.2.1",
     "build": null,
+    "bundle": "Find Any File.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://s3.amazonaws.com/files.tempel.org/FindAnyFile_2.2.1.zip",
+    "id": "findanyfile",
+    "identifier": "org.tempel.findanyfile",
+    "sha256": "7e3d2c53afc02aa39e3da928e03d8bea278cbe4f7bcc6db07094a627430b6d76",
     "symlink": null,
-    "web": "https://apps.tempel.org/FindAnyFile/",
-    "ci": "true"
+    "version": "2.2.1",
+    "web": "https://apps.tempel.org/FindAnyFile/"
   }
 }

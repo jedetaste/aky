@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "archi",
-    "bundle": "Archi.app",
-    "identifier": "com.archimatetool.editor",
-    "download": "https://www.archimatetool.com/downloads/anusol480/Archi-Mac-4.8.0.zip",
-    "sha256": "b18580e675017325cbf4b772e62fe97f84b59df1f7be8a253f99e89e2b6638b3",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.8.0",
     "build": null,
+    "bundle": "Archi.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.archimatetool.com/downloads/anusol480/Archi-Mac-4.8.0.zip",
+    "id": "archi",
+    "identifier": "com.archimatetool.editor",
+    "sha256": "b18580e675017325cbf4b772e62fe97f84b59df1f7be8a253f99e89e2b6638b3",
     "symlink": null,
-    "web": "https://www.archimatetool.com/",
-    "ci": "true"
+    "version": "4.8.0",
+    "web": "https://www.archimatetool.com/"
   }
 }

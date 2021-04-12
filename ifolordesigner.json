@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "ifolordesigner",
-    "bundle": "ifolor Mac Designer.app",
-    "identifier": "com.ifolor.ifolor-Mac-Designer",
-    "download": "https://chkr-download.ifolor.net/update/MacDesigner/ifolorDesigner_4.1.0_b2995.zip",
-    "sha256": "2eae6740e5b996e58d757f1122f2ff99bf164f43822ce08a873771a6fcf75e7b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.1.0",
     "build": null,
+    "bundle": "ifolor Mac Designer.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://chkr-download.ifolor.net/update/MacDesigner/ifolorDesigner_4.1.0_b2995.zip",
+    "id": "ifolordesigner",
+    "identifier": "com.ifolor.ifolor-Mac-Designer",
+    "sha256": "2eae6740e5b996e58d757f1122f2ff99bf164f43822ce08a873771a6fcf75e7b",
     "symlink": null,
-    "web": "https://www.ifolor.ch/",
-    "ci": "true"
+    "version": "4.1.0",
+    "web": "https://www.ifolor.ch/"
   }
 }

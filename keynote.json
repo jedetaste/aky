@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "keynote",
-    "bundle": "Keynote.app",
-    "identifier": "com.apple.iWork.Keynote",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Keynote-10.3.9.pkg",
-    "sha256": "e7f91fec2d9b9a8339f51cc37130ac56ec1252815cde446d0dafdeab9f362da1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "10.3.9",
     "build": null,
-    "symlink": null,
-    "dir": "/Applications",
-    "web": null,
+    "bundle": "Keynote.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Keynote-10.3.9.pkg",
+    "id": "keynote",
+    "identifier": "com.apple.iWork.Keynote",
+    "internal": "true",
+    "sha256": "e7f91fec2d9b9a8339f51cc37130ac56ec1252815cde446d0dafdeab9f362da1",
+    "symlink": null,
+    "version": "10.3.9",
+    "web": null
   }
 }

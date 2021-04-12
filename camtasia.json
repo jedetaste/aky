@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "camtasia",
-    "bundle": "Camtasia 2020.app",
-    "identifier": "com.techsmith.camtasia2020",
-    "download": "https://download.techsmith.com/camtasiamac/releases/Camtasia.dmg",
-    "sha256": null,
     "appcast": {
-      "url": "https://support.techsmith.com/hc/en-us/articles/115006624748-Camtasia-Mac-Version-History",
-      "checkpoint": "ec6f21c9c1c7bf912af4767b6e5570b88656cc05776a976e4191ed0de55f676a"
+      "checkpoint": "ec6f21c9c1c7bf912af4767b6e5570b88656cc05776a976e4191ed0de55f676a",
+      "url": "https://support.techsmith.com/hc/en-us/articles/115006624748-Camtasia-Mac-Version-History"
     },
-    "version": "2020.0.17",
     "build": null,
+    "bundle": "Camtasia 2020.app",
     "dir": "/Applications",
+    "download": "https://download.techsmith.com/camtasiamac/releases/Camtasia.dmg",
+    "id": "camtasia",
+    "identifier": "com.techsmith.camtasia2020",
+    "sha256": null,
     "symlink": null,
+    "version": "2020.0.17",
     "web": "https://www.techsmith.com/camtasia.html"
   }
 }

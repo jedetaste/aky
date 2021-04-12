@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "chromium",
-    "bundle": "Chromium.app",
-    "identifier": "org.chromium.Chromium",
-    "download": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Mac/871404/chrome-mac.zip",
-    "sha256": "648e1d64566bc6f9a5357afa2554508fd7d847bcdd59a0b10089a4d471322709",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "92.0.4476.0",
     "build": null,
+    "bundle": "Chromium.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Mac/871404/chrome-mac.zip",
+    "id": "chromium",
+    "identifier": "org.chromium.Chromium",
+    "sha256": "648e1d64566bc6f9a5357afa2554508fd7d847bcdd59a0b10089a4d471322709",
     "symlink": null,
-    "web": "https://www.chromium.org/",
-    "ci": "true"
+    "version": "92.0.4476.0",
+    "web": "https://www.chromium.org/"
   }
 }

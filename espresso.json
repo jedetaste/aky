@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "espresso",
-    "bundle": "Espresso.app",
-    "identifier": "com.macrabbit.Espresso",
-    "download": "https://downloads.kangacode.com/Espresso/Espresso_5.6.1.zip",
-    "sha256": "f9f044493de83b0d4aebe3ecc9f3b28322563434fbb474739417540728c09bca",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.6.1",
     "build": null,
+    "bundle": "Espresso.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.kangacode.com/Espresso/Espresso_5.6.1.zip",
+    "id": "espresso",
+    "identifier": "com.macrabbit.Espresso",
+    "sha256": "f9f044493de83b0d4aebe3ecc9f3b28322563434fbb474739417540728c09bca",
     "symlink": null,
-    "web": "https://espressoapp.com/",
-    "ci": "true"
+    "version": "5.6.1",
+    "web": "https://espressoapp.com/"
   }
 }

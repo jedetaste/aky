@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "zoom",
-    "bundle": "zoom.us.app",
-    "identifier": "us.zoom.xos",
-    "download": "https://zoom.us/client/latest/ZoomInstallerIT.pkg",
-    "sha256": "8248062cf16541653e3fa575be1ade4a6ede4ddaf98d3bf583521e4d5ad74247",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.6.1 (560)",
     "build": null,
+    "bundle": "zoom.us.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://zoom.us/client/latest/ZoomInstallerIT.pkg",
+    "id": "zoom",
+    "identifier": "us.zoom.xos",
+    "sha256": "8248062cf16541653e3fa575be1ade4a6ede4ddaf98d3bf583521e4d5ad74247",
     "symlink": null,
-    "web": "https://www.zoom.us/",
-    "ci": "true"
+    "version": "5.6.1 (560)",
+    "web": "https://www.zoom.us/"
   }
 }

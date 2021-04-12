@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "boom3d",
-    "bundle": "Boom 3D.app",
-    "identifier": "com.globaldelight.Boom3D",
-    "download": "https://dfvk972795zr9.cloudfront.net/Boom3Dmac/webstore/Boom3D.dmg",
-    "sha256": "def5588c9fd86fcdda948f94032af067d54566e11eee6563237161d439eabc95",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.3.11",
     "build": null,
+    "bundle": "Boom 3D.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://dfvk972795zr9.cloudfront.net/Boom3Dmac/webstore/Boom3D.dmg",
+    "id": "boom3d",
+    "identifier": "com.globaldelight.Boom3D",
+    "sha256": "def5588c9fd86fcdda948f94032af067d54566e11eee6563237161d439eabc95",
     "symlink": null,
-    "web": "https://www.globaldelight.com/boom/",
-    "ci": "true"
+    "version": "1.3.11",
+    "web": "https://www.globaldelight.com/boom/"
   }
 }

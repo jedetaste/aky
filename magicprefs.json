@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "magicprefs",
-    "bundle": "MagicPrefs.app",
-    "identifier": "com.vladalexa.MagicPrefs",
-    "download": "http://magicprefs.com/MagicPrefs.app.zip",
-    "sha256": "59b993388787a80c831d4824766b646d0d65bd2e7c4cd1f9ae7d2b875400f49d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.4.3",
     "build": null,
+    "bundle": "MagicPrefs.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://magicprefs.com/MagicPrefs.app.zip",
+    "id": "magicprefs",
+    "identifier": "com.vladalexa.MagicPrefs",
+    "sha256": "59b993388787a80c831d4824766b646d0d65bd2e7c4cd1f9ae7d2b875400f49d",
     "symlink": null,
-    "web": "http://magicprefs.com/",
-    "ci": "true"
+    "version": "2.4.3",
+    "web": "http://magicprefs.com/"
   }
 }

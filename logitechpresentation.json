@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "logitechpresentation",
-    "bundle": "Logitech Presentation.app",
-    "identifier": "com.logitech.presenter",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Logitech%20Presentation-1.62.2.pkg",
-    "sha256": "57a0d60e6c1339bd283bd48a3a86a4ce700c77c0751c513474bb11b0a824e139",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.62.2",
     "build": null,
-    "dir": "/Library/Application Support/Logitech.localized/Logitech Presentation.localized",
-    "symlink": null,
-    "web": "https://support.logitech.com/en_au/product/spotlight-presentation-remote",
+    "bundle": "Logitech Presentation.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Library/Application Support/Logitech.localized/Logitech Presentation.localized",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Logitech%20Presentation-1.62.2.pkg",
+    "id": "logitechpresentation",
+    "identifier": "com.logitech.presenter",
+    "internal": "true",
+    "sha256": "57a0d60e6c1339bd283bd48a3a86a4ce700c77c0751c513474bb11b0a824e139",
+    "symlink": null,
+    "version": "1.62.2",
+    "web": "https://support.logitech.com/en_au/product/spotlight-presentation-remote"
   }
 }

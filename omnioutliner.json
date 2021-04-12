@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "omnioutliner",
-    "bundle": "OmniOutliner.app",
-    "identifier": "com.omnigroup.OmniOutliner5",
-    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniOutliner-5.8.3.dmg",
-    "sha256": "e6b889949b2b1c1355b1c83b5c63e56ad3f27efdb10ff9228e37f40755df0865",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.8.3",
     "build": null,
+    "bundle": "OmniOutliner.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniOutliner-5.8.3.dmg",
+    "id": "omnioutliner",
+    "identifier": "com.omnigroup.OmniOutliner5",
+    "sha256": "e6b889949b2b1c1355b1c83b5c63e56ad3f27efdb10ff9228e37f40755df0865",
     "symlink": null,
-    "web": "https://www.omnigroup.com/omnioutliner/",
-    "ci": "true"
+    "version": "5.8.3",
+    "web": "https://www.omnigroup.com/omnioutliner/"
   }
 }

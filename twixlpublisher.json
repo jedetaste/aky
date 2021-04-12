@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "twixlpublisher",
-    "bundle": "Twixl Publisher.app",
-    "identifier": "com.twixlmedia.publisher.mac",
-    "download": "https://europe.content.twixlmedia.com/twixl-downloads/twixl_publisher_15.2_36883.zip",
-    "sha256": "b61252879e6c79e15b30b21208d26b367d0564f4ef93793d9ecfedac040a65fb",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "15.2",
     "build": null,
+    "bundle": "Twixl Publisher.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://europe.content.twixlmedia.com/twixl-downloads/twixl_publisher_15.2_36883.zip",
+    "id": "twixlpublisher",
+    "identifier": "com.twixlmedia.publisher.mac",
+    "sha256": "b61252879e6c79e15b30b21208d26b367d0564f4ef93793d9ecfedac040a65fb",
     "symlink": null,
-    "web": "https://www.topix.ch/twixl/publisher",
-    "ci": "true"
+    "version": "15.2",
+    "web": "https://www.topix.ch/twixl/publisher"
   }
 }

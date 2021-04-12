@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "smallpdf",
-    "bundle": "Smallpdf.app",
-    "identifier": "com.electron.smallpdf",
-    "download": "https://download.smallpdf.com/desktop/mac/Smallpdf.dmg",
-    "sha256": "c9bbe09043481ddf0cc044807c32df87959b4ca2f1d177094617429416262806",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.24.2",
     "build": null,
+    "bundle": "Smallpdf.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.smallpdf.com/desktop/mac/Smallpdf.dmg",
+    "id": "smallpdf",
+    "identifier": "com.electron.smallpdf",
+    "sha256": "c9bbe09043481ddf0cc044807c32df87959b4ca2f1d177094617429416262806",
     "symlink": null,
-    "web": "https://smallpdf.com/de/pdf-reader",
-    "ci": "true"
+    "version": "1.24.2",
+    "web": "https://smallpdf.com/de/pdf-reader"
   }
 }

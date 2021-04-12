@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "metabase",
-    "bundle": "Metabase.app",
-    "identifier": "com.metabase.Metabase",
-    "download": "https://downloads.metabase.com/v0.38.3/Metabase.zip",
-    "sha256": "8875bfc41b58ecb333bfd51ff4e518798f4e14878c22fe6369302ef167d99af5",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "0.38.3",
     "build": null,
+    "bundle": "Metabase.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.metabase.com/v0.38.3/Metabase.zip",
+    "id": "metabase",
+    "identifier": "com.metabase.Metabase",
+    "sha256": "8875bfc41b58ecb333bfd51ff4e518798f4e14878c22fe6369302ef167d99af5",
     "symlink": null,
-    "web": "https://www.metabase.com/",
-    "ci": "true"
+    "version": "0.38.3",
+    "web": "https://www.metabase.com/"
   }
 }

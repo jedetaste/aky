@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "mousepose",
-    "bundle": "Mousepose.app",
-    "identifier": "com.boinx.Mousepose",
-    "download": "https://cdn.boinx.com/software/mousepose/Boinx_Mousepose_4.1-10196.app.zip",
-    "sha256": "f8a87300c434777ac6e3c2ad11d1b4197ac78fc8b7fe1fb6c7d13ce213c56336",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.1",
     "build": null,
+    "bundle": "Mousepose.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://cdn.boinx.com/software/mousepose/Boinx_Mousepose_4.1-10196.app.zip",
+    "id": "mousepose",
+    "identifier": "com.boinx.Mousepose",
+    "sha256": "f8a87300c434777ac6e3c2ad11d1b4197ac78fc8b7fe1fb6c7d13ce213c56336",
     "symlink": null,
-    "web": "https://boinx.com/mousepose/overview/",
-    "ci": "true"
+    "version": "4.1",
+    "web": "https://boinx.com/mousepose/overview/"
   }
 }

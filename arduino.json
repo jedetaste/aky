@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "arduino",
-    "bundle": "Arduino.app",
-    "identifier": "cc.arduino.Arduino",
-    "download": "https://downloads.arduino.cc/arduino-1.8.13-macosx.zip",
-    "sha256": "84be3fc0be0c18563cb2b5e53971da6aa83e20f1de37e6debae3b55f8b0edbb3",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.8.13",
     "build": null,
+    "bundle": "Arduino.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.arduino.cc/arduino-1.8.13-macosx.zip",
+    "id": "arduino",
+    "identifier": "cc.arduino.Arduino",
+    "sha256": "84be3fc0be0c18563cb2b5e53971da6aa83e20f1de37e6debae3b55f8b0edbb3",
     "symlink": null,
-    "web": "https://www.arduino.cc/",
-    "ci": "true"
+    "version": "1.8.13",
+    "web": "https://www.arduino.cc/"
   }
 }

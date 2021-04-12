@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "ubar",
-    "bundle": "uBar.app",
-    "identifier": "ca.brawer.uBar",
-    "download": "http://brawersoftware.com/downloads/ubar/ubar417.zip",
-    "sha256": "03990e92a871b6a2bb7af840bceef59325eaad8678d31ba5ed256faa0beea745",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.1.7",
     "build": null,
+    "bundle": "uBar.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://brawersoftware.com/downloads/ubar/ubar417.zip",
+    "id": "ubar",
+    "identifier": "ca.brawer.uBar",
+    "sha256": "03990e92a871b6a2bb7af840bceef59325eaad8678d31ba5ed256faa0beea745",
     "symlink": null,
-    "web": "https://brawersoftware.com/products/ubar",
-    "ci": "true"
+    "version": "4.1.7",
+    "web": "https://brawersoftware.com/products/ubar"
   }
 }

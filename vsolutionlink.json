@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "vsolutionlink",
-    "bundle": "vSolution Link by WolfVision.app",
-    "identifier": "com.wolfvision.connapp",
-    "download": "https://download.wolfvision.com/vSolution_Link_by_WolfVision.dmg",
-    "sha256": "78bd40b08f86a4ef07ed8e3960f5c3119cd40c82282699eb4e2fd6080ff1201a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "Version 1.5",
     "build": null,
+    "bundle": "vSolution Link by WolfVision.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.wolfvision.com/vSolution_Link_by_WolfVision.dmg",
+    "id": "vsolutionlink",
+    "identifier": "com.wolfvision.connapp",
+    "sha256": "78bd40b08f86a4ef07ed8e3960f5c3119cd40c82282699eb4e2fd6080ff1201a",
     "symlink": null,
-    "web": "https://www.wolfvision.com/vsolution/",
-    "ci": "true"
+    "version": "Version 1.5",
+    "web": "https://www.wolfvision.com/vsolution/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "avogadro",
-    "bundle": "Avogadro2.app",
-    "identifier": "cc.avogadro",
-    "download": "https://github.com/OpenChemistry/avogadroapp/releases/download/1.91.0/Avogadro2-1.91.0-Darwin.dmg",
-    "sha256": "693b4d7e79e098342df4bb95db4e4e588117c310fa371b5825139822e9a9cec1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.91.0",
     "build": null,
+    "bundle": "Avogadro2.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/OpenChemistry/avogadroapp/releases/download/1.91.0/Avogadro2-1.91.0-Darwin.dmg",
+    "id": "avogadro",
+    "identifier": "cc.avogadro",
+    "sha256": "693b4d7e79e098342df4bb95db4e4e588117c310fa371b5825139822e9a9cec1",
     "symlink": null,
-    "web": "https://avogadro.cc/",
-    "ci": "true"
+    "version": "1.91.0",
+    "web": "https://avogadro.cc/"
   }
 }

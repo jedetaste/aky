@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "lernwolke",
-    "bundle": "Lernwolke.app",
-    "identifier": "com.lernwolke.lernwolkemac",
-    "download": "https://download.lernwolke.ch/mac_os/Lernwolke_1.0.0.dmg",
-    "sha256": "78cd97d3fd579ac6b18b9c57275d5d63921b8c8c24cffb88bc2fe7a8c280162e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0.0",
     "build": null,
+    "bundle": "Lernwolke.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.lernwolke.ch/mac_os/Lernwolke_1.0.0.dmg",
+    "id": "lernwolke",
+    "identifier": "com.lernwolke.lernwolkemac",
+    "sha256": "78cd97d3fd579ac6b18b9c57275d5d63921b8c8c24cffb88bc2fe7a8c280162e",
     "symlink": null,
-    "web": "https://www.lernwolke.ch/",
-    "ci": "true"
+    "version": "1.0.0",
+    "web": "https://www.lernwolke.ch/"
   }
 }

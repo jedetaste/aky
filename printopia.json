@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "printopia",
-    "bundle": "Printopia.app",
-    "identifier": "com.decisivetactics.printopia",
-    "download": "https://www.decisivetactics.com/products/printopia/get",
-    "sha256": "51de92ead595942ade92c088f30ac2a64756df0fc5abaec2f7f20d9bb1ac2a16",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.0.18",
     "build": null,
+    "bundle": "Printopia.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.decisivetactics.com/products/printopia/get",
+    "id": "printopia",
+    "identifier": "com.decisivetactics.printopia",
+    "sha256": "51de92ead595942ade92c088f30ac2a64756df0fc5abaec2f7f20d9bb1ac2a16",
     "symlink": null,
-    "web": "https://www.decisivetactics.com/products/printopia/",
-    "ci": "true"
+    "version": "3.0.18",
+    "web": "https://www.decisivetactics.com/products/printopia/"
   }
 }

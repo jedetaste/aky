@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "sloth",
-    "bundle": "Sloth.app",
-    "identifier": "org.sveinbjorn.Sloth",
-    "download": "https://sveinbjorn.org/files/software/sloth/sloth-3.1.zip",
-    "sha256": "de6d97f2c63107e209f52f10f74ebe329e3a8c86ac578c188a9e36b790ed5e52",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.1",
     "build": null,
+    "bundle": "Sloth.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://sveinbjorn.org/files/software/sloth/sloth-3.1.zip",
+    "id": "sloth",
+    "identifier": "org.sveinbjorn.Sloth",
+    "sha256": "de6d97f2c63107e209f52f10f74ebe329e3a8c86ac578c188a9e36b790ed5e52",
     "symlink": null,
-    "web": "https://sveinbjorn.org/sloth",
-    "ci": "true"
+    "version": "3.1",
+    "web": "https://sveinbjorn.org/sloth"
   }
 }

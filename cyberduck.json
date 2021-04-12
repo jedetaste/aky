@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "cyberduck",
-    "bundle": "Cyberduck.app",
-    "identifier": "ch.sudo.cyberduck",
-    "download": "https://update.cyberduck.io//Cyberduck-7.8.5.34493.zip",
-    "sha256": "bc5f3e347e63d9b5bef84333c2ef2e333df516f943b02c07846c359fa621ea05",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "7.8.5",
     "build": null,
+    "bundle": "Cyberduck.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://update.cyberduck.io//Cyberduck-7.8.5.34493.zip",
+    "id": "cyberduck",
+    "identifier": "ch.sudo.cyberduck",
+    "sha256": "bc5f3e347e63d9b5bef84333c2ef2e333df516f943b02c07846c359fa621ea05",
     "symlink": null,
-    "web": "https://cyberduck.io/",
-    "ci": "true"
+    "version": "7.8.5",
+    "web": "https://cyberduck.io/"
   }
 }

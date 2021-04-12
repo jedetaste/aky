@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "pascom",
-    "bundle": "pascom Client.app",
-    "identifier": "net.pascom.pascomClient",
-    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-72.R1658_797e25e.dmg",
-    "sha256": "e015df4b7646df5e748a623a5772226dfa89235ab382b5ee2e11b0a8f63f73d1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "72.R1658_797e25e",
     "build": null,
+    "bundle": "pascom Client.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-72.R1658_797e25e.dmg",
+    "id": "pascom",
+    "identifier": "net.pascom.pascomClient",
+    "sha256": "e015df4b7646df5e748a623a5772226dfa89235ab382b5ee2e11b0a8f63f73d1",
     "symlink": null,
-    "web": "https://www.pascom.net/",
-    "ci": "true"
+    "version": "72.R1658_797e25e",
+    "web": "https://www.pascom.net/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "omnidisksweeper",
-    "bundle": "OmniDiskSweeper.app",
-    "identifier": "com.omnigroup.OmniDiskSweeper",
-    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniDiskSweeper-1.13.dmg",
-    "sha256": "bf572a47079cd4dea44f7ae2f14bb9a75e2548ad6066757d33564c21a0003821",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.13",
     "build": null,
+    "bundle": "OmniDiskSweeper.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniDiskSweeper-1.13.dmg",
+    "id": "omnidisksweeper",
+    "identifier": "com.omnigroup.OmniDiskSweeper",
+    "sha256": "bf572a47079cd4dea44f7ae2f14bb9a75e2548ad6066757d33564c21a0003821",
     "symlink": null,
-    "web": "https://www.omnigroup.com/more/",
-    "ci": "true"
+    "version": "1.13",
+    "web": "https://www.omnigroup.com/more/"
   }
 }

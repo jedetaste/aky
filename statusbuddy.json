@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "statusbuddy",
-    "bundle": "StatusBuddy.app",
-    "identifier": "codes.rambo.StatusBuddy",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/StatusBuddy-0.6.2.pkg",
-    "sha256": "05e19dc7e36bdb8955f526f784b5d8a5975cf7bdaec56899dc17fbd7c1e439af",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "0.6.2",
     "build": null,
-    "symlink": null,
-    "dir": "/Applications",
-    "web": null,
+    "bundle": "StatusBuddy.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/StatusBuddy-0.6.2.pkg",
+    "id": "statusbuddy",
+    "identifier": "codes.rambo.StatusBuddy",
+    "internal": "true",
+    "sha256": "05e19dc7e36bdb8955f526f784b5d8a5975cf7bdaec56899dc17fbd7c1e439af",
+    "symlink": null,
+    "version": "0.6.2",
+    "web": null
   }
 }

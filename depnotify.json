@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "depnotify",
-    "bundle": "DEPNotify.app",
-    "identifier": "menu.nomad.DEPNotify",
-    "download": "https://files.nomad.menu/DEPNotify.zip",
-    "sha256": "a89e1c2fd80739b6e8b553f23f866b96025ce861274b255b5a0450a262cc2e89",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.1.6",
     "build": null,
+    "bundle": "DEPNotify.app",
+    "ci": "true",
     "dir": "/Applications/Utilities",
+    "download": "https://files.nomad.menu/DEPNotify.zip",
+    "id": "depnotify",
+    "identifier": "menu.nomad.DEPNotify",
+    "sha256": "a89e1c2fd80739b6e8b553f23f866b96025ce861274b255b5a0450a262cc2e89",
     "symlink": null,
-    "web": "https://gitlab.com/Mactroll/DEPNotify",
-    "ci": "true"
+    "version": "1.1.6",
+    "web": "https://gitlab.com/Mactroll/DEPNotify"
   }
 }

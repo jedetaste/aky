@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "brackets",
-    "bundle": "Brackets.app",
-    "identifier": "io.brackets.appshell",
-    "download": "https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.dmg",
-    "sha256": "716be1a75099079aa1a22dedab403c9839155c4b99aab6677d8a24589f7f9a15",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.14.2",
     "build": null,
+    "bundle": "Brackets.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.dmg",
+    "id": "brackets",
+    "identifier": "io.brackets.appshell",
+    "sha256": "716be1a75099079aa1a22dedab403c9839155c4b99aab6677d8a24589f7f9a15",
     "symlink": null,
-    "web": "http://brackets.io/",
-    "ci": "true"
+    "version": "1.14.2",
+    "web": "http://brackets.io/"
   }
 }

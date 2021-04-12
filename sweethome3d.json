@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "sweethome3d",
-    "bundle": "Sweet Home 3D.app",
-    "identifier": "com.eteks.sweethome3d.SweetHome3D",
-    "download": "http://downloads.sourceforge.net/project/sweethome3d/SweetHome3D/SweetHome3D-6.5/SweetHome3D-6.5-macosx.dmg",
-    "sha256": "35ca42369d6ded451e1d4ca54740a45f575d8da7f85e2674eb8a0eb828b47310",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "6.5",
     "build": null,
+    "bundle": "Sweet Home 3D.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://downloads.sourceforge.net/project/sweethome3d/SweetHome3D/SweetHome3D-6.5/SweetHome3D-6.5-macosx.dmg",
+    "id": "sweethome3d",
+    "identifier": "com.eteks.sweethome3d.SweetHome3D",
+    "sha256": "35ca42369d6ded451e1d4ca54740a45f575d8da7f85e2674eb8a0eb828b47310",
     "symlink": null,
-    "web": "http://www.sweethome3d.com/",
-    "ci": "true"
+    "version": "6.5",
+    "web": "http://www.sweethome3d.com/"
   }
 }

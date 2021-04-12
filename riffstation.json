@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "riffstation",
-    "bundle": "Riffstation.app",
-    "identifier": "com.SonicLadder.Riffstation",
-    "download": "https://s3-us-west-2.amazonaws.com/riffstation-downloads/Riffstation.dmg",
-    "sha256": "6f52d1b2c486f328883e78c5a1283d48bd224224dde8f1401143f28b79598e91",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.6.3",
     "build": null,
+    "bundle": "Riffstation.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://s3-us-west-2.amazonaws.com/riffstation-downloads/Riffstation.dmg",
+    "id": "riffstation",
+    "identifier": "com.SonicLadder.Riffstation",
+    "sha256": "6f52d1b2c486f328883e78c5a1283d48bd224224dde8f1401143f28b79598e91",
     "symlink": null,
-    "web": "https://pro.riffstation.com/",
-    "ci": "true"
+    "version": "1.6.3",
+    "web": "https://pro.riffstation.com/"
   }
 }

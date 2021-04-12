@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "bettertouchtool",
-    "bundle": "BetterTouchTool.app",
-    "identifier": "com.hegenberg.BetterTouchTool",
-    "download": "https://folivora.ai/releases/BetterTouchTool.zip",
-    "sha256": "cec80de7977fc19cd54f5d4bb4abda1db28bb8a2ff2267b77317eca195e9b287",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.560",
     "build": null,
+    "bundle": "BetterTouchTool.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://folivora.ai/releases/BetterTouchTool.zip",
+    "id": "bettertouchtool",
+    "identifier": "com.hegenberg.BetterTouchTool",
+    "sha256": "cec80de7977fc19cd54f5d4bb4abda1db28bb8a2ff2267b77317eca195e9b287",
     "symlink": null,
-    "web": "https://folivora.ai/",
-    "ci": "true"
+    "version": "3.560",
+    "web": "https://folivora.ai/"
   }
 }

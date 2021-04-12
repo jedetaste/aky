@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "solstice",
-    "bundle": "SolsticeClient.app",
-    "identifier": "com.mersive.solstice.client",
-    "download": "https://www.mersive.com/downloads/SolsticeClient-5.1.dmg",
-    "sha256": "e5991ba71f9e92095e0e89055060686668af3b19ac3e330ecbb529c3626ca747",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.1.24401",
     "build": null,
+    "bundle": "SolsticeClient.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.mersive.com/downloads/SolsticeClient-5.1.dmg",
+    "id": "solstice",
+    "identifier": "com.mersive.solstice.client",
+    "sha256": "e5991ba71f9e92095e0e89055060686668af3b19ac3e330ecbb529c3626ca747",
     "symlink": null,
-    "web": "https://www.mersive.com/products/solstice/",
-    "ci": "true"
+    "version": "5.1.24401",
+    "web": "https://www.mersive.com/products/solstice/"
   }
 }

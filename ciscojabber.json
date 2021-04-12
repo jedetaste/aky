@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "ciscojabber",
-    "bundle": "Cisco Jabber.app",
-    "identifier": "com.cisco.Jabber",
-    "download": "https://binaries.webex.com/jabberclientmac/20200710062404/Install_Cisco-Jabber-Mac.pkg",
-    "sha256": "41c70fc9dc30ad04ccfb1c06c2ee1416bb09fccfb0f38b7c37166b78cde195e7",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "12.9.0",
     "build": null,
+    "bundle": "Cisco Jabber.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://binaries.webex.com/jabberclientmac/20200710062404/Install_Cisco-Jabber-Mac.pkg",
+    "id": "ciscojabber",
+    "identifier": "com.cisco.Jabber",
+    "sha256": "41c70fc9dc30ad04ccfb1c06c2ee1416bb09fccfb0f38b7c37166b78cde195e7",
     "symlink": null,
-    "web": "https://www.webex.com/downloads/jabber.html",
-    "ci": "true"
+    "version": "12.9.0",
+    "web": "https://www.webex.com/downloads/jabber.html"
   }
 }

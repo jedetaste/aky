@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "affinitypublisher",
-    "bundle": "Affinity Publisher.app",
-    "identifier": "com.seriflabs.affinitypublisher",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Publisher-1.9.2.pkg",
-    "sha256": "453f6e89dac0254c6481b715c56bc0e7dee7d6ecd96d869d9444a3c24b6e7459",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.9.2",
     "build": null,
-    "dir": "/Applications",
-    "symlink": null,
-    "web": "https://affinity.serif.com/publisher/",
+    "bundle": "Affinity Publisher.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Publisher-1.9.2.pkg",
+    "id": "affinitypublisher",
+    "identifier": "com.seriflabs.affinitypublisher",
+    "internal": "true",
+    "sha256": "453f6e89dac0254c6481b715c56bc0e7dee7d6ecd96d869d9444a3c24b6e7459",
+    "symlink": null,
+    "version": "1.9.2",
+    "web": "https://affinity.serif.com/publisher/"
   }
 }

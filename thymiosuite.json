@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "thymiosuite",
-    "bundle": "ThymioSuite.app",
-    "identifier": "org.mobsya.ThymioLauncher",
-    "download": "https://github.com/Mobsya/aseba/releases/download/2.1.5/ThymioSuite-2.1.5-OsX.dmg",
-    "sha256": "165510523622fae833b1d4f2143a4e8fa72bf65819dc85a3dd1edb2f3a288714",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.1.5",
     "build": null,
+    "bundle": "ThymioSuite.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/Mobsya/aseba/releases/download/2.1.5/ThymioSuite-2.1.5-OsX.dmg",
+    "id": "thymiosuite",
+    "identifier": "org.mobsya.ThymioLauncher",
+    "sha256": "165510523622fae833b1d4f2143a4e8fa72bf65819dc85a3dd1edb2f3a288714",
     "symlink": null,
-    "web": "https://www.thymio.org/thymio-suite/",
-    "ci": "true"
+    "version": "2.1.5",
+    "web": "https://www.thymio.org/thymio-suite/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "dropbox",
-    "bundle": "Dropbox.app",
-    "identifier": "com.getdropbox.dropbox",
-    "download": "https://www.dropbox.com/download?plat=mac&full=1",
-    "sha256": "d55272448cfe5f846ba8af435693098e5c0e994007177eb4ce2be2f74116328f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "119.4.1772",
     "build": null,
+    "bundle": "Dropbox.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.dropbox.com/download?plat=mac&full=1",
+    "id": "dropbox",
+    "identifier": "com.getdropbox.dropbox",
+    "sha256": "d55272448cfe5f846ba8af435693098e5c0e994007177eb4ce2be2f74116328f",
     "symlink": null,
-    "web": "https://www.dropbox.com/",
-    "ci": "true"
+    "version": "119.4.1772",
+    "web": "https://www.dropbox.com/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "skypemeetings",
-    "bundle": "Skype Meetings App.app",
-    "identifier": "com.microsoft.skypeforbusiness.webmeetings",
-    "download": "https://az801095.vo.msecnd.net/prod/LWA/plugins/mac/SkypeMeetingsApp.dmg",
-    "sha256": "d23a34592d98bdc25d2a3403f26d730c36c99dd82f2564c90a07d218ae2e00fa",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0.0.186",
     "build": null,
+    "bundle": "Skype Meetings App.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://az801095.vo.msecnd.net/prod/LWA/plugins/mac/SkypeMeetingsApp.dmg",
+    "id": "skypemeetings",
+    "identifier": "com.microsoft.skypeforbusiness.webmeetings",
+    "sha256": "d23a34592d98bdc25d2a3403f26d730c36c99dd82f2564c90a07d218ae2e00fa",
     "symlink": null,
-    "web": "https://www.skype.com/de/business/",
-    "ci": "true"
+    "version": "1.0.0.186",
+    "web": "https://www.skype.com/de/business/"
   }
 }

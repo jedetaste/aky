@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "abbuicbu",
-    "bundle": "abbu icbu.app",
-    "identifier": "de.sedna.abbuicbuapp",
-    "download": "http://xsedna.de/Sedna/abbu-icbu_files/abbuicbu.dmg",
-    "sha256": "d286aa70ff866fd4a5f1390689cc66e9bdbaf6ea49f8c988f3a6320ba7d799d1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.3",
     "build": null,
+    "bundle": "abbu icbu.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://xsedna.de/Sedna/abbu-icbu_files/abbuicbu.dmg",
+    "id": "abbuicbu",
+    "identifier": "de.sedna.abbuicbuapp",
+    "sha256": "d286aa70ff866fd4a5f1390689cc66e9bdbaf6ea49f8c988f3a6320ba7d799d1",
     "symlink": null,
-    "web": "http://xsedna.de/Sedna/abbu-icbu.html",
-    "ci": "true"
+    "version": "2.3",
+    "web": "http://xsedna.de/Sedna/abbu-icbu.html"
   }
 }

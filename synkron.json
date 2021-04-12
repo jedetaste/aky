@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "synkron",
-    "bundle": "Synkron.app",
-    "identifier": "com.matus-tomlein.Synkron",
-    "download": "http://downloads.sourceforge.net/project/synkron/synkron/1.6.2/Synkron-1.6.2-macx64.zip?ts=1601816762",
-    "sha256": "e02a6ef8b23fc496348ed98247683c37241d0c7052bea06aeec541eea9e6b415",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.6.2",
     "build": null,
+    "bundle": "Synkron.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://downloads.sourceforge.net/project/synkron/synkron/1.6.2/Synkron-1.6.2-macx64.zip?ts=1601816762",
+    "id": "synkron",
+    "identifier": "com.matus-tomlein.Synkron",
+    "sha256": "e02a6ef8b23fc496348ed98247683c37241d0c7052bea06aeec541eea9e6b415",
     "symlink": null,
-    "web": "http://synkron.sourceforge.net/",
-    "ci": "true"
+    "version": "1.6.2",
+    "web": "http://synkron.sourceforge.net/"
   }
 }

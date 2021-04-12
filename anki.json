@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "anki",
-    "bundle": "Anki.app",
-    "identifier": "net.ankiweb.dtop",
-    "download": "https://github.com/ankitects/anki/releases/download/2.1.43/anki-2.1.43-mac.dmg",
-    "sha256": "89f029bc6c56d56c17b5f6e46663be9789f71fcb91e4e0293bf8f980978f6f6f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.1.43",
     "build": null,
+    "bundle": "Anki.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/ankitects/anki/releases/download/2.1.43/anki-2.1.43-mac.dmg",
+    "id": "anki",
+    "identifier": "net.ankiweb.dtop",
+    "sha256": "89f029bc6c56d56c17b5f6e46663be9789f71fcb91e4e0293bf8f980978f6f6f",
     "symlink": null,
-    "web": "https://apps.ankiweb.net/",
-    "ci": "true"
+    "version": "2.1.43",
+    "web": "https://apps.ankiweb.net/"
   }
 }

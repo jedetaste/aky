@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "androidstudio",
-    "bundle": "Android Studio.app",
-    "identifier": "com.google.android.studio",
-    "download": "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.3.0/android-studio-ide-201.7199119-mac.dmg",
-    "sha256": "e4b146e94595f9a928afba31c90303414b3b2a396796a8114d81cad484cada02",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.1",
     "build": null,
+    "bundle": "Android Studio.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.3.0/android-studio-ide-201.7199119-mac.dmg",
+    "id": "androidstudio",
+    "identifier": "com.google.android.studio",
+    "sha256": "e4b146e94595f9a928afba31c90303414b3b2a396796a8114d81cad484cada02",
     "symlink": null,
-    "web": "https://developer.android.com/studio/index.html",
-    "ci": "true"
+    "version": "4.1",
+    "web": "https://developer.android.com/studio/index.html"
   }
 }

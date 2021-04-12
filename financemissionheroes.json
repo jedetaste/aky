@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "financemissionheroes",
-    "bundle": "FinanceMissionHeroes.app",
-    "identifier": "unity.FinanceMission.Heroes",
-    "download": "https://financemissionheroes.ch/download/FinanceMissionHeroes_MacOS.zip",
-    "sha256": "9e4561b8de2ccf986ee4c62a4201ebb30820ba6cbed45450fd876cc54b480a21",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.1.5",
     "build": null,
+    "bundle": "FinanceMissionHeroes.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://financemissionheroes.ch/download/FinanceMissionHeroes_MacOS.zip",
+    "id": "financemissionheroes",
+    "identifier": "unity.FinanceMission.Heroes",
+    "sha256": "9e4561b8de2ccf986ee4c62a4201ebb30820ba6cbed45450fd876cc54b480a21",
     "symlink": null,
-    "web": "http://financemissionheroes.ch/",
-    "ci": "true"
+    "version": "1.1.5",
+    "web": "http://financemissionheroes.ch/"
   }
 }

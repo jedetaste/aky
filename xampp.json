@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "xampp",
-    "bundle": "XAMPP.app",
-    "identifier": "com.bitnami.stackman",
-    "download": "https://www.apachefriends.org/xampp-files/8.0.3/xampp-osx-8.0.3-0-vm.dmg",
-    "sha256": "e9886e06e3d98fe542392250628c7f937d1b1aa181513183d04c56defa542cd2",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0.3",
     "build": null,
-    "symlink": null,
+    "bundle": "XAMPP.app",
+    "ci": "true",
     "dir": "/Applications",
-    "web": "https://www.apachefriends.org/index.html",
-    "ci": "true"
+    "download": "https://www.apachefriends.org/xampp-files/8.0.3/xampp-osx-8.0.3-0-vm.dmg",
+    "id": "xampp",
+    "identifier": "com.bitnami.stackman",
+    "sha256": "e9886e06e3d98fe542392250628c7f937d1b1aa181513183d04c56defa542cd2",
+    "symlink": null,
+    "version": "1.0.3",
+    "web": "https://www.apachefriends.org/index.html"
   }
 }

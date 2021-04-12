@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "adobereaderdc",
-    "bundle": "Adobe Acrobat Reader DC.app",
-    "identifier": "com.adobe.Reader",
-    "download": "http://ardownload.adobe.com/pub/adobe/reader/mac/AcrobatDC/2001320074/AcroRdrDC_2001320074_MUI.dmg",
-    "sha256": "898c355164dded96d9da19a250700f3636e52051cddce63d673b7063ecf1f538",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "20.013.20074",
     "build": null,
+    "bundle": "Adobe Acrobat Reader DC.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://ardownload.adobe.com/pub/adobe/reader/mac/AcrobatDC/2001320074/AcroRdrDC_2001320074_MUI.dmg",
+    "id": "adobereaderdc",
+    "identifier": "com.adobe.Reader",
+    "sha256": "898c355164dded96d9da19a250700f3636e52051cddce63d673b7063ecf1f538",
     "symlink": null,
-    "web": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html",
-    "ci": "true"
+    "version": "20.013.20074",
+    "web": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "processing",
-    "bundle": "Processing.app",
-    "identifier": "org.processing.app",
-    "download": "https://download.processing.org/processing-3.5.4-macosx.zip",
-    "sha256": "4d64fe42a6c5c0863cc82e93a036e73731999ee9448be45bc322f91b0010bb6b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.5.4",
     "build": null,
+    "bundle": "Processing.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.processing.org/processing-3.5.4-macosx.zip",
+    "id": "processing",
+    "identifier": "org.processing.app",
+    "sha256": "4d64fe42a6c5c0863cc82e93a036e73731999ee9448be45bc322f91b0010bb6b",
     "symlink": null,
-    "web": "https://processing.org/",
-    "ci": "true"
+    "version": "3.5.4",
+    "web": "https://processing.org/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "sketchbook",
-    "bundle": "SketchBook.app",
-    "identifier": "com.autodesk.SketchBook",
-    "download": "https://update.sketchbook.com/mac/latest",
-    "sha256": "a96042dc95483cd6fac849a9f60a22980204ee4ee0a26b0804b0aa6ab23b842a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "8.7.1",
     "build": null,
+    "bundle": "SketchBook.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://update.sketchbook.com/mac/latest",
+    "id": "sketchbook",
+    "identifier": "com.autodesk.SketchBook",
+    "sha256": "a96042dc95483cd6fac849a9f60a22980204ee4ee0a26b0804b0aa6ab23b842a",
     "symlink": null,
-    "web": "https://sketchbook.com/",
-    "ci": "true"
+    "version": "8.7.1",
+    "web": "https://sketchbook.com/"
   }
 }

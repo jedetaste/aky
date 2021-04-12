@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "scribus",
-    "bundle": "Scribus.app",
-    "identifier": "net.scribus",
-    "download": "https://sourceforge.net/projects/scribus/files/scribus/1.4.8/scribus-1.4.8.dmg/download",
-    "sha256": "9626c35ca5de5da59ac983efac3572318d327b3a921522c9f80a525b039a0af5",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.4.8",
     "build": null,
+    "bundle": "Scribus.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://sourceforge.net/projects/scribus/files/scribus/1.4.8/scribus-1.4.8.dmg/download",
+    "id": "scribus",
+    "identifier": "net.scribus",
+    "sha256": "9626c35ca5de5da59ac983efac3572318d327b3a921522c9f80a525b039a0af5",
     "symlink": null,
-    "web": "https://www.scribus.net/",
-    "ci": "true"
+    "version": "1.4.8",
+    "web": "https://www.scribus.net/"
   }
 }

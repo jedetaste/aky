@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "iosconsole",
-    "bundle": "iOS Console.app",
-    "identifier": "com.lemonjar.iosconsole",
-    "download": "http://downloads.lemonjar.com/iosconsole_v1.0.2.zip",
-    "sha256": "84e3c4fbf685744fddf7ab87ac9fcb7fbccbc0d82baf22351d500ed1616ae84f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0.2",
     "build": null,
+    "bundle": "iOS Console.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://downloads.lemonjar.com/iosconsole_v1.0.2.zip",
+    "id": "iosconsole",
+    "identifier": "com.lemonjar.iosconsole",
+    "sha256": "84e3c4fbf685744fddf7ab87ac9fcb7fbccbc0d82baf22351d500ed1616ae84f",
     "symlink": null,
-    "web": "https://lemonjar.com/iosconsole/",
-    "ci": "true"
+    "version": "1.0.2",
+    "web": "https://lemonjar.com/iosconsole/"
   }
 }

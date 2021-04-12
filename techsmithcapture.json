@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "techsmithcapture",
-    "bundle": "TechSmith Capture.app",
-    "identifier": "com.techsmith.relayrecorder",
-    "download": "https://cdn.cloud.techsmith.com/techsmithcapture/mac/TechSmithCapture.dmg",
-    "sha256": "54b0bbfae282164f4e0656d17e6e6489539a520a570f43c08dfa8683198ab815",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.3.33",
     "build": null,
+    "bundle": "TechSmith Capture.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://cdn.cloud.techsmith.com/techsmithcapture/mac/TechSmithCapture.dmg",
+    "id": "techsmithcapture",
+    "identifier": "com.techsmith.relayrecorder",
+    "sha256": "54b0bbfae282164f4e0656d17e6e6489539a520a570f43c08dfa8683198ab815",
     "symlink": null,
-    "web": "https://www.techsmith.com/jing-tool.html",
-    "ci": "true"
+    "version": "1.3.33",
+    "web": "https://www.techsmith.com/jing-tool.html"
   }
 }

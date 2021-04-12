@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "adapter",
-    "bundle": "Adapter.app",
-    "identifier": "com.macroplant.adapter",
-    "download": "https://assets.macroplant.com/download/4/Adapter-2.1.6.dmg",
-    "sha256": "ef2de9f0795cd446d26a4de1180b2580402abe8e5f13368e42d8da39eadde729",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.1.6",
     "build": null,
+    "bundle": "Adapter.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://assets.macroplant.com/download/4/Adapter-2.1.6.dmg",
+    "id": "adapter",
+    "identifier": "com.macroplant.adapter",
+    "sha256": "ef2de9f0795cd446d26a4de1180b2580402abe8e5f13368e42d8da39eadde729",
     "symlink": null,
-    "web": "https://macroplant.com/adapter",
-    "ci": "true"
+    "version": "2.1.6",
+    "web": "https://macroplant.com/adapter"
   }
 }

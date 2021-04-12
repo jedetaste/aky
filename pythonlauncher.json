@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "pythonlauncher",
-    "bundle": "Python Launcher.app",
-    "identifier": "org.python.PythonLauncher",
-    "download": "https://www.python.org/ftp/python/3.9.1/python-3.9.1-macosx10.9.pkg",
-    "sha256": "f250701d8c02f434a2ae33ef7cc8cec413b9c9dc7d5f62c411451665e0c38140",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.9.1",
     "build": null,
+    "bundle": "Python Launcher.app",
     "dir": "/Applications/Python 3.9",
+    "download": "https://www.python.org/ftp/python/3.9.1/python-3.9.1-macosx10.9.pkg",
+    "id": "pythonlauncher",
+    "identifier": "org.python.PythonLauncher",
+    "sha256": "f250701d8c02f434a2ae33ef7cc8cec413b9c9dc7d5f62c411451665e0c38140",
     "symlink": null,
+    "version": "3.9.1",
     "web": "https://www.python.org/"
   }
 }

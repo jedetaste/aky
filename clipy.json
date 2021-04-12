@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "clipy",
-    "bundle": "Clipy.app",
-    "identifier": "com.clipy-app.Clipy",
-    "download": "https://github.com/Clipy/Clipy/releases/download/1.2.1/Clipy_1.2.1.dmg",
-    "sha256": "dfbb66ce3135fbaa2d64eaeea99a63e63485e322c9746045a1098b1696a1ecd5",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.2.1",
     "build": null,
+    "bundle": "Clipy.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/Clipy/Clipy/releases/download/1.2.1/Clipy_1.2.1.dmg",
+    "id": "clipy",
+    "identifier": "com.clipy-app.Clipy",
+    "sha256": "dfbb66ce3135fbaa2d64eaeea99a63e63485e322c9746045a1098b1696a1ecd5",
     "symlink": null,
-    "web": "https://clipy-app.com/",
-    "ci": "true"
+    "version": "1.2.1",
+    "web": "https://clipy-app.com/"
   }
 }

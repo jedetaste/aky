@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "crossover",
-    "bundle": "CrossOver.app",
-    "identifier": "com.codeweavers.CrossOver",
-    "download": "http://media.codeweavers.com/pub/crossover/cxmac/demo/crossover-20.0.4.zip",
-    "sha256": "739a977881e2b7969cf9aa044214da2747a798869c65bd383dbdf1aa269903dc",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "20.0.4",
     "build": null,
+    "bundle": "CrossOver.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://media.codeweavers.com/pub/crossover/cxmac/demo/crossover-20.0.4.zip",
+    "id": "crossover",
+    "identifier": "com.codeweavers.CrossOver",
+    "sha256": "739a977881e2b7969cf9aa044214da2747a798869c65bd383dbdf1aa269903dc",
     "symlink": null,
-    "web": "https://www.codeweavers.com/products/crossover-mac/",
-    "ci": "true"
+    "version": "20.0.4",
+    "web": "https://www.codeweavers.com/products/crossover-mac/"
   }
 }

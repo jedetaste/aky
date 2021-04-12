@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "funter",
-    "bundle": "Funter.app",
-    "identifier": "com.nektony.funter",
-    "download": "https://nektony.com/promo/funter/update/update_4.6.1%2894%29.zip",
-    "sha256": "a9637ed819c73a9eb6aac7465597426a33268453f1bef5b8ba94463fda38f0eb",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.6.1",
     "build": null,
+    "bundle": "Funter.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://nektony.com/promo/funter/update/update_4.6.1%2894%29.zip",
+    "id": "funter",
+    "identifier": "com.nektony.funter",
+    "sha256": "a9637ed819c73a9eb6aac7465597426a33268453f1bef5b8ba94463fda38f0eb",
     "symlink": null,
-    "web": "https://nektony.com/products/funter",
-    "ci": "true"
+    "version": "4.6.1",
+    "web": "https://nektony.com/products/funter"
   }
 }

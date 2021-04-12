@@ -1,22 +1,22 @@
 {
   "recipe": {
-    "id": "gimp",
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "build": null,
     "bundle": [
       "GIMP-2.10.app",
       "GIMP.app"
     ],
-    "identifier": "org.gnome.gimp",
-    "download": "https://download.gimp.org/pub/gimp/v2.10/osx/gimp-2.10.22-x86_64-1.dmg",
-    "sha256": "c57f0203a89bd347c5b5958a79754debf33a9b458bdba68fa0788e22f4cc8fae",
-    "appcast": {
-      "url": null,
-      "checkpoint": null
-    },
-    "version": "2.10.22",
-    "build": null,
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.gimp.org/pub/gimp/v2.10/osx/gimp-2.10.22-x86_64-1.dmg",
+    "id": "gimp",
+    "identifier": "org.gnome.gimp",
+    "sha256": "c57f0203a89bd347c5b5958a79754debf33a9b458bdba68fa0788e22f4cc8fae",
     "symlink": null,
-    "web": "https://www.gimp.org/",
-    "ci": "true"
+    "version": "2.10.22",
+    "web": "https://www.gimp.org/"
   }
 }

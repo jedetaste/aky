@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "autodmg",
-    "bundle": "AutoDMG.app",
-    "identifier": "se.gu.it.AutoDMG",
-    "download": "https://github.com/MagerValp/AutoDMG/releases/download/v1.9/AutoDMG-1.9.dmg",
-    "sha256": "92c10590ef5569797f1879f3b123e0a1f5a0434654a9cc6f6dbb517e779e6a79",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.9",
     "build": null,
+    "bundle": "AutoDMG.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/MagerValp/AutoDMG/releases/download/v1.9/AutoDMG-1.9.dmg",
+    "id": "autodmg",
+    "identifier": "se.gu.it.AutoDMG",
+    "sha256": "92c10590ef5569797f1879f3b123e0a1f5a0434654a9cc6f6dbb517e779e6a79",
     "symlink": null,
-    "web": "https://github.com/MagerValp/AutoDMG",
-    "ci": "true"
+    "version": "1.9",
+    "web": "https://github.com/MagerValp/AutoDMG"
   }
 }

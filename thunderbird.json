@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "thunderbird",
-    "bundle": "Thunderbird.app",
-    "identifier": "org.mozilla.thunderbird",
-    "download": "https://download.mozilla.org/?product=thunderbird-latest-ssl&os=osx&lang=de",
-    "sha256": "193ecaa1e5d73f3866d936cfd1246b7da050db91828080d63a317c1ed4a2e4bf",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "78.9.1",
     "build": null,
+    "bundle": "Thunderbird.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.mozilla.org/?product=thunderbird-latest-ssl&os=osx&lang=de",
+    "id": "thunderbird",
+    "identifier": "org.mozilla.thunderbird",
+    "sha256": "193ecaa1e5d73f3866d936cfd1246b7da050db91828080d63a317c1ed4a2e4bf",
     "symlink": null,
-    "web": "https://www.mozilla.org/thunderbird/",
-    "ci": "true"
+    "version": "78.9.1",
+    "web": "https://www.mozilla.org/thunderbird/"
   }
 }

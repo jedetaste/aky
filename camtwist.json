@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "camtwist",
-    "bundle": "CamTwist.app",
-    "identifier": "com.allocinit.CamTwist",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/CamTwist-3.4.3.pkg",
-    "sha256": "616e22bb990ebc64c9cfbc539e0c3f081ab5fcad280c4d5a50c3889e1e17bdd4",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.4.3",
     "build": null,
-    "dir": "/Applications/CamTwist",
-    "symlink": null,
-    "web": "http://camtwiststudio.com/",
+    "bundle": "CamTwist.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications/CamTwist",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/CamTwist-3.4.3.pkg",
+    "id": "camtwist",
+    "identifier": "com.allocinit.CamTwist",
+    "internal": "true",
+    "sha256": "616e22bb990ebc64c9cfbc539e0c3f081ab5fcad280c4d5a50c3889e1e17bdd4",
+    "symlink": null,
+    "version": "3.4.3",
+    "web": "http://camtwiststudio.com/"
   }
 }

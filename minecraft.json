@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "minecraft",
-    "bundle": "Minecraft.app",
-    "identifier": "com.mojang.minecraftlauncher",
-    "download": "https://launcher.mojang.com/download/Minecraft.dmg",
-    "sha256": "0a16ced6afc7efc51104cd11ac54f9d70c840922dea78e5a5805db9a1032a6c1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "933",
     "build": null,
+    "bundle": "Minecraft.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://launcher.mojang.com/download/Minecraft.dmg",
+    "id": "minecraft",
+    "identifier": "com.mojang.minecraftlauncher",
+    "sha256": "0a16ced6afc7efc51104cd11ac54f9d70c840922dea78e5a5805db9a1032a6c1",
     "symlink": null,
-    "web": "https://minecraft.net/",
-    "ci": "true"
+    "version": "933",
+    "web": "https://minecraft.net/"
   }
 }

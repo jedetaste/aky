@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "build": null,
+    "bundle": "GoToMeeting.app",
+    "dir": "/Applications",
+    "download": "https://link.gotomeeting.com/latest-dmg",
+    "id": "gotomeeting",
+    "identifier": "com.logmein.GoToMeeting",
+    "sha256": null,
+    "symlink": null,
+    "version": "10.15.0.19228",
+    "web": "https://www.gotomeeting.com/"
+  }
+}

@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "tinspire",
-    "bundle": "TI-Nspire Computer Link.app",
-    "identifier": "com.ti.eps.pxconnect.ApplicationMain",
-    "download": "https://d13g8g4x8s9rc1.cloudfront.net/downloads/files/cdn/ti-nspire/3.9/TINspireComputerLink-3.9.0.455.dmg",
-    "sha256": "84e9160a5413ba3ebf49d009688e75c2614c1cf5ec2839f9d849bd8866956778",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.9.0",
     "build": null,
+    "bundle": "TI-Nspire Computer Link.app",
     "dir": "/Applications",
+    "download": "https://d13g8g4x8s9rc1.cloudfront.net/downloads/files/cdn/ti-nspire/3.9/TINspireComputerLink-3.9.0.455.dmg",
+    "id": "tinspire",
+    "identifier": "com.ti.eps.pxconnect.ApplicationMain",
+    "sha256": "84e9160a5413ba3ebf49d009688e75c2614c1cf5ec2839f9d849bd8866956778",
     "symlink": null,
+    "version": "3.9.0",
     "web": "https://education.ti.com/de/software/details/en/82035809F7E6474099944056CCB01C20/ti-nspire_computerlink"
   }
 }

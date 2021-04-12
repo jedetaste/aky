@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "mindview",
-    "bundle": "MindView.app",
-    "identifier": "com.matchware.MindView7",
-    "download": "http://cdn.matchware.com/demos/mindview7mac_en.dmg",
-    "sha256": "1fbbf26d3924d90cd2c0b17c0360500c31a795456df03eecaf9f0e21adb87923",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "7.2.8",
     "build": null,
+    "bundle": "MindView.app",
     "dir": "/Applications/MindView 7",
+    "download": "http://cdn.matchware.com/demos/mindview7mac_en.dmg",
+    "id": "mindview",
+    "identifier": "com.matchware.MindView7",
+    "sha256": "1fbbf26d3924d90cd2c0b17c0360500c31a795456df03eecaf9f0e21adb87923",
     "symlink": null,
+    "version": "7.2.8",
     "web": "https://www.matchware.com/de/mind-mapping-software-mac"
   }
 }

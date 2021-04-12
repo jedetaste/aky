@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "greenfoot",
-    "bundle": "Greenfoot.app",
-    "identifier": "org.greenfoot",
-    "download": "https://www.greenfoot.org/download/files/Greenfoot-mac-361.zip",
-    "sha256": "9afbc077f6454d83749224cc62b5192eae96edf4d7d6beaee880712bb17e8646",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.6.1",
     "build": null,
+    "bundle": "Greenfoot.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.greenfoot.org/download/files/Greenfoot-mac-361.zip",
+    "id": "greenfoot",
+    "identifier": "org.greenfoot",
+    "sha256": "9afbc077f6454d83749224cc62b5192eae96edf4d7d6beaee880712bb17e8646",
     "symlink": null,
-    "web": "https://www.greenfoot.org/home",
-    "ci": "true"
+    "version": "3.6.1",
+    "web": "https://www.greenfoot.org/home"
   }
 }

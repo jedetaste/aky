@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "instashare",
-    "bundle": "InstaShare.app",
-    "identifier": "com.eshare.instashow",
-    "download": "https://www.benq.eu/content/dam/newb2b/Support/Software/InstaShare/instashare_mac_v10190524.dmg",
-    "sha256": "46dc9640e4e3ccc788cee216952f55eb777ae13ea8050eba30020b6746b06b77",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0.190524",
     "build": null,
+    "bundle": "InstaShare.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.benq.eu/content/dam/newb2b/Support/Software/InstaShare/instashare_mac_v10190524.dmg",
+    "id": "instashare",
+    "identifier": "com.eshare.instashow",
+    "sha256": "46dc9640e4e3ccc788cee216952f55eb777ae13ea8050eba30020b6746b06b77",
     "symlink": null,
-    "web": "https://www.benq.eu/de-de/business/ifp/instashare/download.html",
-    "ci": "true"
+    "version": "1.0.190524",
+    "web": "https://www.benq.eu/de-de/business/ifp/instashare/download.html"
   }
 }

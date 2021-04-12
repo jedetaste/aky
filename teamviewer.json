@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "teamviewer",
-    "bundle": "TeamViewer.app",
-    "identifier": "com.teamviewer.TeamViewer",
-    "download": "https://download.teamviewer.com/download/TeamViewer.dmg",
-    "sha256": "dfb3516615b48e67148cf3b04be456e77ce9f60aa5e9fbf6a083ed7eb19e9b99",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "15.16.8",
     "build": null,
+    "bundle": "TeamViewer.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.teamviewer.com/download/TeamViewer.dmg",
+    "id": "teamviewer",
+    "identifier": "com.teamviewer.TeamViewer",
+    "sha256": "dfb3516615b48e67148cf3b04be456e77ce9f60aa5e9fbf6a083ed7eb19e9b99",
     "symlink": null,
-    "web": "https://www.teamviewer.com/",
-    "ci": "true"
+    "version": "15.16.8",
+    "web": "https://www.teamviewer.com/"
   }
 }

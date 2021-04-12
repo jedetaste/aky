@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "minecrafteducation",
-    "bundle": "minecraftpe.app",
-    "identifier": "com.microsoft.minecraftpe",
-    "download": "https://aka.ms/meeclientmacos",
-    "sha256": "5e17565b6bb989c2deb90c90e3225e80f521aa1bb1923cf7574ee1e0ef1cac1f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.14.50",
     "build": null,
+    "bundle": "minecraftpe.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://aka.ms/meeclientmacos",
+    "id": "minecrafteducation",
+    "identifier": "com.microsoft.minecraftpe",
+    "sha256": "5e17565b6bb989c2deb90c90e3225e80f521aa1bb1923cf7574ee1e0ef1cac1f",
     "symlink": null,
-    "web": "https://education.minecraft.net/",
-    "ci": "true"
+    "version": "1.14.50",
+    "web": "https://education.minecraft.net/"
   }
 }

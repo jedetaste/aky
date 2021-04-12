@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "mailrider",
-    "bundle": "MailRaider Pro.app",
-    "identifier": "com.45RPMSoftware.MailRaider-Pro-OAS",
-    "download": "https://45rpmsoftware.com/software/MailRaider/MailRaiderPro.dmg",
-    "sha256": "e1e0392c88c63c164be04982f9658b421000d6a7707dcf0192ea24916ceb3cd5",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.69",
     "build": null,
+    "bundle": "MailRaider Pro.app",
     "dir": "/Applications",
+    "download": "https://45rpmsoftware.com/software/MailRaider/MailRaiderPro.dmg",
+    "id": "mailrider",
+    "identifier": "com.45RPMSoftware.MailRaider-Pro-OAS",
+    "sha256": "e1e0392c88c63c164be04982f9658b421000d6a7707dcf0192ea24916ceb3cd5",
     "symlink": null,
+    "version": "3.69",
     "web": "https://45rpmsoftware.com/software/mailraider.php"
   }
 }

@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "affinitydesigner",
-    "bundle": "Affinity Designer.app",
-    "identifier": "com.seriflabs.affinitydesigner",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Designer-1.9.2.pkg",
-    "sha256": "829d227c8eacb5d9df7131c5672cc7cf1fd0677a4625a4bb8333db751c6a971f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.9.2",
     "build": null,
-    "dir": "/Applications",
-    "symlink": null,
-    "web": "https://affinity.serif.com/designer/",
+    "bundle": "Affinity Designer.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Designer-1.9.2.pkg",
+    "id": "affinitydesigner",
+    "identifier": "com.seriflabs.affinitydesigner",
+    "internal": "true",
+    "sha256": "829d227c8eacb5d9df7131c5672cc7cf1fd0677a4625a4bb8333db751c6a971f",
+    "symlink": null,
+    "version": "1.9.2",
+    "web": "https://affinity.serif.com/designer/"
   }
 }

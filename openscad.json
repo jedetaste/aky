@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "openscad",
-    "bundle": "OpenSCAD.app",
-    "identifier": null,
-    "download": "https://files.openscad.org/OpenSCAD-2019.05.dmg",
-    "sha256": "df6f6f3d34ac0d07f533ec4ccf59082189fb37c0276c1b8df651291e2509420e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2019.05",
     "build": null,
+    "bundle": "OpenSCAD.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://files.openscad.org/OpenSCAD-2019.05.dmg",
+    "id": "openscad",
+    "identifier": null,
+    "sha256": "df6f6f3d34ac0d07f533ec4ccf59082189fb37c0276c1b8df651291e2509420e",
     "symlink": null,
-    "web": "https://www.openscad.org/",
-    "ci": "true"
+    "version": "2019.05",
+    "web": "https://www.openscad.org/"
   }
 }

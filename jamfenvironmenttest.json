@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "jamfenvironmenttest",
-    "bundle": "Jamf Environment Test.app",
-    "identifier": "org.jamfse.jet",
-    "download": "https://github.com/jamf/Jamf-Environment-Test/releases/download/1.4/Jamf.Environment.Test.zip",
-    "sha256": "ed37ac15bdae92d733a0dfef6859cd88fcddf0d6ab9aa6a1036ab153e7366ad1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.4",
     "build": null,
+    "bundle": "Jamf Environment Test.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/jamf/Jamf-Environment-Test/releases/download/1.4/Jamf.Environment.Test.zip",
+    "id": "jamfenvironmenttest",
+    "identifier": "org.jamfse.jet",
+    "sha256": "ed37ac15bdae92d733a0dfef6859cd88fcddf0d6ab9aa6a1036ab153e7366ad1",
     "symlink": null,
-    "web": "https://github.com/jamf/Jamf-Environment-Test",
-    "ci": "true"
+    "version": "1.4",
+    "web": "https://github.com/jamf/Jamf-Environment-Test"
   }
 }

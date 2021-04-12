@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "qlab",
-    "bundle": "QLab.app",
-    "identifier": "com.figure53.QLab.4",
-    "download": "https://qlab.app/downloads/archive/QLab-4.6.9.zip",
-    "sha256": "f2367d11ff74fbbd24f52c05c5c7b6bf65ffc5c3768138300ad8760821429d80",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.6.9",
     "build": null,
+    "bundle": "QLab.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://qlab.app/downloads/archive/QLab-4.6.9.zip",
+    "id": "qlab",
+    "identifier": "com.figure53.QLab.4",
+    "sha256": "f2367d11ff74fbbd24f52c05c5c7b6bf65ffc5c3768138300ad8760821429d80",
     "symlink": null,
-    "web": "https://qlab.app",
-    "ci": "true"
+    "version": "4.6.9",
+    "web": "https://qlab.app"
   }
 }

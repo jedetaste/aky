@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "classroommodeforminecraft",
-    "bundle": "Classroom Mode for Minecraft.app",
-    "identifier": "com.microsoft.mc-classroommode",
-    "download": "https://aka.ms/meecmmacos",
-    "sha256": "982eac2c28235d483351760ee17a3a45ca9d8d3f4ada05959e2bda859b0e3538",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.81",
     "build": null,
+    "bundle": "Classroom Mode for Minecraft.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://aka.ms/meecmmacos",
+    "id": "classroommodeforminecraft",
+    "identifier": "com.microsoft.mc-classroommode",
+    "sha256": "982eac2c28235d483351760ee17a3a45ca9d8d3f4ada05959e2bda859b0e3538",
     "symlink": null,
-    "web": "https://education.minecraft.net/",
-    "ci": "true"
+    "version": "1.81",
+    "web": "https://education.minecraft.net/"
   }
 }

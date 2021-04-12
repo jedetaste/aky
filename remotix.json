@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "remotix",
-    "bundle": "Remotix.app",
-    "identifier": "com.nulana.remotixmacwild",
-    "download": "https://remotix.com/downloads/latest-remotix-mac/",
-    "sha256": "52e42d1fe8fc9f41a1b2f0900e91fabc4d406c85544ea00dd4a84a5c752e86ea",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "6.3",
     "build": null,
+    "bundle": "Remotix.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://remotix.com/downloads/latest-remotix-mac/",
+    "id": "remotix",
+    "identifier": "com.nulana.remotixmacwild",
+    "sha256": "52e42d1fe8fc9f41a1b2f0900e91fabc4d406c85544ea00dd4a84a5c752e86ea",
     "symlink": null,
-    "web": "https://www.nulana.com/remotix-mac/",
-    "ci": "true"
+    "version": "6.3",
+    "web": "https://www.nulana.com/remotix-mac/"
   }
 }

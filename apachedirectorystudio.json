@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "apachedirectorystudio",
-    "bundle": "ApacheDirectoryStudio.app",
-    "identifier": "org.apache.directory.studio.product",
-    "download": "https://dist.apache.org/repos/dist/release/directory/studio/2.0.0.v20200411-M15/ApacheDirectoryStudio-2.0.0.v20200411-M15-macosx.cocoa.x86_64.dmg",
-    "sha256": "1e3208fcdf42ae107796a06a00240c08b9f0c24c8b07a61e94b968112657fda8",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.0.0",
     "build": null,
+    "bundle": "ApacheDirectoryStudio.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://dist.apache.org/repos/dist/release/directory/studio/2.0.0.v20200411-M15/ApacheDirectoryStudio-2.0.0.v20200411-M15-macosx.cocoa.x86_64.dmg",
+    "id": "apachedirectorystudio",
+    "identifier": "org.apache.directory.studio.product",
+    "sha256": "1e3208fcdf42ae107796a06a00240c08b9f0c24c8b07a61e94b968112657fda8",
     "symlink": null,
-    "web": "https://directory.apache.org/studio/",
-    "ci": "true"
+    "version": "2.0.0",
+    "web": "https://directory.apache.org/studio/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "i1profiler",
-    "bundle": "i1Profiler.app",
-    "identifier": "com.x-rite.i1Profiler",
-    "download": "http://downloads.xrite.com/Downloads/Software/i1Profiler/3.3.0/mac/i1Profiler.zip",
-    "sha256": "c8617cde690a33ad37c1b6013d800607b739cac27d3b65d487c141679105598e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.3.0",
     "build": null,
+    "bundle": "i1Profiler.app",
+    "ci": "true",
     "dir": "/Applications/i1Profiler",
+    "download": "http://downloads.xrite.com/Downloads/Software/i1Profiler/3.3.0/mac/i1Profiler.zip",
+    "id": "i1profiler",
+    "identifier": "com.x-rite.i1Profiler",
+    "sha256": "c8617cde690a33ad37c1b6013d800607b739cac27d3b65d487c141679105598e",
     "symlink": null,
-    "web": "https://www.xrite.com/service-support/downloads/I/i1Profiler-i1Publish_V3_3_0",
-    "ci": "true"
+    "version": "3.3.0",
+    "web": "https://www.xrite.com/service-support/downloads/I/i1Profiler-i1Publish_V3_3_0"
   }
 }

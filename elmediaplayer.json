@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "elmediaplayer",
-    "bundle": "Elmedia Player.app",
-    "identifier": "com.Eltima.ElmediaPlayer",
-    "download": "https://cdn.eltima.com/download/elmediaplayer.dmg",
-    "sha256": "077ca82d2e2d83c6c63142b38e6952e548eaab77b5a9daa6de2ca162c7fef174",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "7.17",
     "build": null,
+    "bundle": "Elmedia Player.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://cdn.eltima.com/download/elmediaplayer.dmg",
+    "id": "elmediaplayer",
+    "identifier": "com.Eltima.ElmediaPlayer",
+    "sha256": "077ca82d2e2d83c6c63142b38e6952e548eaab77b5a9daa6de2ca162c7fef174",
     "symlink": null,
-    "web": "https://mac.eltima.com/media-player.html",
-    "ci": "true"
+    "version": "7.17",
+    "web": "https://mac.eltima.com/media-player.html"
   }
 }

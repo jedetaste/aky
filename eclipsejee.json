@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "eclipsejee",
-    "bundle": "Eclipse.app",
-    "identifier": "org.eclipse.platform.ide",
-    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2021-03/R/eclipse-jee-2021-03-R-macosx-cocoa-x86_64.dmg",
-    "sha256": "e067b92469ffd58776c863747a246d285532667918f7974b2baf4b39f790f61e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.19.0",
     "build": null,
+    "bundle": "Eclipse.app",
+    "ci": "true",
     "dir": "/Applications/Eclipse JEE",
+    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2021-03/R/eclipse-jee-2021-03-R-macosx-cocoa-x86_64.dmg",
+    "id": "eclipsejee",
+    "identifier": "org.eclipse.platform.ide",
+    "sha256": "e067b92469ffd58776c863747a246d285532667918f7974b2baf4b39f790f61e",
     "symlink": null,
-    "web": "https://eclipse.org/",
-    "ci": "true"
+    "version": "4.19.0",
+    "web": "https://eclipse.org/"
   }
 }

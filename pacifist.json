@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "pacifist",
-    "bundle": "Pacifist.app",
-    "identifier": "com.charlessoft.pacifist",
-    "download": "https://www.charlessoft.com/cgi-bin/pacifist_download.cgi?type=dmg",
-    "sha256": "e8bd4595462e2cb6f900705ef69fdc9f044aea1e2759e347c3e9667c757fd6af",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.6.2",
     "build": null,
+    "bundle": "Pacifist.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.charlessoft.com/cgi-bin/pacifist_download.cgi?type=dmg",
+    "id": "pacifist",
+    "identifier": "com.charlessoft.pacifist",
+    "sha256": "e8bd4595462e2cb6f900705ef69fdc9f044aea1e2759e347c3e9667c757fd6af",
     "symlink": null,
-    "web": "https://www.charlessoft.com/",
-    "ci": "true"
+    "version": "3.6.2",
+    "web": "https://www.charlessoft.com/"
   }
 }

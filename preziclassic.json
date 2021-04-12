@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "preziclassic",
-    "bundle": "Prezi Classic.app",
-    "identifier": "com.prezi.desktop",
-    "download": "https://prezi.com/download/mac/",
-    "sha256": "ed9cc68796e4a055fa01cd28ab593370b6f4d87a937237e2f23f7fba9c70f332",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "6.14.0",
     "build": null,
+    "bundle": "Prezi Classic.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://prezi.com/download/mac/",
+    "id": "preziclassic",
+    "identifier": "com.prezi.desktop",
+    "sha256": "ed9cc68796e4a055fa01cd28ab593370b6f4d87a937237e2f23f7fba9c70f332",
     "symlink": null,
-    "web": "https://prezi.com/desktop",
-    "ci": "true"
+    "version": "6.14.0",
+    "web": "https://prezi.com/desktop"
   }
 }

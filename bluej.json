@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "bluej",
-    "bundle": "BlueJ.app",
-    "identifier": "org.bluej.BlueJ",
-    "download": "http://bluej.org/download/files/BlueJ-mac-500.zip",
-    "sha256": "5f64a2492f1c6606de2c646e37e407615cc2febcfad479d9a7e9bc74ae95788f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.0.0",
     "build": null,
+    "bundle": "BlueJ.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://bluej.org/download/files/BlueJ-mac-500.zip",
+    "id": "bluej",
+    "identifier": "org.bluej.BlueJ",
+    "sha256": "5f64a2492f1c6606de2c646e37e407615cc2febcfad479d9a7e9bc74ae95788f",
     "symlink": null,
-    "web": "https://www.bluej.org/",
-    "ci": "true"
+    "version": "5.0.0",
+    "web": "https://www.bluej.org/"
   }
 }

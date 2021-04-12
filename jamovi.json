@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "jamovi",
-    "bundle": "jamovi.app",
-    "identifier": "org.jamovi.jamovi",
-    "download": "https://www.jamovi.org/downloads/jamovi-1.8.0.0-macos.dmg",
-    "sha256": "42fe6090f912b1122954813a4ce4076dda64aa4bb1d917cc629db52951e9f3fe",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.8.0.0",
     "build": null,
+    "bundle": "jamovi.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.jamovi.org/downloads/jamovi-1.8.0.0-macos.dmg",
+    "id": "jamovi",
+    "identifier": "org.jamovi.jamovi",
+    "sha256": "42fe6090f912b1122954813a4ce4076dda64aa4bb1d917cc629db52951e9f3fe",
     "symlink": null,
-    "web": "https://www.jamovi.org/",
-    "ci": "true"
+    "version": "1.8.0.0",
+    "web": "https://www.jamovi.org/"
   }
 }

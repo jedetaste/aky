@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "figma",
-    "bundle": "Figma.app",
-    "identifier": "com.figma.Desktop",
-    "download": "https://desktop.figma.com/mac/Figma.zip",
-    "sha256": "eb15e232b76de6e882fa4dfaf7db25c448319c41ef5692ef0fd5bd53e564c7d7",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "96.4.0",
     "build": null,
+    "bundle": "Figma.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://desktop.figma.com/mac/Figma.zip",
+    "id": "figma",
+    "identifier": "com.figma.Desktop",
+    "sha256": "eb15e232b76de6e882fa4dfaf7db25c448319c41ef5692ef0fd5bd53e564c7d7",
     "symlink": null,
-    "web": "https://www.figma.com/",
-    "ci": "true"
+    "version": "96.4.0",
+    "web": "https://www.figma.com/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "sipgatesoftphone",
-    "bundle": "sipgate softphone.app",
-    "identifier": "com.sipgate.desktop",
-    "download": "https://sipgate-desktop-app.s3.eu-central-1.amazonaws.com/sipgate-softphone.dmg",
-    "sha256": "52bd253bf74bc62c6b9e2f2524a9bee78562391c696be06ef01e47b06049b82f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.11.2",
     "build": null,
+    "bundle": "sipgate softphone.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://sipgate-desktop-app.s3.eu-central-1.amazonaws.com/sipgate-softphone.dmg",
+    "id": "sipgatesoftphone",
+    "identifier": "com.sipgate.desktop",
+    "sha256": "52bd253bf74bc62c6b9e2f2524a9bee78562391c696be06ef01e47b06049b82f",
     "symlink": null,
-    "web": "https://www.sipgateteam.de/",
-    "ci": "true"
+    "version": "1.11.2",
+    "web": "https://www.sipgateteam.de/"
   }
 }

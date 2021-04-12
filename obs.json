@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "obs",
-    "bundle": "OBS.app",
-    "identifier": "com.obsproject.obs-studio",
-    "download": "https://cdn-fastly.obsproject.com/downloads/obs-mac-26.1.2.dmg",
-    "sha256": "42b852a5f23c5fd20d7a3ec444d6e5632fc92a63d3c8546aa6267ee6ad2f085d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "26.1.2",
     "build": null,
+    "bundle": "OBS.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://cdn-fastly.obsproject.com/downloads/obs-mac-26.1.2.dmg",
+    "id": "obs",
+    "identifier": "com.obsproject.obs-studio",
+    "sha256": "42b852a5f23c5fd20d7a3ec444d6e5632fc92a63d3c8546aa6267ee6ad2f085d",
     "symlink": null,
-    "web": "https://obsproject.com/",
-    "ci": "true"
+    "version": "26.1.2",
+    "web": "https://obsproject.com/"
   }
 }

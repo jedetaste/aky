@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "openoffice",
-    "bundle": "OpenOffice.app",
-    "identifier": "org.openoffice.script",
-    "download": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.9/binaries/de/Apache_OpenOffice_4.1.9_MacOS_x86-64_install_de.dmg/download",
-    "sha256": "ac44bb2d186d20450f38e0d14d9982b801d37c016abb43dd619ab3bedd211d61",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.1.9",
     "build": null,
+    "bundle": "OpenOffice.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.9/binaries/de/Apache_OpenOffice_4.1.9_MacOS_x86-64_install_de.dmg/download",
+    "id": "openoffice",
+    "identifier": "org.openoffice.script",
+    "sha256": "ac44bb2d186d20450f38e0d14d9982b801d37c016abb43dd619ab3bedd211d61",
     "symlink": null,
-    "web": "https://www.openoffice.org/",
-    "ci": "true"
+    "version": "4.1.9",
+    "web": "https://www.openoffice.org/"
   }
 }

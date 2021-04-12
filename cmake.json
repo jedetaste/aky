@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "cmake",
-    "bundle": "CMake.app",
-    "identifier": "org.cmake.cmake",
-    "download": "https://cmake.org/files/LatestRelease/cmake-3.19.0-Darwin-x86_64.dmg",
-    "sha256": "8ceeafe2964e9e294cb2dadacbbe2c2cc86b5d4990120e23199ccf10571d1ff2",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.19.0",
     "build": null,
+    "bundle": "CMake.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://cmake.org/files/LatestRelease/cmake-3.19.0-Darwin-x86_64.dmg",
+    "id": "cmake",
+    "identifier": "org.cmake.cmake",
+    "sha256": "8ceeafe2964e9e294cb2dadacbbe2c2cc86b5d4990120e23199ccf10571d1ff2",
     "symlink": null,
-    "web": "https://cmake.org/",
-    "ci": "true"
+    "version": "3.19.0",
+    "web": "https://cmake.org/"
   }
 }

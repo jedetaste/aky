@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "lingonx",
-    "bundle": "Lingon X.app",
-    "identifier": "com.peterborgapps.LingonX7",
-    "download": "https://www.peterborgapps.com/downloads/LingonX7.zip",
-    "sha256": "678649a8ac15ebe55eaaab8c39ab1d74f51bafa6127d3de299619a90c04ad6a3",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "7.6.3",
     "build": null,
+    "bundle": "Lingon X.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.peterborgapps.com/downloads/LingonX7.zip",
+    "id": "lingonx",
+    "identifier": "com.peterborgapps.LingonX7",
+    "sha256": "678649a8ac15ebe55eaaab8c39ab1d74f51bafa6127d3de299619a90c04ad6a3",
     "symlink": null,
-    "web": "https://www.peterborgapps.com/lingon/",
-    "ci": "true"
+    "version": "7.6.3",
+    "web": "https://www.peterborgapps.com/lingon/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "muteme",
-    "bundle": "Mute Me.app",
-    "identifier": "pixel-point.mute-me-now",
-    "download": "https://github.com/pixel-point/mute-me/releases/download/v1.2.0/mute-me-v1.2.0.zip",
-    "sha256": "ac5731d090dc3e49974be079e48dbfefcdefc203d7b1319b1bdffe96fe768325",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.01",
     "build": null,
+    "bundle": "Mute Me.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/pixel-point/mute-me/releases/download/v1.2.0/mute-me-v1.2.0.zip",
+    "id": "muteme",
+    "identifier": "pixel-point.mute-me-now",
+    "sha256": "ac5731d090dc3e49974be079e48dbfefcdefc203d7b1319b1bdffe96fe768325",
     "symlink": null,
-    "web": "https://muteme.pixelpoint.io/",
-    "ci": "true"
+    "version": "1.01",
+    "web": "https://muteme.pixelpoint.io/"
   }
 }

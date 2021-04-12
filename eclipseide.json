@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "eclipseide",
-    "bundle": "Eclipse.app",
-    "identifier": "org.eclipse.platform.ide",
-    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2021-03/R/eclipse-committers-2021-03-R-macosx-cocoa-x86_64.dmg",
-    "sha256": "5c4df846bdeec20466df2ee374421a578634cd401b709077bca4ee2305a6b38d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.19.0",
     "build": null,
+    "bundle": "Eclipse.app",
+    "ci": "true",
     "dir": "/Applications/Eclipse IDE",
+    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2021-03/R/eclipse-committers-2021-03-R-macosx-cocoa-x86_64.dmg",
+    "id": "eclipseide",
+    "identifier": "org.eclipse.platform.ide",
+    "sha256": "5c4df846bdeec20466df2ee374421a578634cd401b709077bca4ee2305a6b38d",
     "symlink": null,
-    "web": "https://eclipse.org/",
-    "ci": "true"
+    "version": "4.19.0",
+    "web": "https://eclipse.org/"
   }
 }

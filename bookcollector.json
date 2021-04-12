@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "bookcollector",
-    "bundle": "Book Collector.app",
-    "identifier": "com.collectorz.com.Book-Collector",
-    "download": "http://downloads.collectorz.com/bookcollectorsetup.dmg",
-    "sha256": "e30dcc7c803297fe19ec1b5a0e33e367e08e725ed2fa469a1684ebcd9f66a554",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "20.3.1",
     "build": null,
+    "bundle": "Book Collector.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://downloads.collectorz.com/bookcollectorsetup.dmg",
+    "id": "bookcollector",
+    "identifier": "com.collectorz.com.Book-Collector",
+    "sha256": "e30dcc7c803297fe19ec1b5a0e33e367e08e725ed2fa469a1684ebcd9f66a554",
     "symlink": null,
-    "web": "https://www.collectorz.com/book/book-collector",
-    "ci": "true"
+    "version": "20.3.1",
+    "web": "https://www.collectorz.com/book/book-collector"
   }
 }

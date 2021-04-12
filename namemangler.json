@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "namemangler",
-    "bundle": "Name Mangler.app",
-    "identifier": "com.manytricks.NameMangler",
-    "download": "https://manytricks.com/download/_do_not_hotlink_/namemangler370.dmg",
-    "sha256": "9e914f5780b0b48c3519d73c20b9c399d9b6cbd7a52bbf27bc3a11cad922cfa6",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.7",
     "build": null,
+    "bundle": "Name Mangler.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://manytricks.com/download/_do_not_hotlink_/namemangler370.dmg",
+    "id": "namemangler",
+    "identifier": "com.manytricks.NameMangler",
+    "sha256": "9e914f5780b0b48c3519d73c20b9c399d9b6cbd7a52bbf27bc3a11cad922cfa6",
     "symlink": null,
-    "web": "https://manytricks.com/namemangler/",
-    "ci": "true"
+    "version": "3.7",
+    "web": "https://manytricks.com/namemangler/"
   }
 }

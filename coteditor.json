@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "coteditor",
-    "bundle": "CotEditor.app",
-    "identifier": "com.coteditor.CotEditor",
-    "download": "https://github.com/coteditor/CotEditor/releases/download/4.0.2/CotEditor_4.0.2.dmg",
-    "sha256": "e5d61b781f1985e529f7955be59d0cf4b6ad6c75f7b3148acca2b95871b7e49c",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.0.2",
     "build": null,
+    "bundle": "CotEditor.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/coteditor/CotEditor/releases/download/4.0.2/CotEditor_4.0.2.dmg",
+    "id": "coteditor",
+    "identifier": "com.coteditor.CotEditor",
+    "sha256": "e5d61b781f1985e529f7955be59d0cf4b6ad6c75f7b3148acca2b95871b7e49c",
     "symlink": null,
-    "web": "https://coteditor.com/",
-    "ci": "true"
+    "version": "4.0.2",
+    "web": "https://coteditor.com/"
   }
 }

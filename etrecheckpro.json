@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "etrecheckpro",
-    "bundle": "EtreCheckPro.app",
-    "identifier": "com.etresoft.EtreCheck4",
-    "download": "https://d1ajlxshccx4yr.cloudfront.net/EtreCheckPro.zip",
-    "sha256": "7b4a684b2b4d7965c8ec09d1772192bf7f31f736bf8136e961cc802ca5639ae8",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "6.4.3",
     "build": null,
+    "bundle": "EtreCheckPro.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://d1ajlxshccx4yr.cloudfront.net/EtreCheckPro.zip",
+    "id": "etrecheckpro",
+    "identifier": "com.etresoft.EtreCheck4",
+    "sha256": "7b4a684b2b4d7965c8ec09d1772192bf7f31f736bf8136e961cc802ca5639ae8",
     "symlink": null,
-    "web": "https://etrecheck.com/",
-    "ci": "true"
+    "version": "6.4.3",
+    "web": "https://etrecheck.com/"
   }
 }

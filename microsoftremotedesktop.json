@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "microsoftremotedesktop",
-    "bundle": "Microsoft Remote Desktop.app",
-    "identifier": "com.microsoft.rdc.macos",
-    "download": "https://go.microsoft.com/fwlink/?linkid=868963",
-    "sha256": "b648e704f3701116b9abbae7d5960a87fd45d85e9e129561c3cbfd692e48bb96",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "10.5.2",
     "build": null,
+    "bundle": "Microsoft Remote Desktop.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://go.microsoft.com/fwlink/?linkid=868963",
+    "id": "microsoftremotedesktop",
+    "identifier": "com.microsoft.rdc.macos",
+    "sha256": "b648e704f3701116b9abbae7d5960a87fd45d85e9e129561c3cbfd692e48bb96",
     "symlink": null,
-    "web": null,
-    "ci": "true"
+    "version": "10.5.2",
+    "web": null
   }
 }

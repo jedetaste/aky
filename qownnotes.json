@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "qownnotes",
-    "bundle": "QOwnNotes.app",
-    "identifier": "com.PBE.QOwnNotes",
-    "download": "https://github.com/pbek/QOwnNotes/releases/download/v21.4.0/QOwnNotes.dmg",
-    "sha256": "f930bbce98625932c2b5c5c23ea0e3040b946d628ffb27aedcf219fd1a40ea1d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "21.4.0",
     "build": null,
-    "symlink": null,
+    "bundle": "QOwnNotes.app",
+    "ci": "true",
     "dir": "/Applications",
-    "web": "https://www.qownnotes.org/",
-    "ci": "true"
+    "download": "https://github.com/pbek/QOwnNotes/releases/download/v21.4.0/QOwnNotes.dmg",
+    "id": "qownnotes",
+    "identifier": "com.PBE.QOwnNotes",
+    "sha256": "f930bbce98625932c2b5c5c23ea0e3040b946d628ffb27aedcf219fd1a40ea1d",
+    "symlink": null,
+    "version": "21.4.0",
+    "web": "https://www.qownnotes.org/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "jin",
-    "bundle": "Jin.app",
-    "identifier": "jin-2.14.1",
-    "download": "http://sourceforge.net/projects/jin/files/jin/jin-2.14.1/jin-2.14.1-macosx-lion.dmg/download",
-    "sha256": "d5592e35bc1e1bb6cf8337d0adaf883c7f5964e9e6f378f66f3fa29979d653aa",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.14.1",
     "build": null,
+    "bundle": "Jin.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://sourceforge.net/projects/jin/files/jin/jin-2.14.1/jin-2.14.1-macosx-lion.dmg/download",
+    "id": "jin",
+    "identifier": "jin-2.14.1",
+    "sha256": "d5592e35bc1e1bb6cf8337d0adaf883c7f5964e9e6f378f66f3fa29979d653aa",
     "symlink": null,
-    "web": "http://www.jinchess.com/",
-    "ci": "true"
+    "version": "2.14.1",
+    "web": "http://www.jinchess.com/"
   }
 }

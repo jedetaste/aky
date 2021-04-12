@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "wifiexplorer",
-    "bundle": "WiFi Explorer.app",
-    "identifier": "wifiexplorer",
-    "download": "https://www.intuitibits.com/appcasts/WiFiExplorer_3.0.4.zip",
-    "sha256": "ac80c00ffa53be3dbfded233e60617384986490f52fdcac4981a9028635bcc69",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.0.4",
     "build": null,
+    "bundle": "WiFi Explorer.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.intuitibits.com/appcasts/WiFiExplorer_3.0.4.zip",
+    "id": "wifiexplorer",
+    "identifier": "wifiexplorer",
+    "sha256": "ac80c00ffa53be3dbfded233e60617384986490f52fdcac4981a9028635bcc69",
     "symlink": null,
-    "web": "https://www.adriangranados.com/apps/wifi-explorer",
-    "ci": "true"
+    "version": "3.0.4",
+    "web": "https://www.adriangranados.com/apps/wifi-explorer"
   }
 }

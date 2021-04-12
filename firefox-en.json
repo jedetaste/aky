@@ -1,22 +1,22 @@
 {
   "recipe": {
-    "id": "firefox-en",
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "build": null,
     "bundle": "Firefox.app",
+    "ci": "true",
+    "dir": "/Applications",
+    "download": "https://releases.mozilla.org/pub/firefox/releases/87.0/mac/en-US/Firefox%2087.0.pkg",
+    "id": "firefox-en",
     "identifier": "org.mozilla.firefox",
     "processes": [
       "firefox"
     ],
-    "download": "https://releases.mozilla.org/pub/firefox/releases/87.0/mac/en-US/Firefox%2087.0.pkg",
     "sha256": "0c76c1765001501e4302baec4fe0597b43da123edc8921ada413d311a55b9fc6",
-    "appcast": {
-      "url": null,
-      "checkpoint": null
-    },
-    "version": "87.0",
-    "build": null,
-    "dir": "/Applications",
     "symlink": null,
-    "web": "https://www.mozilla.org/firefox/",
-    "ci": "true"
+    "version": "87.0",
+    "web": "https://www.mozilla.org/firefox/"
   }
 }

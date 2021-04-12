@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "linphone",
-    "bundle": "Linphone.app",
-    "identifier": "org.linphone.linphone",
-    "download": "https://www.linphone.org/releases/macosx/Linphone-latest-mac.dmg",
-    "sha256": "9e68a923818b24045fc36fe94a0edeaff094baf815ad598dd103eb815661cd0e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.2.5",
     "build": null,
+    "bundle": "Linphone.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.linphone.org/releases/macosx/Linphone-latest-mac.dmg",
+    "id": "linphone",
+    "identifier": "org.linphone.linphone",
+    "sha256": "9e68a923818b24045fc36fe94a0edeaff094baf815ad598dd103eb815661cd0e",
     "symlink": null,
-    "web": "https://www.linphone.org/",
-    "ci": "true"
+    "version": "4.2.5",
+    "web": "https://www.linphone.org/"
   }
 }

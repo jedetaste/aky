@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "pashua",
-    "bundle": "Pashua.app",
-    "identifier": "net.bluem.pashua",
-    "download": "https://www.bluem.net/files/Pashua.dmg",
-    "sha256": "90f2ce2ee34c195e46dc3d1547212d582108ff370ba9a4cfc2d7979153b9e31a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "0.11",
     "build": null,
+    "bundle": "Pashua.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.bluem.net/files/Pashua.dmg",
+    "id": "pashua",
+    "identifier": "net.bluem.pashua",
+    "sha256": "90f2ce2ee34c195e46dc3d1547212d582108ff370ba9a4cfc2d7979153b9e31a",
     "symlink": null,
-    "web": "https://www.bluem.net/en/mac/pashua/",
-    "ci": "true"
+    "version": "0.11",
+    "web": "https://www.bluem.net/en/mac/pashua/"
   }
 }

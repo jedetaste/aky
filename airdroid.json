@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "airdroid",
-    "bundle": "AirDroid.app",
-    "identifier": "com.sandstudio.airdroid",
-    "download": "https://srv3.airdroid.com/p20/web/getbinaryredirect?type=dmg&channel=&version=",
-    "sha256": "5ed0cb9c480be4fc18ddfc184f92481d4b7c1871446f1ebab36c1dcb84614921",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.6.9.2",
     "build": null,
+    "bundle": "AirDroid.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://srv3.airdroid.com/p20/web/getbinaryredirect?type=dmg&channel=&version=",
+    "id": "airdroid",
+    "identifier": "com.sandstudio.airdroid",
+    "sha256": "5ed0cb9c480be4fc18ddfc184f92481d4b7c1871446f1ebab36c1dcb84614921",
     "symlink": null,
-    "web": "https://www.airdroid.com/",
-    "ci": "true"
+    "version": "3.6.9.2",
+    "web": "https://www.airdroid.com/"
   }
 }

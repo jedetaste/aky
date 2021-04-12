@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "vuescan",
-    "bundle": "VueScan.app",
-    "identifier": "com.hamrick.vuescan",
-    "download": "https://d2bwyyzfw77fhf.cloudfront.net/vuex6497.dmg",
-    "sha256": "617fb0429f08ea193225619de6c684a5dfdbbfba6dedc316d052bff39a671238",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "9.7.52",
     "build": null,
+    "bundle": "VueScan.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://d2bwyyzfw77fhf.cloudfront.net/vuex6497.dmg",
+    "id": "vuescan",
+    "identifier": "com.hamrick.vuescan",
+    "sha256": "617fb0429f08ea193225619de6c684a5dfdbbfba6dedc316d052bff39a671238",
     "symlink": null,
-    "web": "https://www.hamrick.com/",
-    "ci": "true"
+    "version": "9.7.52",
+    "web": "https://www.hamrick.com/"
   }
 }

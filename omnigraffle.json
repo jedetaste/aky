@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "omnigraffle",
-    "bundle": "OmniGraffle.app",
-    "identifier": "com.omnigroup.OmniGraffle7",
-    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniGraffle-7.18.5.dmg",
-    "sha256": "a3d6733d7a40df8e8eb9ba1a6d409d3894d13125be9f93f4a95895549749eae3",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "7.18.5",
     "build": null,
+    "bundle": "OmniGraffle.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniGraffle-7.18.5.dmg",
+    "id": "omnigraffle",
+    "identifier": "com.omnigroup.OmniGraffle7",
+    "sha256": "a3d6733d7a40df8e8eb9ba1a6d409d3894d13125be9f93f4a95895549749eae3",
     "symlink": null,
-    "web": "https://www.omnigroup.com/omnigraffle/",
-    "ci": "true"
+    "version": "7.18.5",
+    "web": "https://www.omnigroup.com/omnigraffle/"
   }
 }

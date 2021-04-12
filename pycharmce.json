@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "pycharmce",
-    "bundle": "PyCharm CE.app",
-    "identifier": "com.jetbrains.pycharm",
-    "download": "https://download.jetbrains.com/python/pycharm-community-2021.1.dmg",
-    "sha256": "9a9c900659a58c86563fee1dbdeef429b36fcbdb84f31f206f612c8053fbd9cf",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2021.1",
     "build": null,
+    "bundle": "PyCharm CE.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.jetbrains.com/python/pycharm-community-2021.1.dmg",
+    "id": "pycharmce",
+    "identifier": "com.jetbrains.pycharm",
+    "sha256": "9a9c900659a58c86563fee1dbdeef429b36fcbdb84f31f206f612c8053fbd9cf",
     "symlink": null,
-    "web": "https://www.jetbrains.com/pycharm/",
-    "ci": "true"
+    "version": "2021.1",
+    "web": "https://www.jetbrains.com/pycharm/"
   }
 }

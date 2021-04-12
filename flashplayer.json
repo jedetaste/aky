@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "flashplayer",
-    "bundle": "Flash Player.app",
-    "identifier": "com.macromedia.Flash Player.app",
-    "download": "https://fpdownload.adobe.com/pub/flashplayer/updaters/32/flashplayer_32_sa.dmg",
-    "sha256": "236ecef54a7d6c3eed739c74b7e14946b07b6156cbcedda3bbbf444f1d17023a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "32.0.0.465",
     "build": null,
+    "bundle": "Flash Player.app",
+    "ci": "true",
     "dir": "/Applications/Utilities",
+    "download": "https://fpdownload.adobe.com/pub/flashplayer/updaters/32/flashplayer_32_sa.dmg",
+    "id": "flashplayer",
+    "identifier": "com.macromedia.Flash Player.app",
+    "sha256": "236ecef54a7d6c3eed739c74b7e14946b07b6156cbcedda3bbbf444f1d17023a",
     "symlink": null,
-    "web": "https://www.adobe.com/support/flashplayer/debug_downloads.html",
-    "ci": "true"
+    "version": "32.0.0.465",
+    "web": "https://www.adobe.com/support/flashplayer/debug_downloads.html"
   }
 }

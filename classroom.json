@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "classroom",
-    "bundle": "Classroom.app",
-    "identifier": "com.apple.macos.classroom",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Classroom-2.3.pkg",
-    "sha256": "b260a2ac1fcae5f995af7fe220a4a93296023be20c796abf8fa18664005e13fa",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.3",
     "build": null,
-    "symlink": null,
-    "dir": "/Applications",
-    "web": null,
+    "bundle": "Classroom.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Classroom-2.3.pkg",
+    "id": "classroom",
+    "identifier": "com.apple.macos.classroom",
+    "internal": "true",
+    "sha256": "b260a2ac1fcae5f995af7fe220a4a93296023be20c796abf8fa18664005e13fa",
+    "symlink": null,
+    "version": "2.3",
+    "web": null
   }
 }

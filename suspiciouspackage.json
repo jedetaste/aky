@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "suspiciouspackage",
-    "bundle": "Suspicious Package.app",
-    "identifier": "com.mothersruin.SuspiciousPackageApp",
-    "download": "https://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg",
-    "sha256": "e848c8b5ce56c71307d8b2808c79c319c171b2d64cafceb3ebbd1072231b87e4",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.7",
     "build": null,
+    "bundle": "Suspicious Package.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg",
+    "id": "suspiciouspackage",
+    "identifier": "com.mothersruin.SuspiciousPackageApp",
+    "sha256": "e848c8b5ce56c71307d8b2808c79c319c171b2d64cafceb3ebbd1072231b87e4",
     "symlink": null,
-    "web": "https://www.mothersruin.com/software/SuspiciousPackage/",
-    "ci": "true"
+    "version": "3.7",
+    "web": "https://www.mothersruin.com/software/SuspiciousPackage/"
   }
 }

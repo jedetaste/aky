@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "discord",
-    "bundle": "Discord.app",
-    "identifier": "com.hnc.Discord",
-    "download": "https://discordapp.com/api/download?platform=osx",
-    "sha256": "4b49503b7951e23664b5fd9e1da59d6df100818eaadcadeaad37a32aded03c0e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "0.0.262",
     "build": null,
+    "bundle": "Discord.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://discordapp.com/api/download?platform=osx",
+    "id": "discord",
+    "identifier": "com.hnc.Discord",
+    "sha256": "4b49503b7951e23664b5fd9e1da59d6df100818eaadcadeaad37a32aded03c0e",
     "symlink": null,
-    "web": "https://discordapp.com/",
-    "ci": "true"
+    "version": "0.0.262",
+    "web": "https://discordapp.com/"
   }
 }

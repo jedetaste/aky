@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "chromeremotedesktophost",
-    "bundle": "ChromeRemoteDesktopHost.app",
-    "identifier": "com.google.chromeremotedesktop.me2me-host",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/ChromeRemoteDesktop-90.0.4430.pkg",
-    "sha256": "2018d230345e353f7014e677f4bd487d97760bc7752bc75fa67b0d27e74ca9c6",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "90.0.4430",
     "build": null,
-    "symlink": null,
-    "dir": "/Library/PrivilegedHelperTools",
-    "web": "https://remotedesktop.google.com/",
+    "bundle": "ChromeRemoteDesktopHost.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Library/PrivilegedHelperTools",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/ChromeRemoteDesktop-90.0.4430.pkg",
+    "id": "chromeremotedesktophost",
+    "identifier": "com.google.chromeremotedesktop.me2me-host",
+    "internal": "true",
+    "sha256": "2018d230345e353f7014e677f4bd487d97760bc7752bc75fa67b0d27e74ca9c6",
+    "symlink": null,
+    "version": "90.0.4430",
+    "web": "https://remotedesktop.google.com/"
   }
 }

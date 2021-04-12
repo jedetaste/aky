@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "wire",
-    "bundle": "Wire.app",
-    "identifier": "com.wearezeta.zclient.mac",
-    "download": "https://github.com/wireapp/wire-desktop/releases/download/macos/3.24.4059/Wire.pkg",
-    "sha256": "5ecf860e5675a11bb989d46968165bc50f7c729c090b407f6e94832b511b5bfe",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.24.4059",
     "build": null,
+    "bundle": "Wire.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/wireapp/wire-desktop/releases/download/macos/3.24.4059/Wire.pkg",
+    "id": "wire",
+    "identifier": "com.wearezeta.zclient.mac",
+    "sha256": "5ecf860e5675a11bb989d46968165bc50f7c729c090b407f6e94832b511b5bfe",
     "symlink": null,
-    "web": "https://wire.com/",
-    "ci": "true"
+    "version": "3.24.4059",
+    "web": "https://wire.com/"
   }
 }

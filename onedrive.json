@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "onedrive",
-    "bundle": "OneDrive.app",
-    "identifier": "com.microsoft.OneDrive",
-    "download": "https://go.microsoft.com/fwlink/?linkid=823060",
-    "sha256": "5eb91bf3ce02c71e7d970767a703d9db72582b776e1abee24b667ff925b3bdbd",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "21.052.0314",
     "build": null,
+    "bundle": "OneDrive.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://go.microsoft.com/fwlink/?linkid=823060",
+    "id": "onedrive",
+    "identifier": "com.microsoft.OneDrive",
+    "sha256": "5eb91bf3ce02c71e7d970767a703d9db72582b776e1abee24b667ff925b3bdbd",
     "symlink": null,
-    "web": "https://onedrive.live.com/",
-    "ci": "true"
+    "version": "21.052.0314",
+    "web": "https://onedrive.live.com/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "fluid",
-    "bundle": "Fluid.app",
-    "identifier": "com.fluidapp.Fluid2",
-    "download": "https://fluidapp.com/dist/Fluid_2.1.2.zip",
-    "sha256": "cf58c480f631d2adc050b423e65776e253f52989ade9c1aaf8d77b8ced63a653",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.1.2",
     "build": null,
+    "bundle": "Fluid.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://fluidapp.com/dist/Fluid_2.1.2.zip",
+    "id": "fluid",
+    "identifier": "com.fluidapp.Fluid2",
+    "sha256": "cf58c480f631d2adc050b423e65776e253f52989ade9c1aaf8d77b8ced63a653",
     "symlink": null,
-    "web": "https://fluidapp.com/",
-    "ci": "true"
+    "version": "2.1.2",
+    "web": "https://fluidapp.com/"
   }
 }

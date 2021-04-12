@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "whatsapp",
-    "bundle": "WhatsApp.app",
-    "identifier": "WhatsApp",
-    "download": "https://web.whatsapp.com/desktop/mac/files/WhatsApp.dmg",
-    "sha256": "a09e64f573f987776c230e826edb8a96cfd5cda0c5e2b60fbd96b8097783ac6c",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.2110.12",
     "build": null,
+    "bundle": "WhatsApp.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://web.whatsapp.com/desktop/mac/files/WhatsApp.dmg",
+    "id": "whatsapp",
+    "identifier": "WhatsApp",
+    "sha256": "a09e64f573f987776c230e826edb8a96cfd5cda0c5e2b60fbd96b8097783ac6c",
     "symlink": null,
-    "web": "https://www.whatsapp.com/",
-    "ci": "true"
+    "version": "2.2110.12",
+    "web": "https://www.whatsapp.com/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "backupandsync",
-    "bundle": "Backup and Sync.app",
-    "identifier": "com.google.GoogleDrive",
-    "download": "https://dl.google.com/drive/InstallBackupAndSync.dmg",
-    "sha256": "c92e9bd002aad696db9553b107db5598ea96c3d69971035c4e5e768ae9f066cf",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.54",
     "build": null,
+    "bundle": "Backup and Sync.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://dl.google.com/drive/InstallBackupAndSync.dmg",
+    "id": "backupandsync",
+    "identifier": "com.google.GoogleDrive",
+    "sha256": "c92e9bd002aad696db9553b107db5598ea96c3d69971035c4e5e768ae9f066cf",
     "symlink": null,
-    "web": "https://www.google.com/drive/download/",
-    "ci": "true"
+    "version": "3.54",
+    "web": "https://www.google.com/drive/download/"
   }
 }

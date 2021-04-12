@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "googleadseditor",
-    "bundle": "Google Ads Editor.app",
-    "identifier": "com.google.googleadseditorlauncher",
-    "download": "https://dl.google.com/adwords_editor/Google_AdWords_Editor.dmg",
-    "sha256": null,
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": null,
     "build": null,
+    "bundle": "Google Ads Editor.app",
     "dir": "/Applications",
+    "download": "https://dl.google.com/adwords_editor/Google_AdWords_Editor.dmg",
+    "id": "googleadseditor",
+    "identifier": "com.google.googleadseditorlauncher",
+    "sha256": null,
     "symlink": null,
+    "version": null,
     "web": "https://ads.google.com/home/tools/ads-editor/"
   }
 }

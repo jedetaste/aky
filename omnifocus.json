@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "omnifocus",
-    "bundle": "OmniFocus.app",
-    "identifier": "com.omnigroup.OmniFocus3",
-    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniFocus-3.11.6.dmg",
-    "sha256": "7712afcf3da77f5adf5280c34db81ed516a9a391b57e0e1a89097dd90051fa09",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.11.6",
     "build": null,
+    "bundle": "OmniFocus.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniFocus-3.11.6.dmg",
+    "id": "omnifocus",
+    "identifier": "com.omnigroup.OmniFocus3",
+    "sha256": "7712afcf3da77f5adf5280c34db81ed516a9a391b57e0e1a89097dd90051fa09",
     "symlink": null,
-    "web": "https://www.omnigroup.com/omnifocus/",
-    "ci": "true"
+    "version": "3.11.6",
+    "web": "https://www.omnigroup.com/omnifocus/"
   }
 }

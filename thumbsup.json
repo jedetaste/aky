@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "thumbsup",
-    "bundle": "ThumbsUp.app",
-    "identifier": "com.devon-technologies.ThumbsUp",
-    "download": "https://download.devontechnologies.com/download/freeware/thumbsup/4.5.3/ThumbsUp.app.zip",
-    "sha256": "05e1bbefd09e098eeb7faec29ea7556f76cf17b49be719af93e443d993beeb8c",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.5.3",
     "build": null,
+    "bundle": "ThumbsUp.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.devontechnologies.com/download/freeware/thumbsup/4.5.3/ThumbsUp.app.zip",
+    "id": "thumbsup",
+    "identifier": "com.devon-technologies.ThumbsUp",
+    "sha256": "05e1bbefd09e098eeb7faec29ea7556f76cf17b49be719af93e443d993beeb8c",
     "symlink": null,
-    "web": "https://www.devontechnologies.com/apps/freeware",
-    "ci": "true"
+    "version": "4.5.3",
+    "web": "https://www.devontechnologies.com/apps/freeware"
   }
 }

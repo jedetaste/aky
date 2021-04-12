@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "paintbrush",
-    "bundle": "Paintbrush.app",
-    "identifier": "com.soggywaffles.Paintbrush",
-    "download": "https://sourceforge.net/projects/paintbrush/files/Paintbrush%202.x/Paintbrush%202.6.0/Paintbrush-2.6.0.zip/download",
-    "sha256": "9d12b754ec65edc77fa51d3a3c8a0b08ac863e10fd530bff219f9f22bb9dba3a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.6",
     "build": null,
+    "bundle": "Paintbrush.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://sourceforge.net/projects/paintbrush/files/Paintbrush%202.x/Paintbrush%202.6.0/Paintbrush-2.6.0.zip/download",
+    "id": "paintbrush",
+    "identifier": "com.soggywaffles.Paintbrush",
+    "sha256": "9d12b754ec65edc77fa51d3a3c8a0b08ac863e10fd530bff219f9f22bb9dba3a",
     "symlink": null,
-    "web": "https://paintbrush.sourceforge.io/",
-    "ci": "true"
+    "version": "2.6",
+    "web": "https://paintbrush.sourceforge.io/"
   }
 }

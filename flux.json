@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "flux",
-    "bundle": "Flux.app",
-    "identifier": "org.herf.Flux",
-    "download": "https://justgetflux.com/mac/Flux40.1.zip",
-    "sha256": "1844305519b450cfe3c5475e99f6c06fb2eea51e65c1b0ee25f6671a49fff75d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "40.1",
     "build": null,
+    "bundle": "Flux.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://justgetflux.com/mac/Flux40.1.zip",
+    "id": "flux",
+    "identifier": "org.herf.Flux",
+    "sha256": "1844305519b450cfe3c5475e99f6c06fb2eea51e65c1b0ee25f6671a49fff75d",
     "symlink": null,
-    "web": "https://justgetflux.com/",
-    "ci": "true"
+    "version": "40.1",
+    "web": "https://justgetflux.com/"
   }
 }

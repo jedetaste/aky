@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "googlechromecanary",
-    "bundle": "Google Chrome Canary.app",
-    "identifier": "com.google.Chrome.canary",
-    "download": "https://dl.google.com/release2/q/canary/googlechrome.dmg",
-    "sha256": "2ecf8da391508c9ec35a7f91b5dd53f24d31a63e6b57e9bd0a44b50bfa49620d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "92.0.4475.0",
     "build": null,
+    "bundle": "Google Chrome Canary.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://dl.google.com/release2/q/canary/googlechrome.dmg",
+    "id": "googlechromecanary",
+    "identifier": "com.google.Chrome.canary",
+    "sha256": "2ecf8da391508c9ec35a7f91b5dd53f24d31a63e6b57e9bd0a44b50bfa49620d",
     "symlink": null,
-    "web": "https://www.google.com/intl/en/chrome/canary/",
-    "ci": "true"
+    "version": "92.0.4475.0",
+    "web": "https://www.google.com/intl/en/chrome/canary/"
   }
 }

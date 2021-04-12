@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "visualstudiocode",
-    "bundle": "Visual Studio Code.app",
-    "identifier": "com.microsoft.VSCode",
-    "download": "https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal",
-    "sha256": "5a6e7ae9c641856cd706d6c48a0537d3301d504e8e5ce7ee1986a37b27defc99",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.55.1",
     "build": null,
+    "bundle": "Visual Studio Code.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal",
+    "id": "visualstudiocode",
+    "identifier": "com.microsoft.VSCode",
+    "sha256": "5a6e7ae9c641856cd706d6c48a0537d3301d504e8e5ce7ee1986a37b27defc99",
     "symlink": null,
-    "web": "https://code.visualstudio.com/",
-    "ci": "true"
+    "version": "1.55.1",
+    "web": "https://code.visualstudio.com/"
   }
 }

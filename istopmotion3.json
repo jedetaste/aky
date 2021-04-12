@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "istopmotion3",
-    "bundle": "iStopMotion.app",
-    "identifier": "com.boinx.iStopMotion3",
-    "download": "https://cdn.boinx.com/software/istopmotion/Boinx_iStopMotion_3.8.2-16057.app.zip",
-    "sha256": "eb31319488346e12d6f95b7be9d61d911eaaf0228f22b6053ee0be8f6902f520",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.8.2",
     "build": null,
+    "bundle": "iStopMotion.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://cdn.boinx.com/software/istopmotion/Boinx_iStopMotion_3.8.2-16057.app.zip",
+    "id": "istopmotion3",
+    "identifier": "com.boinx.iStopMotion3",
+    "sha256": "eb31319488346e12d6f95b7be9d61d911eaaf0228f22b6053ee0be8f6902f520",
     "symlink": null,
-    "web": "https://boinx.com/istopmotion/mac/",
-    "ci": "true"
+    "version": "3.8.2",
+    "web": "https://boinx.com/istopmotion/mac/"
   }
 }

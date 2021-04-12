@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "packages",
-    "bundle": "Packages.app",
-    "identifier": "fr.whitebox.Packages",
-    "download": "http://s.sudre.free.fr/Software/files/Packages.dmg",
-    "sha256": "70ac111417728c17b1f27d5520afd87c33f899f12de8ace0f703e3e1c500b28e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.2.9",
     "build": null,
+    "bundle": "Packages.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://s.sudre.free.fr/Software/files/Packages.dmg",
+    "id": "packages",
+    "identifier": "fr.whitebox.Packages",
+    "sha256": "70ac111417728c17b1f27d5520afd87c33f899f12de8ace0f703e3e1c500b28e",
     "symlink": null,
-    "web": "http://s.sudre.free.fr/Software/Packages/about.html",
-    "ci": "true"
+    "version": "1.2.9",
+    "web": "http://s.sudre.free.fr/Software/Packages/about.html"
   }
 }

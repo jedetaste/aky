@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "vysor",
-    "bundle": "Vysor.app",
-    "identifier": "com.electron.vysor",
-    "download": "https://github.com/koush/vysor.io/releases/download/v3.1.4/Vysor-mac-3.1.4.zip",
-    "sha256": "c1bc1bb52400a396621082e37a6f5a98e786be9e508c8971d75ca11611afd205",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.1.4",
     "build": null,
+    "bundle": "Vysor.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/koush/vysor.io/releases/download/v3.1.4/Vysor-mac-3.1.4.zip",
+    "id": "vysor",
+    "identifier": "com.electron.vysor",
+    "sha256": "c1bc1bb52400a396621082e37a6f5a98e786be9e508c8971d75ca11611afd205",
     "symlink": null,
-    "web": "https://www.vysor.io/",
-    "ci": "true"
+    "version": "3.1.4",
+    "web": "https://www.vysor.io/"
   }
 }

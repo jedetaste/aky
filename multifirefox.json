@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "multifirefox",
-    "bundle": "MultiFirefox.app",
-    "identifier": "com.CodeContortionist.MultiFirefox",
-    "download": "http://s3.amazonaws.com/mff_sparkle/MultiFirefox_2.3.3.zip",
-    "sha256": "da08ec6b31a928549783aefcd54664fcf26e107bf09bb1d5439e769a2273b537",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.3.3",
     "build": null,
+    "bundle": "MultiFirefox.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://s3.amazonaws.com/mff_sparkle/MultiFirefox_2.3.3.zip",
+    "id": "multifirefox",
+    "identifier": "com.CodeContortionist.MultiFirefox",
+    "sha256": "da08ec6b31a928549783aefcd54664fcf26e107bf09bb1d5439e769a2273b537",
     "symlink": null,
-    "web": "http://davemartorana.com/multifirefox/",
-    "ci": "true"
+    "version": "2.3.3",
+    "web": "http://davemartorana.com/multifirefox/"
   }
 }

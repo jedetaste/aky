@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "restor",
-    "bundle": "Restor.app",
-    "identifier": "com.google.corp.Restor",
-    "download": "https://github.com/google/restor/releases/download/1.15/restor-1.15.dmg",
-    "sha256": "5694d7e3eb61c8313997344de0e2ac53c64ec2bc5fcf621c7d832211f74846da",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.15",
     "build": null,
+    "bundle": "Restor.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/google/restor/releases/download/1.15/restor-1.15.dmg",
+    "id": "restor",
+    "identifier": "com.google.corp.Restor",
+    "sha256": "5694d7e3eb61c8313997344de0e2ac53c64ec2bc5fcf621c7d832211f74846da",
     "symlink": null,
-    "web": "https://github.com/google/restor",
-    "ci": "true"
+    "version": "1.15",
+    "web": "https://github.com/google/restor"
   }
 }

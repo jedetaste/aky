@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "reciperobot",
-    "bundle": "Recipe Robot.app",
-    "identifier": "com.elliotjordan.recipe-robot",
-    "download": "https://github.com/homebysix/recipe-robot/releases/download/v2.2.0/RecipeRobot-2.2.0.dmg",
-    "sha256": "ed1596f2923c164309545fbd40794e91924f0d02cfbb5b6e7cb3f41179eaa69b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.2.0",
     "build": null,
+    "bundle": "Recipe Robot.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/homebysix/recipe-robot/releases/download/v2.2.0/RecipeRobot-2.2.0.dmg",
+    "id": "reciperobot",
+    "identifier": "com.elliotjordan.recipe-robot",
+    "sha256": "ed1596f2923c164309545fbd40794e91924f0d02cfbb5b6e7cb3f41179eaa69b",
     "symlink": null,
-    "web": "https://github.com/homebysix/recipe-robot",
-    "ci": "true"
+    "version": "2.2.0",
+    "web": "https://github.com/homebysix/recipe-robot"
   }
 }

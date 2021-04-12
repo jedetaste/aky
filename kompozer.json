@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "kompozer",
-    "bundle": "KompoZer.app",
-    "identifier": "org.mozilla.kompozer",
-    "download": "https://sourceforge.net/projects/kompozer/files/current/0.8b3/macosx/kompozer-0.8b3.lt.mac-universal.dmg/download",
-    "sha256": "d749351bde9aea677e5f26453410a01434c3582fd763df238455ddd54dda1196",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "0.8b3",
     "build": null,
+    "bundle": "KompoZer.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://sourceforge.net/projects/kompozer/files/current/0.8b3/macosx/kompozer-0.8b3.lt.mac-universal.dmg/download",
+    "id": "kompozer",
+    "identifier": "org.mozilla.kompozer",
+    "sha256": "d749351bde9aea677e5f26453410a01434c3582fd763df238455ddd54dda1196",
     "symlink": null,
-    "web": "https://kompozer.net/",
-    "ci": "true"
+    "version": "0.8b3",
+    "web": "https://kompozer.net/"
   }
 }

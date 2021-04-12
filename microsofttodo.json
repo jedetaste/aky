@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "microsofttodo",
-    "bundle": "Microsoft To Do.app",
-    "identifier": "com.microsoft.to-do-mac",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Microsoft%20To%20Do-2.39.1.pkg",
-    "sha256": "f59310bcabca2f2126f9af386b3aaedf1a64b89d7a8fd46f039d7eca9a5b9e4f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.39.1",
     "build": null,
-    "symlink": null,
-    "dir": "/Applications",
-    "web": null,
+    "bundle": "Microsoft To Do.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Microsoft%20To%20Do-2.39.1.pkg",
+    "id": "microsofttodo",
+    "identifier": "com.microsoft.to-do-mac",
+    "internal": "true",
+    "sha256": "f59310bcabca2f2126f9af386b3aaedf1a64b89d7a8fd46f039d7eca9a5b9e4f",
+    "symlink": null,
+    "version": "2.39.1",
+    "web": null
   }
 }

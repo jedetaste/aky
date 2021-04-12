@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "iexplorer",
-    "bundle": "iExplorer.app",
-    "identifier": "com.macroplant.iExplorer",
-    "download": "https://assets.macroplant.com/download/177/iExplorer-4.4.1.dmg?1605141673",
-    "sha256": "ce061a0cb650d672f0c8c953c2765c166d3bf0e5dc928de8a9bc45d72864f5a9",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.4.1",
     "build": null,
+    "bundle": "iExplorer.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://assets.macroplant.com/download/177/iExplorer-4.4.1.dmg?1605141673",
+    "id": "iexplorer",
+    "identifier": "com.macroplant.iExplorer",
+    "sha256": "ce061a0cb650d672f0c8c953c2765c166d3bf0e5dc928de8a9bc45d72864f5a9",
     "symlink": null,
-    "web": "https://macroplant.com/iexplorer",
-    "ci": "true"
+    "version": "4.4.1",
+    "web": "https://macroplant.com/iexplorer"
   }
 }

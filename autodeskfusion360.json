@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "autodeskfusion360",
-    "bundle": "Autodesk Fusion 360.app",
-    "identifier": "com.autodesk.edu.fusion360",
-    "download": "https://dl.appstreaming.autodesk.com/production/installers/Autodesk%20Fusion%20360%20Admin%20Install.pkg",
-    "sha256": "06ba6d7a092dd424ae473ec1a963049af716431a67687ec5f2c8ab92fcd2b666",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.0.10027",
     "build": null,
+    "bundle": "Autodesk Fusion 360.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://dl.appstreaming.autodesk.com/production/installers/Autodesk%20Fusion%20360%20Admin%20Install.pkg",
+    "id": "autodeskfusion360",
+    "identifier": "com.autodesk.edu.fusion360",
+    "sha256": "06ba6d7a092dd424ae473ec1a963049af716431a67687ec5f2c8ab92fcd2b666",
     "symlink": null,
-    "web": "https://www.autodesk.com/products/fusion-360",
-    "ci": "true"
+    "version": "2.0.10027",
+    "web": "https://www.autodesk.com/products/fusion-360"
   }
 }

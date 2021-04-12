@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "intellijidea",
-    "bundle": "IntelliJ IDEA.app",
-    "identifier": "com.jetbrains.intellij",
-    "download": "https://download.jetbrains.com/idea/ideaIU-2021.1.dmg",
-    "sha256": "76e1ddef6054cbffd3bc5a2068298fdb5a14ab1fbfd8499148eb8221e47a5397",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2021.1",
     "build": null,
+    "bundle": "IntelliJ IDEA.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.jetbrains.com/idea/ideaIU-2021.1.dmg",
+    "id": "intellijidea",
+    "identifier": "com.jetbrains.intellij",
+    "sha256": "76e1ddef6054cbffd3bc5a2068298fdb5a14ab1fbfd8499148eb8221e47a5397",
     "symlink": null,
-    "web": "https://www.jetbrains.com/idea/",
-    "ci": "true"
+    "version": "2021.1",
+    "web": "https://www.jetbrains.com/idea/"
   }
 }

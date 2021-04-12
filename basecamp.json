@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "basecamp",
-    "bundle": "Basecamp 3.app",
-    "identifier": "com.basecamp.basecamp3",
-    "download": "https://bc3-desktop.s3.amazonaws.com/mac/basecamp3.dmg",
-    "sha256": "53195691914e37fc164d6c1d7e924e9728f06be8ff8f668a960ce6c77912581b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.2.4",
     "build": null,
+    "bundle": "Basecamp 3.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://bc3-desktop.s3.amazonaws.com/mac/basecamp3.dmg",
+    "id": "basecamp",
+    "identifier": "com.basecamp.basecamp3",
+    "sha256": "53195691914e37fc164d6c1d7e924e9728f06be8ff8f668a960ce6c77912581b",
     "symlink": null,
-    "web": "https://basecamp.com/help/3/guides/apps/mac",
-    "ci": "true"
+    "version": "2.2.4",
+    "web": "https://basecamp.com/help/3/guides/apps/mac"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "reflectorteacher",
-    "bundle": "Reflector Teacher.app",
-    "identifier": "com.squirrels.Reflector-Teacher",
-    "download": "https://airsquirrels-downloads.s3.amazonaws.com/ReflectorTeacher/Mac/ReflectorTeacher-3.2.1.dmg",
-    "sha256": "cf01ba1b12c9f8605f0686f805e2d872ae864deab1d217319d21f2f080e3ad0d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.0.0",
     "build": null,
+    "bundle": "Reflector Teacher.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://airsquirrels-downloads.s3.amazonaws.com/ReflectorTeacher/Mac/ReflectorTeacher-3.2.1.dmg",
+    "id": "reflectorteacher",
+    "identifier": "com.squirrels.Reflector-Teacher",
+    "sha256": "cf01ba1b12c9f8605f0686f805e2d872ae864deab1d217319d21f2f080e3ad0d",
     "symlink": null,
-    "web": "http://www.airsquirrels.com/reflector/teacher",
-    "ci": "true"
+    "version": "4.0.0",
+    "web": "http://www.airsquirrels.com/reflector/teacher"
   }
 }

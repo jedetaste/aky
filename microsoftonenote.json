@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "microsoftonenote",
-    "bundle": "Microsoft OneNote.app",
-    "identifier": "com.microsoft.onenote.mac",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.47.21031401_Updater.pkg",
-    "sha256": "c7b52ef3aec8c8826b82d92e064c868cccc5b370c708b6a3b70c2208e54dff87",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "16.47.21031401",
     "build": null,
+    "bundle": "Microsoft OneNote.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.47.21031401_Updater.pkg",
+    "id": "microsoftonenote",
+    "identifier": "com.microsoft.onenote.mac",
+    "sha256": "c7b52ef3aec8c8826b82d92e064c868cccc5b370c708b6a3b70c2208e54dff87",
     "symlink": null,
-    "web": "https://products.office.com/mac/microsoft-office-for-mac/",
-    "ci": "true"
+    "version": "16.47.21031401",
+    "web": "https://products.office.com/mac/microsoft-office-for-mac/"
   }
 }

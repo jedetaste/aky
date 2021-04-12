@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "stats",
-    "bundle": "Stats.app",
-    "identifier": "eu.exelban.Stats",
-    "download": "https://github.com/exelban/stats/releases/download/v2.5.9/Stats.dmg",
-    "sha256": "82e8304f0dbe81eee7599d4c9123c8a8ea14b2eaae62c57872ddae2ec4aabad5",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.5.9",
     "build": null,
+    "bundle": "Stats.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/exelban/stats/releases/download/v2.5.9/Stats.dmg",
+    "id": "stats",
+    "identifier": "eu.exelban.Stats",
+    "sha256": "82e8304f0dbe81eee7599d4c9123c8a8ea14b2eaae62c57872ddae2ec4aabad5",
     "symlink": null,
-    "web": "https://github.com/exelban/stats",
-    "ci": "true"
+    "version": "2.5.9",
+    "web": "https://github.com/exelban/stats"
   }
 }

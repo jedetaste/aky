@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "sequelpro",
-    "bundle": "Sequel Pro.app",
-    "identifier": "com.sequelpro.SequelPro",
-    "download": "https://github.com/sequelpro/sequelpro/releases/download/release-1.1.2/sequel-pro-1.1.2.dmg",
-    "sha256": "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.1.2",
     "build": null,
+    "bundle": "Sequel Pro.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/sequelpro/sequelpro/releases/download/release-1.1.2/sequel-pro-1.1.2.dmg",
+    "id": "sequelpro",
+    "identifier": "com.sequelpro.SequelPro",
+    "sha256": "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
     "symlink": null,
-    "web": "https://www.sequelpro.com/",
-    "ci": "true"
+    "version": "1.1.2",
+    "web": "https://www.sequelpro.com/"
   }
 }

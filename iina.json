@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "iina",
-    "bundle": "IINA.app",
-    "identifier": "com.colliderli.iina",
-    "download": "https://github.com/iina/iina/releases/download/v1.2.0/IINA.v1.2.0.dmg",
-    "sha256": "91b87e80055f097a1cb7a8c91979deb5303315f2067552cbe7387f48bfc42736",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.2.0",
     "build": null,
+    "bundle": "IINA.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/iina/iina/releases/download/v1.2.0/IINA.v1.2.0.dmg",
+    "id": "iina",
+    "identifier": "com.colliderli.iina",
+    "sha256": "91b87e80055f097a1cb7a8c91979deb5303315f2067552cbe7387f48bfc42736",
     "symlink": null,
-    "web": "https://iina.io/",
-    "ci": "true"
+    "version": "1.2.0",
+    "web": "https://iina.io/"
   }
 }

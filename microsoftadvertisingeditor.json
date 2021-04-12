@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "microsoftadvertisingeditor",
-    "bundle": "Microsoft Advertising Editor.app",
-    "identifier": "Microsoft.AdvertisingDesktop.BingAdsEditor",
-    "download": "https://msbingadseditor.blob.core.windows.net/production-mac/c/MicrosoftAdvertisingEditor.dmg",
-    "sha256": "051986d5d95319b5b28e0f558380309406adbe3341f7e2530f82ee71a0b19cea",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "11.29.10692.45441",
     "build": null,
+    "bundle": "Microsoft Advertising Editor.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://msbingadseditor.blob.core.windows.net/production-mac/c/MicrosoftAdvertisingEditor.dmg",
+    "id": "microsoftadvertisingeditor",
+    "identifier": "Microsoft.AdvertisingDesktop.BingAdsEditor",
+    "sha256": "051986d5d95319b5b28e0f558380309406adbe3341f7e2530f82ee71a0b19cea",
     "symlink": null,
-    "web": "https://about.ads.microsoft.com/en-us/solutions/tools/editor",
-    "ci": "true"
+    "version": "11.29.10692.45441",
+    "web": "https://about.ads.microsoft.com/en-us/solutions/tools/editor"
   }
 }

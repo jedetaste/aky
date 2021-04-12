@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "textmate",
-    "bundle": "TextMate.app",
-    "identifier": "com.macromates.TextMate",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/TextMate2-2.0.19.pkg",
-    "sha256": "fd8e7cafbb49418530b39e904fe1dc673c8ac7f43d7062349baf3d77ed6732d3",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.0.19",
     "build": null,
-    "dir": "/Applications",
-    "symlink": null,
-    "web": "https://macromates.com/",
+    "bundle": "TextMate.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/TextMate2-2.0.19.pkg",
+    "id": "textmate",
+    "identifier": "com.macromates.TextMate",
+    "internal": "true",
+    "sha256": "fd8e7cafbb49418530b39e904fe1dc673c8ac7f43d7062349baf3d77ed6732d3",
+    "symlink": null,
+    "version": "2.0.19",
+    "web": "https://macromates.com/"
   }
 }

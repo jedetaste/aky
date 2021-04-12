@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "taskexplorer",
-    "bundle": "TaskExplorer.app",
-    "identifier": "com.objective-see.TaskExplorer",
-    "download": "https://bitbucket.org/objective-see/deploy/downloads/TaskExplorer_2.0.2.zip",
-    "sha256": "6a7085474f60648cf73bf02fdaba7985deb27b4501a2b1806097196b50ccd9ef",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.0.2",
     "build": null,
+    "bundle": "TaskExplorer.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://bitbucket.org/objective-see/deploy/downloads/TaskExplorer_2.0.2.zip",
+    "id": "taskexplorer",
+    "identifier": "com.objective-see.TaskExplorer",
+    "sha256": "6a7085474f60648cf73bf02fdaba7985deb27b4501a2b1806097196b50ccd9ef",
     "symlink": null,
-    "web": "https://objective-see.com/products/taskexplorer.html",
-    "ci": "true"
+    "version": "2.0.2",
+    "web": "https://objective-see.com/products/taskexplorer.html"
   }
 }

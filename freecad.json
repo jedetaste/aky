@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "freecad",
-    "bundle": "FreeCAD.app",
-    "identifier": null,
-    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.19.1/FreeCAD_0.19-24276-macOS-x86_64-conda.dmg",
-    "sha256": null,
     "appcast": {
-      "url": "https://github.com/FreeCAD/FreeCAD/releases.atom",
-      "checkpoint": "77353b5d593276ae302540f868436bb6c811ae5f2955600d6b6cfc1f855792a8"
+      "checkpoint": "77353b5d593276ae302540f868436bb6c811ae5f2955600d6b6cfc1f855792a8",
+      "url": "https://github.com/FreeCAD/FreeCAD/releases.atom"
     },
-    "version": null,
     "build": "0.19-24276",
+    "bundle": "FreeCAD.app",
     "dir": "/Applications",
+    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.19.1/FreeCAD_0.19-24276-macOS-x86_64-conda.dmg",
+    "id": "freecad",
+    "identifier": null,
+    "sha256": null,
     "symlink": null,
+    "version": null,
     "web": "https://www.freecadweb.org/"
   }
 }

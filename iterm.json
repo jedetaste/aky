@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "iterm",
-    "bundle": "iTerm.app",
-    "identifier": "com.googlecode.iterm2",
-    "download": "https://iterm2.com/downloads/stable/iTerm2-3_4_4.zip",
-    "sha256": "cdf6dce864e53f60445f012cf6e4fb8113ed0ae28532921a0dec835565eb4b13",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.4.4",
     "build": null,
+    "bundle": "iTerm.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://iterm2.com/downloads/stable/iTerm2-3_4_4.zip",
+    "id": "iterm",
+    "identifier": "com.googlecode.iterm2",
+    "sha256": "cdf6dce864e53f60445f012cf6e4fb8113ed0ae28532921a0dec835565eb4b13",
     "symlink": null,
-    "web": "https://www.iterm2.com/",
-    "ci": "true"
+    "version": "3.4.4",
+    "web": "https://www.iterm2.com/"
   }
 }

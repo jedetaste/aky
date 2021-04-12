@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "qvrclient",
-    "bundle": "QVR Client.app",
-    "identifier": "com.qnap.qvrclient",
-    "download": "https://download.qnap.com/Storage/Utility/QVRMacClient-2.2.1-170221.dmg",
-    "sha256": "21b8693deec818befc08541700f18606debebe0fe4e36cb57ccde25458602e1b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.2.170221",
     "build": null,
+    "bundle": "QVR Client.app",
     "dir": "/Applications",
+    "download": "https://download.qnap.com/Storage/Utility/QVRMacClient-2.2.1-170221.dmg",
+    "id": "qvrclient",
+    "identifier": "com.qnap.qvrclient",
+    "sha256": "21b8693deec818befc08541700f18606debebe0fe4e36cb57ccde25458602e1b",
     "symlink": null,
+    "version": "2.2.170221",
     "web": "https://www.qnap.com/en/utilities/surveillance"
   }
 }

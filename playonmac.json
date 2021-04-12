@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "playonmac",
-    "bundle": "PlayOnMac.app",
-    "identifier": "org.playonmac.playonmac",
-    "download": "https://repository.playonmac.com/PlayOnMac/PlayOnMac_4.4.2.dmg",
-    "sha256": "8f458bcf14ed7431acfec1dc79d0e917bf450da89c78a13b5a6f3deeddbe4a8b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.4.2",
     "build": null,
-    "symlink": null,
+    "bundle": "PlayOnMac.app",
+    "ci": "true",
     "dir": "/Applications",
-    "web": "https://www.playonmac.com/",
-    "ci": "true"
+    "download": "https://repository.playonmac.com/PlayOnMac/PlayOnMac_4.4.2.dmg",
+    "id": "playonmac",
+    "identifier": "org.playonmac.playonmac",
+    "sha256": "8f458bcf14ed7431acfec1dc79d0e917bf450da89c78a13b5a6f3deeddbe4a8b",
+    "symlink": null,
+    "version": "4.4.2",
+    "web": "https://www.playonmac.com/"
   }
 }

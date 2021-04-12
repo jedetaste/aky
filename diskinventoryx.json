@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "diskinventoryx",
-    "bundle": "Disk Inventory X.app",
-    "identifier": "com.derlien.DiskInventoryX",
-    "download": "http://www.derlien.com/download.php?file=DiskInventoryX",
-    "sha256": "78af3506435adaa53d8cc2ce601cac2e13b56e708358eb3bde2c3aa322bad8e5",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.3",
     "build": null,
+    "bundle": "Disk Inventory X.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://www.derlien.com/download.php?file=DiskInventoryX",
+    "id": "diskinventoryx",
+    "identifier": "com.derlien.DiskInventoryX",
+    "sha256": "78af3506435adaa53d8cc2ce601cac2e13b56e708358eb3bde2c3aa322bad8e5",
     "symlink": null,
-    "web": "http://www.derlien.com/",
-    "ci": "true"
+    "version": "1.3",
+    "web": "http://www.derlien.com/"
   }
 }

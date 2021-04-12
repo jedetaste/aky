@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "googlechat",
-    "bundle": "Chat.app",
-    "identifier": "com.google.chat",
-    "download": "https://dl.google.com/chat/latest/InstallHangoutsChat.dmg",
-    "sha256": "75821a29aebae89b92acc583129515a21788e7fdf6e62c7aa2b0cfcfeb748446",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "20.11.241",
     "build": null,
+    "bundle": "Chat.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://dl.google.com/chat/latest/InstallHangoutsChat.dmg",
+    "id": "googlechat",
+    "identifier": "com.google.chat",
+    "sha256": "75821a29aebae89b92acc583129515a21788e7fdf6e62c7aa2b0cfcfeb748446",
     "symlink": null,
-    "web": "https://gsuite.google.com/products/chat/",
-    "ci": "true"
+    "version": "20.11.241",
+    "web": "https://gsuite.google.com/products/chat/"
   }
 }

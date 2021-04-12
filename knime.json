@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "knime",
-    "bundle": "KNIME.app",
-    "identifier": "org.knime.product",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/KNIME-4.3.2.pkg",
-    "sha256": "35df15c6aa7fd56af9da054b0dc82984fcc0ec68c6ddfca58ba2c6336e610e2b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.3.2",
     "build": null,
-    "symlink": null,
-    "dir": "/Applications",
-    "web": "https://www.knime.com/",
+    "bundle": "KNIME.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/KNIME-4.3.2.pkg",
+    "id": "knime",
+    "identifier": "org.knime.product",
+    "internal": "true",
+    "sha256": "35df15c6aa7fd56af9da054b0dc82984fcc0ec68c6ddfca58ba2c6336e610e2b",
+    "symlink": null,
+    "version": "4.3.2",
+    "web": "https://www.knime.com/"
   }
 }

@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "maxima",
-    "bundle": "Maxima.app",
-    "identifier": null,
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Maxima-5.41.0.pkg",
-    "sha256": "71ce02c3e349942a707f358b9726af6a1e033b31c929fcefd89bfc3f1a7d3c39",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.41.0",
     "build": null,
-    "dir": "/Applications",
-    "symlink": null,
-    "web": "http://maxima.sourceforge.net/",
+    "bundle": "Maxima.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Maxima-5.41.0.pkg",
+    "id": "maxima",
+    "identifier": null,
+    "internal": "true",
+    "sha256": "71ce02c3e349942a707f358b9726af6a1e033b31c929fcefd89bfc3f1a7d3c39",
+    "symlink": null,
+    "version": "5.41.0",
+    "web": "http://maxima.sourceforge.net/"
   }
 }

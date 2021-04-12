@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "lehreroffice",
-    "bundle": "LehrerOffice.app",
-    "identifier": "ch.rothsoft.lehreroffice.desktop",
-    "download": "https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_macos.dmg",
-    "sha256": "d097e366c353ca7c4b81e99cac52400b4ba69c8b475f6dc29d52c298a50e8b01",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2021.2.0",
     "build": null,
+    "bundle": "LehrerOffice.app",
+    "ci": "true",
     "dir": "/Applications/LehrerOffice",
+    "download": "https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_macos.dmg",
+    "id": "lehreroffice",
+    "identifier": "ch.rothsoft.lehreroffice.desktop",
+    "sha256": "d097e366c353ca7c4b81e99cac52400b4ba69c8b475f6dc29d52c298a50e8b01",
     "symlink": null,
-    "web": "https://cmi-bildung.ch/",
-    "ci": "true"
+    "version": "2021.2.0",
+    "web": "https://cmi-bildung.ch/"
   }
 }

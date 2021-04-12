@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "viscosity",
-    "bundle": "Viscosity.app",
-    "identifier": "com.viscosityvpn.Viscosity",
-    "download": "https://www.sparklabs.com/downloads/Viscosity.dmg",
-    "sha256": "7f076785e462b9d53235ae7f0eaf3a03b5a3a3e6403fe784566d7bc3c1a9851a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.9.2",
     "build": null,
+    "bundle": "Viscosity.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.sparklabs.com/downloads/Viscosity.dmg",
+    "id": "viscosity",
+    "identifier": "com.viscosityvpn.Viscosity",
+    "sha256": "7f076785e462b9d53235ae7f0eaf3a03b5a3a3e6403fe784566d7bc3c1a9851a",
     "symlink": null,
-    "web": "https://www.sparklabs.com/viscosity/",
-    "ci": "true"
+    "version": "1.9.2",
+    "web": "https://www.sparklabs.com/viscosity/"
   }
 }

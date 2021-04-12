@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "draw",
-    "bundle": "draw.io.app",
-    "identifier": "com.jgraph.drawio.desktop",
-    "download": "https://github.com/jgraph/drawio-desktop/releases/download/v14.5.1/draw.io-14.5.1.dmg",
-    "sha256": "15b3e8f62473e69d7faad205e46135c08e8e444120f7596c522bf92f0df02199",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "14.5.1",
     "build": null,
+    "bundle": "draw.io.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/jgraph/drawio-desktop/releases/download/v14.5.1/draw.io-14.5.1.dmg",
+    "id": "draw",
+    "identifier": "com.jgraph.drawio.desktop",
+    "sha256": "15b3e8f62473e69d7faad205e46135c08e8e444120f7596c522bf92f0df02199",
     "symlink": null,
-    "web": "https://www.draw.io/",
-    "ci": "true"
+    "version": "14.5.1",
+    "web": "https://www.draw.io/"
   }
 }

@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "filezilla",
-    "bundle": "FileZilla.app",
-    "identifier": "org.filezilla-project.filezilla",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/FileZilla-3.53.1.pkg",
-    "sha256": "beec6a4f71996337af73adf5be7badcc2fcb5dd1f4861c07deea650f05cfc6be",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.53.1",
     "build": null,
-    "dir": "/Applications",
-    "symlink": null,
-    "web": "https://filezilla-project.org/",
+    "bundle": "FileZilla.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/FileZilla-3.53.1.pkg",
+    "id": "filezilla",
+    "identifier": "org.filezilla-project.filezilla",
+    "internal": "true",
+    "sha256": "beec6a4f71996337af73adf5be7badcc2fcb5dd1f4861c07deea650f05cfc6be",
+    "symlink": null,
+    "version": "3.53.1",
+    "web": "https://filezilla-project.org/"
   }
 }

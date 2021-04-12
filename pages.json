@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "pages",
-    "bundle": "Pages.app",
-    "identifier": "com.apple.iWork.Pages",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Pages-10.3.9.pkg",
-    "sha256": "e5c4b25b668a2e849ec976bb2f3da55af31c16fc7cf670ba97afc6e3d2ce1b62",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "10.3.9",
     "build": null,
-    "symlink": null,
-    "dir": "/Applications",
-    "web": null,
+    "bundle": "Pages.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Pages-10.3.9.pkg",
+    "id": "pages",
+    "identifier": "com.apple.iWork.Pages",
+    "internal": "true",
+    "sha256": "e5c4b25b668a2e849ec976bb2f3da55af31c16fc7cf670ba97afc6e3d2ce1b62",
+    "symlink": null,
+    "version": "10.3.9",
+    "web": null
   }
 }

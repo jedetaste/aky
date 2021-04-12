@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "lehrerofficedbadmin",
-    "bundle": "LehrerOffice-DBAdmin.app",
-    "identifier": "ch.rothsoft.sqlserver.cubesql.dbadmin",
-    "download": "https://cmi-bildung.ch/lo/dateien/db/lo_dbadmin_macos.dmg",
-    "sha256": "b433ce7ab4053c91bdb78f1539d1dde5795ceaf5966834a34d1ad393428f9b1c",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2021.1.0",
     "build": null,
+    "bundle": "LehrerOffice-DBAdmin.app",
+    "ci": "true",
     "dir": "/Applications/LehrerOffice",
+    "download": "https://cmi-bildung.ch/lo/dateien/db/lo_dbadmin_macos.dmg",
+    "id": "lehrerofficedbadmin",
+    "identifier": "ch.rothsoft.sqlserver.cubesql.dbadmin",
+    "sha256": "b433ce7ab4053c91bdb78f1539d1dde5795ceaf5966834a34d1ad393428f9b1c",
     "symlink": null,
-    "web": "https://cmi-bildung.ch/",
-    "ci": "true"
+    "version": "2021.1.0",
+    "web": "https://cmi-bildung.ch/"
   }
 }

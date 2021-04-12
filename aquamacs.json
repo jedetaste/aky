@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "aquamacs",
-    "bundle": "Aquamacs.app",
-    "identifier": "org.gnu.Aquamacs",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Aquamacs-3.5.pkg",
-    "sha256": "27cbabdd4bfde7dd9a174665699ff1800f027b63ba46bd5fc94d32c6b0a40412",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.5",
     "build": null,
-    "symlink": null,
-    "dir": "/Applications",
-    "web": null,
+    "bundle": "Aquamacs.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Aquamacs-3.5.pkg",
+    "id": "aquamacs",
+    "identifier": "org.gnu.Aquamacs",
+    "internal": "true",
+    "sha256": "27cbabdd4bfde7dd9a174665699ff1800f027b63ba46bd5fc94d32c6b0a40412",
+    "symlink": null,
+    "version": "3.5",
+    "web": null
   }
 }

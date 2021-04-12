@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "busycal",
-    "bundle": "BusyCal.app",
-    "identifier": "com.busymac.busycal3",
-    "download": "https://www.busymac.com/download/BusyCal.zip",
-    "sha256": "0e23efc5e0b869a1df801fcabe3c7074a4d51e72e4b65da63ae569c0cac5f435",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.12.5",
     "build": null,
-    "symlink": null,
+    "bundle": "BusyCal.app",
+    "ci": "true",
     "dir": "/Applications",
-    "web": "https://busymac.com/busycal/index.html",
-    "ci": "true"
+    "download": "https://www.busymac.com/download/BusyCal.zip",
+    "id": "busycal",
+    "identifier": "com.busymac.busycal3",
+    "sha256": "0e23efc5e0b869a1df801fcabe3c7074a4d51e72e4b65da63ae569c0cac5f435",
+    "symlink": null,
+    "version": "3.12.5",
+    "web": "https://busymac.com/busycal/index.html"
   }
 }

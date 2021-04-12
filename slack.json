@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "slack",
-    "bundle": "Slack.app",
-    "identifier": "com.tinyspeck.slackmacgap",
-    "download": "https://slack.com/ssb/download-osx",
-    "sha256": "46f76a89f1350cd686ab364fc197890934d9b34a1ffc295b63d96c15b3d5f24e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.14.0",
     "build": null,
+    "bundle": "Slack.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://slack.com/ssb/download-osx",
+    "id": "slack",
+    "identifier": "com.tinyspeck.slackmacgap",
+    "sha256": "46f76a89f1350cd686ab364fc197890934d9b34a1ffc295b63d96c15b3d5f24e",
     "symlink": null,
-    "web": "https://slack.com/",
-    "ci": "true"
+    "version": "4.14.0",
+    "web": "https://slack.com/"
   }
 }

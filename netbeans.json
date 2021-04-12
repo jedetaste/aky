@@ -1,21 +1,21 @@
 {
   "recipe": {
-    "id": "netbeans",
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "build": null,
     "bundle": [
       "Apache NetBeans 12.3.app",
       "Apache NetBeans.app"
     ],
-    "identifier": "org.netbeans.ide.nbide.12.2",
-    "download": "https://downloads.apache.org/netbeans/netbeans/12.3/Apache-NetBeans-12.3-bin-macosx.dmg",
-    "sha256": "a34c046619b69e5b13a2618d12336b97bcb404424880fe5d0c4c10ed100da6ba",
-    "appcast": {
-      "url": null,
-      "checkpoint": null
-    },
-    "version": "12.3",
-    "build": null,
     "dir": "/Applications/NetBeans",
+    "download": "https://downloads.apache.org/netbeans/netbeans/12.3/Apache-NetBeans-12.3-bin-macosx.dmg",
+    "id": "netbeans",
+    "identifier": "org.netbeans.ide.nbide.12.2",
+    "sha256": "a34c046619b69e5b13a2618d12336b97bcb404424880fe5d0c4c10ed100da6ba",
     "symlink": null,
+    "version": "12.3",
     "web": "https://netbeans.apache.org/download/index.html"
   }
 }

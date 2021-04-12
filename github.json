@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "github",
-    "bundle": "GitHub Desktop.app",
-    "identifier": "com.github.GitHubClient",
-    "download": "https://central.github.com/deployments/desktop/desktop/latest/darwin",
-    "sha256": "c88d668ac4678f3dae75da62b063e37d8f3f8768668468991d1a95988b6bde6f",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.7.2",
     "build": null,
+    "bundle": "GitHub Desktop.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://central.github.com/deployments/desktop/desktop/latest/darwin",
+    "id": "github",
+    "identifier": "com.github.GitHubClient",
+    "sha256": "c88d668ac4678f3dae75da62b063e37d8f3f8768668468991d1a95988b6bde6f",
     "symlink": null,
-    "web": "https://desktop.github.com/",
-    "ci": "true"
+    "version": "2.7.2",
+    "web": "https://desktop.github.com/"
   }
 }

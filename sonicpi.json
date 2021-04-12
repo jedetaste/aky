@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "sonicpi",
-    "bundle": "Sonic Pi.app",
-    "identifier": "net.sonic-pi.Sonic Pi",
-    "download": "https://sonic-pi.net/files/releases/v3.3.1/Sonic-Pi-for-Mac-x64-v3-3-1.dmg",
-    "sha256": "0bfd12f930311e8ef1c7306dc9c012cfcc1f8e50710fd26a8c18ba003573a506",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.3.1",
     "build": null,
+    "bundle": "Sonic Pi.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://sonic-pi.net/files/releases/v3.3.1/Sonic-Pi-for-Mac-x64-v3-3-1.dmg",
+    "id": "sonicpi",
+    "identifier": "net.sonic-pi.Sonic Pi",
+    "sha256": "0bfd12f930311e8ef1c7306dc9c012cfcc1f8e50710fd26a8c18ba003573a506",
     "symlink": null,
-    "web": "https://sonic-pi.net/",
-    "ci": "true"
+    "version": "3.3.1",
+    "web": "https://sonic-pi.net/"
   }
 }

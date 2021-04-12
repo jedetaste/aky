@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "eclipsejava",
-    "bundle": "Eclipse.app",
-    "identifier": "org.eclipse.platform.ide",
-    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2021-03/R/eclipse-java-2021-03-R-macosx-cocoa-x86_64.dmg",
-    "sha256": "834dc1173718adaddc8129369711ade0ffa1b03af8423786f8ded18b0ddcc856",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.19.0",
     "build": null,
+    "bundle": "Eclipse.app",
+    "ci": "true",
     "dir": "/Applications/Eclipse Java",
+    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2021-03/R/eclipse-java-2021-03-R-macosx-cocoa-x86_64.dmg",
+    "id": "eclipsejava",
+    "identifier": "org.eclipse.platform.ide",
+    "sha256": "834dc1173718adaddc8129369711ade0ffa1b03af8423786f8ded18b0ddcc856",
     "symlink": null,
-    "web": "https://eclipse.org/",
-    "ci": "true"
+    "version": "4.19.0",
+    "web": "https://eclipse.org/"
   }
 }

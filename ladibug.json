@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "ladibug",
-    "bundle": "Ladibug.app",
-    "identifier": "tw.com.lumens.Ladibug",
-    "download": "https://www.mylumens.com/Download/Ladibug-MAC-3.5-Setup-3.5.2.zip",
-    "sha256": null,
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.5.2",
     "build": null,
+    "bundle": "Ladibug.app",
     "dir": "/Applications",
+    "download": "https://www.mylumens.com/Download/Ladibug-MAC-3.5-Setup-3.5.2.zip",
+    "id": "ladibug",
+    "identifier": "tw.com.lumens.Ladibug",
+    "sha256": null,
     "symlink": null,
+    "version": "3.5.2",
     "web": "https://www.lumens.com.tw/en/Download2/26/Ladibug"
   }
 }

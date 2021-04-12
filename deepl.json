@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "deepl",
-    "bundle": "DeepL.app",
-    "identifier": "com.linguee.DeepLCopyTranslator",
-    "download": "https://www.deepl.com/macos/download/DeepL.dmg",
-    "sha256": "1245f36e11b894bd30ab1dc86ae777c08d509133e373a7edf3c9bae0249172b1",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.2.31854",
     "build": null,
+    "bundle": "DeepL.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.deepl.com/macos/download/DeepL.dmg",
+    "id": "deepl",
+    "identifier": "com.linguee.DeepLCopyTranslator",
+    "sha256": "1245f36e11b894bd30ab1dc86ae777c08d509133e373a7edf3c9bae0249172b1",
     "symlink": null,
-    "web": "https://www.deepl.com/",
-    "ci": "true"
+    "version": "2.2.31854",
+    "web": "https://www.deepl.com/"
   }
 }

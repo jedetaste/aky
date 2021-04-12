@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "ganttproject",
-    "bundle": "GanttProject.app",
-    "identifier": "net.sourceforge.ganttproject",
-    "download": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.0.3000/ganttproject-3.0.3000.dmg",
-    "sha256": "be30dc8ded552109f16c4f4388a440f7a09aa3151632832cb30c62efb5d875de",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.0.3000",
     "build": null,
+    "bundle": "GanttProject.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.0.3000/ganttproject-3.0.3000.dmg",
+    "id": "ganttproject",
+    "identifier": "net.sourceforge.ganttproject",
+    "sha256": "be30dc8ded552109f16c4f4388a440f7a09aa3151632832cb30c62efb5d875de",
     "symlink": null,
-    "web": "https://www.ganttproject.biz/",
-    "ci": "true"
+    "version": "3.0.3000",
+    "web": "https://www.ganttproject.biz/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "chocolat",
-    "bundle": "Chocolat.app",
-    "identifier": "com.chocolatapp.Chocolat",
-    "download": "https://chocolatapp.com/versions/Chocolat_3.4.zip",
-    "sha256": "43f1f96350c10aa2918719a2238c1e4ec20dd2cfa7a4930f6e7d74f92207c4fe",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.4",
     "build": null,
+    "bundle": "Chocolat.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://chocolatapp.com/versions/Chocolat_3.4.zip",
+    "id": "chocolat",
+    "identifier": "com.chocolatapp.Chocolat",
+    "sha256": "43f1f96350c10aa2918719a2238c1e4ec20dd2cfa7a4930f6e7d74f92207c4fe",
     "symlink": null,
-    "web": "https://chocolatapp.com/",
-    "ci": "true"
+    "version": "3.4",
+    "web": "https://chocolatapp.com/"
   }
 }

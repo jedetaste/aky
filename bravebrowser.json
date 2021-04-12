@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "bravebrowser",
-    "bundle": "Brave Browser.app",
-    "identifier": "com.brave.Browser",
-    "download": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/122.71/Brave-Browser-x64.dmg",
-    "sha256": "81dd908101302727a78739fba3f4b732d809223d9ffe67cdd0e241805c14c6d2",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "89.1.22.71",
     "build": null,
+    "bundle": "Brave Browser.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/122.71/Brave-Browser-x64.dmg",
+    "id": "bravebrowser",
+    "identifier": "com.brave.Browser",
+    "sha256": "81dd908101302727a78739fba3f4b732d809223d9ffe67cdd0e241805c14c6d2",
     "symlink": null,
-    "web": "https://brave.com/",
-    "ci": "true"
+    "version": "89.1.22.71",
+    "web": "https://brave.com/"
   }
 }

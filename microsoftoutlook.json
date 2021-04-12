@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "microsoftoutlook",
-    "bundle": "Microsoft Outlook.app",
-    "identifier": "com.microsoft.Outlook",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.47.21031401_Updater.pkg",
-    "sha256": "5ce8807c5b09eab3ed8e70a235f244cf2fed587a51b634a1e888eb1d990c3601",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "16.47.21031401",
     "build": null,
+    "bundle": "Microsoft Outlook.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.47.21031401_Updater.pkg",
+    "id": "microsoftoutlook",
+    "identifier": "com.microsoft.Outlook",
+    "sha256": "5ce8807c5b09eab3ed8e70a235f244cf2fed587a51b634a1e888eb1d990c3601",
     "symlink": null,
-    "web": "https://products.office.com/mac/microsoft-office-for-mac/",
-    "ci": "true"
+    "version": "16.47.21031401",
+    "web": "https://products.office.com/mac/microsoft-office-for-mac/"
   }
 }

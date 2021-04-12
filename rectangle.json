@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "rectangle",
-    "bundle": "Rectangle.app",
-    "identifier": "com.knollsoft.Rectangle",
-    "download": "https://github.com/rxhanson/Rectangle/releases/download/v0.45/Rectangle0.45.dmg",
-    "sha256": "6964ef19d1991526cd8b90fd12758b24dd8fb6f547c271378191cc5b80cfcb2b",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "0.45",
     "build": null,
+    "bundle": "Rectangle.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/rxhanson/Rectangle/releases/download/v0.45/Rectangle0.45.dmg",
+    "id": "rectangle",
+    "identifier": "com.knollsoft.Rectangle",
+    "sha256": "6964ef19d1991526cd8b90fd12758b24dd8fb6f547c271378191cc5b80cfcb2b",
     "symlink": null,
-    "web": "https://rectangleapp.com/",
-    "ci": "true"
+    "version": "0.45",
+    "web": "https://rectangleapp.com/"
   }
 }

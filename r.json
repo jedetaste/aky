@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "r",
-    "bundle": "R.app",
-    "identifier": "org.R-project.R",
-    "download": "https://cloud.r-project.org/bin/macosx/R-4.0.5.pkg",
-    "sha256": "0143dd1b17dd5d8bccb9e13d361f69c2dd69e1c8289e3fb0271daef1615c57bd",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "R 4.0.5 GUI 1.74 Catalina build",
     "build": null,
+    "bundle": "R.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://cloud.r-project.org/bin/macosx/R-4.0.5.pkg",
+    "id": "r",
+    "identifier": "org.R-project.R",
+    "sha256": "0143dd1b17dd5d8bccb9e13d361f69c2dd69e1c8289e3fb0271daef1615c57bd",
     "symlink": null,
-    "web": "https://www.r-project.org/",
-    "ci": "true"
+    "version": "R 4.0.5 GUI 1.74 Catalina build",
+    "web": "https://www.r-project.org/"
   }
 }

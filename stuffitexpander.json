@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "stuffitexpander",
-    "bundle": "StuffIt Expander.app",
-    "identifier": "com.stuffit.StuffIt-Expander",
-    "download": "https://www.stuffit.com/downloads/deluxe_installer_en_6330.dmg",
-    "sha256": "46ec36eb543bba62b9331ca5eaacd3f6c8f99d854eccefab820cb9b811107752",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "16.0.5",
     "build": "6330",
+    "bundle": "StuffIt Expander.app",
     "dir": "/Applications",
+    "download": "https://www.stuffit.com/downloads/deluxe_installer_en_6330.dmg",
+    "id": "stuffitexpander",
+    "identifier": "com.stuffit.StuffIt-Expander",
+    "sha256": "46ec36eb543bba62b9331ca5eaacd3f6c8f99d854eccefab820cb9b811107752",
     "symlink": null,
+    "version": "16.0.5",
     "web": "http://my.smithmicro.com/stuffit-expander-mac.html"
   }
 }

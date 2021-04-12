@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "appzapper",
-    "bundle": "AppZapper.app",
-    "identifier": "com.appzapper.appzapper2",
-    "download": "http://www.appzapper.com/downloads/AppZapper2.0.1.zip",
-    "sha256": "b7d0bdd05cf246a2f2ab18145b052824860cb74a6ae665fba9d403f6bb79fac4",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.0.1",
     "build": null,
+    "bundle": "AppZapper.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://www.appzapper.com/downloads/AppZapper2.0.1.zip",
+    "id": "appzapper",
+    "identifier": "com.appzapper.appzapper2",
+    "sha256": "b7d0bdd05cf246a2f2ab18145b052824860cb74a6ae665fba9d403f6bb79fac4",
     "symlink": null,
-    "web": "https://www.appzapper.com/",
-    "ci": "true"
+    "version": "2.0.1",
+    "web": "https://www.appzapper.com/"
   }
 }

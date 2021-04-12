@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "smaller",
-    "bundle": "Smaller.app",
-    "identifier": "com.smallerapp.Smaller",
-    "download": "http://25.io/smaller/download/Smaller.zip",
-    "sha256": "3d15fe4e216e24c02138da0a598d1c81ed80904cfa662b876acaa9cdefa57901",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.4",
     "build": null,
+    "bundle": "Smaller.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "http://25.io/smaller/download/Smaller.zip",
+    "id": "smaller",
+    "identifier": "com.smallerapp.Smaller",
+    "sha256": "3d15fe4e216e24c02138da0a598d1c81ed80904cfa662b876acaa9cdefa57901",
     "symlink": null,
-    "web": "http://25.io/smaller/",
-    "ci": "true"
+    "version": "1.4",
+    "web": "http://25.io/smaller/"
   }
 }

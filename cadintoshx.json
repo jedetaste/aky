@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "cadintoshx",
-    "bundle": "CADintosh X.app",
-    "identifier": "com.lemkesoft.cadintosh",
-    "download": "https://www.lemkesoft.info/files/cadintosh/cad8_build500.zip",
-    "sha256": "e5e74519a45fc3d0cc276f6322b5edbf3791a702575dcb8dfc5e9ebf24b14d13",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "8.6.2",
     "build": null,
+    "bundle": "CADintosh X.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.lemkesoft.info/files/cadintosh/cad8_build500.zip",
+    "id": "cadintoshx",
+    "identifier": "com.lemkesoft.cadintosh",
+    "sha256": "e5e74519a45fc3d0cc276f6322b5edbf3791a702575dcb8dfc5e9ebf24b14d13",
     "symlink": null,
-    "web": "https://www.lemkesoft.de/products/cadintosh/",
-    "ci": "true"
+    "version": "8.6.2",
+    "web": "https://www.lemkesoft.de/products/cadintosh/"
   }
 }

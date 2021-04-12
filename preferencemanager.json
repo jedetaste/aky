@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "preferencemanager",
-    "bundle": "Preference Manager.app",
-    "identifier": "com.digitalrebellion.PreferenceManager",
-    "download": "https://www.digitalrebellion.com/download/prefman?version=4500",
-    "sha256": "385ed1185763b7b46c05275e11494cd68fa62076b757fbc65865fd2cd2a0aa0e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.5",
     "build": null,
+    "bundle": "Preference Manager.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.digitalrebellion.com/download/prefman?version=4500",
+    "id": "preferencemanager",
+    "identifier": "com.digitalrebellion.PreferenceManager",
+    "sha256": "385ed1185763b7b46c05275e11494cd68fa62076b757fbc65865fd2cd2a0aa0e",
     "symlink": null,
-    "web": "https://www.digitalrebellion.com/prefman/",
-    "ci": "true"
+    "version": "4.5",
+    "web": "https://www.digitalrebellion.com/prefman/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "onyx",
-    "bundle": "OnyX.app",
-    "identifier": "com.titanium.OnyX",
-    "download": "https://www.titanium-software.fr/download/1015/OnyX.dmg",
-    "sha256": "0dd8119ad3441c5130ca584ac90ad450c272aab8b577925561a2536da48d2d54",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.8.7",
     "build": null,
+    "bundle": "OnyX.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.titanium-software.fr/download/1015/OnyX.dmg",
+    "id": "onyx",
+    "identifier": "com.titanium.OnyX",
+    "sha256": "0dd8119ad3441c5130ca584ac90ad450c272aab8b577925561a2536da48d2d54",
     "symlink": null,
-    "web": "https://www.titanium-software.fr/en/onyx.html",
-    "ci": "true"
+    "version": "3.8.7",
+    "web": "https://www.titanium-software.fr/en/onyx.html"
   }
 }

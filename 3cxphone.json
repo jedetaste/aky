@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "3cxphone",
-    "bundle": "3CXPhone.app",
-    "identifier": "3cxphone14",
-    "download": "https://downloads.3cx.com/downloads/3CXPhoneforMac16.dmg",
-    "sha256": "06d65331e2441f0b03d0b8e96f1aa9571efc527afae4d726f098ca5a6c81a75c",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "16.0.1",
     "build": null,
+    "bundle": "3CXPhone.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.3cx.com/downloads/3CXPhoneforMac16.dmg",
+    "id": "3cxphone",
+    "identifier": "3cxphone14",
+    "sha256": "06d65331e2441f0b03d0b8e96f1aa9571efc527afae4d726f098ca5a6c81a75c",
     "symlink": null,
-    "web": "https://www.3cx.com/",
-    "ci": "true"
+    "version": "16.0.1",
+    "web": "https://www.3cx.com/"
   }
 }

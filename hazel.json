@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "hazel",
-    "bundle": "Hazel.app",
-    "identifier": "com.noodlesoft.Hazel",
-    "download": "https://www.noodlesoft.com/Products/Hazel/download",
-    "sha256": "c5b6bdec84eb8111a402d323419f52e64a7bf72f6c1e8e95bd22d38da0728779",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.0.6",
     "build": null,
+    "bundle": "Hazel.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.noodlesoft.com/Products/Hazel/download",
+    "id": "hazel",
+    "identifier": "com.noodlesoft.Hazel",
+    "sha256": "c5b6bdec84eb8111a402d323419f52e64a7bf72f6c1e8e95bd22d38da0728779",
     "symlink": null,
-    "web": "https://www.noodlesoft.com/",
-    "ci": "true"
+    "version": "5.0.6",
+    "web": "https://www.noodlesoft.com/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "paw",
-    "bundle": "Paw.app",
-    "identifier": "com.luckymarmot.Paw",
-    "download": "https://luckymarmot.com/paw/download",
-    "sha256": "2cae45407bf251840f10920cb76acb6127a0d4eebe642f7087aae47b0d56d9ec",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.2.2",
     "build": null,
+    "bundle": "Paw.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://luckymarmot.com/paw/download",
+    "id": "paw",
+    "identifier": "com.luckymarmot.Paw",
+    "sha256": "2cae45407bf251840f10920cb76acb6127a0d4eebe642f7087aae47b0d56d9ec",
     "symlink": null,
-    "web": "https://paw.cloud/",
-    "ci": "true"
+    "version": "3.2.2",
+    "web": "https://paw.cloud/"
   }
 }

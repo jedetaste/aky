@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "reenroller",
-    "bundle": "ReEnroller.app",
-    "identifier": "com.jamf.pse.ReEnroller",
-    "download": "https://github.com/jamf/ReEnroller/releases/download/current/ReEnroller.zip",
-    "sha256": "f0136a4e7d3af568aa3085bd1fb9b660dd1e71bdaab80720a52bb3d318fe46d6",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.5.2",
     "build": null,
+    "bundle": "ReEnroller.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/jamf/ReEnroller/releases/download/current/ReEnroller.zip",
+    "id": "reenroller",
+    "identifier": "com.jamf.pse.ReEnroller",
+    "sha256": "f0136a4e7d3af568aa3085bd1fb9b660dd1e71bdaab80720a52bb3d318fe46d6",
     "symlink": null,
-    "web": "https://github.com/jamf/ReEnroller",
-    "ci": "true"
+    "version": "5.5.2",
+    "web": "https://github.com/jamf/ReEnroller"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "i1studio",
-    "bundle": "i1Studio.app",
-    "identifier": "com.x-rite.i1Studio",
-    "download": "http://downloads.xrite.com/Downloads/Software/i1Studio/v1.5.1/mac/i1Studio.zip",
-    "sha256": "80d2b19d75d909de39522783b193c4d382ff581a7a1d63d242cc271f6a49af78",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.5.1",
     "build": null,
+    "bundle": "i1Studio.app",
+    "ci": "true",
     "dir": "/Applications/i1Studio",
+    "download": "http://downloads.xrite.com/Downloads/Software/i1Studio/v1.5.1/mac/i1Studio.zip",
+    "id": "i1studio",
+    "identifier": "com.x-rite.i1Studio",
+    "sha256": "80d2b19d75d909de39522783b193c4d382ff581a7a1d63d242cc271f6a49af78",
     "symlink": null,
-    "web": "https://www.xrite.com/service-support/product-support/calibration-solutions/i1studio",
-    "ci": "true"
+    "version": "1.5.1",
+    "web": "https://www.xrite.com/service-support/product-support/calibration-solutions/i1studio"
   }
 }

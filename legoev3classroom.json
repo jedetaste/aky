@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "legoev3classroom",
-    "bundle": "EV3 Classroom.app",
-    "identifier": "com.lego.ev3",
-    "download": "https://le-www-live-s.legocdn.com/downloads/LME-Scratch/LME-Scratch_Full-setup_1.1.1_en-US_MacOS.dmg",
-    "sha256": "3df3347be4912af6457afc1731328daecc8161a38ef09231b26cdcd9aa59c5ab",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.1.1",
     "build": "1.1.1.9481",
+    "bundle": "EV3 Classroom.app",
     "dir": "/Applications",
+    "download": "https://le-www-live-s.legocdn.com/downloads/LME-Scratch/LME-Scratch_Full-setup_1.1.1_en-US_MacOS.dmg",
+    "id": "legoev3classroom",
+    "identifier": "com.lego.ev3",
+    "sha256": "3df3347be4912af6457afc1731328daecc8161a38ef09231b26cdcd9aa59c5ab",
     "symlink": null,
+    "version": "1.1.1",
     "web": "https://education.lego.com/en-us/downloads/mindstorms-ev3/software#eLearning"
   }
 }

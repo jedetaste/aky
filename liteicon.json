@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "liteicon",
-    "bundle": "LiteIcon.app",
-    "identifier": "net.freemacsoft.LiteIcon",
-    "download": "https://freemacsoft.net/downloads/LiteIcon_4.1.zip",
-    "sha256": "545cff53df31b63fe28e794fb7f45e4c891885f5de57422b1483724f6d7ed4e0",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.1",
     "build": null,
+    "bundle": "LiteIcon.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://freemacsoft.net/downloads/LiteIcon_4.1.zip",
+    "id": "liteicon",
+    "identifier": "net.freemacsoft.LiteIcon",
+    "sha256": "545cff53df31b63fe28e794fb7f45e4c891885f5de57422b1483724f6d7ed4e0",
     "symlink": null,
-    "web": "https://freemacsoft.net/liteicon/",
-    "ci": "true"
+    "version": "4.1",
+    "web": "https://freemacsoft.net/liteicon/"
   }
 }

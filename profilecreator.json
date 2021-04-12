@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "profilecreator",
-    "bundle": "ProfileCreator.app",
-    "identifier": "com.github.erikberglund.ProfileCreator",
-    "download": "https://github.com/ProfileCreator/ProfileCreator/releases/download/v0.3.2/ProfileCreator_v0.3.2-201907171032-beta.dmg",
-    "sha256": "a4a1b45bfaa6bc83aac7ef532981aaa0c807cd17fbfb1f157980144e5d309aea",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "0.3.2",
     "build": null,
+    "bundle": "ProfileCreator.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/ProfileCreator/ProfileCreator/releases/download/v0.3.2/ProfileCreator_v0.3.2-201907171032-beta.dmg",
+    "id": "profilecreator",
+    "identifier": "com.github.erikberglund.ProfileCreator",
+    "sha256": "a4a1b45bfaa6bc83aac7ef532981aaa0c807cd17fbfb1f157980144e5d309aea",
     "symlink": null,
-    "web": "https://github.com/erikberglund/ProfileCreator",
-    "ci": "true"
+    "version": "0.3.2",
+    "web": "https://github.com/erikberglund/ProfileCreator"
   }
 }

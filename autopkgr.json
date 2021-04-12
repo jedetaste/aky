@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "autopkgr",
-    "bundle": "AutoPkgr.app",
-    "identifier": "com.lindegroup.AutoPkgr",
-    "download": "https://github.com/lindegroup/autopkgr/releases/download/v1.5.7/AutoPkgr-1.5.7.dmg",
-    "sha256": "01cbe230c0e4301a8b6fa93d812c69a294e88fc253323a44935eefc61b9f4160",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.5.7",
     "build": null,
+    "bundle": "AutoPkgr.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/lindegroup/autopkgr/releases/download/v1.5.7/AutoPkgr-1.5.7.dmg",
+    "id": "autopkgr",
+    "identifier": "com.lindegroup.AutoPkgr",
+    "sha256": "01cbe230c0e4301a8b6fa93d812c69a294e88fc253323a44935eefc61b9f4160",
     "symlink": null,
-    "web": "https://www.lindegroup.com/autopkgr",
-    "ci": "true"
+    "version": "1.5.7",
+    "web": "https://www.lindegroup.com/autopkgr"
   }
 }

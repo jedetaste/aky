@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "pdfpenpro",
-    "bundle": "PDFpenPro.app",
-    "identifier": "com.smileonmymac.PDFpenPro",
-    "download": "https://dl.smilesoftware.com/com.smileonmymac.PDFpenPro/1220.9/1601949963/PDFpenPro-1220.9.zip",
-    "sha256": "ecabbe5bc4d8b152adc967c7d9c45d0db17554674231a0b3e16d9318cfd2877e",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "12.2",
     "build": null,
+    "bundle": "PDFpenPro.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://dl.smilesoftware.com/com.smileonmymac.PDFpenPro/1220.9/1601949963/PDFpenPro-1220.9.zip",
+    "id": "pdfpenpro",
+    "identifier": "com.smileonmymac.PDFpenPro",
+    "sha256": "ecabbe5bc4d8b152adc967c7d9c45d0db17554674231a0b3e16d9318cfd2877e",
     "symlink": null,
-    "web": "https://smilesoftware.com/PDFpenPro",
-    "ci": "true"
+    "version": "12.2",
+    "web": "https://smilesoftware.com/PDFpenPro"
   }
 }

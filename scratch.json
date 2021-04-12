@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "scratch",
-    "bundle": "Scratch 3.app",
-    "identifier": "edu.mit.scratch.scratch-desktop",
-    "download": "https://downloads.scratch.mit.edu/desktop/Scratch.dmg",
-    "sha256": "6b5fc41416ceb6669071c15b0c068688fdcb36fbe7b8638814c25c8081f9090a",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.21.0",
     "build": null,
+    "bundle": "Scratch 3.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://downloads.scratch.mit.edu/desktop/Scratch.dmg",
+    "id": "scratch",
+    "identifier": "edu.mit.scratch.scratch-desktop",
+    "sha256": "6b5fc41416ceb6669071c15b0c068688fdcb36fbe7b8638814c25c8081f9090a",
     "symlink": null,
-    "web": "https://scratch.mit.edu/download",
-    "ci": "true"
+    "version": "3.21.0",
+    "web": "https://scratch.mit.edu/download"
   }
 }

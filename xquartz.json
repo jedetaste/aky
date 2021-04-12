@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "xquartz",
-    "bundle": "XQuartz.app",
-    "identifier": "org.macosforge.xquartz.X11",
-    "download": "https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.0/XQuartz-2.8.0.dmg",
-    "sha256": "b74d1d2ff98452d73fb68172c586489e2a6ad3c512e41fd1b0b666ec3dbf5b28",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.8.0",
     "build": null,
+    "bundle": "XQuartz.app",
+    "ci": "true",
     "dir": "/Applications/Utilities",
+    "download": "https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.0/XQuartz-2.8.0.dmg",
+    "id": "xquartz",
+    "identifier": "org.macosforge.xquartz.X11",
+    "sha256": "b74d1d2ff98452d73fb68172c586489e2a6ad3c512e41fd1b0b666ec3dbf5b28",
     "symlink": null,
-    "web": "https://www.xquartz.org/",
-    "ci": "true"
+    "version": "2.8.0",
+    "web": "https://www.xquartz.org/"
   }
 }

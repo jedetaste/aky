@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "code42",
-    "bundle": "Code42.app",
-    "identifier": "com.backup42.desktop",
-    "download": "https://backup.anykey.ch:4285/client/installers/Code42_8.2.1_1525200006821_77_Mac.dmg",
-    "sha256": "89af29fd387aef977ca1da175105d0861c2a39742dc87dd648ea330548570ae4",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "8.2.1",
     "build": null,
+    "bundle": "Code42.app",
     "dir": "/Applications",
+    "download": "https://backup.anykey.ch:4285/client/installers/Code42_8.2.1_1525200006821_77_Mac.dmg",
+    "id": "code42",
+    "identifier": "com.backup42.desktop",
+    "sha256": "89af29fd387aef977ca1da175105d0861c2a39742dc87dd648ea330548570ae4",
     "symlink": null,
+    "version": "8.2.1",
     "web": "https://anykey.ch/cloudbackup/"
   }
 }

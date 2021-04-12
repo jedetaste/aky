@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "adobedigitaleditions",
-    "bundle": "Adobe Digital Editions 4.5.app",
-    "identifier": "com.adobe.adobedigitaleditions.app",
-    "download": "https://adedownload.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.dmg",
-    "sha256": "",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.5.11",
     "build": null,
+    "bundle": "Adobe Digital Editions 4.5.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://adedownload.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.dmg",
+    "id": "adobedigitaleditions",
+    "identifier": "com.adobe.adobedigitaleditions.app",
+    "sha256": "",
     "symlink": null,
-    "web": "https://www.adobe.com/solutions/ebook/digital-editions.html",
-    "ci": "true"
+    "version": "4.5.11",
+    "web": "https://www.adobe.com/solutions/ebook/digital-editions.html"
   }
 }

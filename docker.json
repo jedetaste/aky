@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "docker",
-    "bundle": "Docker.app",
-    "identifier": "com.docker.docker",
-    "download": "https://desktop.docker.com/mac/stable/amd64/62916/Docker.dmg",
-    "sha256": "d533aa7d4a4a00d49bb78f4488535e577d7674292538c59769daa61e9bff1109",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.3.0",
     "build": null,
+    "bundle": "Docker.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://desktop.docker.com/mac/stable/amd64/62916/Docker.dmg",
+    "id": "docker",
+    "identifier": "com.docker.docker",
+    "sha256": "d533aa7d4a4a00d49bb78f4488535e577d7674292538c59769daa61e9bff1109",
     "symlink": null,
-    "web": "https://www.docker.com/community-edition",
-    "ci": "true"
+    "version": "3.3.0",
+    "web": "https://www.docker.com/community-edition"
   }
 }

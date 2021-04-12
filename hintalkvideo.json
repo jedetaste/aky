@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "hintalkvideo",
-    "bundle": "HIN Talk Video.app",
-    "identifier": "ch.hin.talk.video",
-    "download": "https://download.hin.ch/files/HIN-Talk-Video/hintalkvideo-2.1.1a.dmg",
-    "sha256": "94e7ba858896050baf0ad92347f536de9cda415eb57d72d4d55c055bf8322e53",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.1.1",
     "build": null,
+    "bundle": "HIN Talk Video.app",
     "dir": "/Applications",
+    "download": "https://download.hin.ch/files/HIN-Talk-Video/hintalkvideo-2.1.1a.dmg",
+    "id": "hintalkvideo",
+    "identifier": "ch.hin.talk.video",
+    "sha256": "94e7ba858896050baf0ad92347f536de9cda415eb57d72d4d55c055bf8322e53",
     "symlink": null,
+    "version": "2.1.1",
     "web": null
   }
 }

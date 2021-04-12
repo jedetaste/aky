@@ -1,23 +1,23 @@
 {
   "recipe": {
-    "id": "weka",
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "build": null,
     "bundle": [
       "weka-3-8-4-azul-zulu.app",
       "weka.app"
     ],
-    "identifier": "nz.ac.waikato.cms.Weka",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/weka-3-8-5-azul-zulu-3.8.5.pkg",
-    "sha256": "3da7b295a86a9e3eea3c52c75f76a47b12d079aa27892b48a187ea424fa9fba5",
-    "appcast": {
-      "url": null,
-      "checkpoint": null
-    },
-    "version": "3.8.5",
-    "build": null,
-    "dir": "/Applications",
-    "symlink": null,
-    "web": "https://www.cs.waikato.ac.nz/ml/weka/",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/weka-3-8-5-azul-zulu-3.8.5.pkg",
+    "id": "weka",
+    "identifier": "nz.ac.waikato.cms.Weka",
+    "internal": "true",
+    "sha256": "3da7b295a86a9e3eea3c52c75f76a47b12d079aa27892b48a187ea424fa9fba5",
+    "symlink": null,
+    "version": "3.8.5",
+    "web": "https://www.cs.waikato.ac.nz/ml/weka/"
   }
 }

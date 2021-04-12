@@ -1,20 +1,20 @@
 {
   "recipe": {
-    "id": "citrixworkspace",
-    "bundle": "Citrix Workspace.app",
-    "identifier": "com.citrix.receiver.nomas",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Citrix%20Workspace-21.04.0.pkg",
-    "sha256": "e26a7dfdfcc15121332cee9b9855a8d081085a5260710e58cef4af66b438d4bf",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "21.04.0",
     "build": null,
-    "dir": "/Applications",
-    "symlink": null,
-    "web": "https://www.citrix.com/products/workspace-app/",
+    "bundle": "Citrix Workspace.app",
     "ci": "true",
-    "internal": "true"
+    "dir": "/Applications",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Citrix%20Workspace-21.04.0.pkg",
+    "id": "citrixworkspace",
+    "identifier": "com.citrix.receiver.nomas",
+    "internal": "true",
+    "sha256": "e26a7dfdfcc15121332cee9b9855a8d081085a5260710e58cef4af66b438d4bf",
+    "symlink": null,
+    "version": "21.04.0",
+    "web": "https://www.citrix.com/products/workspace-app/"
   }
 }

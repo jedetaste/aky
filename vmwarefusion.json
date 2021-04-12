@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "vmwarefusion",
-    "bundle": "VMware Fusion.app",
-    "identifier": "com.vmware.fusion",
-    "download": "https://download3.vmware.com/software/fusion/file/VMware-Fusion-12.1.1-17801503.dmg",
-    "sha256": "fbc94a432c00fb9e05dd648cc80dd58cfb052c3aa53f44dc996be02e25a7c270",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "12.1.1",
     "build": null,
+    "bundle": "VMware Fusion.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download3.vmware.com/software/fusion/file/VMware-Fusion-12.1.1-17801503.dmg",
+    "id": "vmwarefusion",
+    "identifier": "com.vmware.fusion",
+    "sha256": "fbc94a432c00fb9e05dd648cc80dd58cfb052c3aa53f44dc996be02e25a7c270",
     "symlink": null,
-    "web": "https://www.vmware.com/products/fusion.html",
-    "ci": "true"
+    "version": "12.1.1",
+    "web": "https://www.vmware.com/products/fusion.html"
   }
 }

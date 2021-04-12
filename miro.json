@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "miro",
-    "bundle": "Miro.app",
-    "identifier": "com.electron.realtimeboard",
-    "download": "https://desktop.miro.com/platforms/darwin/Miro.dmg",
-    "sha256": "d4f0d1ed8695376cdea62c7c7945eed6bc20ecceff8af8b4eec04c756c0704ea",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "0.5.2",
     "build": null,
-    "symlink": null,
+    "bundle": "Miro.app",
+    "ci": "true",
     "dir": "/Applications",
-    "web": "https://miro.com/",
-    "ci": "true"
+    "download": "https://desktop.miro.com/platforms/darwin/Miro.dmg",
+    "id": "miro",
+    "identifier": "com.electron.realtimeboard",
+    "sha256": "d4f0d1ed8695376cdea62c7c7945eed6bc20ecceff8af8b4eec04c756c0704ea",
+    "symlink": null,
+    "version": "0.5.2",
+    "web": "https://miro.com/"
   }
 }

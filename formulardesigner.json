@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "formulardesigner",
-    "bundle": "Formular-Designer.app",
-    "identifier": "ch.rothsoft.lehreroffice.formulardesigner",
-    "download": "https://cmi-bildung.ch/lo/dateien/designer/lo_designer_macos.dmg",
-    "sha256": "3330fd0eea0f67d93d4ca7c3856e2ddb1d286f5bd649ca6eba76e34dff690d47",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2020.2.0",
     "build": null,
+    "bundle": "Formular-Designer.app",
+    "ci": "true",
     "dir": "/Applications/LehrerOffice",
+    "download": "https://cmi-bildung.ch/lo/dateien/designer/lo_designer_macos.dmg",
+    "id": "formulardesigner",
+    "identifier": "ch.rothsoft.lehreroffice.formulardesigner",
+    "sha256": "3330fd0eea0f67d93d4ca7c3856e2ddb1d286f5bd649ca6eba76e34dff690d47",
     "symlink": null,
-    "web": "https://www.lehreroffice.ch/",
-    "ci": "true"
+    "version": "2020.2.0",
+    "web": "https://www.lehreroffice.ch/"
   }
 }

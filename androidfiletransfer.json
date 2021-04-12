@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "androidfiletransfer",
-    "bundle": "Android File Transfer.app",
-    "identifier": "com.google.android.mtpviewer",
-    "download": "https://dl.google.com/dl/androidjumper/mtp/current/androidfiletransfer.dmg",
-    "sha256": "b9249399a351e8146358ff1ddb546c68a63134b780be795ae64e0a4c2258bc61",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.0.12",
     "build": null,
+    "bundle": "Android File Transfer.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://dl.google.com/dl/androidjumper/mtp/current/androidfiletransfer.dmg",
+    "id": "androidfiletransfer",
+    "identifier": "com.google.android.mtpviewer",
+    "sha256": "b9249399a351e8146358ff1ddb546c68a63134b780be795ae64e0a4c2258bc61",
     "symlink": null,
-    "web": "https://www.android.com/filetransfer/",
-    "ci": "true"
+    "version": "1.0.12",
+    "web": "https://www.android.com/filetransfer/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "susinspector",
-    "bundle": "SUS Inspector.app",
-    "identifier": "com.hjuutilainen.SUS-Inspector",
-    "download": "https://github.com/hjuutilainen/sus-inspector/releases/download/v2.0b1/SUS-Inspector-2.0b1.dmg",
-    "sha256": "344d43ba3e77320f9a9d5a5b9383d5c28ada63565f0c375b4dda5f2495d92b97",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.0b1",
     "build": null,
+    "bundle": "SUS Inspector.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/hjuutilainen/sus-inspector/releases/download/v2.0b1/SUS-Inspector-2.0b1.dmg",
+    "id": "susinspector",
+    "identifier": "com.hjuutilainen.SUS-Inspector",
+    "sha256": "344d43ba3e77320f9a9d5a5b9383d5c28ada63565f0c375b4dda5f2495d92b97",
     "symlink": null,
-    "web": "https://github.com/hjuutilainen/sus-inspector",
-    "ci": "true"
+    "version": "2.0b1",
+    "web": "https://github.com/hjuutilainen/sus-inspector"
   }
 }

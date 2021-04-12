@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "anydesk",
-    "bundle": "AnyDesk.app",
-    "identifier": "com.philandro.anydesk",
-    "download": "https://download.anydesk.com/anydesk.dmg",
-    "sha256": "f5a3657d5cdc9c0b7b30bc2b4075a304a53038276e904769d09fbdfddeb03e5d",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "6.1.2",
     "build": null,
+    "bundle": "AnyDesk.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://download.anydesk.com/anydesk.dmg",
+    "id": "anydesk",
+    "identifier": "com.philandro.anydesk",
+    "sha256": "f5a3657d5cdc9c0b7b30bc2b4075a304a53038276e904769d09fbdfddeb03e5d",
     "symlink": null,
-    "web": "https://anydesk.com/remote-desktop",
-    "ci": "true"
+    "version": "6.1.2",
+    "web": "https://anydesk.com/remote-desktop"
   }
 }

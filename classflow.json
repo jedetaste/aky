@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "classflow",
-    "bundle": "ClassFlowDesktop.app",
-    "identifier": "ClassFlowDesktop",
-    "download": "https://classflow-dist.s3-accelerate.amazonaws.com/Native/Release/Mac/ClassFlowDesktop-Mac-4.4.0.dmg",
-    "sha256": "6edac70c035fd89e3d65c26c3d8ab10d31cded40fa28fe8e4ac5852fb9bf8465",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.4.0",
     "build": null,
+    "bundle": "ClassFlowDesktop.app",
     "dir": "/Applications",
+    "download": "https://classflow-dist.s3-accelerate.amazonaws.com/Native/Release/Mac/ClassFlowDesktop-Mac-4.4.0.dmg",
+    "id": "classflow",
+    "identifier": "ClassFlowDesktop",
+    "sha256": "6edac70c035fd89e3d65c26c3d8ab10d31cded40fa28fe8e4ac5852fb9bf8465",
     "symlink": null,
+    "version": "4.4.0",
     "web": "https://classflow.com/"
   }
 }

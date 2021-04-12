@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "coconutbattery",
-    "bundle": "coconutBattery.app",
-    "identifier": "com.coconut-flavour.coconutBattery",
-    "download": "https://www.coconut-flavour.com/downloads/coconutBattery_395_f4c29259.zip",
-    "sha256": "acffc4a021e57dec347c718439fb89a43a502ea316c801777649c82d457ecd00",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "3.9.5",
     "build": null,
+    "bundle": "coconutBattery.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.coconut-flavour.com/downloads/coconutBattery_395_f4c29259.zip",
+    "id": "coconutbattery",
+    "identifier": "com.coconut-flavour.coconutBattery",
+    "sha256": "acffc4a021e57dec347c718439fb89a43a502ea316c801777649c82d457ecd00",
     "symlink": null,
-    "web": "https://www.coconut-flavour.com/coconutbattery/",
-    "ci": "true"
+    "version": "3.9.5",
+    "web": "https://www.coconut-flavour.com/coconutbattery/"
   }
 }

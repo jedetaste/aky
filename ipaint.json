@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "ipaint",
-    "bundle": "iPaint.app",
-    "identifier": "com.mac-fun.ipaint",
-    "download": "https://downloads.sourceforge.net/ipaint/ipaint/iPaint%201.0%202/iPaint1v2.zip",
-    "sha256": "7f891e08ed506cd41a69d6d11f142c73779e333130f6bbfe4d3a41fd04e1c805",
     "appcast": {
-      "url": "https://sourceforge.net/projects/ipaint/rss",
-      "checkpoint": "b0fa0cd85b45efa4c6c90adac65022fc387f363e37f2cab1077c06ec7a4dfcdd"
+      "checkpoint": "b0fa0cd85b45efa4c6c90adac65022fc387f363e37f2cab1077c06ec7a4dfcdd",
+      "url": "https://sourceforge.net/projects/ipaint/rss"
     },
-    "version": null,
     "build": "2",
+    "bundle": "iPaint.app",
     "dir": "/Applications",
+    "download": "https://downloads.sourceforge.net/ipaint/ipaint/iPaint%201.0%202/iPaint1v2.zip",
+    "id": "ipaint",
+    "identifier": "com.mac-fun.ipaint",
+    "sha256": "7f891e08ed506cd41a69d6d11f142c73779e333130f6bbfe4d3a41fd04e1c805",
     "symlink": null,
+    "version": null,
     "web": "http://ipaint.sourceforge.net/"
   }
 }

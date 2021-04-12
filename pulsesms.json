@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "pulsesms",
-    "bundle": "Pulse SMS.app",
-    "identifier": "xyz.klinker.messenger",
-    "download": "https://github.com/maplemedia/pulse-sms-desktop/releases/download/v4.3.0/pulse-sms-4.3.0.dmg",
-    "sha256": "c0932e82740398b35a90b52219062e07f9979cbf5ddfe2c77e6092008f834cd2",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "4.3.0",
     "build": null,
-    "symlink": null,
+    "bundle": "Pulse SMS.app",
+    "ci": "true",
     "dir": "/Applications",
-    "web": "https://messenger.klinkerapps.com/overview/platform-mac.html",
-    "ci": "true"
+    "download": "https://github.com/maplemedia/pulse-sms-desktop/releases/download/v4.3.0/pulse-sms-4.3.0.dmg",
+    "id": "pulsesms",
+    "identifier": "xyz.klinker.messenger",
+    "sha256": "c0932e82740398b35a90b52219062e07f9979cbf5ddfe2c77e6092008f834cd2",
+    "symlink": null,
+    "version": "4.3.0",
+    "web": "https://messenger.klinkerapps.com/overview/platform-mac.html"
   }
 }

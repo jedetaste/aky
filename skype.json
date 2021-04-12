@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "skype",
-    "bundle": "Skype.app",
-    "identifier": "com.skype.skype",
-    "download": "https://go.skype.com/mac.download",
-    "sha256": "e60662b2f7fd5f872506fcf5601d62ef7514f933cfb52924e3c122fe6ad21093",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "8.69",
     "build": null,
+    "bundle": "Skype.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://go.skype.com/mac.download",
+    "id": "skype",
+    "identifier": "com.skype.skype",
+    "sha256": "e60662b2f7fd5f872506fcf5601d62ef7514f933cfb52924e3c122fe6ad21093",
     "symlink": null,
-    "web": "https://www.skype.com/",
-    "ci": "true"
+    "version": "8.69",
+    "web": "https://www.skype.com/"
   }
 }

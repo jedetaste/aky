@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "knockknock",
-    "bundle": "KnockKnock.app",
-    "identifier": "com.objective-see.KnockKnock",
-    "download": "https://bitbucket.org/objective-see/deploy/downloads/KnockKnock_2.1.1.zip",
-    "sha256": "c3293e6f6524b557246a9c5e06a1fb2eb3f49be2297fe671d0fa8fca7aa142fa",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "2.1.1",
     "build": null,
+    "bundle": "KnockKnock.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://bitbucket.org/objective-see/deploy/downloads/KnockKnock_2.1.1.zip",
+    "id": "knockknock",
+    "identifier": "com.objective-see.KnockKnock",
+    "sha256": "c3293e6f6524b557246a9c5e06a1fb2eb3f49be2297fe671d0fa8fca7aa142fa",
     "symlink": null,
-    "web": "https://objective-see.com/products/knockknock.html",
-    "ci": "true"
+    "version": "2.1.1",
+    "web": "https://objective-see.com/products/knockknock.html"
   }
 }

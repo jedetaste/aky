@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "macusergenerator",
-    "bundle": "MacUserGenerator.app",
-    "identifier": "com.ninxsoft.MacUserGenerator",
-    "download": "https://github.com/ninxsoft/MacUserGenerator/releases/download/v0.3/MacUserGenerator-0.3.dmg",
-    "sha256": "ff1a66ccc10fcab3ba5cdcfd2beabd9ba12a016ff7844877d3247534a98e63a0",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "0.3",
     "build": null,
+    "bundle": "MacUserGenerator.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://github.com/ninxsoft/MacUserGenerator/releases/download/v0.3/MacUserGenerator-0.3.dmg",
+    "id": "macusergenerator",
+    "identifier": "com.ninxsoft.MacUserGenerator",
+    "sha256": "ff1a66ccc10fcab3ba5cdcfd2beabd9ba12a016ff7844877d3247534a98e63a0",
     "symlink": null,
-    "web": "https://github.com/ninxsoft/MacUserGenerator",
-    "ci": "true"
+    "version": "0.3",
+    "web": "https://github.com/ninxsoft/MacUserGenerator"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "rhino7",
-    "bundle": "Rhino 7.app",
-    "identifier": "com.mcneel.rhinoceros.7",
-    "download": "https://files.mcneel.com/rhino/7/mac/releases/rhino_7.4.21078.01002.dmg",
-    "sha256": "486ed119dabae7343ae072bfb67d2b107dc8103cd19944c9a31db48ef24230b8",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "7.4.21078.01002",
     "build": null,
-    "symlink": null,
+    "bundle": "Rhino 7.app",
+    "ci": "true",
     "dir": "/Applications",
-    "web": "https://www.rhino3d.com/",
-    "ci": "true"
+    "download": "https://files.mcneel.com/rhino/7/mac/releases/rhino_7.4.21078.01002.dmg",
+    "id": "rhino7",
+    "identifier": "com.mcneel.rhinoceros.7",
+    "sha256": "486ed119dabae7343ae072bfb67d2b107dc8103cd19944c9a31db48ef24230b8",
+    "symlink": null,
+    "version": "7.4.21078.01002",
+    "web": "https://www.rhino3d.com/"
   }
 }

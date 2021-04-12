@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "microsoftword",
-    "bundle": "Microsoft Word.app",
-    "identifier": "com.microsoft.Word",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.47.21031401_Updater.pkg",
-    "sha256": "b18aebaf255646224fe7777042adfabcc7b3de61ea417ffeb682ec09af768bc9",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "16.47.21031401",
     "build": null,
+    "bundle": "Microsoft Word.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.47.21031401_Updater.pkg",
+    "id": "microsoftword",
+    "identifier": "com.microsoft.Word",
+    "sha256": "b18aebaf255646224fe7777042adfabcc7b3de61ea417ffeb682ec09af768bc9",
     "symlink": null,
-    "web": "https://products.office.com/mac/microsoft-office-for-mac/",
-    "ci": "true"
+    "version": "16.47.21031401",
+    "web": "https://products.office.com/mac/microsoft-office-for-mac/"
   }
 }

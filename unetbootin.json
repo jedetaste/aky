@@ -1,18 +1,18 @@
 {
   "recipe": {
-    "id": "unetbootin",
-    "bundle": "unetbootin.app",
-    "identifier": "com.yourcompany.unetbootin",
-    "download": "https://github.com/unetbootin/unetbootin/releases/download/702/unetbootin-mac-702.dmg",
-    "sha256": "204f867e9b2604a5ba8818b7d7f4be83d08fa0c3eb0c22e51c39fc5526bd1aed",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": null,
     "build": null,
+    "bundle": "unetbootin.app",
     "dir": "/Applications",
+    "download": "https://github.com/unetbootin/unetbootin/releases/download/702/unetbootin-mac-702.dmg",
+    "id": "unetbootin",
+    "identifier": "com.yourcompany.unetbootin",
+    "sha256": "204f867e9b2604a5ba8818b7d7f4be83d08fa0c3eb0c22e51c39fc5526bd1aed",
     "symlink": null,
+    "version": null,
     "web": "https://unetbootin.github.io/"
   }
 }

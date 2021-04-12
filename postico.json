@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "postico",
-    "bundle": "Postico.app",
-    "identifier": "at.eggerapps.Postico",
-    "download": "https://eggerapps.at/postico/download/",
-    "sha256": "a83e95f0b6ec6086b84ec7c97c159aaca8d2449e9fa59f5d1ee982cfd27e0143",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.5.14",
     "build": null,
+    "bundle": "Postico.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://eggerapps.at/postico/download/",
+    "id": "postico",
+    "identifier": "at.eggerapps.Postico",
+    "sha256": "a83e95f0b6ec6086b84ec7c97c159aaca8d2449e9fa59f5d1ee982cfd27e0143",
     "symlink": null,
-    "web": "https://eggerapps.at/postico/",
-    "ci": "true"
+    "version": "1.5.14",
+    "web": "https://eggerapps.at/postico/"
   }
 }

@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "automounter",
-    "bundle": "AutoMounter.app",
-    "identifier": "nz.co.pixeleyes.AutoMounter",
-    "download": "https://www.pixeleyes.co.nz/automounter/AutoMounter.dmg",
-    "sha256": "455a0e4054268ad33db160a34fd122e449e483067e04c8bbbd910caab7ab43c2",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.7.1",
     "build": null,
+    "bundle": "AutoMounter.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://www.pixeleyes.co.nz/automounter/AutoMounter.dmg",
+    "id": "automounter",
+    "identifier": "nz.co.pixeleyes.AutoMounter",
+    "sha256": "455a0e4054268ad33db160a34fd122e449e483067e04c8bbbd910caab7ab43c2",
     "symlink": null,
-    "web": "https://www.pixeleyes.co.nz/automounter/",
-    "ci": "true"
+    "version": "1.7.1",
+    "web": "https://www.pixeleyes.co.nz/automounter/"
   }
 }

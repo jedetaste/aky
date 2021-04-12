@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "firefoxesr-en",
-    "bundle": "Firefox.app",
-    "identifier": "org.mozilla.firefox",
-    "download": "https://releases.mozilla.org/pub/firefox/releases/78.9.0esr/mac/en-US/Firefox%2078.9.0esr.pkg",
-    "sha256": "4a7baf4d54cbf7deefd4f1e1d0904abcbc1f22be535aa0d57c9c1723e0663427",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "78.9.0",
     "build": null,
+    "bundle": "Firefox.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://releases.mozilla.org/pub/firefox/releases/78.9.0esr/mac/en-US/Firefox%2078.9.0esr.pkg",
+    "id": "firefoxesr-en",
+    "identifier": "org.mozilla.firefox",
+    "sha256": "4a7baf4d54cbf7deefd4f1e1d0904abcbc1f22be535aa0d57c9c1723e0663427",
     "symlink": null,
-    "web": "https://www.mozilla.org/firefox/organizations/",
-    "ci": "true"
+    "version": "78.9.0",
+    "web": "https://www.mozilla.org/firefox/organizations/"
   }
 }

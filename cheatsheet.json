@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "cheatsheet",
-    "bundle": "CheatSheet.app",
-    "identifier": "com.mediaatelier.CheatSheet",
-    "download": "https://mediaatelier.com/CheatSheet/CheatSheet_1.6.zip",
-    "sha256": "64986f698f44d6644378c771379ed14eea6f4be00e7e4e75152f9d779f2190f4",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.6",
     "build": null,
+    "bundle": "CheatSheet.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://mediaatelier.com/CheatSheet/CheatSheet_1.6.zip",
+    "id": "cheatsheet",
+    "identifier": "com.mediaatelier.CheatSheet",
+    "sha256": "64986f698f44d6644378c771379ed14eea6f4be00e7e4e75152f9d779f2190f4",
     "symlink": null,
-    "web": "https://www.cheatsheetapp.com/CheatSheet/",
-    "ci": "true"
+    "version": "1.6",
+    "web": "https://www.cheatsheetapp.com/CheatSheet/"
   }
 }

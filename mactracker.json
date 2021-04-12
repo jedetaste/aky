@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "mactracker",
-    "bundle": "Mactracker.app",
-    "identifier": "com.mactrackerapp.Mactracker",
-    "download": "https://mactracker.ca/downloads/Mactracker_7.10.4.zip",
-    "sha256": "00e4d8dcbddede3df5bfc3f69ed38af3616bcc664c3bd4d8270611dddf708773",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "7.10.4",
     "build": null,
+    "bundle": "Mactracker.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://mactracker.ca/downloads/Mactracker_7.10.4.zip",
+    "id": "mactracker",
+    "identifier": "com.mactrackerapp.Mactracker",
+    "sha256": "00e4d8dcbddede3df5bfc3f69ed38af3616bcc664c3bd4d8270611dddf708773",
     "symlink": null,
-    "web": "https://mactracker.ca/",
-    "ci": "true"
+    "version": "7.10.4",
+    "web": "https://mactracker.ca/"
   }
 }

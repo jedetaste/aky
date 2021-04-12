@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "verniergraphicalanalysis",
-    "bundle": "Vernier Graphical Analysis.app",
-    "identifier": "Vernier.GraphicalAnalysis",
-    "download": "https://software-releases.graphicalanalysis.com/ga/mac/release/latest/Vernier-Graphical-Analysis.dmg",
-    "sha256": "975dd24ffe2a25c45a8c12b68e08b901bf461e624793b543066de91e457c59aa",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.7.1-309",
     "build": null,
+    "bundle": "Vernier Graphical Analysis.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://software-releases.graphicalanalysis.com/ga/mac/release/latest/Vernier-Graphical-Analysis.dmg",
+    "id": "verniergraphicalanalysis",
+    "identifier": "Vernier.GraphicalAnalysis",
+    "sha256": "975dd24ffe2a25c45a8c12b68e08b901bf461e624793b543066de91e457c59aa",
     "symlink": null,
-    "web": "https://www.vernier.com/products/software/graphical-analysis/",
-    "ci": "true"
+    "version": "5.7.1-309",
+    "web": "https://www.vernier.com/products/software/graphical-analysis/"
   }
 }

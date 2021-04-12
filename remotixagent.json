@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "remotixagent",
-    "bundle": "Remotix Agent.app",
-    "identifier": "com.nulana.rxagentmac",
-    "download": "https://remotix.com/downloads/latest-agent-mac/",
-    "sha256": "e0e86a0a800c2654671bd56dc75ebbf9de8722f6a18ebdac0ae80786f56f2f77",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.5.6",
     "build": null,
+    "bundle": "Remotix Agent.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://remotix.com/downloads/latest-agent-mac/",
+    "id": "remotixagent",
+    "identifier": "com.nulana.rxagentmac",
+    "sha256": "e0e86a0a800c2654671bd56dc75ebbf9de8722f6a18ebdac0ae80786f56f2f77",
     "symlink": null,
-    "web": "https://www.nulana.com/remotix-mac/",
-    "ci": "true"
+    "version": "1.5.6",
+    "web": "https://www.nulana.com/remotix-mac/"
   }
 }
