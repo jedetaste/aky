@@ -1,19 +1,19 @@
 {
   "recipe": {
-    "id": "dash",
-    "bundle": "Dash.app",
-    "identifier": "com.kapeli.dashdoc",
-    "download": "https://kapeli.com/downloads/v5/Dash.zip",
-    "sha256": "cd98b4496bfa82ff2cd4c98f7d8a35eb83b909b7da605eb291d12a0c162c24a8",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "5.5.2",
     "build": null,
+    "bundle": "Dash.app",
+    "ci": "true",
     "dir": "/Applications",
+    "download": "https://kapeli.com/downloads/v5/Dash.zip",
+    "id": "dash",
+    "identifier": "com.kapeli.dashdoc",
+    "sha256": "cd98b4496bfa82ff2cd4c98f7d8a35eb83b909b7da605eb291d12a0c162c24a8",
     "symlink": null,
-    "web": "https://kapeli.com/dash",
-    "ci": "true"
+    "version": "5.5.2",
+    "web": "https://kapeli.com/dash"
   }
 }
