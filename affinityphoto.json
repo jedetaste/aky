@@ -7,13 +7,13 @@
     "bundle": "Affinity Photo.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Photo-1.9.2.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Photo-1.9.3.pkg",
     "id": "affinityphoto",
     "identifier": "com.seriflabs.affinityphoto",
     "internal": "true",
-    "sha256": "7fbc28d4d211300adcc800834a6841943cc219b0fef48c39705ac09414d3e516",
+    "sha256": "8b796fdbb0ddd3847801e221842c225901913c99f5f96016f95e471971fb3a1d",
     "symlink": null,
-    "version": "1.9.2",
+    "version": "1.9.3",
     "web": "https://affinity.serif.com/photo/"
   }
 }
