@@ -7,13 +7,13 @@
     "bundle": "Affinity Publisher.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Publisher-1.9.2.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Publisher-1.9.3.pkg",
     "id": "affinitypublisher",
     "identifier": "com.seriflabs.affinitypublisher",
     "internal": "true",
-    "sha256": "453f6e89dac0254c6481b715c56bc0e7dee7d6ecd96d869d9444a3c24b6e7459",
+    "sha256": "01da967d1b12461735d50ca08c5ccaea6dd1bb7f53ec135497e4dd8a1bd29135",
     "symlink": null,
-    "version": "1.9.2",
+    "version": "1.9.3",
     "web": "https://affinity.serif.com/publisher/"
   }
 }
