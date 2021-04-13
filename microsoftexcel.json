@@ -7,12 +7,12 @@
     "bundle": "Microsoft Excel.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.47.21032301_Updater.pkg",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.48.21041102_Updater.pkg",
     "id": "microsoftexcel",
     "identifier": "com.microsoft.Excel",
-    "sha256": "3f5f1d6a9f810698184f8e5cda531a2d0913640d04dc42a0e5e2a2cfac9fd49b",
+    "sha256": "e7b19a53307c359e416a72224e5e915aa4408ca7d61e7eb5d78ceae18e443eb4",
     "symlink": null,
-    "version": "16.47.21032301",
+    "version": "16.48.21041102",
     "web": "https://products.office.com/mac/microsoft-office-for-mac/"
   }
 }
