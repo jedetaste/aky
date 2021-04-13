@@ -7,12 +7,12 @@
     "bundle": "Metabase.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://downloads.metabase.com/v0.38.3/Metabase.zip",
+    "download": "https://downloads.metabase.com/v0.38.4/Metabase.zip",
     "id": "metabase",
     "identifier": "com.metabase.Metabase",
-    "sha256": "8875bfc41b58ecb333bfd51ff4e518798f4e14878c22fe6369302ef167d99af5",
+    "sha256": "791d896cc1fcf4977966ab3b009ebb058e6caac007b59a8568488178733772f7",
     "symlink": null,
-    "version": "0.38.3",
+    "version": "0.38.4",
     "web": "https://www.metabase.com/"
   }
 }
