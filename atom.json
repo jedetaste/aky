@@ -7,12 +7,12 @@
     "bundle": "Atom.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://github.com/atom/atom/releases/download/v1.55.0/atom-mac.zip",
+    "download": "https://github.com/atom/atom/releases/download/v1.56.0/atom-mac.zip",
     "id": "atom",
     "identifier": "com.github.atom",
-    "sha256": "42932be997034b026d3f3104fb7b4c88a08852afba74f0d10b02a261db2508b6",
+    "sha256": "83f11829eb231e1761e6be06e29348ca20e02d664efa1fb5b03c7627337046a6",
     "symlink": null,
-    "version": "1.55.0",
+    "version": "1.56.0",
     "web": "https://atom.io/"
   }
 }
