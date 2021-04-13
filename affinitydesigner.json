@@ -7,13 +7,13 @@
     "bundle": "Affinity Designer.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Designer-1.9.2.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Designer-1.9.3.pkg",
     "id": "affinitydesigner",
     "identifier": "com.seriflabs.affinitydesigner",
     "internal": "true",
-    "sha256": "829d227c8eacb5d9df7131c5672cc7cf1fd0677a4625a4bb8333db751c6a971f",
+    "sha256": "ea61e832398fd62d5e993030885c4bc6b29ef2109605a5c88f07beb88c5015d9",
     "symlink": null,
-    "version": "1.9.2",
+    "version": "1.9.3",
     "web": "https://affinity.serif.com/designer/"
   }
 }
