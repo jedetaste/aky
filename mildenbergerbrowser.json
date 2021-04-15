@@ -6,13 +6,14 @@
     },
     "bundle": "Mildenberger Browser.app",
     "dir": "/Applications",
-    "download": null,
+    "download": "https://www.mildenberger-bildungswelt.de/downloader/fileadmin/service/diverses/Mildenberger_Browser/download/Mildenberger_Browser.dmg",
     "id": "mildenbergerbrowser",
     "identifier": "de.mildenberger-verlag.mildenberger-browser",
     "processes": null,
-    "sha256": null,
+    "sha256": "0a39bc7db7cc4a735913bd2a5ff90f472e2d989cb3e2a214eb53d47da93bc4a1",
     "symlink": null,
     "version": "0.1.0",
-    "web": "https://www.mildenberger-bildungswelt.de/"
+    "web": "https://www.mildenberger-bildungswelt.de/",
+    "ci": "true"
   }
 }
