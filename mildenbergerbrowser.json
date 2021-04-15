@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "build": null,
+    "bundle": "Mildenberger Browser.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "mildenbergerbrowser",
+    "identifier": "de.mildenberger-verlag.mildenberger-browser",
+    "sha256": null,
+    "symlink": null,
+    "version": "0.1.0",
+    "web": "https://www.mildenberger-bildungswelt.de/"
+  }
+}
