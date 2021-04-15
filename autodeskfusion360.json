@@ -10,6 +10,7 @@
     "download": "https://dl.appstreaming.autodesk.com/production/installers/Autodesk%20Fusion%20360%20Admin%20Install.pkg",
     "id": "autodeskfusion360",
     "identifier": "com.autodesk.edu.fusion360",
+    "processes": null,
     "sha256": "391d8a424e057188c5434ae929f1c2c68cbd2420b985331a297121b71a4547cf",
     "symlink": null,
     "version": "2.0.10032",

@@ -10,6 +10,7 @@
     "download": "https://dl.google.com/dl/androidjumper/mtp/current/androidfiletransfer.dmg",
     "id": "androidfiletransfer",
     "identifier": "com.google.android.mtpviewer",
+    "processes": null,
     "sha256": "b9249399a351e8146358ff1ddb546c68a63134b780be795ae64e0a4c2258bc61",
     "symlink": null,
     "version": "1.0.12",

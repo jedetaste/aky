@@ -10,6 +10,7 @@
     "download": "http://downloads.xrite.com/Downloads/Software/i1Profiler/3.3.0/mac/i1Profiler.zip",
     "id": "i1profiler",
     "identifier": "com.x-rite.i1Profiler",
+    "processes": null,
     "sha256": "c8617cde690a33ad37c1b6013d800607b739cac27d3b65d487c141679105598e",
     "symlink": null,
     "version": "3.3.0",

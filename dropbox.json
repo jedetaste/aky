@@ -10,6 +10,7 @@
     "download": "https://www.dropbox.com/download?plat=mac&full=1",
     "id": "dropbox",
     "identifier": "com.getdropbox.dropbox",
+    "processes": null,
     "sha256": "53ff0738198dcad86941044f383afbf77ada591f694ca208ea49d555fa42f2c8",
     "symlink": null,
     "version": "120.4.4598",

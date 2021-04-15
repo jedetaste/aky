@@ -9,6 +9,7 @@
     "download": "https://files.teamspeak-services.com/releases/client/3.5.6/TeamSpeak3-Client-macosx-3.5.6.dmg",
     "id": "teamspeak",
     "identifier": "com.teamspeak.TeamSpeak3",
+    "processes": null,
     "sha256": "03c8e44256f2028917866924e496d4704de9e3298252f433fc53cfa37282770e",
     "symlink": null,
     "version": null,

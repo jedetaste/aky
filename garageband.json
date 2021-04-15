@@ -11,6 +11,7 @@
     "id": "garageband",
     "identifier": "com.apple.garageband10",
     "internal": "true",
+    "processes": null,
     "sha256": "ceee25823133adbf66eb8481f25893359dc00c06538b0b00f8fb0b99669d4ccf",
     "symlink": null,
     "version": "10.4.2",

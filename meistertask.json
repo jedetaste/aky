@@ -10,6 +10,7 @@
     "download": "https://www.meistertask.com/files/MeisterTask_osx.dmg",
     "id": "meistertask",
     "identifier": "com.meisterlabs.meistertask.desktop",
+    "processes": null,
     "sha256": "989c06e98621dcca78687eacb1c86f4e329b4d486ebd81f8d10f51f2bc034f39",
     "symlink": null,
     "version": "2.2.1",

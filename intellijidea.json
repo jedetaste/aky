@@ -10,6 +10,7 @@
     "download": "https://download.jetbrains.com/idea/ideaIU-2021.1.dmg",
     "id": "intellijidea",
     "identifier": "com.jetbrains.intellij",
+    "processes": null,
     "sha256": "76e1ddef6054cbffd3bc5a2068298fdb5a14ab1fbfd8499148eb8221e47a5397",
     "symlink": null,
     "version": "2021.1",

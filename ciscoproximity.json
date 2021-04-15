@@ -10,6 +10,7 @@
     "download": "https://proximity.cisco.com/mac/Proximity.dmg",
     "id": "ciscoproximity",
     "identifier": "com.cisco.experimental.Proximity",
+    "processes": null,
     "sha256": null,
     "symlink": null,
     "version": "desktop-3.0.8",

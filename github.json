@@ -10,6 +10,7 @@
     "download": "https://central.github.com/deployments/desktop/desktop/latest/darwin",
     "id": "github",
     "identifier": "com.github.GitHubClient",
+    "processes": null,
     "sha256": "c88d668ac4678f3dae75da62b063e37d8f3f8768668468991d1a95988b6bde6f",
     "symlink": null,
     "version": "2.7.2",

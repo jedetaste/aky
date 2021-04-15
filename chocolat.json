@@ -10,6 +10,7 @@
     "download": "https://chocolatapp.com/versions/Chocolat_3.4.zip",
     "id": "chocolat",
     "identifier": "com.chocolatapp.Chocolat",
+    "processes": null,
     "sha256": "43f1f96350c10aa2918719a2238c1e4ec20dd2cfa7a4930f6e7d74f92207c4fe",
     "symlink": null,
     "version": "3.4",

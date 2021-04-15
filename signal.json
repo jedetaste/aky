@@ -10,6 +10,7 @@
     "download": "https://updates.signal.org/desktop/signal-desktop-mac-5.0.0.dmg",
     "id": "signal",
     "identifier": "org.whispersystems.signal-desktop",
+    "processes": null,
     "sha256": "1edc6eaa79d12f2d7fb1361f1b27c10979239f4ea839f15af9789f7e6b2d4f25",
     "symlink": null,
     "version": "5.0.0",

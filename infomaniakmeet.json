@@ -10,6 +10,7 @@
     "download": "https://download.storage.infomaniak.com/meet/infomaniak-meet.dmg",
     "id": "infomaniakmeet",
     "identifier": "com.infomaniak.meet",
+    "processes": null,
     "sha256": "9b133136e1122924f51329d82922d120f8341aa2b449f7594cc81eb35b81f376",
     "symlink": null,
     "version": "1.1.12",

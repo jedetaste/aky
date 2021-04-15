@@ -11,6 +11,7 @@
     "id": "keynote",
     "identifier": "com.apple.iWork.Keynote",
     "internal": "true",
+    "processes": null,
     "sha256": "e7f91fec2d9b9a8339f51cc37130ac56ec1252815cde446d0dafdeab9f362da1",
     "symlink": null,
     "version": "10.3.9",

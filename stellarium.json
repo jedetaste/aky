@@ -10,6 +10,7 @@
     "download": "https://github.com/Stellarium/stellarium/releases/download/v0.21.0/Stellarium-0.21.0.zip",
     "id": "stellarium",
     "identifier": "org.stellarium.Stellarium",
+    "processes": null,
     "sha256": "70fc56d06af3ea2528e9402df14494ccfc531e0ade49c5364edd4a9e9c05ffb7",
     "symlink": null,
     "version": "0.21.0",

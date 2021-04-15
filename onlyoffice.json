@@ -10,6 +10,7 @@
     "download": "https://download.onlyoffice.com/install/desktop/editors/mac/updates/onlyoffice/ONLYOFFICE-6.2.zip",
     "id": "onlyoffice",
     "identifier": "asc.onlyoffice.ONLYOFFICE",
+    "processes": null,
     "sha256": "2e20e5327ff6d31f7e48ca5d273b3ba96f7dd30f73b641aa3e861d431ac52e60",
     "symlink": null,
     "version": "6.2",

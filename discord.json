@@ -10,6 +10,7 @@
     "download": "https://discordapp.com/api/download?platform=osx",
     "id": "discord",
     "identifier": "com.hnc.Discord",
+    "processes": null,
     "sha256": "4b49503b7951e23664b5fd9e1da59d6df100818eaadcadeaad37a32aded03c0e",
     "symlink": null,
     "version": "0.0.262",

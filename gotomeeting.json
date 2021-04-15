@@ -5,14 +5,15 @@
       "url": null
     },
     "bundle": "GoToMeeting.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://link.gotomeeting.com/latest-dmg",
     "id": "gotomeeting",
     "identifier": "com.logmein.GoToMeeting",
+    "processes": null,
     "sha256": "aced1b755ef29d15909e3eb10fb5ed72f705b77920c831a1ab7112948a05df38",
     "symlink": null,
     "version": "10.15.0.19228",
-    "web": "https://www.gotomeeting.com/",
-    "ci": "true"
+    "web": "https://www.gotomeeting.com/"
   }
 }

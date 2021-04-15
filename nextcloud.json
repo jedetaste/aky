@@ -10,6 +10,7 @@
     "download": "https://github.com/nextcloud/desktop/releases/download/v3.2.0/Nextcloud-3.2.0.pkg",
     "id": "nextcloud",
     "identifier": "com.nextcloud.desktopclient",
+    "processes": null,
     "sha256": "7de5621548ed53e428579ae1a62c5475b860f83e373e2b009dd17d1f22433116",
     "symlink": null,
     "version": "3.2.0git (build 5389)",

@@ -10,6 +10,7 @@
     "download": "https://www.pixeleyes.co.nz/automounter/AutoMounter.dmg",
     "id": "automounter",
     "identifier": "nz.co.pixeleyes.AutoMounter",
+    "processes": null,
     "sha256": "455a0e4054268ad33db160a34fd122e449e483067e04c8bbbd910caab7ab43c2",
     "symlink": null,
     "version": "1.7.1",

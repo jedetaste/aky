@@ -10,6 +10,7 @@
     "download": "http://macinmind.com/Passenger4.zip",
     "id": "passenger",
     "identifier": "com.macinmind.passenger",
+    "processes": null,
     "sha256": "25965141f8d14bc8f8730e931f31fd15b3bd931cffd5edd27d50308bc090e366",
     "symlink": null,
     "version": "4.6.1",

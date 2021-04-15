@@ -10,6 +10,7 @@
     "download": "https://releases.mozilla.org/pub/firefox/releases/88.0b9/mac/de/Firefox%2088.0b9.pkg",
     "id": "firefoxdeveloperedition",
     "identifier": "org.mozilla.firefoxdeveloperedition",
+    "processes": null,
     "sha256": "f85124ed077b470a61304f37a08e7509a745156004b181173a79d004e1e96435",
     "symlink": null,
     "version": "88.0",

@@ -9,6 +9,7 @@
     "download": "https://media.inkscape.org/dl/resources/file/Inkscape-1.0.0.dmg",
     "id": "inkscape",
     "identifier": "org.inkscape.Inkscape",
+    "processes": null,
     "sha256": "9b42468815b4bcbc8ccb76a239aea48a2965dbd2f3ae7c3b560c7f2a7e48a955",
     "symlink": null,
     "version": "1.0.0 (4035a4f)",

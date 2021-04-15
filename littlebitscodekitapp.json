@@ -10,6 +10,7 @@
     "download": "https://s3.amazonaws.com/codekitupdate.littlebits.cc/download/mac/littleBits+Code+Kit+App-1.1.0.dmg",
     "id": "littlebitscodekitapp",
     "identifier": "cc.littlebits.codekit",
+    "processes": null,
     "sha256": "d83aea9bba5c163deb756f2201b13d5e9766dc7740d5ecc88ac11d1f3a79fdb4",
     "symlink": null,
     "version": "1.1.0",

@@ -10,6 +10,7 @@
     "download": "https://srv3.airdroid.com/p20/web/getbinaryredirect?type=dmg&channel=&version=",
     "id": "airdroid",
     "identifier": "com.sandstudio.airdroid",
+    "processes": null,
     "sha256": "5ed0cb9c480be4fc18ddfc184f92481d4b7c1871446f1ebab36c1dcb84614921",
     "symlink": null,
     "version": "3.6.9.2",

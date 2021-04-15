@@ -10,6 +10,7 @@
     "download": "https://tristan-software.ch/FSMonitor/Archives/FSMonitor_90.zip",
     "id": "fsmonitor",
     "identifier": "com.tristan.FSMonitor",
+    "processes": null,
     "sha256": "9699fd67fe07069763dd53b19cebb00855569a949c14efb418d134d5c47d662a",
     "symlink": null,
     "version": "1.0.7",

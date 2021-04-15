@@ -10,6 +10,7 @@
     "download": "http://brawersoftware.com/downloads/ubar/ubar417.zip",
     "id": "ubar",
     "identifier": "ca.brawer.uBar",
+    "processes": null,
     "sha256": "03990e92a871b6a2bb7af840bceef59325eaad8678d31ba5ed256faa0beea745",
     "symlink": null,
     "version": "4.1.7",

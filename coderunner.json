@@ -10,6 +10,7 @@
     "download": "https://coderunnerapp.com/download/update/CodeRunner-4.0.3.zip",
     "id": "coderunner",
     "identifier": "com.krill.CodeRunner",
+    "processes": null,
     "sha256": "77e79c2094cc27ad564c00e0390596f5c2698f38b5ccd96de83168a9b73b267e",
     "symlink": null,
     "version": "4.0.3",

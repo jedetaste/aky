@@ -10,6 +10,7 @@
     "download": "https://www.deepl.com/macos/download/DeepL.dmg",
     "id": "deepl",
     "identifier": "com.linguee.DeepLCopyTranslator",
+    "processes": null,
     "sha256": "8871ba9c5bfdf07415626b8ba75a21faf4aa8acdfef686c24158392ea2618a85",
     "symlink": null,
     "version": "2.3.41773",

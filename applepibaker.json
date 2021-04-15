@@ -10,6 +10,7 @@
     "download": "https://www.tweaking4all.com/downloads/raspberrypi/ApplePi-Baker-v2.2.3.dmg",
     "id": "applepibaker",
     "identifier": "com.tweaking4all.PiBaker",
+    "processes": null,
     "sha256": "5b6c89392a2bae26ad235d647bba7f857e82a34f2e9a4d8d6e33cf4396d94775",
     "symlink": null,
     "version": "2.2.3",

@@ -10,6 +10,7 @@
     "download": "https://download.devontechnologies.com/download/freeware/easyfind/5.0.1/EasyFind.app.zip",
     "id": "easyfind",
     "identifier": "org.grunenberg.EasyFind",
+    "processes": null,
     "sha256": "05cf4f3661d73953ce8c30692ad49a5d30d0f6b710212ebbc41bb381a589b713",
     "symlink": null,
     "version": "5.0.1",

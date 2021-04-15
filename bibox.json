@@ -11,6 +11,7 @@
     "id": "bibox",
     "identifier": "de.westermann.bibox2",
     "internal": "true",
+    "processes": null,
     "sha256": "bb917f58fcd4466ea126e8c868beb04e6901fd4d1f2b2c49bf11b87e75053d5d",
     "symlink": null,
     "version": "2.0.14",

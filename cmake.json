@@ -10,6 +10,7 @@
     "download": "https://cmake.org/files/LatestRelease/cmake-3.19.0-Darwin-x86_64.dmg",
     "id": "cmake",
     "identifier": "org.cmake.cmake",
+    "processes": null,
     "sha256": "8ceeafe2964e9e294cb2dadacbbe2c2cc86b5d4990120e23199ccf10571d1ff2",
     "symlink": null,
     "version": "3.19.0",

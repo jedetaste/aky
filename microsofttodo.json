@@ -11,6 +11,7 @@
     "id": "microsofttodo",
     "identifier": "com.microsoft.to-do-mac",
     "internal": "true",
+    "processes": null,
     "sha256": "f59310bcabca2f2126f9af386b3aaedf1a64b89d7a8fd46f039d7eca9a5b9e4f",
     "symlink": null,
     "version": "2.39.1",

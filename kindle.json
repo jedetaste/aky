@@ -10,6 +10,7 @@
     "download": "https://www.amazon.com/kindlemacdownload/ref=klp_mac",
     "id": "kindle",
     "identifier": "com.amazon.Kindle",
+    "processes": null,
     "sha256": "1b70345bb96394f5662c1dfedf15a318e83f259553c83d81e32fc1e25fa251ab",
     "symlink": null,
     "version": "1.30.0",

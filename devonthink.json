@@ -10,6 +10,7 @@
     "download": "https://download.devontechnologies.com/download/devonthink/3.6.3/DEVONthink_3.app.zip",
     "id": "devonthink",
     "identifier": "com.devon-technologies.think3",
+    "processes": null,
     "sha256": "94fdcd1e920704ee3d03e4db06119f654276762243486a1e6fd86c7e415822c1",
     "symlink": null,
     "version": "3.6.3",

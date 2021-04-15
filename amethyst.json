@@ -10,6 +10,7 @@
     "download": "https://github.com/ianyh/Amethyst/releases/download/v0.15.4/Amethyst.zip",
     "id": "amethyst",
     "identifier": "com.amethyst.Amethyst",
+    "processes": null,
     "sha256": "a3519c308134da7c47c502051e351da81b0e04596eec15b1d2a41a2d7ddbc59a",
     "symlink": null,
     "version": "0.15.4",

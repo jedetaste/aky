@@ -10,6 +10,7 @@
     "download": "https://www.mersive.com/downloads/SolsticeClient-5.1.dmg",
     "id": "solstice",
     "identifier": "com.mersive.solstice.client",
+    "processes": null,
     "sha256": "e5991ba71f9e92095e0e89055060686668af3b19ac3e330ecbb529c3626ca747",
     "symlink": null,
     "version": "5.1.24401",

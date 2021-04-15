@@ -9,6 +9,7 @@
     "download": "http://wsr.imagej.net/distros/osx/ij153-osx-java8.zip",
     "id": "imagej",
     "identifier": "ImageJ",
+    "processes": null,
     "sha256": "b1694d99bf4668dfae5324a883dc14b1f51d88c962cc5141ebd4c0246db874b4",
     "symlink": null,
     "version": "1.53",

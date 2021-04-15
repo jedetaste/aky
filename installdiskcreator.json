@@ -10,6 +10,7 @@
     "download": "https://macdaddy.io/InstallDiskCreator.zip",
     "id": "installdiskcreator",
     "identifier": "io.macdaddy.Install-Disk-Creator",
+    "processes": null,
     "sha256": "f8eadbeaa640351b6a357263b7f84652adc61a2cf0110c164580bfdee1470e26",
     "symlink": null,
     "version": "1.5",

@@ -10,6 +10,7 @@
     "download": "https://www.jamovi.org/downloads/jamovi-1.8.0.0-macos.dmg",
     "id": "jamovi",
     "identifier": "org.jamovi.jamovi",
+    "processes": null,
     "sha256": "42fe6090f912b1122954813a4ce4076dda64aa4bb1d917cc629db52951e9f3fe",
     "symlink": null,
     "version": "1.8.0.0",

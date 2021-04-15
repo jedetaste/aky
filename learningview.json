@@ -10,6 +10,7 @@
     "download": "https://learningview.org/app/LearningView.dmg",
     "id": "learningview",
     "identifier": "com.electron.learningview",
+    "processes": null,
     "sha256": "8a04c9eb6830f0e1bdcae63e225c0447ee7c2937add05c3b00dbf6a27d40951c",
     "symlink": null,
     "version": "1.3",

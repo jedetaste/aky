@@ -13,6 +13,7 @@
     "download": "https://download.gimp.org/pub/gimp/v2.10/osx/gimp-2.10.22-x86_64-1.dmg",
     "id": "gimp",
     "identifier": "org.gnome.gimp",
+    "processes": null,
     "sha256": "c57f0203a89bd347c5b5958a79754debf33a9b458bdba68fa0788e22f4cc8fae",
     "symlink": null,
     "version": "2.10.22",

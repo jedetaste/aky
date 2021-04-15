@@ -11,6 +11,7 @@
     "id": "classroom",
     "identifier": "com.apple.macos.classroom",
     "internal": "true",
+    "processes": null,
     "sha256": "b260a2ac1fcae5f995af7fe220a4a93296023be20c796abf8fa18664005e13fa",
     "symlink": null,
     "version": "2.3",

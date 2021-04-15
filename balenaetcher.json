@@ -10,6 +10,7 @@
     "download": "https://github.com/balena-io/etcher/releases/download/v1.5.117/balenaEtcher-1.5.117.dmg",
     "id": "balenaetcher",
     "identifier": "io.balena.etcher",
+    "processes": null,
     "sha256": "b8872eb9e0790220627f95317fa2d3661a53727e26fbbfb9c5832955e6df16fd",
     "symlink": null,
     "version": "1.5.117",

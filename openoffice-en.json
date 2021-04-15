@@ -10,6 +10,7 @@
     "download": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.9/binaries/de/Apache_OpenOffice_4.1.9_MacOS_x86-64_install_de.dmg/download",
     "id": "openoffice-en",
     "identifier": "org.openoffice.script",
+    "processes": null,
     "sha256": "ac44bb2d186d20450f38e0d14d9982b801d37c016abb43dd619ab3bedd211d61",
     "symlink": null,
     "version": "4.1.9",

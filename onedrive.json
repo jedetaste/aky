@@ -10,6 +10,7 @@
     "download": "https://go.microsoft.com/fwlink/?linkid=823060",
     "id": "onedrive",
     "identifier": "com.microsoft.OneDrive",
+    "processes": null,
     "sha256": "5eb91bf3ce02c71e7d970767a703d9db72582b776e1abee24b667ff925b3bdbd",
     "symlink": null,
     "version": "21.052.0314",

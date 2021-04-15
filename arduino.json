@@ -10,6 +10,7 @@
     "download": "https://downloads.arduino.cc/arduino-1.8.13-macosx.zip",
     "id": "arduino",
     "identifier": "cc.arduino.Arduino",
+    "processes": null,
     "sha256": "84be3fc0be0c18563cb2b5e53971da6aa83e20f1de37e6debae3b55f8b0edbb3",
     "symlink": null,
     "version": "1.8.13",

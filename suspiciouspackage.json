@@ -10,6 +10,7 @@
     "download": "https://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg",
     "id": "suspiciouspackage",
     "identifier": "com.mothersruin.SuspiciousPackageApp",
+    "processes": null,
     "sha256": "e848c8b5ce56c71307d8b2808c79c319c171b2d64cafceb3ebbd1072231b87e4",
     "symlink": null,
     "version": "3.7",

@@ -10,6 +10,7 @@
     "download": "https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-mac-0.6.6.zip",
     "id": "pencil2d",
     "identifier": "org.pencil2d.Pencil2D",
+    "processes": null,
     "sha256": "9c3aad2adc3aee1234ddb1229f80562843b46ff167eb3ba12acf76846d96edda",
     "symlink": null,
     "version": "0.6.6",

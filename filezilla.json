@@ -11,6 +11,7 @@
     "id": "filezilla",
     "identifier": "org.filezilla-project.filezilla",
     "internal": "true",
+    "processes": null,
     "sha256": "beec6a4f71996337af73adf5be7badcc2fcb5dd1f4861c07deea650f05cfc6be",
     "symlink": null,
     "version": "3.53.1",

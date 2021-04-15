@@ -10,6 +10,7 @@
     "download": "https://github.com/ProfileCreator/ProfileCreator/releases/download/v0.3.2/ProfileCreator_v0.3.2-201907171032-beta.dmg",
     "id": "profilecreator",
     "identifier": "com.github.erikberglund.ProfileCreator",
+    "processes": null,
     "sha256": "a4a1b45bfaa6bc83aac7ef532981aaa0c807cd17fbfb1f157980144e5d309aea",
     "symlink": null,
     "version": "0.3.2",

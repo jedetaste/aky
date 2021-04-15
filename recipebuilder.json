@@ -10,6 +10,7 @@
     "download": "https://github.com/mikaellofgren/RecipeBuilder/releases/download/1.03/RecipeBuilder.app.zip",
     "id": "recipebuilder",
     "identifier": "se.dicom.RecipeBuilder",
+    "processes": null,
     "sha256": "4f2ebaba214d07e32213afa780546b876e83cd4e13d3e745ae2b955f8878516b",
     "symlink": null,
     "version": "1.03",

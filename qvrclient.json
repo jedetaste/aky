@@ -9,6 +9,7 @@
     "download": "https://download.qnap.com/Storage/Utility/QVRMacClient-2.2.1-170221.dmg",
     "id": "qvrclient",
     "identifier": "com.qnap.qvrclient",
+    "processes": null,
     "sha256": "21b8693deec818befc08541700f18606debebe0fe4e36cb57ccde25458602e1b",
     "symlink": null,
     "version": "2.2.170221",

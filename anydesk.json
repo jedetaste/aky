@@ -10,6 +10,7 @@
     "download": "https://download.anydesk.com/anydesk.dmg",
     "id": "anydesk",
     "identifier": "com.philandro.anydesk",
+    "processes": null,
     "sha256": "4f23b56458cae530a53744bbf0f340251ad6a2d51ad02e0eba4483aaa5740974",
     "symlink": null,
     "version": "6.1.4",

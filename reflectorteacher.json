@@ -10,6 +10,7 @@
     "download": "https://airsquirrels-downloads.s3.amazonaws.com/ReflectorTeacher/Mac/ReflectorTeacher-3.2.1.dmg",
     "id": "reflectorteacher",
     "identifier": "com.squirrels.Reflector-Teacher",
+    "processes": null,
     "sha256": "cf01ba1b12c9f8605f0686f805e2d872ae864deab1d217319d21f2f080e3ad0d",
     "symlink": null,
     "version": "4.0.0",

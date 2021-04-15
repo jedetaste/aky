@@ -10,6 +10,7 @@
     "download": "https://eu.yourcircuit.com/desktop/releases/mac/Circuit.dmg",
     "id": "circuit",
     "identifier": "com.unify.circuit",
+    "processes": null,
     "sha256": "155e36f3aa194179fed321cafd35be2c716e38f0d6b3a41c66fc9e8443fea41f",
     "symlink": null,
     "version": "1.2.9402",

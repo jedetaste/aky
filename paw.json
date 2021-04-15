@@ -10,6 +10,7 @@
     "download": "https://luckymarmot.com/paw/download",
     "id": "paw",
     "identifier": "com.luckymarmot.Paw",
+    "processes": null,
     "sha256": "2cae45407bf251840f10920cb76acb6127a0d4eebe642f7087aae47b0d56d9ec",
     "symlink": null,
     "version": "3.2.2",

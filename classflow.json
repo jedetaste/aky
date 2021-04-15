@@ -9,6 +9,7 @@
     "download": "https://classflow-dist.s3-accelerate.amazonaws.com/Native/Release/Mac/ClassFlowDesktop-Mac-4.4.0.dmg",
     "id": "classflow",
     "identifier": "ClassFlowDesktop",
+    "processes": null,
     "sha256": "6edac70c035fd89e3d65c26c3d8ab10d31cded40fa28fe8e4ac5852fb9bf8465",
     "symlink": null,
     "version": "4.4.0",

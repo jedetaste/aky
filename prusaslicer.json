@@ -9,6 +9,7 @@
     "download": "https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.3.0-rc2/PrusaSlicer-2.3.0-rc2+-202012221629.dmg",
     "id": "prusaslicer",
     "identifier": "com.prusa3d.slic3r/",
+    "processes": null,
     "sha256": "9bc4219e8a33c1825d74540e69824882fe3474a2f8fe017ef5978a5f774b6e0a",
     "symlink": null,
     "version": "PrusaSlicer PrusaSlicer-2.3.0-rc2+-202012221629",

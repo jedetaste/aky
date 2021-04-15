@@ -9,6 +9,7 @@
     "download": "https://d13g8g4x8s9rc1.cloudfront.net/downloads/files/cdn/ti-nspire/3.9/TINspireComputerLink-3.9.0.455.dmg",
     "id": "tinspire",
     "identifier": "com.ti.eps.pxconnect.ApplicationMain",
+    "processes": null,
     "sha256": "84e9160a5413ba3ebf49d009688e75c2614c1cf5ec2839f9d849bd8866956778",
     "symlink": null,
     "version": "3.9.0",

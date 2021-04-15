@@ -10,6 +10,7 @@
     "download": "https://az801095.vo.msecnd.net/prod/LWA/plugins/mac/SkypeMeetingsApp.dmg",
     "id": "skypemeetings",
     "identifier": "com.microsoft.skypeforbusiness.webmeetings",
+    "processes": null,
     "sha256": "d23a34592d98bdc25d2a3403f26d730c36c99dd82f2564c90a07d218ae2e00fa",
     "symlink": null,
     "version": "1.0.0.186",

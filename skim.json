@@ -10,6 +10,7 @@
     "download": "https://sourceforge.net/projects/skim-app/files/Skim/Skim-1.6.3/Skim-1.6.3.dmg/download",
     "id": "skim",
     "identifier": "net.sourceforge.skim-app.skim",
+    "processes": null,
     "sha256": "1dffe6565fa9b2dd68439c347fd9b02b2ea30ef5875328e1bd3f732827fa4fe6",
     "symlink": null,
     "version": "1.6.3",

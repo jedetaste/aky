@@ -10,6 +10,7 @@
     "download": "https://github.com/koush/vysor.io/releases/download/v3.1.4/Vysor-mac-3.1.4.zip",
     "id": "vysor",
     "identifier": "com.electron.vysor",
+    "processes": null,
     "sha256": "c1bc1bb52400a396621082e37a6f5a98e786be9e508c8971d75ca11611afd205",
     "symlink": null,
     "version": "3.1.4",

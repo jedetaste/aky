@@ -10,6 +10,7 @@
     "download": "https://downloads-plasq.s3.amazonaws.com/ComicLife-3.5.18-36778.zip",
     "id": "comiclife3",
     "identifier": "com.plasq.comiclife3",
+    "processes": null,
     "sha256": "fedc25a91d86b899d7ec4b98a8d94fc2d3d0938d59126f92ccb323205feefeb0",
     "symlink": null,
     "version": "3.5.18",

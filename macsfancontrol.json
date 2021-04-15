@@ -10,6 +10,7 @@
     "download": "https://www.crystalidea.com/downloads/macsfancontrol.zip",
     "id": "macsfancontrol",
     "identifier": "com.crystalidea.MacsFanControl",
+    "processes": null,
     "sha256": "4469d8162de3145905083e425f919efededba21493235794cb5848d197fffca2",
     "symlink": null,
     "version": "1.5.8.1",

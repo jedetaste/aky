@@ -10,6 +10,7 @@
     "download": "https://cdn.eltima.com/download/cloudmounter.dmg",
     "id": "cloudmounter",
     "identifier": "com.eltima.cloudmounter",
+    "processes": null,
     "sha256": "04527e8a2ed5e9862d80a968c9f1d8a0113d5db94f00a2155f90f1c759390636",
     "symlink": null,
     "version": "3.8",

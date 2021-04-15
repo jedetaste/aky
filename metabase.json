@@ -10,6 +10,7 @@
     "download": "https://downloads.metabase.com/v0.38.4/Metabase.zip",
     "id": "metabase",
     "identifier": "com.metabase.Metabase",
+    "processes": null,
     "sha256": "791d896cc1fcf4977966ab3b009ebb058e6caac007b59a8568488178733772f7",
     "symlink": null,
     "version": "0.38.4",

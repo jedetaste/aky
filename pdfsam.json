@@ -10,6 +10,7 @@
     "download": "https://github.com/torakiki/pdfsam/releases/download/v4.2.3/pdfsam-4.2.3.dmg",
     "id": "pdfsam",
     "identifier": "org.pdfsam.basic",
+    "processes": null,
     "sha256": "7018ddb963c6a7e7782ddba77776de488bdfdacfdb3212702afda0c4f5cb2475",
     "symlink": null,
     "version": "4.2.3",

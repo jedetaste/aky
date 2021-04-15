@@ -10,6 +10,7 @@
     "download": "https://www.lemkesoft.info/files/cadintosh/cad8_build500.zip",
     "id": "cadintoshx",
     "identifier": "com.lemkesoft.cadintosh",
+    "processes": null,
     "sha256": "e5e74519a45fc3d0cc276f6322b5edbf3791a702575dcb8dfc5e9ebf24b14d13",
     "symlink": null,
     "version": "8.6.2",

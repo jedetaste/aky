@@ -10,6 +10,7 @@
     "download": "https://s3-us-west-2.amazonaws.com/riffstation-downloads/Riffstation.dmg",
     "id": "riffstation",
     "identifier": "com.SonicLadder.Riffstation",
+    "processes": null,
     "sha256": "6f52d1b2c486f328883e78c5a1283d48bd224224dde8f1401143f28b79598e91",
     "symlink": null,
     "version": "1.6.3",

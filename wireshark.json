@@ -11,6 +11,7 @@
     "id": "wireshark",
     "identifier": "org.wireshark.Wireshark",
     "internal": "true",
+    "processes": null,
     "sha256": "fe0cc389716166bf113b2bdcd498551d9498e40fd0eae7cba0ca09dc1d9ac117",
     "symlink": null,
     "version": "3.4.4",

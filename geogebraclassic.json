@@ -10,6 +10,7 @@
     "download": "https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-636-0.zip",
     "id": "geogebraclassic",
     "identifier": "org.geogebra6.mac",
+    "processes": null,
     "sha256": "b88638aa931c113198ef2516864311495a3af4274969657ce9acb6399b2fefa5",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/Mathematik",
     "version": "6.0.636",

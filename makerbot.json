@@ -10,6 +10,7 @@
     "download": "https://s3.amazonaws.com/downloads-makerbot-com/installer/release/MakerBotPrintInstaller.pkg",
     "id": "makerbot",
     "identifier": "com.makerbot.MakerBot Print",
+    "processes": null,
     "sha256": "0ac4ceabf1ae1aa60c8a3260a10fe19be2aee18ef9d44ed5a1fd79aa53d550e7",
     "symlink": null,
     "version": "8.10.1",

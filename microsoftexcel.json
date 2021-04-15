@@ -10,6 +10,7 @@
     "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.48.21041102_Updater.pkg",
     "id": "microsoftexcel",
     "identifier": "com.microsoft.Excel",
+    "processes": null,
     "sha256": "e7b19a53307c359e416a72224e5e915aa4408ca7d61e7eb5d78ceae18e443eb4",
     "symlink": null,
     "version": "16.48.21041102",

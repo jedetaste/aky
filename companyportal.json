@@ -10,6 +10,7 @@
     "download": "https://go.microsoft.com/fwlink/?linkid=869655",
     "id": "companyportal",
     "identifier": "com.microsoft.CompanyPortalMac",
+    "processes": null,
     "sha256": "a29ddfe171eef459bbcb9febb70686b70a58e744140e12aa52dc9e4ad8688adb",
     "symlink": null,
     "version": "2.14.210300",

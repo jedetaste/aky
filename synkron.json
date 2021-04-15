@@ -10,6 +10,7 @@
     "download": "http://downloads.sourceforge.net/project/synkron/synkron/1.6.2/Synkron-1.6.2-macx64.zip?ts=1601816762",
     "id": "synkron",
     "identifier": "com.matus-tomlein.Synkron",
+    "processes": null,
     "sha256": "e02a6ef8b23fc496348ed98247683c37241d0c7052bea06aeec541eea9e6b415",
     "symlink": null,
     "version": "1.6.2",

@@ -10,6 +10,7 @@
     "download": "https://releases.mozilla.org/pub/firefox/releases/78.9.0esr/mac/de/Firefox%2078.9.0esr.pkg",
     "id": "firefoxesr",
     "identifier": "org.mozilla.firefox",
+    "processes": null,
     "sha256": "944b5d433e41058e5c354bead734a6b9d9b89bedaf7e923337ec5fda041ff4f7",
     "symlink": null,
     "version": "78.9.0",

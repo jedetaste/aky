@@ -10,6 +10,7 @@
     "download": "https://download3.vmware.com/software/fusion/file/VMware-Fusion-12.1.1-17801503.dmg",
     "id": "vmwarefusion",
     "identifier": "com.vmware.fusion",
+    "processes": null,
     "sha256": "fbc94a432c00fb9e05dd648cc80dd58cfb052c3aa53f44dc996be02e25a7c270",
     "symlink": null,
     "version": "12.1.1",

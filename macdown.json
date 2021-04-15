@@ -10,6 +10,7 @@
     "download": "https://macdown.uranusjr.com/download/latest/",
     "id": "macdown",
     "identifier": "com.uranusjr.macdown",
+    "processes": null,
     "sha256": "57a0568354ee7af694e825f19f9f03b9844c6301c70ea04fb324b6efdf7fdcd0",
     "symlink": null,
     "version": "0.7.3",

@@ -10,6 +10,7 @@
     "download": "https://dl.google.com/release2/q/canary/googlechrome.dmg",
     "id": "googlechromecanary",
     "identifier": "com.google.Chrome.canary",
+    "processes": null,
     "sha256": "6b8cfa191fc2dc6130ea765f19bcdcc9288e183631d8c3dcc2039b408c0d837a",
     "symlink": null,
     "version": "92.0.4477.0",

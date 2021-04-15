@@ -10,6 +10,7 @@
     "download": "https://github.com/rtrouton/First_Boot_Package_Install_Generator/releases/download/1.8/First_Boot_Package_Install_Generator.pkg",
     "id": "firstbootpackageinstallgenerator",
     "identifier": "com.apple.automator.First Boot Package Install Generator",
+    "processes": null,
     "sha256": "bae98418a1d383ed5e4f29de1b8e56307d7b90f6f6000f8c56650c072e2ca875",
     "symlink": null,
     "version": "1.8",

@@ -10,6 +10,7 @@
     "download": "https://github.com/sequelpro/sequelpro/releases/download/release-1.1.2/sequel-pro-1.1.2.dmg",
     "id": "sequelpro",
     "identifier": "com.sequelpro.SequelPro",
+    "processes": null,
     "sha256": "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
     "symlink": null,
     "version": "1.1.2",

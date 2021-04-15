@@ -10,6 +10,7 @@
     "download": "https://justgetflux.com/mac/Flux41.5.zip",
     "id": "flux",
     "identifier": "org.herf.Flux",
+    "processes": null,
     "sha256": "ffb692b09bbb30e8e70ec8a89c076ede8ca006abd3b990760c9218ae667b0cfb",
     "symlink": null,
     "version": "41.5",

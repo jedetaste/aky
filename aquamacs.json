@@ -11,6 +11,7 @@
     "id": "aquamacs",
     "identifier": "org.gnu.Aquamacs",
     "internal": "true",
+    "processes": null,
     "sha256": "27cbabdd4bfde7dd9a174665699ff1800f027b63ba46bd5fc94d32c6b0a40412",
     "symlink": null,
     "version": "3.5",

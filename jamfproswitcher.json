@@ -10,6 +10,7 @@
     "download": "https://github.com/ninxsoft/JamfProSwitcher/releases/download/v1.0/JamfProSwitcher-1.0.dmg",
     "id": "jamfproswitcher",
     "identifier": "com.ninxsoft.jamfproswitcher",
+    "processes": null,
     "sha256": "2ef6a9f8350ac6701000dc777dfbd4398a854836934bdcdf61014cbf8854db66",
     "symlink": null,
     "version": "1.0",

@@ -10,6 +10,7 @@
     "download": "https://www.soma-zone.com/download/files/LaunchControl-1.52_update.tar.bz2",
     "id": "launchcontrol",
     "identifier": "com.soma-zone.LaunchControl",
+    "processes": null,
     "sha256": "9e37bf1425e13aac9f220a4cd4c08533ee85e2eeb70d1a9d2d3ce1079772bab0",
     "symlink": null,
     "version": "1.52",

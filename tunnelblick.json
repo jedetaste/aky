@@ -10,6 +10,7 @@
     "download": "https://tunnelblick.net/release/Tunnelblick_3.8.5_build_5670.dmg",
     "id": "tunnelblick",
     "identifier": "net.tunnelblick.tunnelblick",
+    "processes": null,
     "sha256": "1c7f4f441b472bfa841686dd981802caafa658b9a284e2b4c62d6918cd115bef",
     "symlink": null,
     "version": "5670",

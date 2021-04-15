@@ -10,6 +10,7 @@
     "download": "https://github.com/Clipy/Clipy/releases/download/1.2.1/Clipy_1.2.1.dmg",
     "id": "clipy",
     "identifier": "com.clipy-app.Clipy",
+    "processes": null,
     "sha256": "dfbb66ce3135fbaa2d64eaeea99a63e63485e322c9746045a1098b1696a1ecd5",
     "symlink": null,
     "version": "1.2.1",

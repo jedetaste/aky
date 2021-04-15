@@ -10,6 +10,7 @@
     "download": "https://s3.dualstack.us-east-1.amazonaws.com/downloads.razorsql.com/downloads/9_3_4/razorsql9_3_4.dmg",
     "id": "razorsql",
     "identifier": "com.razorsql.RazorSQL",
+    "processes": null,
     "sha256": "32dbc9a952aea11de40a2c4763e1a60874c106f7c56a81081e712ebe4d7a6a0b",
     "symlink": null,
     "version": "9.3.4",

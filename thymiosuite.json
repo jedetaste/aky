@@ -10,6 +10,7 @@
     "download": "https://github.com/Mobsya/aseba/releases/download/2.1.5/ThymioSuite-2.1.5-OsX.dmg",
     "id": "thymiosuite",
     "identifier": "org.mobsya.ThymioLauncher",
+    "processes": null,
     "sha256": "165510523622fae833b1d4f2143a4e8fa72bf65819dc85a3dd1edb2f3a288714",
     "symlink": null,
     "version": "2.1.5",

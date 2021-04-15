@@ -11,6 +11,7 @@
     "id": "imovie",
     "identifier": "com.apple.iMovieApp",
     "internal": "true",
+    "processes": null,
     "sha256": "3a6460398a598d17aecc08244d3219d276790b98c5bb2650c1d3742dc0364127",
     "symlink": null,
     "version": "10.2.3",

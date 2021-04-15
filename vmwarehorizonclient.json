@@ -10,6 +10,7 @@
     "download": "https://download3.vmware.com/software/view/viewclients/CART22FQ1/VMware-Horizon-Client-2103-8.2.0-17759009.dmg",
     "id": "vmwarehorizonclient",
     "identifier": "com.vmware.horizon",
+    "processes": null,
     "sha256": "ee6b085e3632d0d1a9aae6a58ca6d02b299ed8bbb82062eb804ebe04b30ed519",
     "symlink": null,
     "version": "8.2.0",

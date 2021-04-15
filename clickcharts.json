@@ -10,6 +10,7 @@
     "download": "https://www.nchsoftware.com/chart/clickchartspmaci.zip",
     "id": "clickcharts",
     "identifier": "com.nchsoftware.clickchart",
+    "processes": null,
     "sha256": "9c5779799109678e61b330ab61a06e9230d6536b82485b6bab52c173d8d6be8e",
     "symlink": null,
     "version": "5.89",

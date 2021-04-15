@@ -10,6 +10,7 @@
     "download": "https://www.macxdvd.com/download/macx-dvd-ripper-pro.dmg",
     "id": "macxdvdripperpro",
     "identifier": "com.macxdvd.macxvideoconverterpro",
+    "processes": null,
     "sha256": "561c1cbbdc6087629d8f0b07a30f77f20400640ae30b4657b02f693143b79315",
     "symlink": null,
     "version": "6.5.6",

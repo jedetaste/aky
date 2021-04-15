@@ -10,6 +10,7 @@
     "download": "https://cc.schul.cloud/file/download/schulcloud.dmg",
     "id": "schulcloud",
     "identifier": "de.heinekingmedia.schulclouddesktopmessenger",
+    "processes": null,
     "sha256": "f3f63b0ea6e61a1fa592949cbc4643f303af5c53021af5fdab187ee0e45f6af3",
     "symlink": null,
     "version": "3.27.0",

@@ -10,6 +10,7 @@
     "download": "https://github.com/atom/atom/releases/download/v1.56.0/atom-mac.zip",
     "id": "atom",
     "identifier": "com.github.atom",
+    "processes": null,
     "sha256": "83f11829eb231e1761e6be06e29348ca20e02d664efa1fb5b03c7627337046a6",
     "symlink": null,
     "version": "1.56.0",

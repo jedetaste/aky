@@ -10,6 +10,7 @@
     "download": "https://download.jetbrains.com/webide/PhpStorm-2021.1.dmg",
     "id": "phpstorm",
     "identifier": "com.jetbrains.PhpStorm",
+    "processes": null,
     "sha256": "3e79bb5617623a7e4e9516affb320aa82c10ec10c386011db18c72585ef83565",
     "symlink": null,
     "version": "2021.1",

@@ -10,6 +10,7 @@
     "download": "https://github.com/ninxsoft/MacUserGenerator/releases/download/v0.3/MacUserGenerator-0.3.dmg",
     "id": "macusergenerator",
     "identifier": "com.ninxsoft.MacUserGenerator",
+    "processes": null,
     "sha256": "ff1a66ccc10fcab3ba5cdcfd2beabd9ba12a016ff7844877d3247534a98e63a0",
     "symlink": null,
     "version": "0.3",

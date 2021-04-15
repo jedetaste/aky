@@ -10,6 +10,7 @@
     "download": "https://updates.thycotic.net/secretserver/mobile/latestversion/ThycoticPAM.dmg",
     "id": "thycoticpam",
     "identifier": "com.nw-builder.thycoticpam",
+    "processes": null,
     "sha256": "e63634c8a3749dc1ecac4628a92bd9b5566d1a224b8bea9c92a972939ed54974",
     "symlink": null,
     "version": "Version 1.5.0",

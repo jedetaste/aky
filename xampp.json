@@ -10,6 +10,7 @@
     "download": "https://www.apachefriends.org/xampp-files/8.0.3/xampp-osx-8.0.3-0-vm.dmg",
     "id": "xampp",
     "identifier": "com.bitnami.stackman",
+    "processes": null,
     "sha256": "e9886e06e3d98fe542392250628c7f937d1b1aa181513183d04c56defa542cd2",
     "symlink": null,
     "version": "1.0.3",

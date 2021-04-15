@@ -10,6 +10,7 @@
     "download": "https://www.ohanaware.com/appwrapper/appWrapper3.dmg",
     "id": "appwrapper3",
     "identifier": "com.ohanaware.appWrapper3",
+    "processes": null,
     "sha256": "95e1d6883ea8903db625040b5916e72f9ff6ad604aa658dbd665271cb9181028",
     "symlink": null,
     "version": "3.11.3",

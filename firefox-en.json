@@ -10,6 +10,7 @@
     "download": "https://releases.mozilla.org/pub/firefox/releases/87.0/mac/en-US/Firefox%2087.0.pkg",
     "id": "firefox-en",
     "identifier": "org.mozilla.firefox",
+    "processes": null,
     "sha256": "0c76c1765001501e4302baec4fe0597b43da123edc8921ada413d311a55b9fc6",
     "symlink": null,
     "version": "87.0",

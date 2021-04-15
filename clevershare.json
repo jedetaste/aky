@@ -10,6 +10,7 @@
     "download": "https://saharaplc.s3.eu-west-2.amazonaws.com/Clevershare+2+Clients/Clevershare_Mac.2.3.0.4907.dmg",
     "id": "clevershare",
     "identifier": "com.cvte.clevershare.mac",
+    "processes": null,
     "sha256": "a824945ef4e76a0ab1ce615fd1c0190ce4a6c428b0937b96bde5680926f5070b",
     "symlink": null,
     "version": "2.3.0",

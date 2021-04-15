@@ -10,6 +10,7 @@
     "download": "https://cdn-fastly.obsproject.com/downloads/obs-mac-26.1.2.dmg",
     "id": "obs",
     "identifier": "com.obsproject.obs-studio",
+    "processes": null,
     "sha256": "42b852a5f23c5fd20d7a3ec444d6e5632fc92a63d3c8546aa6267ee6ad2f085d",
     "symlink": null,
     "version": "26.1.2",

@@ -10,6 +10,7 @@
     "download": "https://www.sonos.com/en/redir/controller_software_mac2",
     "id": "sonos",
     "identifier": "com.sonos.macController2",
+    "processes": null,
     "sha256": "f4a0112cbd5b8340ca25e6349daa8000690dd80f182702bdc399787e0e861101",
     "symlink": null,
     "version": "13.0",

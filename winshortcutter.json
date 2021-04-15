@@ -9,6 +9,7 @@
     "download": "http://www.lobotomo.com/products/downloads/WinShortcutter%203.6.dmg",
     "id": "winshortcutter",
     "identifier": "com.fribi.WinShortcutter",
+    "processes": null,
     "sha256": "5e1157d4d2b52a11fa4e4ceb832b08a34ec874eb785dfc6d6096ac4256a2ef3f",
     "symlink": null,
     "version": "3.6",

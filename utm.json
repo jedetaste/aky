@@ -10,6 +10,7 @@
     "download": "https://github.com/utmapp/UTM/releases/download/v2.0.25/UTM.dmg",
     "id": "utm",
     "identifier": "com.utmapp.UTM",
+    "processes": null,
     "sha256": "f0c5f47ac0ac4bf996872a56c6a220a7c6ef992b909e7ea7ba8a2506cf7121bd",
     "symlink": null,
     "version": "2.0.25",

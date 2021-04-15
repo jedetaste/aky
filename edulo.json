@@ -10,6 +10,7 @@
     "download": "https://management.edulo.com/Edulo.dmg",
     "id": "edulo",
     "identifier": "com.electron.edulo",
+    "processes": null,
     "sha256": "a9c14686e5fa351ae9287c15c9e01d0b2dbdee0de850d5a04477c2b6b7d8dec9",
     "symlink": null,
     "version": "1.2",

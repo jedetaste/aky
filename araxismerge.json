@@ -10,6 +10,7 @@
     "download": "https://www.araxis.com/download/Merge2021.5533-macOS.dmg",
     "id": "araxismerge",
     "identifier": "com.araxis.merge",
+    "processes": null,
     "sha256": "68decc2188cf75a2aec1f6f75ce7edfd1c4d7e588d47cdb677478eddeffab3b2",
     "symlink": null,
     "version": "2021.5533",

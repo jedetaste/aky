@@ -10,6 +10,7 @@
     "download": "https://desktop.docker.com/mac/stable/amd64/62916/Docker.dmg",
     "id": "docker",
     "identifier": "com.docker.docker",
+    "processes": null,
     "sha256": "d533aa7d4a4a00d49bb78f4488535e577d7674292538c59769daa61e9bff1109",
     "symlink": null,
     "version": "3.3.0",

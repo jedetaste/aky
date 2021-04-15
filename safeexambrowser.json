@@ -11,6 +11,7 @@
     "id": "safeexambrowser",
     "identifier": "org.safeexambrowser.Safe-Exam-Browser",
     "internal": "true",
+    "processes": null,
     "sha256": "64bab7f36fa660cc95a692246d8bf446655d6a2b203837652b07aa783a1a6030",
     "symlink": null,
     "version": "2.3.2",

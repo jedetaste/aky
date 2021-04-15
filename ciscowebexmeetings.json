@@ -9,6 +9,7 @@
     "download": "https://akamaicdn.webex.com/client/webexapp.dmg",
     "id": "ciscowebexmeetings",
     "identifier": "com.cisco.Cisco Webex Meetings",
+    "processes": null,
     "sha256": "8dbdfb8ca5c1ac0eeef6dba117861e0bdb49df35e9159bdcd786a533b876a67d",
     "symlink": null,
     "version": "41.4.4.10",

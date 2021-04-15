@@ -10,6 +10,7 @@
     "download": "https://sourceforge.net/projects/kompozer/files/current/0.8b3/macosx/kompozer-0.8b3.lt.mac-universal.dmg/download",
     "id": "kompozer",
     "identifier": "org.mozilla.kompozer",
+    "processes": null,
     "sha256": "d749351bde9aea677e5f26453410a01434c3582fd763df238455ddd54dda1196",
     "symlink": null,
     "version": "0.8b3",

@@ -10,6 +10,7 @@
     "download": "https://sourceforge.net/projects/scribus/files/scribus/1.4.8/scribus-1.4.8.dmg/download",
     "id": "scribus",
     "identifier": "net.scribus",
+    "processes": null,
     "sha256": "9626c35ca5de5da59ac983efac3572318d327b3a921522c9f80a525b039a0af5",
     "symlink": null,
     "version": "1.4.8",

@@ -10,6 +10,7 @@
     "download": "https://basepackages.vnc.biz/electron/HINTalk.dmg",
     "id": "hintalk",
     "identifier": "de.vnc-uxf-portal.app",
+    "processes": null,
     "sha256": "71c66db04078496b045b8cf186d8ffbf1dc049abcebda8df4995f78c8083e3a1",
     "symlink": null,
     "version": "2021041401",

@@ -10,6 +10,7 @@
     "download": "https://binaries.webex.com/jabberclientmac/20200710062404/Install_Cisco-Jabber-Mac.pkg",
     "id": "ciscojabber",
     "identifier": "com.cisco.Jabber",
+    "processes": null,
     "sha256": "41c70fc9dc30ad04ccfb1c06c2ee1416bb09fccfb0f38b7c37166b78cde195e7",
     "symlink": null,
     "version": "12.9.0",

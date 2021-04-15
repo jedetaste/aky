@@ -10,6 +10,7 @@
     "download": "https://download.dnsfilter.com/User_Agent/MacOS/DNS%20Agent-Installer.pkg",
     "id": "dnsagent",
     "identifier": "io.netalerts.agent.macos",
+    "processes": null,
     "sha256": "0180ba77a914a2e1c8ab83705ccecdb7579c7605c6e204e6d38d1991750737df",
     "symlink": null,
     "version": "1.3.1",

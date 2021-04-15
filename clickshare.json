@@ -10,6 +10,7 @@
     "download": "https://www.barco.com/services/website/en/TdeFiles/Download?FileNumber=R3306192&amp;TdeType=3&amp;MajorVersion=04&amp;MinorVersion=13&amp;PatchVersion=00&amp;BuildVersion=012&amp;ShowDownloadPage=False",
     "id": "clickshare",
     "identifier": "com.barco.clickshare.updater",
+    "processes": null,
     "sha256": "63bc2be25e497d0cb14ed1ab11b47872108e64c82c271ab81726f1296e82d3cb",
     "symlink": null,
     "version": "4.13.0-b12",

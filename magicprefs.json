@@ -10,6 +10,7 @@
     "download": "http://magicprefs.com/MagicPrefs.app.zip",
     "id": "magicprefs",
     "identifier": "com.vladalexa.MagicPrefs",
+    "processes": null,
     "sha256": "59b993388787a80c831d4824766b646d0d65bd2e7c4cd1f9ae7d2b875400f49d",
     "symlink": null,
     "version": "2.4.3",

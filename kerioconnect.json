@@ -10,6 +10,7 @@
     "download": "https://app-update.kerio.com/connect/client/download?target=darwin-x64",
     "id": "kerioconnect",
     "identifier": "com.Kerio-Connect",
+    "processes": null,
     "sha256": "559c734f7126e05a0e9ddfc9be98181792ca42f90f9aa0edac6e91db58d1ce77",
     "symlink": null,
     "version": "9.3.1.16367",

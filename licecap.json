@@ -10,6 +10,7 @@
     "download": "https://www.cockos.com/licecap/licecap131.dmg",
     "id": "licecap",
     "identifier": "com.cockos.LICEcap",
+    "processes": null,
     "sha256": "704cd237b261d355b1ed86f19f286a5a5ad7581ef563cb1c84a5df1266b48f2d",
     "symlink": null,
     "version": "1.31",

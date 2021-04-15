@@ -10,6 +10,7 @@
     "download": "https://github.com/homebysix/recipe-robot/releases/download/v2.2.0/RecipeRobot-2.2.0.dmg",
     "id": "reciperobot",
     "identifier": "com.elliotjordan.recipe-robot",
+    "processes": null,
     "sha256": "ed1596f2923c164309545fbd40794e91924f0d02cfbb5b6e7cb3f41179eaa69b",
     "symlink": null,
     "version": "2.2.0",

@@ -10,6 +10,7 @@
     "download": "https://msbingadseditor.blob.core.windows.net/production-mac/c/MicrosoftAdvertisingEditor.dmg",
     "id": "microsoftadvertisingeditor",
     "identifier": "Microsoft.AdvertisingDesktop.BingAdsEditor",
+    "processes": null,
     "sha256": "26fa85e4836a927705eb2b6f0b42b9751924dc44c387909481879735c0cc1a0e",
     "symlink": null,
     "version": "11.29.10732.53000",

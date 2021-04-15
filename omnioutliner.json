@@ -10,6 +10,7 @@
     "download": "https://downloads.omnigroup.com/software/MacOSX/10.14/OmniOutliner-5.8.3.dmg",
     "id": "omnioutliner",
     "identifier": "com.omnigroup.OmniOutliner5",
+    "processes": null,
     "sha256": "e6b889949b2b1c1355b1c83b5c63e56ad3f27efdb10ff9228e37f40755df0865",
     "symlink": null,
     "version": "5.8.3",

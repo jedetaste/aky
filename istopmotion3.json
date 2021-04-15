@@ -10,6 +10,7 @@
     "download": "https://cdn.boinx.com/software/istopmotion/Boinx_iStopMotion_3.8.2-16057.app.zip",
     "id": "istopmotion3",
     "identifier": "com.boinx.iStopMotion3",
+    "processes": null,
     "sha256": "eb31319488346e12d6f95b7be9d61d911eaaf0228f22b6053ee0be8f6902f520",
     "symlink": null,
     "version": "3.8.2",

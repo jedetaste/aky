@@ -10,6 +10,7 @@
     "download": "https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/releases/download/v3.6.1/nrfconnect-3.6.1.dmg",
     "id": "nrfconnect",
     "identifier": "com.nordicsemi.nrfconnect",
+    "processes": null,
     "sha256": "27589e37e9fa56a67301d645e1b05f57d347e78b90b9fa12d112d868546691cf",
     "symlink": null,
     "version": "3.6.1",

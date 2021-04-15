@@ -10,6 +10,7 @@
     "download": "http://media.codeweavers.com/pub/crossover/cxmac/demo/crossover-20.0.4.zip",
     "id": "crossover",
     "identifier": "com.codeweavers.CrossOver",
+    "processes": null,
     "sha256": "739a977881e2b7969cf9aa044214da2747a798869c65bd383dbdf1aa269903dc",
     "symlink": null,
     "version": "20.0.4",

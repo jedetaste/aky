@@ -9,6 +9,7 @@
     "download": "http://cdn.matchware.com/demos/mindview7mac_en.dmg",
     "id": "mindview",
     "identifier": "com.matchware.MindView7",
+    "processes": null,
     "sha256": "1fbbf26d3924d90cd2c0b17c0360500c31a795456df03eecaf9f0e21adb87923",
     "symlink": null,
     "version": "7.2.8",

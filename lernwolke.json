@@ -10,6 +10,7 @@
     "download": "https://download.lernwolke.ch/mac_os/Lernwolke_1.0.0.dmg",
     "id": "lernwolke",
     "identifier": "com.lernwolke.lernwolkemac",
+    "processes": null,
     "sha256": "78cd97d3fd579ac6b18b9c57275d5d63921b8c8c24cffb88bc2fe7a8c280162e",
     "symlink": null,
     "version": "1.0.0",

@@ -10,6 +10,7 @@
     "download": "https://github.com/jamf/Jamf-Environment-Test/releases/download/1.4/Jamf.Environment.Test.zip",
     "id": "jamfenvironmenttest",
     "identifier": "org.jamfse.jet",
+    "processes": null,
     "sha256": "ed37ac15bdae92d733a0dfef6859cd88fcddf0d6ab9aa6a1036ab153e7366ad1",
     "symlink": null,
     "version": "1.4",

@@ -9,6 +9,7 @@
     "download": "https://download.brother.com/welcome/dlfh101812/BrotherCanvasWorkspace.pkg",
     "id": "canvasworkspace",
     "identifier": "com.brother.canvasworkspace",
+    "processes": null,
     "sha256": "c372e094a925ab430ab54e9e46def4996f340d75385a16b4048ba04074a667e9",
     "symlink": null,
     "version": "2.4.0",

@@ -10,6 +10,7 @@
     "download": "https://download-cdn.getsync.com/stable/osx/Resilio-Sync.dmg",
     "id": "resiliosync",
     "identifier": "com.resilio.Sync",
+    "processes": null,
     "sha256": "be40c064b28284630b47a887923d815256af550acd85722960bafea7c2722c52",
     "symlink": null,
     "version": "2.7.2",

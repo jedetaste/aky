@@ -10,6 +10,7 @@
     "download": "https://github.com/jamf/ReEnroller/releases/download/current/ReEnroller.zip",
     "id": "reenroller",
     "identifier": "com.jamf.pse.ReEnroller",
+    "processes": null,
     "sha256": "f0136a4e7d3af568aa3085bd1fb9b660dd1e71bdaab80720a52bb3d318fe46d6",
     "symlink": null,
     "version": "5.5.2",

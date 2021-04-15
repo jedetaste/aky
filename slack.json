@@ -10,6 +10,7 @@
     "download": "https://slack.com/ssb/download-osx",
     "id": "slack",
     "identifier": "com.tinyspeck.slackmacgap",
+    "processes": null,
     "sha256": "d4c8a8d0f5d5093ce67a88ab79601de682e0c9fc60b9b3f5d791d9e38082ae8a",
     "symlink": null,
     "version": "4.15.0",

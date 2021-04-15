@@ -10,6 +10,7 @@
     "download": "https://www.boxcryptor.com/l/download-macosx",
     "id": "boxcryptor",
     "identifier": "com.boxcryptor.osx",
+    "processes": null,
     "sha256": "b4acc528180493292a964ca1db457bad4f0d56764d1826488cbae251c0398214",
     "symlink": null,
     "version": "2.40.1234",

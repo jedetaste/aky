@@ -10,6 +10,7 @@
     "download": "https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal",
     "id": "visualstudiocode",
     "identifier": "com.microsoft.VSCode",
+    "processes": null,
     "sha256": "63d9d4c96c3d05d28ae5840dadf56e069a9374d8b34757eb79cfe9aecdcd7e5d",
     "symlink": null,
     "version": "1.55.2",

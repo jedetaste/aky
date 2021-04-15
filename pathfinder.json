@@ -10,6 +10,7 @@
     "download": "https://get.cocoatech.com/PF9.dmg",
     "id": "pathfinder",
     "identifier": "com.cocoatech.PathFinder",
+    "processes": null,
     "sha256": "3a577025c00384880636085b00c401b200aab23491c03b35417e960d06930c7d",
     "symlink": null,
     "version": "9.4",

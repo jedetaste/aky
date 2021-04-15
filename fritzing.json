@@ -10,6 +10,7 @@
     "download": "https://github.com/fritzing/fritzing-app/releases/download/CD-548/fritzing-3d61c58421bdb63ca903bb5d11310a257f1ec0ed-develop-548.mojave.10.2.dmg",
     "id": "fritzing",
     "identifier": "org.fritzing.Fritzing",
+    "processes": null,
     "sha256": "e991b66628730ee52334ea307a42a32fd27cbd66904ef5e4e76815cf37594cef",
     "symlink": null,
     "version": "0.9.5d",

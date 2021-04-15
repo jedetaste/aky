@@ -10,6 +10,7 @@
     "download": "https://www.sparklabs.com/downloads/Viscosity.dmg",
     "id": "viscosity",
     "identifier": "com.viscosityvpn.Viscosity",
+    "processes": null,
     "sha256": "7f076785e462b9d53235ae7f0eaf3a03b5a3a3e6403fe784566d7bc3c1a9851a",
     "symlink": null,
     "version": "1.9.2",

@@ -10,6 +10,7 @@
     "download": "https://download.jetbrains.com/python/pycharm-community-2021.1.dmg",
     "id": "pycharmce",
     "identifier": "com.jetbrains.pycharm",
+    "processes": null,
     "sha256": "9a9c900659a58c86563fee1dbdeef429b36fcbdb84f31f206f612c8053fbd9cf",
     "symlink": null,
     "version": "2021.1",

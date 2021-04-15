@@ -10,6 +10,7 @@
     "download": "http://downloads.collectorz.com/bookcollectorsetup.dmg",
     "id": "bookcollector",
     "identifier": "com.collectorz.com.Book-Collector",
+    "processes": null,
     "sha256": "e30dcc7c803297fe19ec1b5a0e33e367e08e725ed2fa469a1684ebcd9f66a554",
     "symlink": null,
     "version": "20.3.1",

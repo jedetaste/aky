@@ -10,6 +10,7 @@
     "download": "https://adedownload.adobe.com/pub/adobe/digitaleditions/ADE_4.5_Installer.dmg",
     "id": "adobedigitaleditions",
     "identifier": "com.adobe.adobedigitaleditions.app",
+    "processes": null,
     "sha256": "",
     "symlink": null,
     "version": "4.5.11",

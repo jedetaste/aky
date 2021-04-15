@@ -10,6 +10,7 @@
     "download": "https://europe.content.twixlmedia.com/twixl-downloads/twixl_publisher_15.2_36883.zip",
     "id": "twixlpublisher",
     "identifier": "com.twixlmedia.publisher.mac",
+    "processes": null,
     "sha256": "b61252879e6c79e15b30b21208d26b367d0564f4ef93793d9ecfedac040a65fb",
     "symlink": null,
     "version": "15.2",

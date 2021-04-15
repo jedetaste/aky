@@ -10,6 +10,7 @@
     "download": "https://dl.google.com/drive/InstallBackupAndSync.dmg",
     "id": "backupandsync",
     "identifier": "com.google.GoogleDrive",
+    "processes": null,
     "sha256": "c92e9bd002aad696db9553b107db5598ea96c3d69971035c4e5e768ae9f066cf",
     "symlink": null,
     "version": "3.54",
