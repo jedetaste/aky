@@ -10,7 +10,9 @@
     "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.48.21041102_Updater.pkg",
     "id": "microsoftoutlook",
     "identifier": "com.microsoft.Outlook",
-    "processes": null,
+    "processes": [
+      "Microsoft Outlook"
+    ],
     "sha256": "547bc56bbf0d8d681e7f827960dbd8a9c4406398b84afcfe2226fe1c3a2326f1",
     "symlink": null,
     "version": "16.48.21041102",
