@@ -10,9 +10,7 @@
     "download": "https://github.com/lensapp/lens/releases/download/v4.2.1/Lens-4.2.1.dmg",
     "id": "lens",
     "identifier": "com.electron.kontena-lens",
-    "processes": [
-      "Lens"
-    ],
+    "processes": null,
     "sha256": "edd299988416a471012618e70df1066bb2425fa3ea9e7ab3853e8f0186449b49",
     "symlink": null,
     "version": "4.2.1",
