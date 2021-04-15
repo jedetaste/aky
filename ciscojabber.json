@@ -7,13 +7,13 @@
     "bundle": "Cisco Jabber.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://binaries.webex.com/jabberclientmac/20200710062404/Install_Cisco-Jabber-Mac.pkg",
+    "download": "https://binaries.webex.com/jabberclientmac/20210329103527/Install_Cisco-Jabber-Mac.pkg",
     "id": "ciscojabber",
     "identifier": "com.cisco.Jabber",
     "processes": null,
-    "sha256": "41c70fc9dc30ad04ccfb1c06c2ee1416bb09fccfb0f38b7c37166b78cde195e7",
+    "sha256": "0eb4324310ba8f55d12d7cc5b6a89ec1ab071ab774d31b0aa833f7d89fed5206",
     "symlink": null,
-    "version": "12.9.0",
+    "version": "14.0.0",
     "web": "https://www.webex.com/downloads/jabber.html"
   }
 }
