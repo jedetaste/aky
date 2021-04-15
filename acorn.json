@@ -10,6 +10,7 @@
     "download": "https://flyingmeat.com/download/Acorn.zip",
     "id": "acorn",
     "identifier": "com.flyingmeat.Acorn6",
+    "processes": null,
     "sha256": "32fc1ee10bdcf701b5f9433198b49d8bbc38230cfa012bb371a3d4fb27018c2f",
     "symlink": null,
     "version": "7.0.2",
