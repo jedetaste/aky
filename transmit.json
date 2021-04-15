@@ -7,13 +7,13 @@
     "bundle": "Transmit.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://panic.com/download/transmit/Transmit%205.7.3.zip",
+    "download": "https://panic.com/download/transmit/Transmit%205.7.4.zip",
     "id": "transmit",
     "identifier": "com.panic.Transmit",
     "processes": null,
-    "sha256": "56da5ad9421d067f2eee534b171a87fb21c1397ab45ed5f0ae878d79340e4893",
+    "sha256": "7706072f43f615b83ba2e227bcd6e0a79f3eb15363d0b6ce982a4729c6dc28bd",
     "symlink": null,
-    "version": "5.7.3",
+    "version": "5.7.4",
     "web": "https://panic.com/transmit/"
   }
 }
