@@ -10,6 +10,7 @@
     "download": "https://adiumx.cachefly.net/Adium_1.5.10.4.dmg",
     "id": "adium",
     "identifier": "com.adiumX.adiumX",
+    "processes": null,
     "sha256": "31fa3fd32b86dd3381b60e0d5aafbc2a9452036f0fb4963bffbc2a6c64a9458b",
     "symlink": null,
     "version": "1.5.10.4",
