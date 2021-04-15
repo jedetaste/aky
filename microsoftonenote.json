@@ -10,7 +10,9 @@
     "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.48.21041102_Updater.pkg",
     "id": "microsoftonenote",
     "identifier": "com.microsoft.onenote.mac",
-    "processes": null,
+    "processes": [
+      "Microsoft OneNote"
+    ],
     "sha256": "3f408b0045ec2df2e5040516d3bd9e075eb83f449a47b1a3c3dd68c4fcb4a8e1",
     "symlink": null,
     "version": "16.48.21041102",
