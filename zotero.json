@@ -7,13 +7,13 @@
     "bundle": "Zotero.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.zotero.org/download/client/dl?channel=release&platform=mac&version=5.0.96.1",
+    "download": "https://www.zotero.org/download/client/dl?channel=release&platform=mac&version=5.0.96.2",
     "id": "zotero",
     "identifier": "org.zotero.zotero",
     "processes": null,
-    "sha256": "7813ba51147ba44cc56a47b3326852b524c6d78eea967fa88e6291e393855a7c",
+    "sha256": "b9993191cbf89d62b9be543ed7fab933402113cee9b30d3eded487944619309e",
     "symlink": null,
-    "version": "5.0.96.1",
+    "version": "5.0.96.2",
     "web": "https://www.zotero.org/"
   }
 }
