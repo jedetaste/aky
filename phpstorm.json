@@ -7,13 +7,13 @@
     "bundle": "PhpStorm.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download.jetbrains.com/webide/PhpStorm-2021.1.dmg",
+    "download": "https://download.jetbrains.com/webide/PhpStorm-2021.1.1.dmg",
     "id": "phpstorm",
     "identifier": "com.jetbrains.PhpStorm",
     "processes": null,
-    "sha256": "3e79bb5617623a7e4e9516affb320aa82c10ec10c386011db18c72585ef83565",
+    "sha256": "94df67e2fb8c2c63ae5d221c4c7d129e56fd959a1b6fd1e1a97c5d23a8272d83",
     "symlink": null,
-    "version": "2021.1",
+    "version": "2021.1.1",
     "web": "https://www.jetbrains.com/phpstorm/"
   }
 }
