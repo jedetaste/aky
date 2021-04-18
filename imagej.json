@@ -6,7 +6,7 @@
     },
     "bundle": "ImageJ.app",
     "dir": "/Applications",
-    "download": "http://wsr.imagej.net/distros/osx/ij153-osx-java8.zip",
+    "download": "https://wsr.imagej.net/distros/osx/ij153-osx-java8.zip",
     "id": "imagej",
     "identifier": "ImageJ",
     "processes": null,
