@@ -1,8 +1,8 @@
 {
   "recipe": {
     "appcast": {
-      "checkpoint": "6cf76bbadac10ec2a5681be6af619804d83d59d75f52293c01df03a8aaeefaa5",
-      "url": "https://support.techsmith.com/hc/en-us/articles/115006624748-Camtasia-Mac-Version-History"
+      "checkpoint": null,
+      "url": null
     },
     "bundle": "Camtasia 2020.app",
     "dir": "/Applications",
@@ -10,9 +10,10 @@
     "id": "camtasia",
     "identifier": "com.techsmith.camtasia2020",
     "processes": null,
-    "sha256": null,
+    "sha256": "6fbef3792e0364e09afa4f87f2b94e3f1119a39b0f72abe10c495b1c7fc5ce57",
     "symlink": null,
     "version": "2020.0.18",
-    "web": "https://www.techsmith.com/camtasia.html"
+    "web": "https://www.techsmith.com/camtasia.html",
+    "ci": "true"
   }
 }
