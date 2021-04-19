@@ -7,13 +7,13 @@
     "bundle": "Firefox.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://releases.mozilla.org/pub/firefox/releases/87.0/mac/en-US/Firefox%2087.0.pkg",
+    "download": "https://releases.mozilla.org/pub/firefox/releases/88.0/mac/en-US/Firefox%2088.0.pkg",
     "id": "firefox-en",
     "identifier": "org.mozilla.firefox",
     "processes": null,
-    "sha256": "0c76c1765001501e4302baec4fe0597b43da123edc8921ada413d311a55b9fc6",
+    "sha256": "92cf404b8be9907306ecfa58272e63abb42213f37698e720fe5ac74793b128d1",
     "symlink": null,
-    "version": "87.0",
+    "version": "88.0",
     "web": "https://www.mozilla.org/firefox/"
   }
 }
