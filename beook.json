@@ -7,11 +7,11 @@
     "bundle": "beook.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://beook.ch/downloads/setup/mac64/beook_mac64_install_7.0.1.pkg",
+    "download": "https://beook.ch/downloads/setup/mac64/beook_mac64_install_7.0.2.pkg",
     "id": "beook",
     "identifier": "beook",
     "processes": null,
-    "sha256": "23637cebe91ea691ae8c49af17dac4599e7971da028d5319fbfd7936b7f3efd9",
+    "sha256": "942b6daa0abf64ddd72e5f820dae34c2b192e663ce8b0c8db3def59b53369b4b",
     "symlink": null,
     "version": "6.0",
     "web": "https://beook.ch/"
