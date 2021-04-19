@@ -6,13 +6,13 @@
     },
     "bundle": "PrusaSlicer.app",
     "dir": "/Applications",
-    "download": "https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.3.0-rc2/PrusaSlicer-2.3.0-rc2+-202012221629.dmg",
+    "download": "https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.3.1-rc/PrusaSlicer-2.3.1-rc+universal-202104140900.dmg",
     "id": "prusaslicer",
     "identifier": "com.prusa3d.slic3r/",
     "processes": null,
-    "sha256": "9bc4219e8a33c1825d74540e69824882fe3474a2f8fe017ef5978a5f774b6e0a",
+    "sha256": "2a1e01a6fc33f9e8f1fd373b9b0e26a0a5fe00146c1e23f8bd20db7f6299b145",
     "symlink": null,
-    "version": "PrusaSlicer PrusaSlicer-2.3.0-rc2+-202012221629",
+    "version": "PrusaSlicer PrusaSlicer-2.3.1-rc+x64-202104140900",
     "web": "https://www.prusa3d.com/slic3r-prusa-edition/"
   }
 }
