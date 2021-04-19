@@ -7,13 +7,13 @@
     "bundle": "Bartender 3.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://macbartender.com/B2/updates/4-0-41/Bartender%204.zip",
+    "download": "https://macbartender.com/B2/updates/4-0-48/Bartender%204.zip",
     "id": "bartender",
     "identifier": "com.surteesstudios.Bartender",
     "processes": null,
-    "sha256": "e18b4c306ec53bc8155b3160d198ad715a90e80b64c18bebc6b019fe470fdade",
+    "sha256": "3e057e6052f4db6068d68f0d0ffd4df0a1d4967750985da13f81183cd9ad6a6a",
     "symlink": null,
-    "version": "4.0.41",
+    "version": "4.0.48",
     "web": "https://www.macbartender.com/"
   }
 }
