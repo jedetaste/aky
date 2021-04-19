@@ -7,13 +7,13 @@
     "bundle": "Firefox.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://releases.mozilla.org/pub/firefox/releases/78.9.0esr/mac/en-US/Firefox%2078.9.0esr.pkg",
+    "download": "https://releases.mozilla.org/pub/firefox/releases/78.10.0esr/mac/en-US/Firefox%2078.10.0esr.pkg",
     "id": "firefoxesr-en",
     "identifier": "org.mozilla.firefox",
     "processes": null,
-    "sha256": "4a7baf4d54cbf7deefd4f1e1d0904abcbc1f22be535aa0d57c9c1723e0663427",
+    "sha256": "e7bbeb2b4965f0857381dec5a72bdcf8acf086c59e7ba7a6de028181e4e22686",
     "symlink": null,
-    "version": "78.9.0",
+    "version": "78.10.0",
     "web": "https://www.mozilla.org/firefox/organizations/"
   }
 }
