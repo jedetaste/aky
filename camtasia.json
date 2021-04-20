@@ -5,6 +5,7 @@
       "url": null
     },
     "bundle": "Camtasia 2020.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://download.techsmith.com/camtasiamac/releases/Camtasia.dmg",
     "id": "camtasia",
@@ -13,7 +14,6 @@
     "sha256": "6fbef3792e0364e09afa4f87f2b94e3f1119a39b0f72abe10c495b1c7fc5ce57",
     "symlink": null,
     "version": "2020.0.18",
-    "web": "https://www.techsmith.com/camtasia.html",
-    "ci": "true"
+    "web": "https://www.techsmith.com/camtasia.html"
   }
 }
