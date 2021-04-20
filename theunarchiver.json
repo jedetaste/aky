@@ -7,13 +7,13 @@
     "bundle": "The Unarchiver.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://dl.devmate.com/com.macpaw.site.theunarchiver/131/1605625663/TheUnarchiver-131.zip",
+    "download": "https://dl.devmate.com/com.macpaw.site.theunarchiver/132/1618399262/TheUnarchiver-132.zip",
     "id": "theunarchiver",
     "identifier": "com.macpaw.site.theunarchiver",
     "processes": null,
-    "sha256": "75524096a35fb4dcc8e9f16b162d52ee6c4e8101878c18b5a02c3e37790e532c",
+    "sha256": "3482937a20df7561dbaf7d3fffafc5b5cf49ab863f409f919055b7bfa4d3ee5d",
     "symlink": null,
-    "version": "4.2.4",
+    "version": "4.3.0",
     "web": "https://theunarchiver.com/"
   }
 }
