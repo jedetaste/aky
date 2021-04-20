@@ -7,13 +7,13 @@
     "bundle": "install4j.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download-gcdn.ej-technologies.com/install4j/install4j_macos_9_0_1.dmg",
+    "download": "https://download-gcdn.ej-technologies.com/install4j/install4j_macos_9_0_2.dmg",
     "id": "install4j",
     "identifier": "com.install4j.5102-5576-1921-0620.2",
     "processes": null,
-    "sha256": "5dee6775393a2205d0caca8fe0a7bf4942c997a4facb3c935d1488f94c9eb20f",
+    "sha256": "02e5e2f81d72867de36e7ad17fe7273d642ae67bc003ea21482b0c871e9d41b6",
     "symlink": null,
-    "version": "9.0.1",
+    "version": "9.0.2",
     "web": "https://www.ej-technologies.com/products/install4j/overview.html"
   }
 }
