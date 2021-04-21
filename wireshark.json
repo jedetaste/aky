@@ -7,14 +7,14 @@
     "bundle": "Wireshark.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Wireshark-3.4.4.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Wireshark-3.4.5.pkg",
     "id": "wireshark",
     "identifier": "org.wireshark.Wireshark",
     "internal": "true",
     "processes": null,
-    "sha256": "fe0cc389716166bf113b2bdcd498551d9498e40fd0eae7cba0ca09dc1d9ac117",
+    "sha256": "f68cd23dafb7630e6ba5857a371eeb2536d394bd07467b8f77c1d5aa9f75244d",
     "symlink": null,
-    "version": "3.4.4",
+    "version": "3.4.5",
     "web": "https://www.wireshark.org/"
   }
 }
