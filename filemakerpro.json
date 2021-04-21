@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "FileMaker Pro.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "filemakerpro",
+    "identifier": "com.filemaker.client.pro12",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "19.2.2",
+    "web": "https://www.claris.com/filemaker/"
+  }
+}
