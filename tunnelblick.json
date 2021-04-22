@@ -7,13 +7,13 @@
     "bundle": "Tunnelblick.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://tunnelblick.net/release/Tunnelblick_3.8.5_build_5670.dmg",
+    "download": "https://tunnelblick.net/release/Tunnelblick_3.8.5a_build_5671.dmg",
     "id": "tunnelblick",
     "identifier": "net.tunnelblick.tunnelblick",
     "processes": null,
-    "sha256": "1c7f4f441b472bfa841686dd981802caafa658b9a284e2b4c62d6918cd115bef",
+    "sha256": "88f8cd776bf237a8b1c72531cf44bf7440e3bb4f94b16a77747351014c2de3a7",
     "symlink": null,
-    "version": "5670",
+    "version": "5671",
     "web": "https://www.tunnelblick.net/"
   }
 }
