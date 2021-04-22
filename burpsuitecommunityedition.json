@@ -7,14 +7,14 @@
     "bundle": "Burp Suite Community Edition.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Burp%20Suite%20Community%20Edition-2021.4.1.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Burp%20Suite%20Community%20Edition-2021.4.2.pkg",
     "id": "burpsuitecommunityedition",
     "identifier": "com.install4j.9806-1938-4586-6531.70",
     "internal": "true",
     "processes": null,
-    "sha256": "97c25925f3f34b436144b404f36b40269fe174a6d497f512dea63d71c2d3046f",
+    "sha256": "f49902848226822ce0b96671c2be893135aae9196f3fc5976aac47157e8c50a2",
     "symlink": null,
-    "version": "2021.4.1",
+    "version": "2021.4.2",
     "web": "https://portswigger.net/burp/"
   }
 }
