@@ -11,9 +11,9 @@
     "id": "zoom",
     "identifier": "us.zoom.xos",
     "processes": null,
-    "sha256": "1349a24dae44cdfc9ca39300ed032fd3e578d2e813076ecbdceac2b97048b109",
+    "sha256": "f5656a6ba002cddfbf360df5c9ea27ab295643d1fd0fe69b413d3c99263de14b",
     "symlink": null,
-    "version": "5.6.3 (706)",
+    "version": "5.6.4 (765)",
     "web": "https://www.zoom.us/"
   }
 }
