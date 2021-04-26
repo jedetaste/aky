@@ -1,12 +1,12 @@
 {
   "recipe": {
     "appcast": {
-      "checkpoint": "77353b5d593276ae302540f868436bb6c811ae5f2955600d6b6cfc1f855792a8",
+      "checkpoint": "c86066afaec49cc475fe83e65022ffa22101260bb6facc7b780d144e01413163",
       "url": "https://github.com/FreeCAD/FreeCAD/releases.atom"
     },
     "bundle": "FreeCAD.app",
     "dir": "/Applications",
-    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.19.1/FreeCAD_0.19-24276-macOS-x86_64-conda.dmg",
+    "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.19.2/FreeCAD_0.19-24276-macOS-x86_64-conda.dmg",
     "id": "freecad",
     "identifier": null,
     "processes": null,
