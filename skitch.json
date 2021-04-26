@@ -7,13 +7,13 @@
     "bundle": "Skitch.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://evernote.com/download/get.php?file=SkitchMac",
+    "download": "https://evernote.s3.amazonaws.com/skitch/mac/release/Skitch-2.9.zip",
     "id": "skitch",
     "identifier": "com.skitch.skitch",
     "processes": null,
-    "sha256": "df1a51d7bf4e762effe8ec1f08324748dbb5fed00a5ea1fd8f8b5717047dc4d9",
+    "sha256": "8757600d471ed0cac2cc4242c44f1a3c6f1fffe934037845d23392fc5eb81712",
     "symlink": null,
-    "version": "2.8.1",
+    "version": "2.9",
     "web": "https://evernote.com/products/skitch"
   }
 }
