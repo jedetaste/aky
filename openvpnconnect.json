@@ -10,9 +10,10 @@
     "id": "openvpnconnect",
     "identifier": "org.openvpn.client.app",
     "processes": null,
-    "sha256": null,
+    "sha256": "14a6dcf31b3198edab6a8a06213dfa9174155715d0f8e420c2ebb31e34f1af02",
     "symlink": null,
     "version": "3.2.7",
-    "web": "https://openvpn.net/client-connect-vpn-for-mac-os/"
+    "web": "https://openvpn.net/client-connect-vpn-for-mac-os/",
+    "ci": "true"
   }
 }
