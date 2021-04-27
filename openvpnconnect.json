@@ -6,7 +6,7 @@
     },
     "bundle": "OpenVPN Connect.app",
     "dir": "/Applications/OpenVPN Connect",
-    "download": null,
+    "download": "https://swupdate.openvpn.net/downloads/connect/openvpn-connect-3.2.7.3220_signed.dmg",
     "id": "openvpnconnect",
     "identifier": "org.openvpn.client.app",
     "processes": null,
