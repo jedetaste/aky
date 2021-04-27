@@ -5,6 +5,7 @@
       "url": null
     },
     "bundle": "WorksheetCrafter.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://develop.getschoolcraft.com/download/2021.1.4.197/WorksheetCrafter.pkg",
     "id": "worksheetcrafter",
@@ -13,7 +14,6 @@
     "sha256": "a22ca719da634996ded1fa6fd84f237e78f5e7589dc28174d62147be32b24a93",
     "symlink": null,
     "version": "2021.1.4.197",
-    "web": "https://getschoolcraft.com/",
-    "ci": "true"
+    "web": "https://getschoolcraft.com/"
   }
 }
