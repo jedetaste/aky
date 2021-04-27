@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "Support.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "support",
+    "identifier": "nl.root3.support",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "2.1",
+    "web": "https://github.com/root3nl/SupportApp"
+  }
+}
