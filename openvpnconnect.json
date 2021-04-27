@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "OpenVPN Connect.app",
+    "dir": "/Applications/OpenVPN Connect",
+    "download": null,
+    "id": "openvpnconnect",
+    "identifier": "org.openvpn.client.app",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "3.2.7",
+    "web": "https://openvpn.net/client-connect-vpn-for-mac-os/"
+  }
+}
