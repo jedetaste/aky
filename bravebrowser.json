@@ -7,13 +7,13 @@
     "bundle": "Brave Browser.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/123.73/Brave-Browser-x64.dmg",
+    "download": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/123.75/Brave-Browser-x64.dmg",
     "id": "bravebrowser",
     "identifier": "com.brave.Browser",
     "processes": null,
-    "sha256": "94164e4a1767f57a8ca5350cd35ea1253c939b059999d0cc343f8ac7f823b29a",
+    "sha256": "08e41dd0da7867d0155a255a04c227a49431ae244c2be0dd0ec7f508eeb87bb7",
     "symlink": null,
-    "version": "90.1.23.73",
+    "version": "90.1.23.75",
     "web": "https://brave.com/"
   }
 }
