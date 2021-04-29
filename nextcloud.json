@@ -7,13 +7,13 @@
     "bundle": "nextcloud.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://github.com/nextcloud/desktop/releases/download/v3.2.0/Nextcloud-3.2.0.pkg",
+    "download": "https://github.com/nextcloud/desktop/releases/download/v3.2.1/Nextcloud-3.2.1.pkg",
     "id": "nextcloud",
     "identifier": "com.nextcloud.desktopclient",
     "processes": null,
-    "sha256": "7de5621548ed53e428579ae1a62c5475b860f83e373e2b009dd17d1f22433116",
+    "sha256": "9bd773abd8583131d4b03a5c13e3d76c29709b313cfec1ae57630c0c698ff36c",
     "symlink": null,
-    "version": "3.2.0git (build 5389)",
+    "version": "3.2.1git (build 5548)",
     "web": "https://nextcloud.com/"
   }
 }
