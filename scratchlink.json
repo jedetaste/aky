@@ -1,17 +1,17 @@
 {
   "recipe": {
-    "id": "scratchlink",
-    "bundle": "Scratch Link.app",
-    "identifier": "edu.mit.scratch.scratch-link",
-    "download": "https://downloads.scratch.mit.edu/link/mac.zip",
-    "sha256": "4e4dd51c62f0995ea43da752777df2c0fbedbc56f92f542cd15a2c42103a8226",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "checkpoint": null,
+      "url": null
     },
-    "version": "1.3.67",
+    "bundle": "Scratch Link.app",
     "dir": "/Applications",
+    "download": "https://downloads.scratch.mit.edu/link/mac.zip",
+    "id": "scratchlink",
+    "identifier": "edu.mit.scratch.scratch-link",
+    "sha256": "4e4dd51c62f0995ea43da752777df2c0fbedbc56f92f542cd15a2c42103a8226",
     "symlink": null,
+    "version": "1.3.67",
     "web": "https://scratch.mit.edu/ev3"
   }
 }
