@@ -7,11 +7,11 @@
     "bundle": "Chromium.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Mac/877847/chrome-mac.zip",
+    "download": "https://commondatastorage.googleapis.com/chromium-browser-snapshots/Mac/877894/chrome-mac.zip",
     "id": "chromium",
     "identifier": "org.chromium.Chromium",
     "processes": null,
-    "sha256": "38d63a7bb0dfdf24dcf20ee217caef5dbe4a72089af5b33ab416a6fdace78c4a",
+    "sha256": "e6dbc9a97135e261e423e814de7a7f052a5810320b14908a1b6cfe829458669f",
     "symlink": null,
     "version": "92.0.4494.0",
     "web": "https://www.chromium.org/"
