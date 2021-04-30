@@ -7,13 +7,13 @@
     "bundle": "IPSecuritas.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://lobotomo.com/download/ipsecuritas-5.0.dmg",
+    "download": "https://lobotomo.com/download/ipsecuritas-5.0.1.dmg",
     "id": "ipsecuritas",
     "identifier": null,
     "processes": null,
-    "sha256": "874f25ba7e5819ddc738a198584c3120ede20157afb13b9e728c8d6e0b1d75d4",
+    "sha256": "b58bc8f3583a34287a3b1987dec37b89fc30eabce54523aaa37f8b21e6390190",
     "symlink": null,
-    "version": "4722",
+    "version": "4820",
     "web": "https://www.lobotomo.com/products/IPSecuritas/"
   }
 }
