@@ -5,6 +5,7 @@
       "url": null
     },
     "bundle": "Support.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://github.com/root3nl/SupportApp/releases/download/v2.1/Support.2.1.pkg",
     "id": "support",
@@ -13,7 +14,6 @@
     "sha256": "6d436259c3481861c90f9ead8079b50a69502a197faa089942aa4d8124058d30",
     "symlink": null,
     "version": "2.1",
-    "web": "https://github.com/root3nl/SupportApp",
-    "ci": "true"
+    "web": "https://github.com/root3nl/SupportApp"
   }
 }
