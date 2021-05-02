@@ -7,14 +7,14 @@
     "bundle": "GarageBand.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/GarageBand-10.4.2.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/GarageBand-10.4.3.pkg",
     "id": "garageband",
     "identifier": "com.apple.garageband10",
     "internal": "true",
     "processes": null,
-    "sha256": "ceee25823133adbf66eb8481f25893359dc00c06538b0b00f8fb0b99669d4ccf",
+    "sha256": "ad3a85f76ab93b9b7a40f95795955bd250d54d0edb2f9b6fb6a3091c1908f867",
     "symlink": null,
-    "version": "10.4.2",
+    "version": "10.4.3",
     "web": null
   }
 }
