@@ -11,9 +11,9 @@
     "id": "googlechromecanary",
     "identifier": "com.google.Chrome.canary",
     "processes": null,
-    "sha256": "24935f54875287e073e2f4eb5f4fcdd81cbeb9cc570277ed4cc90d902787b23d",
+    "sha256": "5731a578457972213cdf4cb6dce1d3a06259fd6f665cec734d513dc01390feae",
     "symlink": null,
-    "version": "92.0.4494.0",
+    "version": "92.0.4495.0",
     "web": "https://www.google.com/intl/en/chrome/canary/"
   }
 }
