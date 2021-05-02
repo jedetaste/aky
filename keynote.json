@@ -7,14 +7,14 @@
     "bundle": "Keynote.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Keynote-10.3.9.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Keynote-11.0.1.pkg",
     "id": "keynote",
     "identifier": "com.apple.iWork.Keynote",
     "internal": "true",
     "processes": null,
-    "sha256": "e7f91fec2d9b9a8339f51cc37130ac56ec1252815cde446d0dafdeab9f362da1",
+    "sha256": "1d0147449c8d66c34fb2b044c12c256f8bcdf275f33e10f6517f0a850ec4f6f1",
     "symlink": null,
-    "version": "10.3.9",
+    "version": "11.0.1",
     "web": null
   }
 }
