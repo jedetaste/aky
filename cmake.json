@@ -7,13 +7,13 @@
     "bundle": "CMake.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cmake.org/files/LatestRelease/cmake-3.19.0-Darwin-x86_64.dmg",
+    "download": "https://github.com/Kitware/CMake/releases/download/v3.20.2/cmake-3.20.2-macos-universal.dmg",
     "id": "cmake",
     "identifier": "org.cmake.cmake",
     "processes": null,
-    "sha256": "8ceeafe2964e9e294cb2dadacbbe2c2cc86b5d4990120e23199ccf10571d1ff2",
+    "sha256": "988f7648dc1df20af59df1b545bfa35059b94eb62aa5c63fdfaedc10bc62f5e4",
     "symlink": null,
-    "version": "3.19.0",
+    "version": "3.20.2",
     "web": "https://cmake.org/"
   }
 }
