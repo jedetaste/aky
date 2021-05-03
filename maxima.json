@@ -9,7 +9,7 @@
     "dir": "/Applications",
     "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Maxima-5.41.0.pkg",
     "id": "maxima",
-    "identifier": null,
+    "identifier": "net.sourceforge.maxima",
     "internal": "true",
     "processes": null,
     "sha256": "0a462f4570f0d602afe2dc575dba02a785323c66e4be0570d1ff7d1c613286ca",
