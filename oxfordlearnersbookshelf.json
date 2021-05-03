@@ -7,13 +7,13 @@
     "bundle": "Oxford Learners Bookshelf.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.oxfordlearnersbookshelf.com/home/mac/download.html",
+    "download": "https://d1q4kqb8azk0w4.cloudfront.net/prod/osx-x64/Oxford%20Learners%20Bookshelf-5.8.0.dmg",
     "id": "oxfordlearnersbookshelf",
     "identifier": "com.oxfordlearnersbookshelf.ods",
     "processes": null,
-    "sha256": "f02f00ef1939718a88e252754ea9e411a5f2f9ccb90ce724127f1d305c3492b3",
+    "sha256": "037f2aea17bb0b506ec85d4caffab526a73e741d4b8e60495300df2950a0f8dc",
     "symlink": "/Applications/Lernprogramme/ Lernprogramme starten/English",
-    "version": "5.7.0",
+    "version": "5.8.0",
     "web": "https://www.oxfordlearnersbookshelf.com/"
   }
 }
