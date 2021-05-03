@@ -9,7 +9,7 @@
     "dir": "/Applications/Utilities",
     "download": "https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.1/XQuartz-2.8.1.dmg",
     "id": "xquartz",
-    "identifier": "org.macosforge.xquartz.X11",
+    "identifier": "null",
     "processes": null,
     "sha256": "0eb477f3f8f3795738df9a6a8a15e3858fe21fe9d7103b8d13861bb3aa509e3b",
     "symlink": null,
