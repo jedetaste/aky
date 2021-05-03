@@ -7,13 +7,14 @@
     "bundle": "Archi.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.archimatetool.com/downloads/archi/",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Archi-4.8.1.pkg",
     "id": "archi",
     "identifier": "com.archimatetool.editor",
     "processes": null,
-    "sha256": "4f31089ce448f78e3f66b7f80075783f4907bd1afe35362f560dcdb7137e262c",
+    "sha256": "e620504d1f5a662f41a4ed9098e8ea5513cd76244bf47361d27b84a6004a9d8b",
     "symlink": null,
     "version": "4.8.1",
-    "web": "https://www.archimatetool.com/"
+    "web": "https://www.archimatetool.com/",
+    "internal": "true"
   }
 }
