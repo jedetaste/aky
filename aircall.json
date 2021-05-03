@@ -7,13 +7,13 @@
     "bundle": "Aircall.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download-electron.aircall.io/Aircall-2.15.3.zip",
+    "download": "https://download-electron.aircall.io/Aircall-2.15.5.zip",
     "id": "aircall",
     "identifier": "io.aircall.phone",
     "processes": null,
-    "sha256": "6777fe2dce13266bb22f4616b18c1e9bb199c478da72cc2d5e37c4b26da2352b",
+    "sha256": "040778e94281364f9aa4e4d55b81630d77e3f510af376874d1a4afb8d4d83349",
     "symlink": null,
-    "version": "2.15.3",
+    "version": "2.15.5",
     "web": "https://aircall.io/"
   }
 }
