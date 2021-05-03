@@ -7,14 +7,14 @@
     "bundle": "Numbers.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Numbers-10.3.9.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Numbers-11.0.pkg",
     "id": "numbers",
     "identifier": "com.apple.iWork.Numbers",
     "internal": "true",
     "processes": null,
-    "sha256": "4fde6d50f15fa8e6ad7e226a3ac9fce1dfbeb56f6253f8d39a2be070a6cacb19",
+    "sha256": "3f5f3e738e884ebd5d4c0e33c9aa1ce908f2c35a443e821d9b8dde08fe0a37fc",
     "symlink": null,
-    "version": "10.3.9",
+    "version": "11.0",
     "web": null
   }
 }
