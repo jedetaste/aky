@@ -7,14 +7,14 @@
     "bundle": "Pages.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Pages-10.3.9.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Pages-11.0.pkg",
     "id": "pages",
     "identifier": "com.apple.iWork.Pages",
     "internal": "true",
     "processes": null,
-    "sha256": "e5c4b25b668a2e849ec976bb2f3da55af31c16fc7cf670ba97afc6e3d2ce1b62",
+    "sha256": "65845462a68259a2ab78313908ba10ffb215b139acd35537557cd5ae94c412ac",
     "symlink": null,
-    "version": "10.3.9",
+    "version": "11.0",
     "web": null
   }
 }
