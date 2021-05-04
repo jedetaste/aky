@@ -7,13 +7,13 @@
     "bundle": "Android Studio.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.3.0/android-studio-ide-201.7199119-mac.dmg",
+    "download": "https://redirector.gvt1.com/edgedl/android/studio/install/4.2.0.24/android-studio-ide-202.7322048-mac.dmg",
     "id": "androidstudio",
     "identifier": "com.google.android.studio",
     "processes": null,
-    "sha256": "e4b146e94595f9a928afba31c90303414b3b2a396796a8114d81cad484cada02",
+    "sha256": "ff4291d56d94f5b3208f101a2591f15fef33b39e258251450916fdd62db9943e",
     "symlink": null,
-    "version": "4.1",
+    "version": "4.2",
     "web": "https://developer.android.com/studio/index.html"
   }
 }
