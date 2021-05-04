@@ -7,15 +7,15 @@
     "bundle": "Lens.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://github.com/lensapp/lens/releases/download/v4.2.3/Lens-4.2.3.dmg",
+    "download": "https://github.com/lensapp/lens/releases/download/v4.2.4/Lens-4.2.4.dmg",
     "id": "lens",
     "identifier": "com.electron.kontena-lens",
     "processes": [
       "Lens"
     ],
-    "sha256": "4a59e904518e92642f8a36dd0d4269bad6af8483d034e380b0757372d5ed0183",
+    "sha256": "68dae557f1e83224d6aeb3aed7daae30bfd6153c1360c55248f2c632e5c34555",
     "symlink": null,
-    "version": "4.2.3",
+    "version": "4.2.4",
     "web": "https://k8slens.dev/"
   }
 }
