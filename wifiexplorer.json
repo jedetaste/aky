@@ -7,13 +7,13 @@
     "bundle": "WiFi Explorer.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.intuitibits.com/appcasts/WiFiExplorer_3.0.4.zip",
+    "download": "https://www.intuitibits.com/appcasts/WiFiExplorer_3.1.zip",
     "id": "wifiexplorer",
     "identifier": "null",
     "processes": null,
-    "sha256": "ac80c00ffa53be3dbfded233e60617384986490f52fdcac4981a9028635bcc69",
+    "sha256": "9f693925e7ad226417aa7004c7ebc99945bcc2b692b7fe7c9c1c1dcdc984f02c",
     "symlink": null,
-    "version": "3.0.4",
+    "version": "3.1",
     "web": "https://www.adriangranados.com/apps/wifi-explorer"
   }
 }
