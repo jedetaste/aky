@@ -7,14 +7,14 @@
     "bundle": "Microsoft To Do.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Microsoft%20To%20Do-2.42.pkg",
+    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Microsoft%20To%20Do-2.43.pkg",
     "id": "microsofttodo",
     "identifier": "com.microsoft.to-do-mac",
     "internal": "true",
     "processes": null,
-    "sha256": "868d24ef6d6b2f2980b959c8a938b710229befb385dae715c7b670696cbf0b10",
+    "sha256": "6f7f756939e92eb78eb321009335e710c5386d0da60aa1c8ea3d43b73acc1f6e",
     "symlink": null,
-    "version": "2.42",
+    "version": "2.43",
     "web": null
   }
 }
