@@ -7,7 +7,7 @@
     "bundle": "Übersicht.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Ubersicht-1.6.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Ubersicht-1.6.pkg",
     "id": "ubersicht",
     "identifier": "tracesOf.Uebersicht",
     "internal": "true",
