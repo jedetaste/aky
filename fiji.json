@@ -7,7 +7,7 @@
     "bundle": "Fiji.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Fiji-1.53i.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Fiji-1.53i.pkg",
     "id": "fiji",
     "identifier": null,
     "internal": "true",
