@@ -10,7 +10,7 @@
     ],
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/weka-3-8-5-azul-zulu-3.8.5.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/weka-3-8-5-azul-zulu-3.8.5.pkg",
     "id": "weka",
     "identifier": "nz.ac.waikato.cms.Weka",
     "internal": "true",
