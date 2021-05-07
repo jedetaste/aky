@@ -7,14 +7,14 @@
     "bundle": "PopChar.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/PopChar-9.0.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/PopChar-9.1.pkg",
     "id": "popchar",
     "identifier": "com.macility.popchar3",
     "internal": "true",
     "processes": null,
-    "sha256": "47a4bfccddfb809ebd73b933bb4f5ad9d6a53465f53a3903782774dad4aeef95",
+    "sha256": "82ce6949076a002aa96e4666d826cd91e2a65107feeb853b1bcfa6de920ade91",
     "symlink": null,
-    "version": "9.0",
+    "version": "9.1",
     "web": "https://www.ergonis.com/products/popcharx/"
   }
 }
