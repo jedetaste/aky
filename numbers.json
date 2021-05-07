@@ -7,7 +7,7 @@
     "bundle": "Numbers.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Numbers-11.0.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Numbers-11.0.pkg",
     "id": "numbers",
     "identifier": "com.apple.iWork.Numbers",
     "internal": "true",
