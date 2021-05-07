@@ -7,7 +7,7 @@
     "bundle": "Safe Exam Browser.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/SafeExamBrowser-2.3.2.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/SafeExamBrowser-2.3.2.pkg",
     "id": "safeexambrowser",
     "identifier": "org.safeexambrowser.SafeExamBrowser",
     "internal": "true",
