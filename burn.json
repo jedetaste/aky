@@ -7,7 +7,7 @@
     "bundle": "Burn.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Burn-3.1.2.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Burn-3.1.2.pkg",
     "id": "burn",
     "identifier": "com.kiwifruitware.Burn",
     "internal": "true",
