@@ -7,7 +7,7 @@
     "bundle": "iMovie.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/iMovie-10.2.3.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/iMovie-10.2.3.pkg",
     "id": "imovie",
     "identifier": "com.apple.iMovieApp",
     "internal": "true",
