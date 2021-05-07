@@ -7,7 +7,7 @@
     "bundle": "Classroom.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Classroom-2.3.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Classroom-2.3.pkg",
     "id": "classroom",
     "identifier": "com.apple.macos.classroom",
     "internal": "true",
