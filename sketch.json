@@ -7,13 +7,13 @@
     "bundle": "Sketch.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download.sketch.com/sketch-72-124316.zip",
+    "download": "https://download.sketch.com/sketch-71.2-115329.zip",
     "id": "sketch",
     "identifier": null,
     "processes": null,
-    "sha256": "4a9c5ce17a56e2418eedf387bab730c397ef7840f57f6dc1f2dc995e5338bf8e",
+    "sha256": "e755f4a43a8c96732bd9e089344a65576709f4b78b7155231b9639f4ecb23864",
     "symlink": null,
-    "version": "72",
+    "version": "71.2",
     "web": "https://www.sketchapp.com/"
   }
 }
