@@ -7,7 +7,7 @@
     "bundle": "Zoiper5.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Zoiper-5.4.12.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Zoiper-5.4.12.pkg",
     "id": "zoiper",
     "identifier": null,
     "internal": "true",
