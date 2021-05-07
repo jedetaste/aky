@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "kMeet.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "kmeet",
+    "identifier": "com.infomaniak.meet",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "1.1.25",
+    "web": "https://www.infomaniak.com/kmeet"
+  }
+}
