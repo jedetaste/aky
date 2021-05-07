@@ -7,7 +7,7 @@
     "bundle": "Citrix Receiver.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/CitrixReceiver-12.9.1.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/CitrixReceiver-12.9.1.pkg",
     "id": "citrixreceiver",
     "identifier": null,
     "internal": "true",
