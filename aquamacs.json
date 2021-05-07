@@ -7,7 +7,7 @@
     "bundle": "Aquamacs.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Aquamacs-3.5.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Aquamacs-3.5.pkg",
     "id": "aquamacs",
     "identifier": "org.gnu.Aquamacs",
     "internal": "true",
