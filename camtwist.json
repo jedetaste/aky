@@ -7,7 +7,7 @@
     "bundle": "CamTwist.app",
     "ci": "true",
     "dir": "/Applications/CamTwist",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/CamTwist-3.4.3.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/CamTwist-3.4.3.pkg",
     "id": "camtwist",
     "identifier": null,
     "internal": "true",
