@@ -9,7 +9,7 @@
     "dir": "/Applications",
     "download": "https://releases.mozilla.org/pub/firefox/releases/88.0.1/mac/en-US/Firefox%2088.0.1.pkg",
     "id": "firefox-en",
-    "identifier": "null",
+    "identifier": null,
     "processes": null,
     "sha256": "7b824658f3f1d61ec40603ce9b43c6d76a1dfdab3d80c7257122ef560f4a0075",
     "symlink": null,

@@ -9,7 +9,7 @@
     "dir": "/Library/PrivilegedHelperTools",
     "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/ChromeRemoteDesktop-90.0.4430.pkg",
     "id": "chromeremotedesktophost",
-    "identifier": "null",
+    "identifier": null,
     "internal": "true",
     "processes": null,
     "sha256": "2018d230345e353f7014e677f4bd487d97760bc7752bc75fa67b0d27e74ca9c6",

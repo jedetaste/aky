@@ -9,7 +9,7 @@
     "dir": "/Applications",
     "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Wireshark-3.4.5.pkg",
     "id": "wireshark",
-    "identifier": "null",
+    "identifier": null,
     "internal": "true",
     "processes": null,
     "sha256": "f68cd23dafb7630e6ba5857a371eeb2536d394bd07467b8f77c1d5aa9f75244d",

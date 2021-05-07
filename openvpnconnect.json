@@ -9,7 +9,7 @@
     "dir": "/Applications/OpenVPN Connect",
     "download": "https://swupdate.openvpn.net/downloads/connect/openvpn-connect-3.2.7.3220_signed.dmg",
     "id": "openvpnconnect",
-    "identifier": "null",
+    "identifier": null,
     "processes": null,
     "sha256": "14a6dcf31b3198edab6a8a06213dfa9174155715d0f8e420c2ebb31e34f1af02",
     "symlink": null,
