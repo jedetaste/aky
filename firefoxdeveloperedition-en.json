@@ -7,11 +7,11 @@
     "bundle": "Firefox.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://releases.mozilla.org/pub/firefox/releases/89.0b8/mac/en-US/Firefox%2089.0b8.pkg",
+    "download": "https://releases.mozilla.org/pub/firefox/releases/89.0b9/mac/en-US/Firefox%2089.0b9.pkg",
     "id": "firefoxdeveloperedition-en",
     "identifier": "null",
     "processes": null,
-    "sha256": "099e5d7907f97fa9ddd0d61c786973552968e42786972abc070f20c24085b9b8",
+    "sha256": "08de29022c0010bbcfcc6f96638670475229d3f9273d9ad76a30c22b2a6067e1",
     "symlink": null,
     "version": "89.0",
     "web": "https://www.mozilla.org/firefox/developer/"
