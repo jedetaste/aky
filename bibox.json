@@ -7,7 +7,7 @@
     "bundle": "BiBox.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/BiBox-2.0.14.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/BiBox-2.0.14.pkg",
     "id": "bibox",
     "identifier": "de.westermann.bibox2",
     "internal": "true",
