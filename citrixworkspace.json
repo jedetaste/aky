@@ -7,7 +7,7 @@
     "bundle": "Citrix Workspace.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Citrix%20Workspace-21.04.0.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Citrix%20Workspace-21.04.0.pkg",
     "id": "citrixworkspace",
     "identifier": null,
     "internal": "true",
