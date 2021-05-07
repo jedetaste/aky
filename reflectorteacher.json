@@ -5,7 +5,6 @@
       "url": null
     },
     "bundle": "Reflector Teacher.app",
-    "ci": "true",
     "dir": "/Applications",
     "download": "https://airsquirrels-downloads.s3.amazonaws.com/ReflectorTeacher/Mac/ReflectorTeacher-3.2.1.dmg",
     "id": "reflectorteacher",
@@ -13,7 +12,7 @@
     "processes": null,
     "sha256": "cf01ba1b12c9f8605f0686f805e2d872ae864deab1d217319d21f2f080e3ad0d",
     "symlink": null,
-    "version": "4.0.0",
+    "version": "3.2.1",
     "web": "http://www.airsquirrels.com/reflector/teacher"
   }
 }
