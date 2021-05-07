@@ -7,7 +7,7 @@
     "bundle": "ChromeRemoteDesktopHost.app",
     "ci": "true",
     "dir": "/Library/PrivilegedHelperTools",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/ChromeRemoteDesktop-90.0.4430.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/ChromeRemoteDesktop-90.0.4430.pkg",
     "id": "chromeremotedesktophost",
     "identifier": null,
     "internal": "true",
