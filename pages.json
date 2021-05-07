@@ -7,7 +7,7 @@
     "bundle": "Pages.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Pages-11.0.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Pages-11.0.pkg",
     "id": "pages",
     "identifier": "com.apple.iWork.Pages",
     "internal": "true",
