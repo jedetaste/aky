@@ -7,7 +7,7 @@
     "bundle": "Wireshark.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Wireshark-3.4.5.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Wireshark-3.4.5.pkg",
     "id": "wireshark",
     "identifier": null,
     "internal": "true",
