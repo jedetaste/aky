@@ -26,6 +26,6 @@ repos:
   - id: forbid-autopkg-trust-info
   - id: check-plists
 - repo: https://github.com/python/black
-  rev: 21.4b2
+  rev: 21.5b0
   hooks:
     - id: black
