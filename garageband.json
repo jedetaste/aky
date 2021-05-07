@@ -7,7 +7,7 @@
     "bundle": "GarageBand.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/GarageBand-10.4.3.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/GarageBand-10.4.3.pkg",
     "id": "garageband",
     "identifier": "com.apple.garageband10",
     "internal": "true",
