@@ -7,7 +7,7 @@
     "bundle": "Burp Suite Community Edition.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Burp%20Suite%20Community%20Edition-2021.5.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Burp%20Suite%20Community%20Edition-2021.5.pkg",
     "id": "burpsuitecommunityedition",
     "identifier": null,
     "internal": "true",
