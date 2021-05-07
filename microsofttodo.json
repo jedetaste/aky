@@ -7,7 +7,7 @@
     "bundle": "Microsoft To Do.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Microsoft%20To%20Do-2.43.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Microsoft%20To%20Do-2.43.pkg",
     "id": "microsofttodo",
     "identifier": "com.microsoft.to-do-mac",
     "internal": "true",
