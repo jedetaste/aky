@@ -7,7 +7,7 @@
     "bundle": "Affinity Designer.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/Affinity%20Designer-1.9.3.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Affinity%20Designer-1.9.3.pkg",
     "id": "affinitydesigner",
     "identifier": "com.seriflabs.affinitydesigner",
     "internal": "true",
