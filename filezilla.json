@@ -7,7 +7,7 @@
     "bundle": "FileZilla.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://aky-assets.s3.eu-central-1.wasabisys.com/FileZilla-3.53.1.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/FileZilla-3.53.1.pkg",
     "id": "filezilla",
     "identifier": "org.filezilla-project.filezilla",
     "internal": "true",
