@@ -6,13 +6,14 @@
     },
     "bundle": "kMeet.app",
     "dir": "/Applications",
-    "download": null,
+    "download": "https://download.storage.infomaniak.com/meet/kMeet.dmg",
     "id": "kmeet",
     "identifier": "com.infomaniak.meet",
     "processes": null,
-    "sha256": null,
+    "sha256": "6c2dd4516fe1da951a717b05871756f2641772f13b9f71d39f2e33223b28d42c",
     "symlink": null,
     "version": "1.1.25",
-    "web": "https://www.infomaniak.com/kmeet"
+    "web": "https://www.infomaniak.com/kmeet",
+    "ci": "true"
   }
 }
