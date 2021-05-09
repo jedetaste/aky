@@ -7,13 +7,13 @@
     "bundle": "Bria.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://counterpath.s3.amazonaws.com/downloads/Bria_6.3.0_105536.dmg",
+    "download": "https://counterpath.s3.amazonaws.com/downloads/Bria_6.4.0_106813.dmg",
     "id": "bria",
     "identifier": "com.counterpath.bria",
     "processes": null,
-    "sha256": "ad71abb778fc6d3e591755f3632fcf84fb27bb9ab6ac6f5847a4167cbbf1d65d",
+    "sha256": "c55cc742e0e227a75323e5f6e7f4b27c6b6b9a39e4a8a4a2d182fc593724c5d9",
     "symlink": null,
-    "version": "6.3.0",
+    "version": "6.4.0",
     "web": "https://www.counterpath.com/bria-solo/"
   }
 }
