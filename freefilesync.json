@@ -7,13 +7,13 @@
     "bundle": "FreeFileSync.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.freefilesync.org/download/FreeFileSync_11.9_macOS.zip",
+    "download": "https://www.freefilesync.org/download/FreeFileSync_11.10_macOS.zip",
     "id": "freefilesync",
     "identifier": null,
     "processes": null,
-    "sha256": "9f5028ca1b777b898d41291e00b666a3795f8924990c407f1cce7da313006613",
+    "sha256": "40d8395e01c499d4189f0c0c63b2aa1d3c4cbaf526bab18c9835860915a94465",
     "symlink": null,
-    "version": "11.9",
+    "version": "11.10",
     "web": "https://www.freefilesync.org/"
   }
 }
