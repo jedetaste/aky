@@ -7,14 +7,14 @@
     "bundle": "Burn.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Burn-3.1.3.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Burn-3.1.4.pkg",
     "id": "burn",
     "identifier": "com.kiwifruitware.Burn",
     "internal": "true",
     "processes": null,
-    "sha256": "c5bffe4d3d5a0944a2e34961a77338af3ff19e210fa7467e1b326962e034ff1b",
+    "sha256": "13f01d134b6572569dec2b7fc2fe1be0d95f23cd417e4626e90433806fc663ea",
     "symlink": null,
-    "version": "3.1.3",
+    "version": "3.1.4",
     "web": "https://burn-osx.sourceforge.io/"
   }
 }
