@@ -9,7 +9,7 @@
     "dir": "/Applications",
     "download": "ftp://ftp.hp.com/pub/softlib/software12/HP_Quick_Start/osx/Applications/HP_Easy_Admin.app.zip",
     "id": "hpeasyadmin",
-    "identifier": null,
+    "identifier": "com.hp.hp-easy-admin",
     "processes": null,
     "sha256": "6a81fa4bce5de80d0123c42b4cfe96233bd590bd7c14d8a1a1ac0ca260a07c93",
     "symlink": null,
