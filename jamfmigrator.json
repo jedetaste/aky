@@ -11,9 +11,9 @@
     "id": "jamfmigrator",
     "identifier": "com.jamf.jamf-migrator",
     "processes": null,
-    "sha256": "0e7b0b1012b4febb0490c852398ed560c8f9584012f83baed70242b444b026f1",
+    "sha256": "d5d4042b5bb63a2b94e7d03dac94372a9af6a914094a3f80b5d6f9fde8b14f8b",
     "symlink": null,
-    "version": "5.8.2",
+    "version": "5.8.3",
     "web": "https://github.com/jamf/JamfMigrator"
   }
 }
