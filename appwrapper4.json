@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "App Wrapper 4.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "appwrapper4",
+    "identifier": "com.ohanaware.appWrapper4RG2",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "4.2.1",
+    "web": "https://www.ohanaware.com/appwrapper/"
+  }
+}
