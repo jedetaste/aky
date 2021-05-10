@@ -7,13 +7,13 @@
     "bundle": "AirParrot 2.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download.airsquirrels.com/AirParrot3/Mac/AirParrot-3.0.0.dmg",
+    "download": "https://download.airsquirrels.com/AirParrot3/Mac/AirParrot-3.1.1.dmg",
     "id": "airparrot",
     "identifier": "com.squirrels.AirParrot-3",
     "processes": null,
-    "sha256": "79e985c3cd6bbfe0a3d87424d658d1193a884b98bf27c44dda76270156c2ee87",
+    "sha256": "2c241ade62dfb061dc565a5e0f94998b80a538d60ad0c0ffa2b5af905c6591c1",
     "symlink": null,
-    "version": "3.0.0",
+    "version": "3.1.1",
     "web": "https://www.airsquirrels.com/airparrot/"
   }
 }
