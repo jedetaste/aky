@@ -7,13 +7,13 @@
     "bundle": "Vivaldi.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://downloads.vivaldi.com/stable/Vivaldi.3.6.2165.40.dmg",
+    "download": "https://downloads.vivaldi.com/stable/Vivaldi.3.8.2259.40.universal.dmg",
     "id": "vivaldi",
     "identifier": "com.vivaldi.Vivaldi",
     "processes": null,
-    "sha256": "ce2e304ae3aafa40100e8248a73aa0e5df2ebcec0df7b27d265242de899efc0f",
+    "sha256": "c6804034272a63ce783eccd30abc920a155324dfcaa7e27fd232c7e5676e611e",
     "symlink": null,
-    "version": "3.6.2165.40",
+    "version": "3.8.2259.40",
     "web": "https://vivaldi.com/"
   }
 }
