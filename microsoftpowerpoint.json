@@ -7,15 +7,15 @@
     "bundle": "Microsoft PowerPoint.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.48.21041102_Updater.pkg",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.49.21050901_Updater.pkg",
     "id": "microsoftpowerpoint",
     "identifier": null,
     "processes": [
       "Microsoft PowerPoint"
     ],
-    "sha256": "c0907c5bad60caa6bafa4f1087a082ca9eb8d2c93060c660defcdfdd22cfb749",
+    "sha256": "a2297e50db5b7010ca78c67f6eebedf22aee3a63642a9dfb5a5c2c25303f81ab",
     "symlink": null,
-    "version": "16.48.21041102",
+    "version": "16.49.21050901",
     "web": "https://products.office.com/mac/microsoft-office-for-mac/"
   }
 }
