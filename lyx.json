@@ -7,13 +7,13 @@
     "bundle": "LyX.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://ftp.lip6.fr/pub/lyx/bin/2.3.6/LyX-2.3.6+qt5-x86_64-cocoa.dmg",
+    "download": "https://ftp.lip6.fr/pub/lyx/bin/2.3.6/LyX-2.3.6.2+qt5-12-x86_64-cocoa.dmg",
     "id": "lyx",
     "identifier": "org.lyx.lyx",
     "processes": null,
-    "sha256": "759d5e82af12ca7fa0749d7e4a928e4c2419dab1a54a7b77ea71a48afb127a22",
+    "sha256": "7eb15120428cbb45f5ad0e7e04c7cd314c87dd6657157bf70f5330e3d26811d0",
     "symlink": null,
-    "version": "2.3.6",
+    "version": "2.3.6.2",
     "web": "https://www.lyx.org/"
   }
 }
