@@ -1,0 +1,17 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "AnyDesk.app",
+    "dir": "/Applications",
+    "download": "https://get.anydesk.com/eR5PfSuw/AnyDesk.dmg",
+    "id": "anydeskfernwartung",
+    "identifier": "com.philandro.anydesk_ad_52e7bffe",
+    "sha256": null,
+    "symlink": null,
+    "version": "6.1.4",
+    "web": "https://anykey.ch/download/"
+  }
+}
