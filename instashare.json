@@ -5,15 +5,14 @@
       "url": null
     },
     "bundle": "InstaShare.app",
-    "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.benq.eu/content/dam/newb2b/Support/Software/InstaShare/instashare_mac_v10190524.dmg",
+    "download": "https://esupportdownload.benq.com/esupport/PUBLIC%20DISPLAY%20PRODUCT/Software/InstaShare/InstaShare_InstaShare%20for%20Mac_v2.0.201124_Mac.zip",
     "id": "instashare",
     "identifier": "com.eshare.instashow",
     "processes": null,
-    "sha256": "46dc9640e4e3ccc788cee216952f55eb777ae13ea8050eba30020b6746b06b77",
+    "sha256": "9a6988ca87b23c60714d7be73f6ac4ba409aec35914e886959221776f33d2db6",
     "symlink": null,
-    "version": "1.0.190524",
+    "version": "2.0.201124",
     "web": "https://www.benq.eu/de-de/business/ifp/instashare/download.html"
   }
 }
