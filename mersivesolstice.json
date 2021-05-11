@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "Mersive Solstice.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "mersivesolstice",
+    "identifier": "com.mersive.solstice.client",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "5.3.27261",
+    "web": "https://www.mersive.com/"
+  }
+}
