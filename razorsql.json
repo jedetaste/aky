@@ -7,13 +7,13 @@
     "bundle": "RazorSQL.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://s3.dualstack.us-east-1.amazonaws.com/downloads.razorsql.com/downloads/9_4_1/razorsql9_4_1.dmg",
+    "download": "https://s3.dualstack.us-east-1.amazonaws.com/downloads.razorsql.com/downloads/9_4_2/razorsql9_4_2.dmg",
     "id": "razorsql",
     "identifier": "com.razorsql.RazorSQL",
     "processes": null,
-    "sha256": "ae2c61cfc9c885a3b9e8e3c91998317c43853bbd369edb65fd2bca353274993c",
+    "sha256": "25f269a5207251cf2f48b07275ffb5b918ab2df66360b96f90c3982870fa57b0",
     "symlink": null,
-    "version": "9.4.1",
+    "version": "9.4.2",
     "web": "https://razorsql.com/download_mac.html"
   }
 }
