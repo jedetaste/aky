@@ -8,10 +8,11 @@
     "dir": "/Applications",
     "download": "https://get.anydesk.com/eR5PfSuw/AnyDesk.dmg",
     "id": "anydeskfernwartung",
-    "identifier": "com.philandro.anydesk_ad_52e7bffe",
-    "sha256": null,
+    "identifier": "com.philandro.anydesk-ad-52e7bffe",
+    "sha256": "45d3f5141bd2d701ab7b63d61a4c833ee205d154acc8d017f0f71f43663abed8",
     "symlink": null,
     "version": "6.1.4",
-    "web": "https://anykey.ch/download/"
+    "web": "https://anykey.ch/download/",
+    "ci": "true"
   }
 }
