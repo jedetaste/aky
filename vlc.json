@@ -7,13 +7,13 @@
     "bundle": "VLC.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "http://get.videolan.org/vlc/3.0.12/macosx/vlc-3.0.12-intel64.dmg",
+    "download": "http://get.videolan.org/vlc/3.0.14/macosx/vlc-3.0.14-intel64.dmg",
     "id": "vlc",
     "identifier": "org.videolan.vlc",
     "processes": null,
-    "sha256": "9b8b5a78ee0d7448e840680df34c1417f7c8c87161127c2d150794b2449be5d1",
+    "sha256": "a5628b5f7e69ce18dd13ca724f67c7c4381c0ed22862fcb2064d00227f42f42f",
     "symlink": null,
-    "version": "3.0.12",
+    "version": "3.0.14",
     "web": "https://www.videolan.org/vlc/"
   }
 }
