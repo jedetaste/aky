@@ -6,7 +6,7 @@
     },
     "bundle": "SketchBook.app",
     "ci": "true",
-    "dir": "/Applications",
+    "dir": "/Applications/Autodesk/SketchBook",
     "download": "https://download.autodesk.com/us/support/files/sketchbook/sketchbook_2019/sketchbook_v8.7.1_mac.dmg",
     "id": "sketchbook",
     "identifier": null,
