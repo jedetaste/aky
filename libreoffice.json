@@ -7,13 +7,14 @@
     "bundle": "LibreOffice.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download.documentfoundation.org/libreoffice/stable/7.1.3/mac/x86_64/LibreOffice_7.1.3_MacOS_x86-64.dmg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/LibreOffice_de-7.1.3.2.pkg",
     "id": "libreoffice",
     "identifier": "org.libreoffice.script",
     "processes": null,
-    "sha256": "ef4fe8531f47891584dd0778b8d6e5f96810c350d2049277696d6d17ea428a65",
+    "sha256": "bb6cae6746cb3bf728e6035fffa7346b938f2ee5476464854491bed265722407",
     "symlink": null,
     "version": "7.1.3.2",
-    "web": "https://www.libreoffice.org/"
+    "web": "https://www.libreoffice.org/",
+    "internal": "true"
   }
 }
