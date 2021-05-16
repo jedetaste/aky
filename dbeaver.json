@@ -7,13 +7,13 @@
     "bundle": "DBeaver.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://github.com/dbeaver/dbeaver/releases/download/21.0.4/dbeaver-ce-21.0.4-macos.dmg",
+    "download": "https://github.com/dbeaver/dbeaver/releases/download/21.0.5/dbeaver-ce-21.0.5-macos.dmg",
     "id": "dbeaver",
     "identifier": "org.jkiss.dbeaver.core.product",
     "processes": null,
-    "sha256": "8ec56e03bbdd77458f5d9eabfe400129e0e09b4ec6b0378c2c51e3b4e3c4314c",
+    "sha256": "0d69f08c2653045b91b22b06157cbbf2fc4c2bf2da7bb49585e4b5498ddc64ac",
     "symlink": null,
-    "version": "21.0.4",
+    "version": "21.0.5",
     "web": "https://dbeaver.io/"
   }
 }
