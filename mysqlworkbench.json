@@ -5,15 +5,15 @@
       "url": null
     },
     "bundle": "MySQLWorkbench.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://downloads.mysql.com/archives/get/p/8/file/mysql-workbench-community-8.0.23-macos-x86_64.dmg",
     "id": "mysqlworkbench",
-    "identifier": "null",
+    "identifier": null,
     "processes": null,
     "sha256": "4c8664f5686a449a9760bda9b85d7e8c6beb1367d35f668048ffe534652da7b3",
     "symlink": null,
     "version": "8.0.23.CE",
-    "web": "https://www.mysql.com/products/workbench/",
-    "ci": "true"
+    "web": "https://www.mysql.com/products/workbench/"
   }
 }
