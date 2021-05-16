@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "Serial.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "serial",
+    "identifier": "com.decisivetactics.serial.direct",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "2.0.10",
+    "web": "https://www.decisivetactics.com/products/serial/"
+  }
+}
