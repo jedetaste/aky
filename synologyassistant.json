@@ -1,18 +1,19 @@
 {
   "recipe": {
     "appcast": {
-      "checkpoint": "33c8fd676f360f7166b17734f19e47dcd0c938ef6e3fa77ae40e85e6caa9c243",
-      "url": "https://archive.synology.com/download/Tools/Assistant/"
+      "checkpoint": null,
+      "url": null
     },
     "bundle": "SynologyAssistant.app",
     "dir": "/Applications",
-    "download": "https://global.download.synology.com/download/Tools/Assistant/6.2-23733/Mac/synology-assistant-6.2-23733.dmg",
+    "download": "https://global.download.synology.com/download/Utility/Assistant/7.0-50029/Mac/synology-assistant-7.0-50029.dmg",
     "id": "synologyassistant",
-    "identifier": "com.yourcompany.DSAssistant",
+    "identifier": "null",
     "processes": null,
-    "sha256": "6b12b68e24c4db8e37e40807ec3eed94148c6047fa28c5cb53fa79c5da61d064",
+    "sha256": "1c7c913b056b855ed07bce5e6dafc23b1ea154b1a7fc06ec800affc1cc235ff5",
     "symlink": null,
     "version": null,
-    "web": "https://www.synology.com/"
+    "web": "https://www.synology.com/",
+    "ci": "true"
   }
 }
