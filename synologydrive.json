@@ -1,18 +1,19 @@
 {
   "recipe": {
     "appcast": {
-      "checkpoint": "a8253debc3e67f10860a8ab30b4ac777803b1b31f79945640b05086b97dee44d",
-      "url": "https://archive.synology.com/download/Tools/SynologyDriveClient/"
+      "checkpoint": null,
+      "url": null
     },
     "bundle": "Synology Drive Client.app",
     "dir": "/Applications",
-    "download": "https://global.download.synology.com/download/Tools/SynologyDriveClient/2.0.2-11078/Mac/Installer/synology-drive-client-11078.dmg",
+    "download": "https://global.download.synology.com/download/Utility/SynologyDriveClient/2.0.4-11112/Mac/Installer/synology-drive-client-11112.dmg",
     "id": "synologydrive",
-    "identifier": "com.synology.CloudStation",
+    "identifier": "null",
     "processes": null,
-    "sha256": "196865f411631103958d71e3dc0c640909e53ef5e3cb44013a22d66ae4f1ec85",
+    "sha256": "19b8f03ece1dc8443da1e6df469d2ddf8916c4d2d15d7c9a04c0e84deb93c33b",
     "symlink": null,
-    "version": "6.0.2",
-    "web": "https://www.synology.com/"
+    "version": "6.0.4",
+    "web": "https://www.synology.com/",
+    "ci": "true"
   }
 }
