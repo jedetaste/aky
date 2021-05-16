@@ -1,18 +1,19 @@
 {
   "recipe": {
     "appcast": {
-      "checkpoint": "33b031e692310bc20ec8b3724492519a1005be4a04941c55c51431ddc12fab13",
-      "url": "https://dev.mysql.com/downloads/workbench/"
+      "checkpoint": null,
+      "url": null
     },
     "bundle": "MySQLWorkbench.app",
     "dir": "/Applications",
-    "download": "https://cdn.mysql.com//Downloads/MySQLGUITools/mysql-workbench-community-8.0.23-macos-x86_64.dmg",
+    "download": "https://downloads.mysql.com/archives/get/p/8/file/mysql-workbench-community-8.0.23-macos-x86_64.dmg",
     "id": "mysqlworkbench",
-    "identifier": "com.oracle.workbench.MySQLWorkbench",
+    "identifier": "null",
     "processes": null,
     "sha256": "4c8664f5686a449a9760bda9b85d7e8c6beb1367d35f668048ffe534652da7b3",
     "symlink": null,
-    "version": "8.0.23",
-    "web": "https://www.mysql.com/products/workbench/"
+    "version": "8.0.23.CE",
+    "web": "https://www.mysql.com/products/workbench/",
+    "ci": "true"
   }
 }
