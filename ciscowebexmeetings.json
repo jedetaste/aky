@@ -8,11 +8,12 @@
     "dir": "/Applications",
     "download": "https://akamaicdn.webex.com/client/webexapp.dmg",
     "id": "ciscowebexmeetings",
-    "identifier": "com.cisco.Cisco Webex Meetings",
+    "identifier": "null",
     "processes": null,
-    "sha256": "605bde7bbd56afd24a66f46fe1f7ee3b2f2ea6457822d00d4b85e759f3a201c4",
+    "sha256": "b16a5a67d9ab8f2383f722b551cab57c8edb8f00bb88119097b47105c8f65817",
     "symlink": null,
-    "version": "41.5.2.15",
-    "web": "https://www.webex.com/downloads.html"
+    "version": "41.5.4.6",
+    "web": "https://www.webex.com/downloads.html",
+    "ci": "true"
   }
 }
