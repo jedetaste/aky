@@ -5,15 +5,15 @@
       "url": null
     },
     "bundle": "SynologyAssistant.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://global.download.synology.com/download/Utility/Assistant/7.0-50029/Mac/synology-assistant-7.0-50029.dmg",
     "id": "synologyassistant",
-    "identifier": "null",
+    "identifier": null,
     "processes": null,
     "sha256": "1c7c913b056b855ed07bce5e6dafc23b1ea154b1a7fc06ec800affc1cc235ff5",
     "symlink": null,
     "version": null,
-    "web": "https://www.synology.com/",
-    "ci": "true"
+    "web": "https://www.synology.com/"
   }
 }
