@@ -6,13 +6,14 @@
     },
     "bundle": "Serial.app",
     "dir": "/Applications",
-    "download": null,
+    "download": "https://download.decisivetactics.com/downloads/serial/Serial_2.0.10.zip",
     "id": "serial",
     "identifier": "com.decisivetactics.serial.direct",
     "processes": null,
-    "sha256": null,
+    "sha256": "a84791d9db5f7bad01427fb73326e2270c5c8ab6311dfaa0d850036e5aeb606a",
     "symlink": null,
     "version": "2.0.10",
-    "web": "https://www.decisivetactics.com/products/serial/"
+    "web": "https://www.decisivetactics.com/products/serial/",
+    "ci": "true"
   }
 }
