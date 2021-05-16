@@ -5,15 +5,15 @@
       "url": null
     },
     "bundle": "Cisco Webex Meetings.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://akamaicdn.webex.com/client/webexapp.dmg",
     "id": "ciscowebexmeetings",
-    "identifier": "null",
+    "identifier": null,
     "processes": null,
     "sha256": "b16a5a67d9ab8f2383f722b551cab57c8edb8f00bb88119097b47105c8f65817",
     "symlink": null,
     "version": "41.5.4.6",
-    "web": "https://www.webex.com/downloads.html",
-    "ci": "true"
+    "web": "https://www.webex.com/downloads.html"
   }
 }
