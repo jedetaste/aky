@@ -5,15 +5,15 @@
       "url": null
     },
     "bundle": "Synology Drive Client.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://global.download.synology.com/download/Utility/SynologyDriveClient/2.0.4-11112/Mac/Installer/synology-drive-client-11112.dmg",
     "id": "synologydrive",
-    "identifier": "null",
+    "identifier": null,
     "processes": null,
     "sha256": "19b8f03ece1dc8443da1e6df469d2ddf8916c4d2d15d7c9a04c0e84deb93c33b",
     "symlink": null,
     "version": "6.0.4",
-    "web": "https://www.synology.com/",
-    "ci": "true"
+    "web": "https://www.synology.com/"
   }
 }
