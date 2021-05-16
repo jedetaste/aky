@@ -7,13 +7,13 @@
     "bundle": "Stats.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://github.com/exelban/stats/releases/download/v2.5.14/Stats.dmg",
+    "download": "https://github.com/exelban/stats/releases/download/v2.5.15/Stats.dmg",
     "id": "stats",
     "identifier": "eu.exelban.Stats",
     "processes": null,
-    "sha256": "64fc634c2763717142f0677792cc33bc725cd7dba6b1ad9f87d06e912fded75d",
+    "sha256": "138c32658fe6187c5db97c3d564ab469b339187e3b9128372c239ba10bdc9fa3",
     "symlink": null,
-    "version": "2.5.14",
+    "version": "2.5.15",
     "web": "https://github.com/exelban/stats"
   }
 }
