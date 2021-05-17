@@ -7,14 +7,14 @@
     "bundle": "Logi Options.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Logitech%20Options-8.50.210.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Logitech%20Options-8.54.147.pkg",
     "id": "logitechoptions",
     "identifier": null,
     "internal": "true",
     "processes": null,
-    "sha256": "dc0fb19429690e4b397fce9149152d316575d116badbc81ff36c07914d15a48a",
+    "sha256": "6dfdd8c169a1fc42a95616a836d523745ca08b2bdc7672ef1267891cc5923836",
     "symlink": null,
-    "version": "8.50.210",
+    "version": "8.54.147",
     "web": "https://support.logitech.com/software/options"
   }
 }
