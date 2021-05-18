@@ -5,14 +5,15 @@
       "url": null
     },
     "bundle": "linked-helper.app",
+    "ci": "true",
     "dir": "/Applications",
-    "download": null,
+    "download": "https://autoupdate.linkedhelper.com/linked-helper/444657160c922f6b8048468fef840020/latest/darwin/x64/linked-helper.dmg",
     "id": "linkedhelper",
     "identifier": "com.linkedhelper.launcher",
     "processes": null,
-    "sha256": null,
+    "sha256": "3891eae60eba6f1b9692484ea9db66acc5b955295f08a550d49ddf0e02d62a17",
     "symlink": null,
-    "version": "1.9.17",
+    "version": "1.9.18",
     "web": "https://lh2.linkedhelper.com/"
   }
 }
