@@ -5,6 +5,7 @@
       "url": null
     },
     "bundle": "STARFACE.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://www.starface-cdn.de/starface/clients/mac/STARFACE-7.0.0.0-434.zip",
     "id": "starface",
@@ -13,7 +14,6 @@
     "sha256": "cd6db9f00dc9bfb3c8fcbc22d325362a2362e7a231c282a213940a50478a5812",
     "symlink": null,
     "version": "7.0.0.0",
-    "web": "https://www.starface.com/ucc-client/",
-    "ci": "true"
+    "web": "https://www.starface.com/ucc-client/"
   }
 }
