@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "Citrix Files.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "citrixfiles",
+    "identifier": "com.sharefile.desktop.widget",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "21.4",
+    "web": "https://www.citrix.com/downloads/sharefile/clients-and-plug-ins/citrix-files-for-mac.html"
+  }
+}
