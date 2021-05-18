@@ -5,6 +5,7 @@
       "url": null
     },
     "bundle": "Screen Share.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://share.mypromethean.com/download/mac/Screen_Share_1.9.7.1_sign.pkg",
     "id": "screenshare",
@@ -13,7 +14,6 @@
     "sha256": "aeb1346c3858ff091bb0f9bd8486f088ae518ed00250b19e1ccde3b561745951",
     "symlink": null,
     "version": "1.9.7.1",
-    "web": "https://www1.support.prometheanworld.com/article/?kb=1770",
-    "ci": "true"
+    "web": "https://www1.support.prometheanworld.com/article/?kb=1770"
   }
 }
