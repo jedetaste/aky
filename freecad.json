@@ -5,6 +5,7 @@
       "url": null
     },
     "bundle": "FreeCAD.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://github.com/FreeCAD/FreeCAD/releases/download/0.19.2/FreeCAD_0.19-24291-macOS-x86_64-conda.dmg",
     "id": "freecad",
@@ -13,7 +14,6 @@
     "sha256": "53f56601513537b20cec4fde172f96ebfdeddba22495ac55d74f5451544b101c",
     "symlink": null,
     "version": "0.19-24291",
-    "web": "https://www.freecadweb.org/",
-    "ci": "true"
+    "web": "https://www.freecadweb.org/"
   }
 }
