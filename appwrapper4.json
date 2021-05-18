@@ -5,6 +5,7 @@
       "url": null
     },
     "bundle": "App Wrapper 4.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://www.ohanaware.com/appwrapper/release/appWrapper.dmg",
     "id": "appwrapper4",
@@ -13,7 +14,6 @@
     "sha256": "5f76af40b7dbec1c3573168fcf3d0406d7220d1f3fbcc38052f98cb994dc9322",
     "symlink": null,
     "version": "4.2.1",
-    "web": "https://www.ohanaware.com/appwrapper/",
-    "ci": "true"
+    "web": "https://www.ohanaware.com/appwrapper/"
   }
 }
