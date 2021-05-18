@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "linked-helper.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "linkedhelper",
+    "identifier": "com.linkedhelper.launcher",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "1.9.17",
+    "web": "https://lh2.linkedhelper.com/"
+  }
+}
