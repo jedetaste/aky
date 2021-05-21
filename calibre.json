@@ -7,13 +7,13 @@
     "bundle": "calibre.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://github.com/kovidgoyal/calibre/releases/download/v5.17.0/calibre-5.17.0.dmg",
+    "download": "https://github.com/kovidgoyal/calibre/releases/download/v5.18.0/calibre-5.18.0.dmg",
     "id": "calibre",
     "identifier": "net.kovidgoyal.calibre",
     "processes": null,
-    "sha256": "365cb8b8c7428dadb60027d1b984e9ff24a826bec66c9bca963e2340271fa05f",
+    "sha256": "6bf7746143390408a9084dc7069b0a26117b07f2607ff97e15bf37cd140eec3a",
     "symlink": null,
-    "version": "5.17.0",
+    "version": "5.18.0",
     "web": "https://calibre-ebook.com/"
   }
 }
