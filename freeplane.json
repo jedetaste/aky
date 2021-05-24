@@ -7,14 +7,14 @@
     "bundle": "Freeplane.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Freeplane-1.9.1.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Freeplane-1.9.2.pkg",
     "id": "freeplane",
     "identifier": "org.freeplane.launcher",
     "internal": "true",
     "processes": null,
-    "sha256": "19a3d98c0da2f5b64d9224be532033d2904a4e2ce3d96672f60aed093a809dfb",
+    "sha256": "bf8ff796fb1415890544ce604f9b0cd10f3d30c16b0b828437c7608c922a70c0",
     "symlink": null,
-    "version": "1.9.1",
+    "version": "1.9.2",
     "web": "https://freeplane.sourceforge.io/"
   }
 }
