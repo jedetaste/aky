@@ -7,13 +7,13 @@
     "bundle": "FlashPrint.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://en.fss.flashforge.com/10000/software/73442d414208fb02e7f37012255e6f6a.zip",
+    "download": "https://en.fss.flashforge.com/10000/software/c25e82334dd1ab8b999e3cd3b40052af.zip",
     "id": "flashprint",
     "identifier": null,
     "processes": null,
-    "sha256": "ff1e0ba5f424e6d86218101d689d78cdb5e12495ba80911bc49be59a7e3651be",
+    "sha256": "ccdbdeae2b980fa0f9b9e29e77eeb48b7c2a72c0eb56dde626f2c1d61a096664",
     "symlink": null,
-    "version": "4.6.3",
+    "version": "4.6.4",
     "web": "https://www.flashforge.com/product-detail/40"
   }
 }
