@@ -7,14 +7,14 @@
     "bundle": "KNIME.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/KNIME-4.3.2.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/KNIME-4.3.3.pkg",
     "id": "knime",
     "identifier": "org.knime.product",
     "internal": "true",
     "processes": null,
-    "sha256": "10f6368ab066538be8fa51d3d86f77483744f11af3ec450c8cd944652bce8d43",
+    "sha256": "3f25ecc593cc792fdaba50f26fa32e1a05e02332d445681636fe988ef59496ca",
     "symlink": null,
-    "version": "4.3.2",
+    "version": "4.3.3",
     "web": "https://www.knime.com/"
   }
 }
