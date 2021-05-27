@@ -7,13 +7,13 @@
     "bundle": "Cyberduck.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://update.cyberduck.io//Cyberduck-7.9.0.34899.zip",
+    "download": "https://update.cyberduck.io//Cyberduck-7.9.2.34986.zip",
     "id": "cyberduck",
     "identifier": null,
     "processes": null,
-    "sha256": "d3b3efb6d7f8649accfa50290ef07e46488978b47f2c8774fd06fdfec4fd4a28",
+    "sha256": "8a38c327b60fd74cbe349dc568ab939b8357145119251b530c5e3ae49de5613e",
     "symlink": null,
-    "version": "7.9.0",
+    "version": "7.9.2",
     "web": "https://cyberduck.io/"
   }
 }
