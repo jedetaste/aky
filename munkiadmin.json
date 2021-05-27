@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "MunkiAdmin.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "munkiadmin",
+    "identifier": "com.hjuutilainen.MunkiAdmin",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "1.8.0b2",
+    "web": "https://github.com/hjuutilainen/munkiadmin"
+  }
+}
