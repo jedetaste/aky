@@ -5,12 +5,13 @@
       "url": null
     },
     "bundle": "MunkiAdmin.app",
+    "ci": "true",
     "dir": "/Applications",
-    "download": null,
+    "download": "https://github.com/hjuutilainen/munkiadmin/releases/download/v1.8.0b2/MunkiAdmin-1.8.0b2.dmg",
     "id": "munkiadmin",
     "identifier": "com.hjuutilainen.MunkiAdmin",
     "processes": null,
-    "sha256": null,
+    "sha256": "06fef69896ed129bb20461bf4e063dfd07423c066c8fd9e92b21e938ab697de2",
     "symlink": null,
     "version": "1.8.0b2",
     "web": "https://github.com/hjuutilainen/munkiadmin"
