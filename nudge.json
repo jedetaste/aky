@@ -5,14 +5,15 @@
       "url": null
     },
     "bundle": "Nudge.app",
+    "ci": "true",
     "dir": "/Applications/Utilities",
-    "download": null,
+    "download": "https://github.com/macadmins/nudge/releases/download/v.1.0.0.05062021124623/Nudge-1.0.0.05062021124623.pkg",
     "id": "nudge",
-    "identifier": "com.github.macadmins.Nudge",
+    "identifier": "null",
     "processes": null,
-    "sha256": null,
+    "sha256": "07881463308b3b2e96a2e0d9d76020ee7562ab7d5bb6cca872d3c9ac1c217cf2",
     "symlink": null,
-    "version": "1.0.0.03042021171648",
+    "version": "1.0.0.05062021124623",
     "web": "https://github.com/macadmins/nudge"
   }
 }
