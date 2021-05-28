@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "Nudge.app",
+    "dir": "/Applications/Utilities",
+    "download": null,
+    "id": "nudge",
+    "identifier": "com.github.macadmins.Nudge",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "1.0.0.03042021171648",
+    "web": "https://github.com/macadmins/nudge"
+  }
+}
