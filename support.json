@@ -7,13 +7,13 @@
     "bundle": "Support.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://github.com/root3nl/SupportApp/releases/download/v2.1/Support.2.1.pkg",
+    "download": "https://github.com/root3nl/SupportApp/releases/download/v2.2/Support.2.2.pkg",
     "id": "support",
     "identifier": null,
     "processes": null,
-    "sha256": "6d436259c3481861c90f9ead8079b50a69502a197faa089942aa4d8124058d30",
+    "sha256": "6fea7e0fae43c18da61ab6771e20fba3807a598f159e7871c695fe0615d844c5",
     "symlink": null,
-    "version": "2.1",
+    "version": "2.2",
     "web": "https://github.com/root3nl/SupportApp"
   }
 }
