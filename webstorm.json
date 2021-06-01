@@ -7,13 +7,13 @@
     "bundle": "WebStorm.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download.jetbrains.com/webstorm/WebStorm-2021.1.1.dmg",
+    "download": "https://download.jetbrains.com/webstorm/WebStorm-2021.1.2.dmg",
     "id": "webstorm",
     "identifier": "com.jetbrains.WebStorm",
     "processes": null,
-    "sha256": "b62b35faa47c59ac552b6e0604fe1c8e63897a1d4477ba302574728a78c9759b",
+    "sha256": "b6b99497f240687130936a6bf5533af206635ca9fb09a6d915ffa828b6010692",
     "symlink": null,
-    "version": "2021.1.1",
+    "version": "2021.1.2",
     "web": "https://www.jetbrains.com/webstorm/"
   }
 }
