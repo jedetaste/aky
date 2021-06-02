@@ -7,14 +7,14 @@
     "bundle": "Wireshark.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Wireshark-3.4.5.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Wireshark-3.4.6.pkg",
     "id": "wireshark",
     "identifier": null,
     "internal": "true",
     "processes": null,
-    "sha256": "f68cd23dafb7630e6ba5857a371eeb2536d394bd07467b8f77c1d5aa9f75244d",
+    "sha256": "8c49dce048a4ed6cf90546e0d3175f265fb39063603784cff83e7916127295b6",
     "symlink": null,
-    "version": "3.4.5",
+    "version": "3.4.6",
     "web": "https://www.wireshark.org/"
   }
 }
