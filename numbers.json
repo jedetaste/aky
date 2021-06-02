@@ -7,14 +7,14 @@
     "bundle": "Numbers.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Numbers-11.0.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Numbers-11.1.pkg",
     "id": "numbers",
     "identifier": "com.apple.iWork.Numbers",
     "internal": "true",
     "processes": null,
-    "sha256": "3f5f3e738e884ebd5d4c0e33c9aa1ce908f2c35a443e821d9b8dde08fe0a37fc",
+    "sha256": "10e33a48c3e60d1886f64390818914e75db85480dbc511fcf7db7624864ff42d",
     "symlink": null,
-    "version": "11.0",
+    "version": "11.1",
     "web": null
   }
 }
