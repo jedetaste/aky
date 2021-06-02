@@ -11,9 +11,9 @@
     "id": "thunderbird-en",
     "identifier": "org.mozilla.thunderbird",
     "processes": null,
-    "sha256": "c1b81afbfd2551c1e0d7b92620cc58d82e18b90ebf19dc84f98a7c5ffc081aee",
+    "sha256": "7286dbc11169c59236509deda3cf73b44dce7a5c806e274b052befc72623ad18",
     "symlink": null,
-    "version": "78.10.2",
+    "version": "78.11.0",
     "web": "https://www.mozilla.org/thunderbird/"
   }
 }
