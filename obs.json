@@ -7,13 +7,13 @@
     "bundle": "OBS.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-fastly.obsproject.com/downloads/obs-mac-26.1.2.dmg",
+    "download": "https://cdn-fastly.obsproject.com/downloads/obs-mac-27.0.dmg",
     "id": "obs",
     "identifier": "com.obsproject.obs-studio",
     "processes": null,
-    "sha256": "42b852a5f23c5fd20d7a3ec444d6e5632fc92a63d3c8546aa6267ee6ad2f085d",
+    "sha256": "6c6adbb4406964a79dafe043b8a91291078208a442c3937b55910583b9220b50",
     "symlink": null,
-    "version": "26.1.2",
+    "version": "27.0.0",
     "web": "https://obsproject.com/"
   }
 }
