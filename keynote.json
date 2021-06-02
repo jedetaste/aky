@@ -7,14 +7,14 @@
     "bundle": "Keynote.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Keynote-11.0.1.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Keynote-11.1.pkg",
     "id": "keynote",
     "identifier": "com.apple.iWork.Keynote",
     "internal": "true",
     "processes": null,
-    "sha256": "1d0147449c8d66c34fb2b044c12c256f8bcdf275f33e10f6517f0a850ec4f6f1",
+    "sha256": "95839bd0bbe7d31b546f172c96dc70ecc3a8b5d366bfbaf0bb3a79852d712788",
     "symlink": null,
-    "version": "11.0.1",
+    "version": "11.1",
     "web": null
   }
 }
