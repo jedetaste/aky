@@ -7,14 +7,14 @@
     "bundle": "Classroom.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Classroom-2.3.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Classroom-2.4.1.pkg",
     "id": "classroom",
     "identifier": "com.apple.macos.classroom",
     "internal": "true",
     "processes": null,
-    "sha256": "e2bf32b8eca506abf0279dabd4398ec697087907845cb2112dc2e23a35c613d0",
+    "sha256": "ec0225dc787b3f07c56c1c93bd2ef20b7ad4984f97506fe8400c138fcba9bdd0",
     "symlink": null,
-    "version": "2.3",
+    "version": "2.4.1",
     "web": null
   }
 }
