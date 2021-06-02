@@ -7,13 +7,13 @@
     "bundle": "Plex Media Server.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://downloads.plex.tv/plex-media-server-new/1.23.1.4602-280ab6053/macos/PlexMediaServer-1.23.1.4602-280ab6053-x86_64.zip",
+    "download": "https://downloads.plex.tv/plex-media-server-new/1.23.2.4625-a83d2d0f9/macos/PlexMediaServer-1.23.2.4625-a83d2d0f9-x86_64.zip",
     "id": "plexmediaserver",
     "identifier": null,
     "processes": null,
-    "sha256": "88b12e44aa5110a0c182b889af28c32cdfb4bba358b38678091afb9a93ad9463",
+    "sha256": "6db91783cc19a08a4937817849b8a44041b0e8578e50f63b938fe21034029b5e",
     "symlink": null,
-    "version": "1.23.1",
+    "version": "1.23.2",
     "web": "https://www.plex.tv/"
   }
 }
