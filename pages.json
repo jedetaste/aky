@@ -7,14 +7,14 @@
     "bundle": "Pages.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Pages-11.0.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Pages-11.1.pkg",
     "id": "pages",
     "identifier": "com.apple.iWork.Pages",
     "internal": "true",
     "processes": null,
-    "sha256": "65845462a68259a2ab78313908ba10ffb215b139acd35537557cd5ae94c412ac",
+    "sha256": "ebabe95e114bbce9cf0384a163fcb04fce4f2a958f7ee827a9ec4813ffa7c3e8",
     "symlink": null,
-    "version": "11.0",
+    "version": "11.1",
     "web": null
   }
 }
