@@ -7,13 +7,13 @@
     "bundle": "Opera.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download.opera.com/download/get/?id=53611&autoupdate=1&ni=1&stream=stable",
+    "download": "https://download.opera.com/download/get/?id=53638&autoupdate=1&ni=1&stream=stable",
     "id": "opera",
     "identifier": "com.operasoftware.Opera",
     "processes": null,
-    "sha256": "254ebe7ebe0e7270fa87adc42acf7bbe6ba8afc2f9e2f2cc3ef17bb35de40266",
+    "sha256": "4c6bbc9aa247647182d912297cd74be59b70e4feb961dc14ce7305e7db10cddc",
     "symlink": null,
-    "version": "76.0.4017.175",
+    "version": "76.0.4017.177",
     "web": "https://www.opera.com/"
   }
 }
