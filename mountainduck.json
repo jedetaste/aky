@@ -7,13 +7,13 @@
     "bundle": "Mountain Duck.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://dist.mountainduck.io/Mountain%20Duck-4.6.1.18201.zip",
+    "download": "https://dist.mountainduck.io/Mountain%20Duck-4.6.2.18221.zip",
     "id": "mountainduck",
     "identifier": "io.mountainduck",
     "processes": null,
-    "sha256": "21b16796e957456cade14f8a38008da7110afe03f6333cdd9c92c9f9a028f278",
+    "sha256": "01f47701216b7165efa15993348d78b0fcdf65a7588978c594c4f3741d7e022d",
     "symlink": null,
-    "version": "4.6.1",
+    "version": "4.6.2",
     "web": "https://mountainduck.io/"
   }
 }
