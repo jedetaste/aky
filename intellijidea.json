@@ -7,13 +7,13 @@
     "bundle": "IntelliJ IDEA.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download.jetbrains.com/idea/ideaIU-2021.1.1.dmg",
+    "download": "https://download.jetbrains.com/idea/ideaIU-2021.1.2.dmg",
     "id": "intellijidea",
     "identifier": "com.jetbrains.intellij",
     "processes": null,
-    "sha256": "ec43a810329b619b5d52aeda3e6240a698b8df137b2c39c1babd1010d81e5555",
+    "sha256": "3e2dcb9e4c91cf5dcd28b2ce1eede51d2fbb0111c669f981551c3dc296ec825b",
     "symlink": null,
-    "version": "2021.1.1",
+    "version": "2021.1.2",
     "web": "https://www.jetbrains.com/idea/"
   }
 }
