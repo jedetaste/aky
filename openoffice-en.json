@@ -7,11 +7,11 @@
     "bundle": "OpenOffice.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.10/binaries/de/Apache_OpenOffice_4.1.10_MacOS_x86-64_install_de.dmg/download",
+    "download": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.10/binaries/en-US/Apache_OpenOffice_4.1.10_MacOS_x86-64_install_en-US.dmg/download",
     "id": "openoffice-en",
     "identifier": "org.openoffice.script",
     "processes": null,
-    "sha256": "11ea257a3248800d4ebb310bc11ddec94bc308b3af498852d7f1703e21584494",
+    "sha256": "0ab76da0a8b61def5eaa5d162a017cfc9dba11607dd81e138ff25a5fb503d09a",
     "symlink": null,
     "version": "4.1.10",
     "web": "https://www.openoffice.org/"
