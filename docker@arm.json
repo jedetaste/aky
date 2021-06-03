@@ -1,0 +1,19 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "Docker.app",
+    "ci": "true",
+    "dir": "/Applications",
+    "download": "https://desktop.docker.com/mac/stable/arm64/Docker.dmg",
+    "id": "docker@arm",
+    "identifier": null,
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": "3.3.3",
+    "web": "https://www.docker.com/community-edition"
+  }
+}
