@@ -6,8 +6,8 @@
     "download": "https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v5.3/macos/pgadmin4-5.3.dmg",
     "sha256": "5da2f1933ba56c634ea47c4034a741e088c7e41465f79411f331d2de7d122145",
     "appcast": {
-      "url": null,
-      "checkpoint": null
+      "url": "https://www.pgadmin.org/download/pgadmin-4-macos/",
+      "checkpoint": 44c0d11cfa172d4a6aa6988862b494f7b3464d6568bc1269befa8198a8a42398
     },
     "version": "5.3",
     "dir": "/Applications",
