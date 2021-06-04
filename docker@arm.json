@@ -9,9 +9,9 @@
     "dir": "/Applications",
     "download": "https://desktop.docker.com/mac/stable/arm64/Docker.dmg",
     "id": "docker@arm",
-    "identifier": null,
+    "identifier": "com.docker.docker",
     "processes": null,
-    "sha256": null,
+    "sha256": "aac4218aa574d63e49cc7f087693ca6039e6b1ef916aa9dd528995f6b494d5ef",
     "symlink": null,
     "version": "3.3.3",
     "web": "https://www.docker.com/community-edition"
