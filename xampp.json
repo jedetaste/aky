@@ -7,11 +7,11 @@
     "bundle": "XAMPP.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.apachefriends.org/xampp-files/8.0.6/xampp-osx-8.0.6-0-vm.dmg",
+    "download": "https://www.apachefriends.org/xampp-files/8.0.7/xampp-osx-8.0.7-0-vm.dmg",
     "id": "xampp",
     "identifier": "com.bitnami.stackman",
     "processes": null,
-    "sha256": "1fc45fd38789f4dfb755318e694011731feed9d684733af51fc6c320d5da6f92",
+    "sha256": "b92b88a4464dd5b607bd736321740c4cd632d1028af503a91204fa10a6cf0e87",
     "symlink": null,
     "version": "1.0.3",
     "web": "https://www.apachefriends.org/index.html"
