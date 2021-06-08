@@ -11,9 +11,9 @@
     "id": "sonos",
     "identifier": "com.sonos.macController2",
     "processes": null,
-    "sha256": "7f230079d95e2eecded7585e1ab48d7e264d922fa43f7aeb5b41848de448971d",
+    "sha256": "e7e06baf8254553a1a0d1e1d625b222734a2cb1b6ce2d59877f90083f18476ad",
     "symlink": null,
-    "version": "13.1.1",
+    "version": "13.1.2",
     "web": "https://www.sonos.com/"
   }
 }
