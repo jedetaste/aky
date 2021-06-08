@@ -7,13 +7,13 @@
     "bundle": "Loom.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn.loom.com/desktop-packages/Loom-0.86.0.dmg",
+    "download": "https://cdn.loom.com/desktop-packages/Loom-0.87.0.dmg",
     "id": "loom",
     "identifier": "com.loom.desktop",
     "processes": null,
-    "sha256": "804bc2aeb2b65bf64fed377b0c37114f97b1a5c75db4ba9a758f286415a18d21",
+    "sha256": "7101b9d578df25b4d3e46d9f719d8428f43e9e0213bf9f4ea7fe0231ce537df2",
     "symlink": null,
-    "version": "0.86.0",
+    "version": "0.87.0",
     "web": "https://www.loom.com/"
   }
 }
