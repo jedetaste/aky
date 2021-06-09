@@ -7,13 +7,13 @@
     "bundle": "Rhino 7.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://files.mcneel.com/rhino/7/mac/releases/rhino_7.6.21127.19002.dmg",
+    "download": "https://files.mcneel.com/rhino/7/mac/releases/rhino_7.7.21160.05002.dmg",
     "id": "rhino7",
     "identifier": "com.mcneel.rhinoceros.7",
     "processes": null,
-    "sha256": "ecb07cf6fd14559962ee1fe1de1d8708d97eb151745652e36db63d97626d95a4",
+    "sha256": "704834edc4d5af00754c14dc9fb45ba761fb050a484b62be231ac0785baef3a8",
     "symlink": null,
-    "version": "7.6.21127.19002",
+    "version": "7.7.21160.05002",
     "web": "https://www.rhino3d.com/"
   }
 }
