@@ -5,12 +5,13 @@
       "url": null
     },
     "bundle": "Migros Bank E-Banking.app",
+    "ci": "true",
     "dir": "/Applications",
-    "download": null,
+    "download": "https://download.migrosbank.ch/mid/MigrosBank-EBanking-Mac-8.1.2609.pkg",
     "id": "migrosbankebanking",
-    "identifier": "com.kobil.midAppMacOS",
+    "identifier": "null",
     "processes": null,
-    "sha256": null,
+    "sha256": "78d65742efaaa4d35156d2fb86309eb872ce62091015eac4b1211a7e1686ccda",
     "symlink": null,
     "version": "8.1.2609",
     "web": "https://www.migrosbank.ch/"
