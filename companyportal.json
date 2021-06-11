@@ -11,9 +11,9 @@
     "id": "companyportal",
     "identifier": null,
     "processes": null,
-    "sha256": "db04c3d5c09cc095f1e93a242d4f53067cd16c7efb1ed344da95bbd7c5de984e",
+    "sha256": "f1a970eb5a9a44fdc287ce9defa1ea6470eef1984eda8b404bde791dc7da902e",
     "symlink": null,
-    "version": "2.15.210400",
+    "version": "2.16.210500",
     "web": "https://docs.microsoft.com/en-us/mem/intune/user-help/enroll-your-device-in-intune-macos-cp"
   }
 }
