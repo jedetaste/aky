@@ -7,13 +7,13 @@
     "bundle": "jamovi.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.jamovi.org/downloads/jamovi-1.8.2.0-macos.dmg",
+    "download": "https://www.jamovi.org/downloads/jamovi-1.8.4.0-macos.dmg",
     "id": "jamovi",
     "identifier": "org.jamovi.jamovi",
     "processes": null,
-    "sha256": "ccf1d84cc06c7026f913e54606512daaed300b2b925759c5302728c4289bc360",
+    "sha256": "5fe2a831b33490767fdc92d55a31b42f92fb1b4e52ed8311b07fcc0dcfac162a",
     "symlink": null,
-    "version": "1.8.2.0",
+    "version": "1.8.4.0",
     "web": "https://www.jamovi.org/"
   }
 }
