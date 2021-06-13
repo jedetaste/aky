@@ -7,14 +7,14 @@
     "bundle": "Burp Suite Community Edition.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Burp%20Suite%20Community%20Edition-2021.6.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Burp%20Suite%20Community%20Edition-2021.5.2.pkg",
     "id": "burpsuitecommunityedition",
     "identifier": null,
     "internal": "true",
     "processes": null,
-    "sha256": "3e423f2d94931b85d4e5c630967d13495f1b6bdd5082cc6603c2a283c5c85d93",
+    "sha256": "1c2bf2b061a373fcdd6cfd45a2bb05759a822d178b831797e581cde1f16b4e44",
     "symlink": null,
-    "version": "2021.6",
+    "version": "2021.5.2",
     "web": "https://portswigger.net/burp/"
   }
 }
