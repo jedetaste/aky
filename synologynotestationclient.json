@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "Synology Note Station Client.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "synologynotestationclient",
+    "identifier": "com.apple.automator.Synology Note Station",
+    "processes": null,
+    "sha256": null,
+    "symlink": null,
+    "version": null,
+    "web": null
+  }
+}
