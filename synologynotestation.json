@@ -5,14 +5,15 @@
       "url": null
     },
     "bundle": "Synology Note Station Client.app",
+    "ci": "true",
     "dir": "/Applications",
-    "download": null,
+    "download": "https://global.download.synology.com/download/Utility/NoteStationClient/2.2.1-553/Mac/x86_64/synology-note-station-client-2.2.1-553-mac-x64.dmg",
     "id": "synologynotestation",
-    "identifier": "com.apple.automator.Synology Note Station",
+    "identifier": "null",
     "processes": null,
-    "sha256": null,
+    "sha256": "ea6f5d3a670bd6c917c0387b1287a32683300fb1ef558ad0cf5159d394782670",
     "symlink": null,
-    "version": null,
+    "version": "2.2.1-553",
     "web": null
   }
 }
