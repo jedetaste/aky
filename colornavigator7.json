@@ -5,14 +5,15 @@
       "url": null
     },
     "bundle": "ColorNavigator 7.app",
+    "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.eizoglobal.com/support/db/files/software/software/graphics/colornavigator7/ColorNavigator710.pkg",
+    "download": "https://www.eizo.co.jp/support/db/files/software/public/ce/cn7/ColorNavigator713.pkg",
     "id": "colornavigator7",
-    "identifier": "com.eizo.ColorNavigator7",
+    "identifier": "null",
     "processes": null,
-    "sha256": null,
+    "sha256": "45d9966ac09e8b4b428fcb870ce7a991e1f4f6a38898407922bb31b3aa1f53a1",
     "symlink": null,
-    "version": "7.1.0",
+    "version": "7.1.3",
     "web": "https://www.eizo.de/zubehoer/software/colornavigator/"
   }
 }
