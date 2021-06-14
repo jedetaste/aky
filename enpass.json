@@ -7,13 +7,13 @@
     "bundle": "Enpass.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://dl.enpass.io/stable/mac/package/6.6.2.831/Enpass.pkg",
+    "download": "https://dl.enpass.io/stable/mac/package/6.6.3.837/Enpass.pkg",
     "id": "enpass",
     "identifier": null,
     "processes": null,
-    "sha256": "a9c60fe2ee56416cc653bb073823c1cabc602049ac4b8680e93250fbc38cc91b",
+    "sha256": "e3fe6ef310876981214d37a9b9c89a4278c52a79b9acc355152a85f32b326e27",
     "symlink": null,
-    "version": "6.6.2",
+    "version": "6.6.3",
     "web": "https://www.enpass.io/"
   }
 }
