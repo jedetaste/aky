@@ -7,13 +7,13 @@
     "bundle": "Sourcetree.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_4.1.1_237.zip",
+    "download": "https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_4.1.2_238.zip",
     "id": "sourcetree",
     "identifier": null,
     "processes": null,
-    "sha256": "239a9d38fd9e081988193ba5916c590fed875a2e1d0d25a77d03acb822d1569a",
+    "sha256": "a8165714418b01abff9cdde55f382d3bdb67bacbcb79c9704cedf932e34584d9",
     "symlink": null,
-    "version": "4.1.1",
+    "version": "4.1.2",
     "web": "https://www.sourcetreeapp.com/"
   }
 }
