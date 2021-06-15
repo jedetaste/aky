@@ -1,0 +1,17 @@
+{
+  "recipe": {
+    "id": "sublimetext4",
+    "bundle": "Sublime Text.app",
+    "identifier": "com.sublimetext.4",
+    "download": "https://download.sublimetext.com/sublime_text_build_4107_mac.zip",
+    "sha256": "5da344779f92c7eb3ac279a6b3cc8810e86480b3e71fba79d8e09e94a3631602",
+    "appcast": {
+      "url": null,
+      "checkpoint": null
+    },
+    "version": "4107",
+    "dir": "/Applications",
+    "symlink": null,
+    "web": "https://www.sublimetext.com"
+  }
+}
