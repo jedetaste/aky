@@ -5,6 +5,7 @@
       "url": null
     },
     "bundle": "Prowise Reflect.app",
+    "ci": "true",
     "dir": "/Applications",
     "download": "https://download.prowise.com/132754/Prowise_Reflect_v1.0.9Mac.dmg",
     "id": "prowisereflect",
