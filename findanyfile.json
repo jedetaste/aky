@@ -7,13 +7,13 @@
     "bundle": "Find Any File.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://s3.amazonaws.com/files.tempel.org/FindAnyFile_2.2.1.zip",
+    "download": "https://s3.amazonaws.com/files.tempel.org/FindAnyFile_2.3.zip",
     "id": "findanyfile",
     "identifier": null,
     "processes": null,
-    "sha256": "7e3d2c53afc02aa39e3da928e03d8bea278cbe4f7bcc6db07094a627430b6d76",
+    "sha256": "7c8642093e055285c0f9588de004dee9ee0a4e195ae4ef7da8ae52a86724fb32",
     "symlink": null,
-    "version": "2.2.1",
+    "version": "2.3",
     "web": "https://apps.tempel.org/FindAnyFile/"
   }
 }
