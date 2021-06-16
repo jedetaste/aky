@@ -7,13 +7,13 @@
     "bundle": "Signal.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://updates.signal.org/desktop/signal-desktop-mac-5.4.1.dmg",
+    "download": "https://updates.signal.org/desktop/signal-desktop-mac-5.5.0.dmg",
     "id": "signal",
     "identifier": "org.whispersystems.signal-desktop",
     "processes": null,
-    "sha256": "e913e94cf82821c599875617c3b203ee075241382e7f0c90997aff7e1ae83b5a",
+    "sha256": "147a73dcb3a2f43b9e2608ed4fd40fc39b98015bbe15f9984e3c2da4c2e8a56a",
     "symlink": null,
-    "version": "5.4.1",
+    "version": "5.5.0",
     "web": "https://signal.org/"
   }
 }
