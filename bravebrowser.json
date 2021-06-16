@@ -7,7 +7,7 @@
     "bundle": "Brave Browser.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://updates-cdn.brave.com/sparkle/Brave-Browser/stable/125.72/Brave-Browser-x64.dmg",
+    "download": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/125.72/Brave-Browser-x64.dmg",
     "id": "bravebrowser",
     "identifier": "com.brave.Browser",
     "processes": null,
