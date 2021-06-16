@@ -7,13 +7,13 @@
     "bundle": "Preference Manager.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.digitalrebellion.com/download/prefman?version=4510",
+    "download": "https://www.digitalrebellion.com/download/prefman?version=4520",
     "id": "preferencemanager",
     "identifier": "com.digitalrebellion.PreferenceManager",
     "processes": null,
-    "sha256": "cc434e28f79f575ba3aef8220b2c485389d244632d77ce28f678f008c35b25bb",
+    "sha256": "780626b2e0a557f86e42ab899dadd727c1ef01f029ddd1ae98a4984365639971",
     "symlink": null,
-    "version": "4.5.1",
+    "version": "4.5.2",
     "web": "https://www.digitalrebellion.com/prefman/"
   }
 }
