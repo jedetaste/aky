@@ -7,13 +7,13 @@
     "bundle": "Phocus.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn.hasselblad.com/software/Phocus_for_Mac/3.6/Phocus-3.6.dmg",
+    "download": "https://cdn.hasselblad.com/software/Phocus_for_Mac/3.6.1/Phocus-3.6.1.dmg",
     "id": "phocus",
     "identifier": "dk.hasselblad.phocus",
     "processes": null,
-    "sha256": "71f89d2cf74c2ccfbee75a9f62f50786b2a8400147f17de97c14b76a9f8b9f77",
+    "sha256": "ebeef5fce0e99c27963266e78c37b732c7fef53e64b47286c7e97618c80e5686",
     "symlink": null,
-    "version": "3.6",
+    "version": "3.6.1",
     "web": "https://www.hasselblad.com/software/phocus"
   }
 }
