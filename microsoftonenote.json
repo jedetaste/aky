@@ -7,15 +7,15 @@
     "bundle": "Microsoft OneNote.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.49.21050901_Updater.pkg",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.50.21061301_Updater.pkg",
     "id": "microsoftonenote",
     "identifier": null,
     "processes": [
       "Microsoft OneNote"
     ],
-    "sha256": "a75e7e5dec4549f94a07a2b34cfb7753c72cba1461c40cde3b6db9b604e51efd",
+    "sha256": "445c01ba3d13731fe499960d0c7d5e3b482fee8e98f796e13d34a67f9c8cf7e3",
     "symlink": null,
-    "version": "16.49.21050901",
+    "version": "16.50.21061301",
     "web": "https://products.office.com/mac/microsoft-office-for-mac/"
   }
 }
