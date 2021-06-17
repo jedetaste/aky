@@ -7,13 +7,13 @@
     "bundle": "Mousepose.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn.boinx.com/software/mousepose/Boinx_Mousepose_4.1-10196.app.zip",
+    "download": "https://cdn.boinx.com/software/mousepose/Mousepose-4.2-Boinx-%2810276%29.app.zip",
     "id": "mousepose",
     "identifier": "com.boinx.Mousepose4",
     "processes": null,
-    "sha256": "f8a87300c434777ac6e3c2ad11d1b4197ac78fc8b7fe1fb6c7d13ce213c56336",
+    "sha256": "a8e1d256f5931e78d730cb9d8de0f50758529373a6bfada9743e069e3ec70ef7",
     "symlink": null,
-    "version": "4.1",
+    "version": "4.2",
     "web": "https://boinx.com/mousepose/overview/"
   }
 }
