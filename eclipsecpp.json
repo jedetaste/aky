@@ -7,13 +7,13 @@
     "bundle": "Eclipse.app",
     "ci": "true",
     "dir": "/Applications/Eclipse CPP",
-    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2021-03/R/eclipse-cpp-2021-03-R-macosx-cocoa-x86_64.dmg",
+    "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2021-06/R/eclipse-cpp-2021-06-R-macosx-cocoa-x86_64.dmg",
     "id": "eclipsecpp",
     "identifier": null,
     "processes": null,
-    "sha256": "4eb035478fb52c1ae3ae26322dc9ec0967a18155283fb44afebee5f12189893a",
+    "sha256": "c49e39d6c9e4fd0c4bedc3383749ca104c16ae39604df3d29f76c044ad1faab2",
     "symlink": null,
-    "version": "4.19.0",
+    "version": "4.20.0",
     "web": "https://eclipse.org/"
   }
 }
