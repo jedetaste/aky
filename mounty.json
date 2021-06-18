@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "Mounty.app",
+    "dir": "/Applications",
+    "download": "https://mounty.app/releases/Mounty.dmg",
+    "id": "mounty",
+    "identifier": "com.cu4uc.mounty",
+    "processes": [],
+    "sha256": null,
+    "symlink": null,
+    "version": "1.12",
+    "web": "https://mounty.app/"
+  }
+}
