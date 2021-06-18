@@ -10,7 +10,7 @@
     "download": "https://installerstorage.blob.core.windows.net/public/install/Tresorit.dmg",
     "id": "tresorit",
     "identifier": "com.tresorit.mac",
-    "processes": null,
+    "processes": [],
     "sha256": "3cb44b99b3d74a5c2715a195a32bb0d72d3a4f0168c563275d35d1d959a34c3b",
     "symlink": null,
     "version": "3.5.2050.1840",

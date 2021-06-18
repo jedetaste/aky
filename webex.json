@@ -10,7 +10,7 @@
     "download": "https://binaries.webex.com/WebexTeamsDesktop-MACOS-Gold/Webex.dmg",
     "id": "webex",
     "identifier": "Cisco-Systems.Spark",
-    "processes": null,
+    "processes": [],
     "sha256": "339db0cffd1beead2a38fe87f282eda3c529b915abf907440f9cc3ca35a4c7e4",
     "symlink": null,
     "version": "41.6.1.19162",

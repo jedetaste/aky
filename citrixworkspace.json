@@ -11,7 +11,7 @@
     "id": "citrixworkspace",
     "identifier": null,
     "internal": "true",
-    "processes": null,
+    "processes": [],
     "sha256": "e26a7dfdfcc15121332cee9b9855a8d081085a5260710e58cef4af66b438d4bf",
     "symlink": null,
     "version": "21.04.0",

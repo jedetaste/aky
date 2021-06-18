@@ -10,7 +10,7 @@
     "download": "https://was1.join.swisscom.ch/dms/bc/pc/btbc-mac.dmg",
     "id": "businesscommunication",
     "identifier": "com.broadsoft.communicator",
-    "processes": null,
+    "processes": [],
     "sha256": "6f31cc86a6470d74c47b17a80cd653f2db2a56118314d15f64ca2fad3de17d07",
     "symlink": null,
     "version": "22.9.21.91",

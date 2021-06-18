@@ -10,7 +10,7 @@
     "download": "https://download.garmin.com/omt/express/GarminExpress.dmg",
     "id": "garminexpress",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "adde80e90e8c6607ba201e1794990a28514d2d3b1e903d52774e8beba7651c03",
     "symlink": null,
     "version": "7.6.0.0",

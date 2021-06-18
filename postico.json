@@ -10,7 +10,7 @@
     "download": "https://eggerapps.at/postico/download/",
     "id": "postico",
     "identifier": "at.eggerapps.Postico",
-    "processes": null,
+    "processes": [],
     "sha256": "68e4a446d789e2cadb2679f18938b134bbda05b0c5a69c44624cab379a78f067",
     "symlink": null,
     "version": "1.5.19",

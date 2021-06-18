@@ -10,7 +10,7 @@
     "download": "https://ftp.nluug.nl/pub/graphics/blender/release/Blender2.93/blender-2.93.0-macos-x64.dmg",
     "id": "blender",
     "identifier": "org.blenderfoundation.blender",
-    "processes": null,
+    "processes": [],
     "sha256": "8d5b1ab508c99aa9ddfabef02c13583f0cb31046f5e3bc33db477dbb940e6745",
     "symlink": null,
     "version": "2.93.0",

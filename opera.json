@@ -10,7 +10,7 @@
     "download": "https://download.opera.com/download/get/?id=53879&autoupdate=1&ni=1&stream=stable",
     "id": "opera",
     "identifier": "com.operasoftware.Opera",
-    "processes": null,
+    "processes": [],
     "sha256": "5c714a24cb47d1fe152fc7014605c1f5380eb9d92ce932a52f5b48efa06a7b12",
     "symlink": null,
     "version": "77.0.4054.90",

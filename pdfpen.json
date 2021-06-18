@@ -10,7 +10,7 @@
     "download": "https://cdn.smilesoftware.com/PDFpen_13.0.1.dmg",
     "id": "pdfpen",
     "identifier": "com.smileonmymac.PDFpen",
-    "processes": null,
+    "processes": [],
     "sha256": "ed48f267817f8392f00205031eff1126381c07e99146eaae94c1e385d1487e5c",
     "symlink": null,
     "version": "13.0.1",

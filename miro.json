@@ -10,7 +10,7 @@
     "download": "https://desktop.miro.com/platforms/darwin/Miro.dmg",
     "id": "miro",
     "identifier": "com.electron.realtimeboard",
-    "processes": null,
+    "processes": [],
     "sha256": "b06dd54839089cf76295bac4f25dab209b57f01cb85f3996939b320f40c3a2fd",
     "symlink": null,
     "version": "0.5.4",

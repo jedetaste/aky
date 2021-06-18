@@ -14,7 +14,7 @@
     "id": "weka",
     "identifier": "nz.ac.waikato.cms.Weka",
     "internal": "true",
-    "processes": null,
+    "processes": [],
     "sha256": "2488d8b70178f4765c38e684aa674795301ad3517d89fec3aeaaadb730fe3257",
     "symlink": null,
     "version": "3.8.5",

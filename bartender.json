@@ -10,7 +10,7 @@
     "download": "https://macbartender.com/B2/updates/4-1-00/Bartender%204.zip",
     "id": "bartender",
     "identifier": "com.surteesstudios.Bartender",
-    "processes": null,
+    "processes": [],
     "sha256": "83e65fc2024555ceae9363a19a436f866ea5991d9737dec7c2e38b16971befb6",
     "symlink": null,
     "version": "4.1.0",

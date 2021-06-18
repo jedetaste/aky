@@ -10,7 +10,7 @@
     "download": "https://downloadcallbar.talkdesk.com/Callbar-1.40.18-electron.dmg",
     "id": "callbar",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "096553b1ec01590bc432c4465f5bedafff781657bd7442d1d67423d048be2a10",
     "symlink": null,
     "version": "1.40.18-electron",

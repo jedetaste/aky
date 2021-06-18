@@ -11,7 +11,7 @@
     "id": "libreoffice",
     "identifier": "org.libreoffice.script",
     "internal": "true",
-    "processes": null,
+    "processes": [],
     "sha256": "02a959e5714e7802f1e8fb415eb873755ba1b2c43f7a2d679638696d6b02dc20",
     "symlink": null,
     "version": "7.1.4.2",

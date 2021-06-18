@@ -10,7 +10,7 @@
     "download": "https://cmi-bildung.ch/lo/dateien/easy/lo_desktop_macos.dmg",
     "id": "lehreroffice",
     "identifier": "ch.rothsoft.lehreroffice.desktop",
-    "processes": null,
+    "processes": [],
     "sha256": "55d6092abe2952ef17e466c250546481a183dd7770e6d10034e39f701c97a459",
     "symlink": null,
     "version": "2021.5.0",

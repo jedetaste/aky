@@ -11,7 +11,7 @@
     "id": "citrixreceiver",
     "identifier": null,
     "internal": "true",
-    "processes": null,
+    "processes": [],
     "sha256": "dc039b5a6e4ba57c61a7f4536c9ab0bb8cd08ff93f937267bdfe300a8685900d",
     "symlink": null,
     "version": "12.9.1",

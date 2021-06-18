@@ -10,7 +10,7 @@
     "download": "https://downloads.nordcdn.com/apps/macos/generic/NordVPN-OpenVPN/latest/NordVPN.zip",
     "id": "nordvpn",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "0c23da1bbd858cdcbba7a0c184b7654e8de20457fafbbe1a8e8d478031cf3453",
     "symlink": null,
     "version": "6.5.0",

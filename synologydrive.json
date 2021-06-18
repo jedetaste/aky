@@ -10,7 +10,7 @@
     "download": "https://global.download.synology.com/download/Utility/SynologyDriveClient/3.0.1-12664/Mac/Installer/synology-drive-client-12664.dmg",
     "id": "synologydrive",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "c3df3c20b506e84656ede14a150164fcacd15570fab43c87933223ce1a2ed86e",
     "symlink": null,
     "version": "7.0.1",

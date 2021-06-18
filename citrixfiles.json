@@ -10,7 +10,7 @@
     "download": "https://dl.sharefile.com/cfmac",
     "id": "citrixfiles",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "1ed558726853296f7d3f81214e629e57d9104a7f101f63781cf26451455e8466",
     "symlink": null,
     "version": "21.4",

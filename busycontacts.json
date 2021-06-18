@@ -10,7 +10,7 @@
     "download": "https://www.busymac.com/download/BusyContacts.zip",
     "id": "busycontacts",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "c8255ca675c423b6dbfc32ebca87dd8b77e72da6b170887aa55c4293b989bf17",
     "symlink": null,
     "version": "1.5.2.1",

@@ -10,7 +10,7 @@
     "download": "https://cdn.loom.com/desktop-packages/Loom-0.89.0.dmg",
     "id": "loom",
     "identifier": "com.loom.desktop",
-    "processes": null,
+    "processes": [],
     "sha256": "f8c3afbd0de90bc6c1bb411c0f88fe8b17dfd256454bf5455a3e536159e4682e",
     "symlink": null,
     "version": "0.89.0",

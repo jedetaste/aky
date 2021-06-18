@@ -10,7 +10,7 @@
     "download": "https://github.com/jgraph/drawio-desktop/releases/download/v14.6.13/draw.io-14.6.13.dmg",
     "id": "draw",
     "identifier": "com.jgraph.drawio.desktop",
-    "processes": null,
+    "processes": [],
     "sha256": "aaf6016b98413f14064d1c1fa3070f160172d9cb602a5cf30fc702e2ffbd37a4",
     "symlink": null,
     "version": "14.6.13",

@@ -10,7 +10,7 @@
     "download": "https://evernote.s3.amazonaws.com/skitch/mac/release/Skitch-2.9.zip",
     "id": "skitch",
     "identifier": "com.skitch.skitch",
-    "processes": null,
+    "processes": [],
     "sha256": "8757600d471ed0cac2cc4242c44f1a3c6f1fffe934037845d23392fc5eb81712",
     "symlink": null,
     "version": "2.9",

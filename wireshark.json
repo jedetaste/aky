@@ -11,7 +11,7 @@
     "id": "wireshark",
     "identifier": null,
     "internal": "true",
-    "processes": null,
+    "processes": [],
     "sha256": "8c49dce048a4ed6cf90546e0d3175f265fb39063603784cff83e7916127295b6",
     "symlink": null,
     "version": "3.4.6",

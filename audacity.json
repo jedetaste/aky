@@ -10,7 +10,7 @@
     "download": "https://github.com/audacity/audacity/releases/download/Audacity-3.0.2/audacity-macos-3.0.2.dmg",
     "id": "audacity",
     "identifier": "org.audacityteam.audacity",
-    "processes": null,
+    "processes": [],
     "sha256": "57895aad20a5512aeb44d1ab5b7d01a68a5303d4225351528f377eb7686f281e",
     "symlink": null,
     "version": "3.0.2.0",

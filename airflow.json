@@ -10,7 +10,7 @@
     "download": "https://airflowapp.com/download/latest?mac",
     "id": "airflow",
     "identifier": "com.bitcavehq.Airflow",
-    "processes": null,
+    "processes": [],
     "sha256": "37bf049ac5ed36c0ea0884802379bfae508edcbfa1edbd34f98e0598196012b9",
     "symlink": null,
     "version": "3.3.1",

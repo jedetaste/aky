@@ -10,7 +10,7 @@
     "download": "http://download.agisoft.com/metashape_1_7_3.dmg",
     "id": "metashape",
     "identifier": "com.agisoft.metashape.standard",
-    "processes": null,
+    "processes": [],
     "sha256": "4963714e42ff16ef9a7a8d7fb888834a7a4a97d9882a6d71d0f644d06fd7de40",
     "symlink": null,
     "version": "1.7.3",

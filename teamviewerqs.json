@@ -10,7 +10,7 @@
     "download": "https://download.teamviewer.com/download/TeamViewerQS.dmg",
     "id": "teamviewerqs",
     "identifier": "com.teamviewer.TeamViewerQS",
-    "processes": null,
+    "processes": [],
     "sha256": "2f51382d5367479808f4d68e10e763c778d029f6f0f907fda0f7fdbea2d047ff",
     "symlink": null,
     "version": "15.18.5",

@@ -10,7 +10,7 @@
     "download": "https://launcher.mojang.com/download/Minecraft.dmg",
     "id": "minecraft",
     "identifier": "com.mojang.minecraftlauncher",
-    "processes": null,
+    "processes": [],
     "sha256": "ed4140633c1b24e1aa2ea06dc06d931f2b202308fad25f6473de92525c0f6b0c",
     "symlink": null,
     "version": "973",

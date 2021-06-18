@@ -10,7 +10,7 @@
     "download": "https://download.scdn.co/Spotify.dmg",
     "id": "spotify",
     "identifier": "com.spotify.client",
-    "processes": null,
+    "processes": [],
     "sha256": "67b4c55f994f63d56169519f00336505c4f226a61c8a161e33c179995fff7fc6",
     "symlink": null,
     "version": "1.1.61.583.gad060c66",

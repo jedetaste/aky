@@ -13,7 +13,7 @@
     "download": "https://static.tumult.com/hype/download/Hype-734.app.zip",
     "id": "hype",
     "identifier": "com.tumult.Hype4",
-    "processes": null,
+    "processes": [],
     "sha256": "e3dd76ff24ecc10c6c77fada413658af941b37a3e0f02cf0f10bfcadfe49e796",
     "symlink": null,
     "version": "4.1.6",

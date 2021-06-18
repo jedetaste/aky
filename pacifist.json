@@ -10,7 +10,7 @@
     "download": "https://www.charlessoft.com/cgi-bin/pacifist_download.cgi?type=dmg",
     "id": "pacifist",
     "identifier": "com.charlessoft.pacifist",
-    "processes": null,
+    "processes": [],
     "sha256": "dac6ef23f81494ff69d74d99aa36187484a207e7e0142f395160f511c18cee6a",
     "symlink": null,
     "version": "3.6.2",

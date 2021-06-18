@@ -10,7 +10,7 @@
     "download": "https://remotix.com/downloads/latest-agent-mac/",
     "id": "remotixagent",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "95b95cc16c10208d1883c836df6790fdb85c5090b7d1b4f902c05ab44c405e4d",
     "symlink": null,
     "version": "1.5.8",

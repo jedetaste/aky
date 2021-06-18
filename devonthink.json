@@ -10,7 +10,7 @@
     "download": "https://download.devontechnologies.com/download/devonthink/3.7.2/DEVONthink_3.app.zip",
     "id": "devonthink",
     "identifier": "com.devon-technologies.think3",
-    "processes": null,
+    "processes": [],
     "sha256": "d1a2c7372f44bf381c7895bd676f23aa65687d3fb4c4272562fa810f265d8c3a",
     "symlink": null,
     "version": "3.7.2",

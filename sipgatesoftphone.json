@@ -10,7 +10,7 @@
     "download": "https://sipgate-desktop-app.s3.eu-central-1.amazonaws.com/sipgate-softphone.dmg",
     "id": "sipgatesoftphone",
     "identifier": "com.sipgate.desktop",
-    "processes": null,
+    "processes": [],
     "sha256": "3e0add0ef764dab7994e78f55dd97292b931dc2e46e332184a911898f64088ce",
     "symlink": null,
     "version": "1.16.2",

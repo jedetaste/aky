@@ -10,7 +10,7 @@
     "download": "https://counterpath.s3.amazonaws.com/downloads/Bria_6.4.1_107305.dmg",
     "id": "bria",
     "identifier": "com.counterpath.bria",
-    "processes": null,
+    "processes": [],
     "sha256": "eb5ba8268b6b63e424ef197fdf59635a1f7a00ac860448481eeae2fac70b311c",
     "symlink": null,
     "version": "6.4.1",

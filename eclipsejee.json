@@ -10,7 +10,7 @@
     "download": "https://eclipse.org/downloads/download.php?r=1&file=/technology/epp/downloads/release/2021-06/R/eclipse-jee-2021-06-R-macosx-cocoa-x86_64.dmg",
     "id": "eclipsejee",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "befc851d3a9b209df847c2bdeef698e511212ce13acd237389729e56b1ad8c92",
     "symlink": null,
     "version": "4.20.0",

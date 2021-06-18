@@ -10,7 +10,7 @@
     "download": "https://autoupdate.linkedhelper.com/linked-helper/444657160c922f6b8048468fef840020/latest/darwin/x64/linked-helper.dmg",
     "id": "linkedhelper",
     "identifier": "com.linkedhelper.launcher",
-    "processes": null,
+    "processes": [],
     "sha256": "677c0412fcad8828c67222d8bde5ed897b209e8dfc606749aaa02a47e0382475",
     "symlink": null,
     "version": "1.11.23",

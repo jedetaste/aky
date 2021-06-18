@@ -10,7 +10,7 @@
     "download": "https://zoom.us/client/latest/ZoomInstallerIT.pkg",
     "id": "zoom",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "e40327f27f879fb44aa4b38c07360844ee3bce18c629d986d5d25a93a8912143",
     "symlink": null,
     "version": "5.6.7 (1020)",

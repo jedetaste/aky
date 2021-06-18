@@ -10,7 +10,7 @@
     "download": "https://www.torproject.org/dist/torbrowser/10.0.17/TorBrowser-10.0.17-osx64_en-US.dmg",
     "id": "torbrowser-en",
     "identifier": "org.torproject.torbrowser",
-    "processes": null,
+    "processes": [],
     "sha256": "2ebf6445bf1e7bd4a05d57f788f3794877a4d2eaf7b2b02bf812dddfdacbc9e9",
     "symlink": null,
     "version": "10.0.17",

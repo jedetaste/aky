@@ -10,7 +10,7 @@
     "download": "https://releases.mozilla.org/pub/firefox/releases/90.0b9/mac/de/Firefox%2090.0b9.pkg",
     "id": "firefoxdeveloperedition",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "0cd1b6ccc14c3f5f5e27787cf18d05dd0ef2ccba22f4270457e11e3a9a2031d7",
     "symlink": null,
     "version": "90.0",

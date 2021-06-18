@@ -10,7 +10,7 @@
     "download": "https://download.jetbrains.com/webstorm/WebStorm-2021.1.2.dmg",
     "id": "webstorm",
     "identifier": "com.jetbrains.WebStorm",
-    "processes": null,
+    "processes": [],
     "sha256": "b6b99497f240687130936a6bf5533af206635ca9fb09a6d915ffa828b6010692",
     "symlink": null,
     "version": "2021.1.2",

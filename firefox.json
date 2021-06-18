@@ -10,7 +10,7 @@
     "download": "https://releases.mozilla.org/pub/firefox/releases/89.0.1/mac/de/Firefox%2089.0.1.pkg",
     "id": "firefox",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "9857a08e4699fd66b57501acde5ff916212632bab90797be45c962449971edff",
     "symlink": null,
     "version": "89.0.1",

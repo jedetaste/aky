@@ -10,7 +10,7 @@
     "download": "https://s3.amazonaws.com/BBSW-download/BBEdit_13.5.7.dmg",
     "id": "bbedit",
     "identifier": "com.barebones.bbedit",
-    "processes": null,
+    "processes": [],
     "sha256": "eaab53f65dc1dbe9b9f010cfce7778d765763344fb53e1c9f5430286e66dc35b",
     "symlink": null,
     "version": "13.5.7",

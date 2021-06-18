@@ -10,7 +10,7 @@
     "download": "https://cmi-bildung.ch/lo/dateien/zusatz/lo_zusatz_macos.dmg",
     "id": "lehrerofficezusatz",
     "identifier": "ch.rothsoft.lehreroffice.sv",
-    "processes": null,
+    "processes": [],
     "sha256": "bd9bb516fa9ecac0612139b305cfa23d2e456d6f3edf5c76dea873ca79c50b9f",
     "symlink": null,
     "version": "2021.5.0",

@@ -10,7 +10,7 @@
     "download": "http://bluej.org/download/files/BlueJ-mac-501.zip",
     "id": "bluej",
     "identifier": "org.bluej.BlueJ",
-    "processes": null,
+    "processes": [],
     "sha256": "94dbfb5ca4da48bf0cfd2b5679fb36be432161b4fabc00376f05e992bdfe2f63",
     "symlink": null,
     "version": "5.0.1",

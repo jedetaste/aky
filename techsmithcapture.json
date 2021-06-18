@@ -10,7 +10,7 @@
     "download": "https://cdn.cloud.techsmith.com/techsmithcapture/mac/TechSmithCapture.dmg",
     "id": "techsmithcapture",
     "identifier": "com.techsmith.relayrecorder",
-    "processes": null,
+    "processes": [],
     "sha256": "12592433c808dec7a09103c0dcae293ae000a5a13e200f33f4fbe50b6bc2fa98",
     "symlink": null,
     "version": "1.4.1",

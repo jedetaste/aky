@@ -10,7 +10,7 @@
     "download": "https://hb.bizmrg.com/icq-www/mac/x64/icq.dmg",
     "id": "icq",
     "identifier": "com.icq.macicq",
-    "processes": null,
+    "processes": [],
     "sha256": "3d645a9badd7524f3f9a23187a40079098427907d75f2c1ecaa676ff5369d2ec",
     "symlink": null,
     "version": "3.0.32393",

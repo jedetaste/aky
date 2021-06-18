@@ -10,7 +10,7 @@
     "download": "https://download-editor.grammarly.com/osx/Grammarly.dmg",
     "id": "grammarly",
     "identifier": "com.grammarly.DesktopEditor",
-    "processes": null,
+    "processes": [],
     "sha256": "d0f1332c680e1931130d1c18c5245a34bae6dc647e3b5f23d251e00f305195cc",
     "symlink": null,
     "version": "1.5.75",

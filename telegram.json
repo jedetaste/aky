@@ -10,7 +10,7 @@
     "download": "https://telegram.org/dl/macos",
     "id": "telegram",
     "identifier": "ru.keepcoder.Telegram",
-    "processes": null,
+    "processes": [],
     "sha256": "2a660144ed0a6f9070d2bcee28c604f208ae643b136220d7fe261e4da87ed854",
     "symlink": null,
     "version": "7.7",

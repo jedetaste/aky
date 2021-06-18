@@ -10,6 +10,7 @@
     "download": "https://get.anydesk.com/eR5PfSuw/AnyDesk.dmg",
     "id": "anydeskfernwartung",
     "identifier": "com.philandro.anydesk-ad-52e7bffe",
+    "processes": [],
     "sha256": "19837c262cb1437550241d40be9109797eb902faa9ca3deadf4a9fe46897803e",
     "symlink": null,
     "version": "6.2.0",

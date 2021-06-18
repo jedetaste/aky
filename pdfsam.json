@@ -10,7 +10,7 @@
     "download": "https://github.com/torakiki/pdfsam/releases/download/v4.2.5/pdfsam-4.2.5.dmg",
     "id": "pdfsam",
     "identifier": "org.pdfsam.basic",
-    "processes": null,
+    "processes": [],
     "sha256": "9ea8365d5df0205cddc08363d21032d9110b03b8eac89d2242578efe1e52d1cc",
     "symlink": null,
     "version": "4.2.5",

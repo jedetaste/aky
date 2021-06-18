@@ -10,7 +10,7 @@
     "download": "https://downloads.scratch.mit.edu/desktop/Scratch.dmg",
     "id": "scratch",
     "identifier": "edu.mit.scratch.scratch-desktop",
-    "processes": null,
+    "processes": [],
     "sha256": "17c0e385d2a3542a39bf057028dcfa87ca0cd3a4e7cf1cc711aabee289fa3806",
     "symlink": null,
     "version": "3.23.1",

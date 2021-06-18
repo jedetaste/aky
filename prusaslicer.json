@@ -9,7 +9,7 @@
     "download": "https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.3.1-rc/PrusaSlicer-2.3.1-rc+universal-202104140900.dmg",
     "id": "prusaslicer",
     "identifier": "com.prusa3d.slic3r/",
-    "processes": null,
+    "processes": [],
     "sha256": "2a1e01a6fc33f9e8f1fd373b9b0e26a0a5fe00146c1e23f8bd20db7f6299b145",
     "symlink": null,
     "version": "PrusaSlicer PrusaSlicer-2.3.1-rc+x64-202104140900",

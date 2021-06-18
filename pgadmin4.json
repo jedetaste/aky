@@ -10,6 +10,7 @@
     "download": "https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v5.4/macos/pgadmin4-5.4.dmg",
     "id": "pgadmin4",
     "identifier": "org.pgadmin.pgadmin4",
+    "processes": [],
     "sha256": "9bdf18fbc2cbc7be6826213c2f0e180f4dc9f6adc6d6e8e8d78117aff4d61a1b",
     "symlink": null,
     "version": "5.4",

@@ -10,7 +10,7 @@
     "download": "https://dl.google.com/drive-file-stream/GoogleDrive.dmg",
     "id": "googledrivefilestream",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "bd8cba4da72639c0e516d0ff6094bf2b357e7296c917707dbd420650ae9c5332",
     "symlink": null,
     "version": "48.0.13",

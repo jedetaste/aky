@@ -10,7 +10,7 @@
     "download": "https://github.com/dbeaver/dbeaver/releases/download/21.1.0/dbeaver-ce-21.1.0-macos.dmg",
     "id": "dbeaver",
     "identifier": "org.jkiss.dbeaver.core.product",
-    "processes": null,
+    "processes": [],
     "sha256": "d8500c45917480c2532db584e0470b9c015abd25a09ce68beafd7a70dba3c3ff",
     "symlink": null,
     "version": "21.1.0",

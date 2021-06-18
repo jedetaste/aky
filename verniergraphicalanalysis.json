@@ -10,7 +10,7 @@
     "download": "https://software-releases.graphicalanalysis.com/ga/mac/release/latest/Vernier-Graphical-Analysis.dmg",
     "id": "verniergraphicalanalysis",
     "identifier": "Vernier.GraphicalAnalysis",
-    "processes": null,
+    "processes": [],
     "sha256": "fd4a38c2f7d470b2af70af9ddd7cc8873f836a05133f855933ae6ede7b33cc1e",
     "symlink": null,
     "version": "5.8.0-387",

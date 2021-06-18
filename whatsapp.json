@@ -10,7 +10,7 @@
     "download": "https://web.whatsapp.com/desktop/mac/files/WhatsApp.dmg",
     "id": "whatsapp",
     "identifier": "com.whatsapp.WhatsApp",
-    "processes": null,
+    "processes": [],
     "sha256": "b7388073ff058d0a0e850ef27bb5ed604bec528b0e7202ad52eefc1597a6fb1d",
     "symlink": null,
     "version": "2.2123.7",

@@ -10,7 +10,7 @@
     "download": "https://cloud.r-project.org/bin/macosx/base/R-4.1.0.pkg",
     "id": "r",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "2974eff8401ebd00d580fd98ba1a96352cc8924358443d41c8bdb66e358d7f36",
     "symlink": null,
     "version": "R 4.1.0 GUI 1.76 High Sierra build",

@@ -10,7 +10,7 @@
     "download": "https://go.microsoft.com/fwlink/?linkid=2069148",
     "id": "microsoftedge",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "09ba69d28b690fe6806bc7c5240fb69d0452b8068400305315dd6aa898cc2537",
     "symlink": null,
     "version": "91.0.864.53",

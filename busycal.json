@@ -10,7 +10,7 @@
     "download": "https://www.busymac.com/download/BusyCal.zip",
     "id": "busycal",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "cd6252d562a879ce8aba4f8739b9867a9b462d6fb0c3117732857589fbd1ab19",
     "symlink": null,
     "version": "3.12.6.1",

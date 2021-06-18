@@ -10,7 +10,7 @@
     "download": "https://github.com/Kitware/CMake/releases/download/v3.20.4/cmake-3.20.4-macos-universal.dmg",
     "id": "cmake",
     "identifier": "org.cmake.cmake",
-    "processes": null,
+    "processes": [],
     "sha256": "4db0d5f0f7bbbe19302067f21e5a2be8235b44b1b465c117006fb154432f6873",
     "symlink": null,
     "version": "3.20.4",

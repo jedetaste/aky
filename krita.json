@@ -10,7 +10,7 @@
     "download": "https://download.kde.org/stable/krita/4.4.5/krita-4.4.5.dmg",
     "id": "krita",
     "identifier": "org.krita",
-    "processes": null,
+    "processes": [],
     "sha256": "1b0e6ecb539043f6522da6f5192c7fcdaae3641fbe5d4a766e4c7834288efc71",
     "symlink": null,
     "version": "4.4.5",

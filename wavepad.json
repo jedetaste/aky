@@ -10,7 +10,7 @@
     "download": "https://www.nch.com.au/components/wavepadmaci.zip",
     "id": "wavepad",
     "identifier": "com.nchsoftware.wavepad",
-    "processes": null,
+    "processes": [],
     "sha256": "7d02118d37547e30d13df02e3deae0530cb2ab5e78474145f357782853308aa8",
     "symlink": null,
     "version": "12.47",

@@ -10,7 +10,7 @@
     "download": "https://iterm2.com/downloads/stable/iTerm2-3_4_8.zip",
     "id": "iterm",
     "identifier": "com.googlecode.iterm2",
-    "processes": null,
+    "processes": [],
     "sha256": "29e1cf80dff3cd63e23e42d781969d74a7fed3aadebc756d0001942e40bb376f",
     "symlink": null,
     "version": "3.4.8",

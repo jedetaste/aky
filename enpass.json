@@ -10,7 +10,7 @@
     "download": "https://dl.enpass.io/stable/mac/package/6.6.3.837/Enpass.pkg",
     "id": "enpass",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "e3fe6ef310876981214d37a9b9c89a4278c52a79b9acc355152a85f32b326e27",
     "symlink": null,
     "version": "6.6.3",

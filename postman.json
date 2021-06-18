@@ -10,7 +10,7 @@
     "download": "https://dl.pstmn.io/download/latest/osx",
     "id": "postman",
     "identifier": "com.postmanlabs.mac",
-    "processes": null,
+    "processes": [],
     "sha256": "3586ae751cc7d714b5aa44916af0753cd2232db09f10d31e31df000823d2fd47",
     "symlink": null,
     "version": "8.6.2",

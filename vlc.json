@@ -10,7 +10,7 @@
     "download": "https://get.videolan.org/vlc/3.0.14/macosx/vlc-3.0.14-universal.dmg",
     "id": "vlc",
     "identifier": "org.videolan.vlc",
-    "processes": null,
+    "processes": [],
     "sha256": "83e0b28cf26859e4d013284d14074dbeca37621f4ccc4e36e41e372003ac5d32",
     "symlink": null,
     "version": "3.0.14",

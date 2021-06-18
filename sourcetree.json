@@ -10,7 +10,7 @@
     "download": "https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_4.1.2_238.zip",
     "id": "sourcetree",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "a8165714418b01abff9cdde55f382d3bdb67bacbcb79c9704cedf932e34584d9",
     "symlink": null,
     "version": "4.1.2",

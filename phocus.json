@@ -10,7 +10,7 @@
     "download": "https://cdn.hasselblad.com/software/Phocus_for_Mac/3.6.1/Phocus-3.6.1.dmg",
     "id": "phocus",
     "identifier": "dk.hasselblad.phocus",
-    "processes": null,
+    "processes": [],
     "sha256": "ebeef5fce0e99c27963266e78c37b732c7fef53e64b47286c7e97618c80e5686",
     "symlink": null,
     "version": "3.6.1",

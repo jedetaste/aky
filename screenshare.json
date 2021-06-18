@@ -10,7 +10,7 @@
     "download": "https://share.mypromethean.com/download/mac/Screen_Share_1.9.7.1_sign.pkg",
     "id": "screenshare",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "aeb1346c3858ff091bb0f9bd8486f088ae518ed00250b19e1ccde3b561745951",
     "symlink": null,
     "version": "1.9.7.1",

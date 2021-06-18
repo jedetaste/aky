@@ -11,7 +11,7 @@
     "id": "maxima",
     "identifier": "net.sourceforge.maxima",
     "internal": "true",
-    "processes": null,
+    "processes": [],
     "sha256": "0a462f4570f0d602afe2dc575dba02a785323c66e4be0570d1ff7d1c613286ca",
     "symlink": null,
     "version": "5.41.0",

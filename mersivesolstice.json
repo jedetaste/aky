@@ -10,7 +10,7 @@
     "download": "https://www.mersive.com/downloads/SolsticeClient-5.3.3.dmg",
     "id": "mersivesolstice",
     "identifier": "com.mersive.solstice.client",
-    "processes": null,
+    "processes": [],
     "sha256": "7cfb909d129129ad75aa84aa34ac35294acfde503a00abe5a8c0856a5fa48a66",
     "symlink": null,
     "version": "5.3.27923",

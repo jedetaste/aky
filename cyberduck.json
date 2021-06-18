@@ -10,7 +10,7 @@
     "download": "https://update.cyberduck.io//Cyberduck-7.9.2.34986.zip",
     "id": "cyberduck",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "8a38c327b60fd74cbe349dc568ab939b8357145119251b530c5e3ae49de5613e",
     "symlink": null,
     "version": "7.9.2",

@@ -10,7 +10,7 @@
     "download": "https://archive.apache.org/dist/directory/studio/2.0.0.v20210213-M16/ApacheDirectoryStudio-2.0.0.v20210213-M16-macosx.cocoa.x86_64.dmg",
     "id": "apachedirectorystudio",
     "identifier": "org.apache.directory.studio.product",
-    "processes": null,
+    "processes": [],
     "sha256": "aeb174447146c5a7b53158047f566ce63a93fbeef06e2efb4c9567930210bf2e",
     "symlink": null,
     "version": "2.0.0",

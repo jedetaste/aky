@@ -10,7 +10,7 @@
     "download": "https://downloads.vivaldi.com/stable/Vivaldi.4.0.2312.27.universal.dmg",
     "id": "vivaldi",
     "identifier": "com.vivaldi.Vivaldi",
-    "processes": null,
+    "processes": [],
     "sha256": "daf77dcd6cbcbb9342a3d835a41bc008258c9ad2fb9963f8ee2af3251ee87613",
     "symlink": null,
     "version": "4.0.2312.27",

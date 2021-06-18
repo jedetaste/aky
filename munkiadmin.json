@@ -10,7 +10,7 @@
     "download": "https://github.com/hjuutilainen/munkiadmin/releases/download/v1.8.1/MunkiAdmin-1.8.1.dmg",
     "id": "munkiadmin",
     "identifier": "com.hjuutilainen.MunkiAdmin",
-    "processes": null,
+    "processes": [],
     "sha256": "2037b131b298579bc0213578602e219ee43d6054d4ab5d61432b08c38bc15349",
     "symlink": null,
     "version": "1.8.1",

@@ -11,7 +11,7 @@
     "id": "statusbuddy",
     "identifier": "codes.rambo.StatusBuddy",
     "internal": "true",
-    "processes": null,
+    "processes": [],
     "sha256": "161b10ec1e32d0d74f10a9beb5af52f78e4c85293c583778f9c3c4cee3c0fed1",
     "symlink": null,
     "version": "0.6.2",

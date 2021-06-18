@@ -10,7 +10,7 @@
     "download": "https://www.iwaxx.com/debookee/debookee.zip",
     "id": "debookee",
     "identifier": "com.iwaxx.Debookee",
-    "processes": null,
+    "processes": [],
     "sha256": "7fb6615a9dc48356dfa9bd9b2885420c4a3f0f473e0465740d9d612a28e632fd",
     "symlink": null,
     "version": "8.1.1",

@@ -10,7 +10,7 @@
     "download": "https://download.mozilla.org/?product=thunderbird-latest-ssl&os=osx&lang=de",
     "id": "thunderbird",
     "identifier": "org.mozilla.thunderbird",
-    "processes": null,
+    "processes": [],
     "sha256": "105bbf1fd2af8525b8c6f96cbe3a8921da7db2c0b7186c0ccc78cc15c7884f9c",
     "symlink": null,
     "version": "78.11.0",

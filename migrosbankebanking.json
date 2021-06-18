@@ -10,7 +10,7 @@
     "download": "https://download.migrosbank.ch/mid/MigrosBank-EBanking-Mac-8.1.2609.pkg",
     "id": "migrosbankebanking",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "78d65742efaaa4d35156d2fb86309eb872ce62091015eac4b1211a7e1686ccda",
     "symlink": null,
     "version": "8.1.2609",

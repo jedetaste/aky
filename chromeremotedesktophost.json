@@ -11,7 +11,7 @@
     "id": "chromeremotedesktophost",
     "identifier": null,
     "internal": "true",
-    "processes": null,
+    "processes": [],
     "sha256": "f98f6303cf5115ea8ebc599f5f3bfa01ace544a0bd800c1db2bccd93a37dbfa4",
     "symlink": null,
     "version": "91.0.4472",

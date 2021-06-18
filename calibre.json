@@ -10,7 +10,7 @@
     "download": "https://github.com/kovidgoyal/calibre/releases/download/v5.21.0/calibre-5.21.0.dmg",
     "id": "calibre",
     "identifier": "net.kovidgoyal.calibre",
-    "processes": null,
+    "processes": [],
     "sha256": "a0ea64694fd5b41d88b1fe3c7f66c69d3f9a5be6794c9c64f67f1c472692632f",
     "symlink": null,
     "version": "5.21.0",

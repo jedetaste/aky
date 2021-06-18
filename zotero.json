@@ -10,7 +10,7 @@
     "download": "https://www.zotero.org/download/client/dl?channel=release&platform=mac&version=5.0.96.2",
     "id": "zotero",
     "identifier": "org.zotero.zotero",
-    "processes": null,
+    "processes": [],
     "sha256": "b9993191cbf89d62b9be543ed7fab933402113cee9b30d3eded487944619309e",
     "symlink": null,
     "version": "5.0.96.2",

@@ -10,7 +10,7 @@
     "download": "http://download.airsquirrels.com/Reflector4/Mac/Reflector-4.0.1.dmg",
     "id": "reflector4",
     "identifier": "com.squirrels.Reflector-4",
-    "processes": null,
+    "processes": [],
     "sha256": "c035cb5e21317d7677fb6c482309735e2b2e5bbb0212add03a13010cb87e9ca6",
     "symlink": null,
     "version": "4.0.1",

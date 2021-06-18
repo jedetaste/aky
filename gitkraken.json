@@ -10,7 +10,7 @@
     "download": "https://release.gitkraken.com/darwin/installGitKraken.dmg",
     "id": "gitkraken",
     "identifier": "com.axosoft.gitkraken",
-    "processes": null,
+    "processes": [],
     "sha256": "d951b384cd3971652b4c4dc98fbf21dd566e01ee35281182a983fc6e5555a825",
     "symlink": null,
     "version": "7.6.1",

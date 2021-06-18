@@ -11,7 +11,7 @@
     "id": "freeplane",
     "identifier": "org.freeplane.launcher",
     "internal": "true",
-    "processes": null,
+    "processes": [],
     "sha256": "85eb7b87b9bae0c44b70e2cc55725777b055a255d4603209d85f33a6672a1ee8",
     "symlink": null,
     "version": "1.9.3",

@@ -10,7 +10,7 @@
     "download": "https://www.trankynam.com/atext/downloads/aText.dmg",
     "id": "atext",
     "identifier": "com.trankynam.aText",
-    "processes": null,
+    "processes": [],
     "sha256": "248f72572df8611925057776650a2b060bc1cd07bb9f7ef8dbdce4b5259d2cb0",
     "symlink": null,
     "version": "2.38.4",

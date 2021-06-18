@@ -10,7 +10,7 @@
     "download": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncher.dmg",
     "id": "epiclauncher",
     "identifier": "com.epicgames.EpicGamesLauncher",
-    "processes": null,
+    "processes": [],
     "sha256": "c7548f11acd34fd3d817bbd862c822b0e420e24db51f9f9e7afbdc510034426c",
     "symlink": null,
     "version": "12.1.7",

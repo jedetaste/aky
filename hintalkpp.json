@@ -10,7 +10,7 @@
     "download": "https://basepackages.vnc.biz/electron-dev/HIN%20Talk%20PP-latest.dmg",
     "id": "hintalkpp",
     "identifier": "biz.vnc.vnctalk.hintalk.desktop",
-    "processes": null,
+    "processes": [],
     "sha256": "9139f5215bbdad51c8f477a91f219746bfd2d4a7bfd0dc3a512b2bee503f47ef",
     "symlink": null,
     "version": "2021061502",

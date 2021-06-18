@@ -11,7 +11,7 @@
     "id": "burn",
     "identifier": "com.kiwifruitware.Burn",
     "internal": "true",
-    "processes": null,
+    "processes": [],
     "sha256": "13f01d134b6572569dec2b7fc2fe1be0d95f23cd417e4626e90433806fc663ea",
     "symlink": null,
     "version": "3.1.4",

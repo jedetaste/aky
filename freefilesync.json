@@ -10,7 +10,7 @@
     "download": "https://www.freefilesync.org/download/FreeFileSync_11.11_macOS.zip",
     "id": "freefilesync",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "8203fa2a65dde105468d7bef81593fd5099f1e31b1b2eb698a0e78dd2ec0f368",
     "symlink": null,
     "version": "11.11",

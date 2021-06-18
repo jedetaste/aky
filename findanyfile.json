@@ -10,7 +10,7 @@
     "download": "https://s3.amazonaws.com/files.tempel.org/FindAnyFile_2.3.zip",
     "id": "findanyfile",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "7c8642093e055285c0f9588de004dee9ee0a4e195ae4ef7da8ae52a86724fb32",
     "symlink": null,
     "version": "2.3",

@@ -10,7 +10,7 @@
     "download": "https://desktop.docker.com/mac/stable/amd64/65384/Docker.dmg",
     "id": "docker",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "55e036c4c078a0d1e357d487e7c1a5f13762bfaebace0f9a363ab45f523a828e",
     "symlink": null,
     "version": "3.4.0",

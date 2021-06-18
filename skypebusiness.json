@@ -10,7 +10,7 @@
     "download": "https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/SkypeForBusinessUpdater-16.29.57.pkg",
     "id": "skypebusiness",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "02bb02eaec6d9fa9bdb3f471d1afdeb11e5df0e3188dc44a1804bd2d66826403",
     "symlink": null,
     "version": "16.29.57",

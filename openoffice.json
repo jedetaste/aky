@@ -10,7 +10,7 @@
     "download": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.10/binaries/de/Apache_OpenOffice_4.1.10_MacOS_x86-64_install_de.dmg/download",
     "id": "openoffice",
     "identifier": "org.openoffice.script",
-    "processes": null,
+    "processes": [],
     "sha256": "11ea257a3248800d4ebb310bc11ddec94bc308b3af498852d7f1703e21584494",
     "symlink": null,
     "version": "4.1.10",

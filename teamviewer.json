@@ -10,7 +10,7 @@
     "download": "https://download.teamviewer.com/download/TeamViewer.dmg",
     "id": "teamviewer",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "180f0ce8886c2cfcfd4e951bdb430262694fbb2e599995224e42736020734335",
     "symlink": null,
     "version": "15.18.5",

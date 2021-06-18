@@ -10,7 +10,7 @@
     "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-74.R1770_6d8ea36.dmg",
     "id": "pascom",
     "identifier": "net.pascom.pascomClient",
-    "processes": null,
+    "processes": [],
     "sha256": "9e5c6ca9d05f5682fd1bb47c7ffcef1e1a533bfac216315b66d4882ea1377f55",
     "symlink": null,
     "version": "74.R1770_6d8ea36",

@@ -10,7 +10,7 @@
     "download": "https://www.poly.com/content/dam/www/software/PlantronicsHubInstaller.dmg",
     "id": "plantronicshub",
     "identifier": null,
-    "processes": null,
+    "processes": [],
     "sha256": "99d0e306eaa2cd67d13085dcc15aef668f86583efc625545c857b24f02587b8d",
     "symlink": null,
     "version": "3.22.53244.32743",

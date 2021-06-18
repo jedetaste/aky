@@ -10,7 +10,7 @@
     "download": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/125.73/Brave-Browser-x64.dmg",
     "id": "bravebrowser",
     "identifier": "com.brave.Browser",
-    "processes": null,
+    "processes": [],
     "sha256": "48ee096fb3360fc6bb2328b83c246ed8e348fb5987e8f301ba15dfc319619a3d",
     "symlink": null,
     "version": "91.1.25.73",
