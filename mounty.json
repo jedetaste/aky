@@ -5,12 +5,14 @@
       "url": null
     },
     "bundle": "Mounty.app",
+    "ci": "true",
     "dir": "/Applications",
-    "download": "https://mounty.app/releases/Mounty.dmg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Mounty-1.12.pkg",
     "id": "mounty",
     "identifier": "com.cu4uc.mounty",
+    "internal": "true",
     "processes": [],
-    "sha256": null,
+    "sha256": "302c64f2840a096921688d0c0c62c70dfe85e706c785265a9ad4f4693afd7b55",
     "symlink": null,
     "version": "1.12",
     "web": "https://mounty.app/"
