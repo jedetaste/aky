@@ -7,14 +7,14 @@
     "bundle": "Citrix Workspace.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Citrix%20Workspace-21.04.0.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Citrix%20Workspace-21.06.0.pkg",
     "id": "citrixworkspace",
     "identifier": null,
     "internal": "true",
     "processes": [],
-    "sha256": "e26a7dfdfcc15121332cee9b9855a8d081085a5260710e58cef4af66b438d4bf",
+    "sha256": "a4d5bfebb18e991f801367cfddf18c0e72a9bb1b800759ae2d65350238ef42d9",
     "symlink": null,
-    "version": "21.04.0",
+    "version": "21.06.0",
     "web": "https://www.citrix.com/products/workspace-app/"
   }
 }
