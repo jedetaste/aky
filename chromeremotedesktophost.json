@@ -7,14 +7,14 @@
     "bundle": "ChromeRemoteDesktopHost.app",
     "ci": "true",
     "dir": "/Library/PrivilegedHelperTools",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/ChromeRemoteDesktop-91.0.4472.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/ChromeRemoteDesktop-92.0.4515.pkg",
     "id": "chromeremotedesktophost",
     "identifier": null,
     "internal": "true",
     "processes": [],
-    "sha256": "f98f6303cf5115ea8ebc599f5f3bfa01ace544a0bd800c1db2bccd93a37dbfa4",
+    "sha256": "96beb4303fb4f45052190b7698af249312908552e69494f2f7bdfa1b4856dfb1",
     "symlink": null,
-    "version": "91.0.4472",
+    "version": "92.0.4515",
     "web": "https://remotedesktop.google.com/"
   }
 }
