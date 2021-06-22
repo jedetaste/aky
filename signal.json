@@ -7,13 +7,13 @@
     "bundle": "Signal.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://updates.signal.org/desktop/signal-desktop-mac-5.6.0.dmg",
+    "download": "https://updates.signal.org/desktop/signal-desktop-mac-5.6.1.dmg",
     "id": "signal",
     "identifier": "org.whispersystems.signal-desktop",
     "processes": [],
-    "sha256": "76c5ec8fc8deddb7eb17e26792eac17113abf35fe312f2b4361db2942474686e",
+    "sha256": "1be99a1871f2d5d2926729caa52fd8275cafe027c9186c3d050072d6db7a7942",
     "symlink": null,
-    "version": "5.6.0",
+    "version": "5.6.1",
     "web": "https://signal.org/"
   }
 }
