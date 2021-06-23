@@ -11,9 +11,9 @@
     "id": "docker@arm",
     "identifier": "com.docker.docker",
     "processes": [],
-    "sha256": "454fe3310c023f143129d6b343cbf84d5417d1632ad628e0005a47a41d4a3c7b",
+    "sha256": "fc737e223f524c42afaa3325d3dae80e570c639a80b85fdaad180f6e9e1f66c3",
     "symlink": null,
-    "version": "3.4.0",
+    "version": "3.5.0",
     "web": "https://www.docker.com/community-edition"
   }
 }
