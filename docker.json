@@ -7,13 +7,13 @@
     "bundle": "Docker.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://desktop.docker.com/mac/stable/amd64/65384/Docker.dmg",
+    "download": "https://desktop.docker.com/mac/stable/amd64/66024/Docker.dmg",
     "id": "docker",
     "identifier": null,
     "processes": [],
-    "sha256": "55e036c4c078a0d1e357d487e7c1a5f13762bfaebace0f9a363ab45f523a828e",
+    "sha256": "59cb1b32e69c0eb2f8b98660e98166f43c3ceaeaf731215bc802dc0eda528964",
     "symlink": null,
-    "version": "3.4.0",
+    "version": "3.5.0",
     "web": "https://www.docker.com/community-edition"
   }
 }
