@@ -5,12 +5,13 @@
       "url": null
     },
     "bundle": "Download Full Installer.app",
+    "ci": "true",
     "dir": "/Applications",
-    "download": null,
+    "download": "https://github.com/scriptingosx/DownloadFullInstaller/releases/download/v1.0/DownloadFullInstaller-v1.0.zip",
     "id": "downloadfullinstaller",
     "identifier": "com.scriptingosx.downloadfullinstaller",
     "processes": [],
-    "sha256": null,
+    "sha256": "b4a7d17de68759e4c9b16efe22eb72e330927952db0ec9a7db781c5f2030d096",
     "symlink": null,
     "version": "1.0",
     "web": "https://github.com/scriptingosx/DownloadFullInstaller"
