@@ -7,11 +7,11 @@
     "bundle": "Mattermost.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://github.com/mattermost/desktop/releases/download/v4.7.0/mattermost-desktop-4.7.0-mac-arm64.dmg",
+    "download": "https://github.com/mattermost/desktop/releases/download/v4.7.0/mattermost-desktop-4.7.0-mac.dmg",
     "id": "mattermost",
     "identifier": "Mattermost.Desktop",
     "processes": [],
-    "sha256": "e9e4c01c38560ed316db41a680eeaabfcc055a65d59b7f8d85d8e4ec41b0ad42",
+    "sha256": null,
     "symlink": null,
     "version": "4.7.0",
     "web": "https://about.mattermost.com/"
