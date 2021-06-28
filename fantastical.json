@@ -7,13 +7,13 @@
     "bundle": "Fantastical.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn.flexibits.com/Fantastical_3.4.zip",
+    "download": "https://cdn.flexibits.com/Fantastical_3.4.1.zip",
     "id": "fantastical",
     "identifier": "com.flexibits.fantastical2.mac",
     "processes": [],
-    "sha256": "16969c86b9ed7b83e2f215a7f553379bb4bde00c18aee8ce07805d7b2edd1bad",
+    "sha256": "1629ecb41c448759aace5460cd69896c836672d281c2672aee96dca796cd8c35",
     "symlink": null,
-    "version": "3.4",
+    "version": "3.4.1",
     "web": "https://flexibits.com/fantastical"
   }
 }
