@@ -11,9 +11,9 @@
     "id": "backupandsync",
     "identifier": "com.google.GoogleDrive",
     "processes": [],
-    "sha256": "c92e9bd002aad696db9553b107db5598ea96c3d69971035c4e5e768ae9f066cf",
+    "sha256": "66334e90c5bc738d986309bba515cfc729c9af6a6dac4ceb995cc317735a07ff",
     "symlink": null,
-    "version": "3.54",
+    "version": "3.56",
     "web": "https://www.google.com/drive/download/"
   }
 }
