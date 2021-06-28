@@ -7,13 +7,13 @@
     "bundle": "pascom Client.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-74.R1770_6d8ea36.dmg",
+    "download": "https://download.pascom.net/release-archive/client/stable/pascom%20Client-75.R1785_26ceeeb.dmg",
     "id": "pascom",
     "identifier": "net.pascom.pascomClient",
     "processes": [],
-    "sha256": "9e5c6ca9d05f5682fd1bb47c7ffcef1e1a533bfac216315b66d4882ea1377f55",
+    "sha256": "3265ccbfaeb6d85b1f2fd9e820f6bf319cf9e48849d138c5981f4d9b52233979",
     "symlink": null,
-    "version": "74.R1770_6d8ea36",
+    "version": "75.R1785_26ceeeb",
     "web": "https://www.pascom.net/"
   }
 }
