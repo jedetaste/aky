@@ -7,13 +7,13 @@
     "bundle": "Twixl Publisher.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://europe.content.twixlmedia.com/twixl-downloads/twixl_publisher_16.0_37511.zip",
+    "download": "https://europe.content.twixlmedia.com/twixl-downloads/twixl_publisher_16.1_37660.zip",
     "id": "twixlpublisher",
     "identifier": "com.twixlmedia.publisher.mac",
     "processes": [],
-    "sha256": "ee9407a0288b491655541195c7f6c5dd106c59076a957e5e351aa5e66f927139",
+    "sha256": "0405e072b7e2776774643ad2eb3d8fdf42f179d781ef1c3e877ff14f489721ef",
     "symlink": null,
-    "version": "16.0",
+    "version": "16.1",
     "web": "https://www.topix.ch/twixl/publisher"
   }
 }
