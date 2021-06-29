@@ -7,13 +7,13 @@
     "bundle": "Skim.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://sourceforge.net/projects/skim-app/files/Skim/Skim-1.6.3/Skim-1.6.3.dmg/download",
+    "download": "https://sourceforge.net/projects/skim-app/files/Skim/Skim-1.6.4/Skim-1.6.4.dmg/download",
     "id": "skim",
     "identifier": "net.sourceforge.skim-app.skim",
     "processes": [],
-    "sha256": "1dffe6565fa9b2dd68439c347fd9b02b2ea30ef5875328e1bd3f732827fa4fe6",
+    "sha256": "90dcf7c1e62e439eebe0d8927fc74bf00fe2b98ecaeb3446197e903822836f89",
     "symlink": null,
-    "version": "1.6.3",
+    "version": "1.6.4",
     "web": "https://skim-app.sourceforge.io/"
   }
 }
