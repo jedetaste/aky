@@ -7,11 +7,11 @@
     "bundle": "Synology Drive Client.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://global.download.synology.com/download/Utility/SynologyDriveClient/3.0.1-12664/Mac/Installer/synology-drive-client-12664.dmg",
+    "download": "https://global.download.synology.com/download/Utility/SynologyDriveClient/3.0.1-12667/Mac/Installer/synology-drive-client-12667.dmg",
     "id": "synologydrive",
     "identifier": null,
     "processes": [],
-    "sha256": "c3df3c20b506e84656ede14a150164fcacd15570fab43c87933223ce1a2ed86e",
+    "sha256": "2fd2ad2d5ee1de87531e016931dae14c14f44febd33992c156f14c0295dd2485",
     "symlink": null,
     "version": "7.0.1",
     "web": "https://www.synology.com/"
