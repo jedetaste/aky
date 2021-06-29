@@ -7,13 +7,13 @@
     "bundle": "ColorNavigator 7.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.eizo.co.jp/support/db/files/software/public/ce/cn7/ColorNavigator713.pkg",
+    "download": "https://www.eizo.co.jp/support/db/files/software/public/ce/cn7/ColorNavigator714.pkg",
     "id": "colornavigator7",
     "identifier": null,
     "processes": [],
-    "sha256": "45d9966ac09e8b4b428fcb870ce7a991e1f4f6a38898407922bb31b3aa1f53a1",
+    "sha256": "b562f854a1b9e62703a13459c73e4286748909b1bae51cc653272e0eea4ce5dc",
     "symlink": null,
-    "version": "7.1.3",
+    "version": "7.1.4",
     "web": "https://www.eizo.de/zubehoer/software/colornavigator/"
   }
 }
