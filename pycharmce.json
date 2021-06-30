@@ -7,13 +7,13 @@
     "bundle": "PyCharm CE.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download.jetbrains.com/python/pycharm-community-2021.1.2.dmg",
+    "download": "https://download.jetbrains.com/python/pycharm-community-2021.1.3.dmg",
     "id": "pycharmce",
     "identifier": "com.jetbrains.pycharm",
     "processes": [],
-    "sha256": "a3683ba863792143b4f6fd8efc43d12e4888101428942d868d7ced940dd5738e",
+    "sha256": "f0854adfd48f17ac66336fbf5b420760260ccb7ecf541f2262c25d952c21b11f",
     "symlink": null,
-    "version": "2021.1.2",
+    "version": "2021.1.3",
     "web": "https://www.jetbrains.com/pycharm/"
   }
 }
