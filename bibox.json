@@ -7,14 +7,14 @@
     "bundle": "BiBox.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/BiBox-2.0.14.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/BiBox-2.1.0.pkg",
     "id": "bibox",
     "identifier": "de.westermann.bibox2",
     "internal": "true",
     "processes": [],
-    "sha256": "9768762faaa0ef0b9172188e0420546f85b40521590d41859c5664a1f57e6bb6",
+    "sha256": "c3aabb93a802d1f139299b589107b9cf16de89694a6af75416681d37b718616d",
     "symlink": null,
-    "version": "2.0.14",
+    "version": "2.1.0",
     "web": "https://www.bibox.schule/"
   }
 }
