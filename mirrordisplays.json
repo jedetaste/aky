@@ -1,0 +1,18 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "MirrorDisplays.app",
+    "dir": "/Applications",
+    "download": null,
+    "id": "mirrordisplays",
+    "identifier": "com.fabiancanas.MirrorDisplays",
+    "processes": [],
+    "sha256": null,
+    "symlink": null,
+    "version": "1.2",
+    "web": "https://github.com/fcanas/mirror-displays"
+  }
+}
