@@ -5,12 +5,13 @@
       "url": null
     },
     "bundle": "MirrorDisplays.app",
+    "ci": "true",
     "dir": "/Applications",
-    "download": null,
+    "download": "https://github.com/fcanas/mirror-displays/releases/download/v1.2/MirrorDisplays.zip",
     "id": "mirrordisplays",
     "identifier": "com.fabiancanas.MirrorDisplays",
     "processes": [],
-    "sha256": null,
+    "sha256": "68b6b9a0bd79945d0e1239f308520a6cfd582fdde4dd061195de888b41643dd5",
     "symlink": null,
     "version": "1.2",
     "web": "https://github.com/fcanas/mirror-displays"
