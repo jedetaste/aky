@@ -7,11 +7,11 @@
     "bundle": "STARFACE.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.starface-cdn.de/starface/clients/mac/STARFACE-7.0.0.0-434.zip",
+    "download": "https://www.starface-cdn.de/starface/clients/mac/STARFACE-7.0.0.0-437.zip",
     "id": "starface",
     "identifier": "de.starface.STARFACE-Client",
     "processes": [],
-    "sha256": "cd6db9f00dc9bfb3c8fcbc22d325362a2362e7a231c282a213940a50478a5812",
+    "sha256": "4b5383ba1c7b316f400f1bb6a6e28e2c18c6801b6f3088d2f39c0897dc456356",
     "symlink": null,
     "version": "7.0.0.0",
     "web": "https://www.starface.com/ucc-client/"
