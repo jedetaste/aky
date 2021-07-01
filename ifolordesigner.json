@@ -7,13 +7,13 @@
     "bundle": "ifolor Mac Designer.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://chkr-download.ifolor.net/update/MacDesigner/ifolorDesigner_4.2.0_b3069.zip",
+    "download": "https://chkr-download.ifolor.net/update/MacDesigner/ifolorDesigner_4.2.1_b3076.zip",
     "id": "ifolordesigner",
     "identifier": "com.ifolor.ifolor-Mac-Designer",
     "processes": [],
-    "sha256": "aedb6cc73127682e01d4afb015a525bc0cbbb71c4d76293f1df0603f8c4f4e7a",
+    "sha256": "c2e0d7aab9dd00828605a2aa250b9e5d6c0d9d31913bce6733391b878168da84",
     "symlink": null,
-    "version": "4.2.0",
+    "version": "4.2.1",
     "web": "https://www.ifolor.ch/"
   }
 }
