@@ -7,14 +7,14 @@
     "bundle": "Microsoft To Do.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Microsoft%20To%20Do-2.46.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/Microsoft%20To%20Do-2.47.pkg",
     "id": "microsofttodo",
     "identifier": "com.microsoft.to-do-mac",
     "internal": "true",
     "processes": [],
-    "sha256": "b2d4950f32254ae3dfa957cb54ec56f657d48b94aee8912f4a22d69b713acb39",
+    "sha256": "060215fb5e967d7a55e6194e0566f2c4e6d6b60d8eab32966ad7519639feb01c",
     "symlink": null,
-    "version": "2.46",
+    "version": "2.47",
     "web": null
   }
 }
