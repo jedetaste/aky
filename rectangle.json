@@ -7,13 +7,13 @@
     "bundle": "Rectangle.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://github.com/rxhanson/Rectangle/releases/download/v0.47/Rectangle0.47.dmg",
+    "download": "https://github.com/rxhanson/Rectangle/releases/download/v0.48/Rectangle0.48.dmg",
     "id": "rectangle",
     "identifier": null,
     "processes": [],
-    "sha256": "c2ce18b43d137ffbf353f930ccbe7d733da33953804f9e19c429c3de4cd09e39",
+    "sha256": "f85aa0db1efd9c5f455a0c8baed2b00ae506664711fe26a4f21cb1b4344e110a",
     "symlink": null,
-    "version": "0.47",
+    "version": "0.48",
     "web": "https://rectangleapp.com/"
   }
 }
