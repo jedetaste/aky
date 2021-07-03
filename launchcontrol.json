@@ -7,13 +7,13 @@
     "bundle": "LaunchControl.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.soma-zone.com/download/files/LaunchControl-1.52.2_update.tar.bz2",
+    "download": "https://www.soma-zone.com/download/files/LaunchControl-1.52.3_update.tar.bz2",
     "id": "launchcontrol",
     "identifier": null,
     "processes": [],
-    "sha256": "dfb67d9c2be9329c3bd8710640f9599807f321c57360dfe18e0a017c910087a5",
+    "sha256": "6e28172f756ca9fd8cf5c6396468f043c51cf6c53bff349a2fd76892d042c33d",
     "symlink": null,
-    "version": "1.52.2",
+    "version": "1.52.3",
     "web": "https://www.soma-zone.com/LaunchControl/"
   }
 }
