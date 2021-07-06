@@ -7,13 +7,13 @@
     "bundle": "ForkLift.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download.binarynights.com/ForkLift3.5.2.zip",
+    "download": "https://download.binarynights.com/ForkLift3.5.3.zip",
     "id": "forklift",
     "identifier": null,
     "processes": [],
-    "sha256": "d04f4c31641fffaef7293d98cd508c4058b83a1141c752424f3d49a5a5e1cb84",
+    "sha256": "c2148aad98a88550d6655a13afe5faaf9419a25802d448c1ce6ad794a147b463",
     "symlink": null,
-    "version": "3.5.2",
+    "version": "3.5.3",
     "web": "https://binarynights.com/"
   }
 }
