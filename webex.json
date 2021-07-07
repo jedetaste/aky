@@ -11,9 +11,9 @@
     "id": "webex",
     "identifier": "Cisco-Systems.Spark",
     "processes": [],
-    "sha256": "339db0cffd1beead2a38fe87f282eda3c529b915abf907440f9cc3ca35a4c7e4",
+    "sha256": "cefbdc3f8ed3279aef43fb98c40e40232020278d3387b825d00c02434629e6a8",
     "symlink": null,
-    "version": "41.6.1.19162",
+    "version": "41.7.0.19440",
     "web": "https://www.webex.com/"
   }
 }
