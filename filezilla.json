@@ -7,14 +7,14 @@
     "bundle": "FileZilla.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/FileZilla-3.54.1.pkg",
+    "download": "https://cdn-cloud.anykeyit.ch/aky-assets/FileZilla-3.55.0.pkg",
     "id": "filezilla",
     "identifier": "org.filezilla-project.filezilla",
     "internal": "true",
     "processes": [],
-    "sha256": "1e1aedd6c6f2a9bce852f2ffe59b41190dda01aa791e8a2b33bc0e7f1bbada22",
+    "sha256": "0b122a4a2f1aa57d3b92d5313f0cbc0f88be9cfb47bcebec4643d4c18f008ee4",
     "symlink": null,
-    "version": "3.54.1",
+    "version": "3.55.0",
     "web": "https://filezilla-project.org/"
   }
 }
