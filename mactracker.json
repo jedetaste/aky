@@ -7,13 +7,13 @@
     "bundle": "Mactracker.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://mactracker.ca/downloads/Mactracker_7.10.5.zip",
+    "download": "https://mactracker.ca/downloads/Mactracker_7.10.6.zip",
     "id": "mactracker",
     "identifier": null,
     "processes": [],
-    "sha256": "f75323498b9107fd28a51939f67f2da5c3c65527a0f97ba3cc383c8f70ced1b4",
+    "sha256": "a96c75e9ac404440d3edfc81e79e11a7394881d290c82ccf47f95e055e30b943",
     "symlink": null,
-    "version": "7.10.5",
+    "version": "7.10.6",
     "web": "https://mactracker.ca/"
   }
 }
