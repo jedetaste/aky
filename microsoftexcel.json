@@ -7,15 +7,15 @@
     "bundle": "Microsoft Excel.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.50.21061301_Updater.pkg",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.51.21071101_Updater.pkg",
     "id": "microsoftexcel",
     "identifier": null,
     "processes": [
       "Microsoft Excel"
     ],
-    "sha256": "b2146180fb75a4071fd43ee5d053a8a49dbfeba2c8fd8ddc7eed191004470654",
+    "sha256": "039fdcfca088d24231971209dc158d922c8c9ff0afef707dff676c1c95302662",
     "symlink": null,
-    "version": "16.50.21061301",
+    "version": "16.51.21071101",
     "web": "https://products.office.com/mac/microsoft-office-for-mac/"
   }
 }
