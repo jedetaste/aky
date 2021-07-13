@@ -7,15 +7,15 @@
     "bundle": "Microsoft Outlook.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.50.21061301_Updater.pkg",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.51.21071101_Updater.pkg",
     "id": "microsoftoutlook",
     "identifier": null,
     "processes": [
       "Microsoft Outlook"
     ],
-    "sha256": "ac562ec9b6acebb59d32c64cab27a3adfeb9afb622f96f75194344c37efab49d",
+    "sha256": "9ab8a738ead91046c96eb81537e10862e09703c54987e2e8a82969d8fff3c7f8",
     "symlink": null,
-    "version": "16.50.21061301",
+    "version": "16.51.21071101",
     "web": "https://products.office.com/mac/microsoft-office-for-mac/"
   }
 }
