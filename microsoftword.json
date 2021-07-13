@@ -7,15 +7,15 @@
     "bundle": "Microsoft Word.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.50.21061301_Updater.pkg",
+    "download": "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.51.21071101_Updater.pkg",
     "id": "microsoftword",
     "identifier": null,
     "processes": [
       "Microsoft Word"
     ],
-    "sha256": "73af139ccb99ad35e973ef6bc877a75f341f9ef2045bb38a8b35ebb91d418149",
+    "sha256": "ffffe6036e17f1a9f2326e5c24dea69826fb590cf08463fe8dfdaef8510f787b",
     "symlink": null,
-    "version": "16.50.21061301",
+    "version": "16.51.21071101",
     "web": "https://products.office.com/mac/microsoft-office-for-mac/"
   }
 }
