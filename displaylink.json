@@ -1,0 +1,17 @@
+{
+  "recipe": {
+    "appcast": {
+      "checkpoint": null,
+      "url": null
+    },
+    "bundle": "DisplayLinkUserAgent.app",
+    "download": "https://www.displaylink.com/downloads/macos",
+    "id": "displaylink",
+    "identifier": "com.displaylink.DisplayLinkUserAgent",
+    "processes": [],
+    "sha256": "7839fe5200ecb8f83c714a3195d54dffd2eb2969ee443f2cbc386ff28aeb93fc",
+    "symlink": null,
+    "version": "1.4.0 (120)",
+    "web": "https://www.displaylink.com"
+  }
+}
