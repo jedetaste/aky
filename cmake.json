@@ -7,11 +7,11 @@
     "bundle": "CMake.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://github.com/Kitware/CMake/releases/download/v3.21.0-rc3/cmake-3.21.0-rc3-macos-universal.dmg",
+    "download": "https://github.com/Kitware/CMake/releases/download/v3.21.0/cmake-3.21.0-macos-universal.dmg",
     "id": "cmake",
     "identifier": "org.cmake.cmake",
     "processes": [],
-    "sha256": "3f35e81c0b0ee945323c4cc59110d284b5ca33308cf3a8bce7edd0bdafdfba15",
+    "sha256": "f02ace27ae3cbb7f11035f7b72dcad5992e2cb3ab85e0daa8f593b0e14deaa70",
     "symlink": null,
     "version": "3.21.0",
     "web": "https://cmake.org/"
