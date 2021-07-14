@@ -7,13 +7,13 @@
     "bundle": "Sublime Text.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://download.sublimetext.com/sublime_text_build_4107_mac.zip",
+    "download": "https://download.sublimetext.com/sublime_text_build_4113_mac.zip",
     "id": "sublimetext",
     "identifier": "com.sublimetext.4",
     "processes": [],
-    "sha256": "5da344779f92c7eb3ac279a6b3cc8810e86480b3e71fba79d8e09e94a3631602",
+    "sha256": "5b51c889f418e06a3552509856603d736cfe23b488bf4996edb56f1c5700b757",
     "symlink": null,
-    "version": "4107",
+    "version": "4113",
     "web": "https://www.sublimetext.com/"
   }
 }
