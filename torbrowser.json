@@ -7,13 +7,13 @@
     "bundle": "Tor Browser.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://www.torproject.org/dist/torbrowser/10.5/TorBrowser-10.5-osx64_de.dmg",
+    "download": "https://www.torproject.org/dist/torbrowser/10.5.2/TorBrowser-10.5.2-osx64_de.dmg",
     "id": "torbrowser",
     "identifier": "org.torproject.torbrowser",
     "processes": [],
-    "sha256": "671858fc0f0045ecb6138821b5effc275399eb2a126b43fef307f8d94ee4e016",
+    "sha256": "d08d33b7f166fa42786039af2c8644783a59642ff86c7f30b1bf6ee21ad03646",
     "symlink": null,
-    "version": "10.5",
+    "version": "10.5.2",
     "web": "https://www.torproject.org/projects/torbrowser.html"
   }
 }
