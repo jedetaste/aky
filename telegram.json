@@ -11,9 +11,9 @@
     "id": "telegram",
     "identifier": "ru.keepcoder.Telegram",
     "processes": [],
-    "sha256": "586e9964969487e99b24d0faab0e32b9e22bb7a367fb4009208c09e062b8e51a",
+    "sha256": "2de34e7fd35453c74103978d8fea876016c3759150685433dc4fe0b8fa64b752",
     "symlink": null,
-    "version": "7.8",
+    "version": "7.8.1",
     "web": "https://macos.telegram.org/"
   }
 }
