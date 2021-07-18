@@ -7,13 +7,13 @@
     "bundle": "Vysor.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://github.com/koush/vysor.io/releases/download/v4.1.61/Vysor-mac-4.1.61.zip",
+    "download": "https://github.com/koush/vysor.io/releases/download/v4.1.62/Vysor-mac-4.1.62.zip",
     "id": "vysor",
     "identifier": "com.electron.vysor",
     "processes": [],
-    "sha256": "5594ffa70633b20d031bf725d2e2b20638096b1a2ade32dca3d59762173fd6b4",
+    "sha256": "68eacfe2832a34b62e37111a9ae19011e5b6ffaa5964762be6e45ba9a6846132",
     "symlink": null,
-    "version": "4.1.61",
+    "version": "4.1.62",
     "web": "https://www.vysor.io/"
   }
 }
