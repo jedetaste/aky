@@ -7,7 +7,7 @@
     "bundle": "MySQLWorkbench.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://downloads.mysql.com/archives/get/p/8/file/mysql-workbench-community-8.0.23-macos-x86_64.dmg",
+    "download": "https://downloads.mysql.com/archives/get/p/8/file/mysql-workbench-community-8.0.22-macos-x86_64.dmg",
     "id": "mysqlworkbench",
     "identifier": null,
     "processes": [],
