@@ -10,13 +10,13 @@
     ],
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://static.tumult.com/hype/download/Hype-734.app.zip",
+    "download": "https://static.tumult.com/hype/download/Hype-736.app.zip",
     "id": "hype",
     "identifier": "com.tumult.Hype4",
     "processes": [],
-    "sha256": "e3dd76ff24ecc10c6c77fada413658af941b37a3e0f02cf0f10bfcadfe49e796",
+    "sha256": "eeff7b3c7ce18cf640a33e90b7ea1587d48afef6a501c060eaa5014704587501",
     "symlink": null,
-    "version": "4.1.6",
+    "version": "4.1.7",
     "web": "https://tumult.com/hype/"
   }
 }
