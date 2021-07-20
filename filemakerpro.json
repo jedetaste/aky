@@ -7,13 +7,13 @@
     "bundle": "FileMaker Pro.app",
     "ci": "true",
     "dir": "/Applications",
-    "download": "https://downloads.claris.com/esd/fmp_19.3.1.43.dmg",
+    "download": "https://downloads.claris.com/esd/fmp_19.3.2.206.dmg",
     "id": "filemakerpro",
     "identifier": "com.filemaker.client.pro12",
     "processes": [],
-    "sha256": "4014d7c1d8dd0a100da53e6bc4eba6a906191c350f2ee76df119d8d7a9f9bd17",
+    "sha256": "8af484b3825d62e0fe5035ca68b9103c38bfa315e8425cef2eb3a881c0906136",
     "symlink": null,
-    "version": "19.3.1",
+    "version": "19.3.2",
     "web": "https://www.claris.com/filemaker/"
   }
 }
